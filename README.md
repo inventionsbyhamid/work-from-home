@@ -26,16 +26,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[DevOps](devops.md)** - 2 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 4 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 1 remote job available
+- 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 9 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Sales](sales.md)** - 4 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 13 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 14 remote jobs available
 
 
 ---
@@ -44,7 +44,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Graduate Customer Success Manager at Canonical
+### 1. Web Developer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/web-developer-canonical)
+
+---
+
+### 2. UX Designer - Design systems at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ux-designer-design-systems-canonical)
+
+---
+
+### 3. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +74,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Events Manager at Canonical
+### 4. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Partner Marketing Director at Canonical
+### 5. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+### 6. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +104,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+### 7. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Enterprise Account Executive at Halcyon
+### 8. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -106,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Growth Engineer at Canonical
+### 9. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Chief Revenue Officer at Canonical
+### 10. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Engineering Manager for IAM (Identity and Access Management) at Canonical
+### 11. Engineering Manager for IAM (Identity and Access Management) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +156,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Product Manager - Desktop at Canonical
+### 12. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +166,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Product Manager, LATAM at Airbnb
+### 13. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +176,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Product Manager, LATAM at Airbnb
+### 14. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Java Architect- Compliance at Binance
+### 15. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Product Designer Lead - UI/UX at Binance
+### 16. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +206,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Product Designer at Binance
+### 17. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Individual Sales Representative (Mandarin Speaking) at Binance
+### 18. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Java Developer - Web3 Earn at Binance
+### 19. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -216,33 +236,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Product Designer at Binance
+### 20. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
-
----
-
-### 19. Product Operations (Structured Finance) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
-
----
-
-### 20. Java Architect- Compliance at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
 
 ---
 
@@ -272,6 +272,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: May 03, 2026 at 00:00 UTC_
+_Last updated: May 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the Remote World Jobs team**
