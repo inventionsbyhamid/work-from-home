@@ -8,23 +8,23 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager - Desktop at Canonical
+### 1. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-desktop-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-product-manager-canonical)
 
 ---
 
-### 2. Product Manager, LATAM at Airbnb
+### 2. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-desktop-canonical)
 
 ---
 
@@ -34,74 +34,84 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-sao-paulo-airbnb)
 
 ---
 
-### 4. Product Operations (Structured Finance) at Binance
+### 4. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-operations-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-airbnb)
 
 ---
 
-### 5. Senior Product Manager at Binance
+### 5. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-operations-binance)
 
 ---
 
-### 6. Senior Product Manager, AI/ML at Chess
+### 6. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-product-manager-ai-ml-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-binance)
 
 ---
 
-### 7. Technical Product Manager - Ads and Compliance at Chess
+### 7. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/technical-product-manager-ads-and-compliance-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-ai-ml-chess)
 
 ---
 
-### 8. VP of Product Engineering at Chess
+### 8. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/vp-of-product-engineering-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-product-manager-ads-and-compliance-chess)
 
 ---
 
-### 9. Director, International Content & Growth at Chess
+### 9. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vp-of-product-engineering-chess)
+
+---
+
+### 10. Director, International Content & Growth at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-international-content-growth-chess)
 
 ---
 
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -111,13 +121,13 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 
 ## 📧 Stay Connected
 
-- 🌐 Visit our website: [https://remoteworldjobs.com](https://remoteworldjobs.com)
+- 🌐 Visit our website: [https://trueworkfromhome.com](https://trueworkfromhome.com)
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## About Remote World Jobs
+## About True Work From Home
 
-Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
+True Work From Home is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
 **Why choose us?**
 - ✅ 100% remote positions only - work from anywhere!
@@ -129,6 +139,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: May 04, 2026 at 00:00 UTC_
+_Last updated: May 05, 2026 at 00:00 UTC_
 
-**Made with ❤️ by the Remote World Jobs team**
+**Made with ❤️ by the True Work From Home team**
