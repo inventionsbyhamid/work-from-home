@@ -1,6 +1,6 @@
-# 🌍 Remote World Jobs - 100% Remote Work From Anywhere 🏠
+# 🏠 True Work From Home - WFH & Remote Jobs Hiring Worldwide 🌍
 
-Welcome to **Remote World Jobs** - Your gateway to **truly remote job opportunities** where you can work from anywhere in the world! Updated daily with new jobs.
+Welcome to **True Work From Home** - Your gateway to **truly remote job opportunities** where you can work from anywhere in the world! Updated daily with new jobs.
 
 ## All Jobs Are 100% Remote
 
@@ -8,7 +8,7 @@ Every job listing here is verified to be **100% remote** - work from home, a bea
 
 We aggregate and curate remote job listings from top companies across the globe. Whether you're a developer, designer, marketer, or in any other field, find your next remote opportunity here.
 
-🔗 **Visit our website**: [https://remoteworldjobs.com](https://remoteworldjobs.com)
+🔗 **Visit our website**: [https://trueworkfromhome.com](https://trueworkfromhome.com)
 
 ---
 
@@ -30,7 +30,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 9 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 10 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 1 remote job available
 - 🏠 **[Sales](sales.md)** - 4 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
@@ -44,77 +44,87 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Web Developer at Canonical
+### 1. Junior Product Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-product-manager-canonical)
+
+---
+
+### 2. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/web-developer-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-developer-canonical)
 
 ---
 
-### 2. UX Designer - Design systems at Canonical
+### 3. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ux-designer-design-systems-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-designer-design-systems-canonical)
 
 ---
 
-### 3. Graduate Customer Success Manager at Canonical
+### 4. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/graduate-customer-success-manager-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-customer-success-manager-canonical)
 
 ---
 
-### 4. Events Manager at Canonical
+### 5. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/events-manager-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/events-manager-canonical)
 
 ---
 
-### 5. Partner Marketing Director at Canonical
+### 6. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-marketing-director-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-marketing-director-canonical)
 
 ---
 
-### 6. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+### 7. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/ubuntu-linux-kernel-engineer-bios-firmware-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-linux-kernel-engineer-bios-firmware-canonical)
 
 ---
 
-### 7. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+### 8. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/embedded-desktop-linux-systems-engineer-optimisation-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/embedded-desktop-linux-systems-engineer-optimisation-canonical)
 
 ---
 
-### 8. Enterprise Account Executive at Halcyon
+### 9. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -122,57 +132,47 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/enterprise-account-executive-halcyon)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-halcyon)
 
 ---
 
-### 9. Growth Engineer at Canonical
+### 10. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-engineer-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-engineer-canonical)
 
 ---
 
-### 10. Chief Revenue Officer at Canonical
+### 11. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/chief-revenue-officer-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-revenue-officer-canonical)
 
 ---
 
-### 11. Engineering Manager for IAM (Identity and Access Management) at Canonical
+### 12. Engineering Manager for IAM (Identity and Access Management) at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/engineering-manager-for-iam-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-for-iam-canonical)
 
 ---
 
-### 12. Product Manager - Desktop at Canonical
+### 13. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-desktop-canonical)
-
----
-
-### 13. Product Manager, LATAM at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-desktop-canonical)
 
 ---
 
@@ -182,67 +182,67 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-sao-paulo-airbnb)
 
 ---
 
-### 15. Java Architect- Compliance at Binance
+### 15. Product Manager, LATAM at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-airbnb)
+
+---
+
+### 16. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-worldwide-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-worldwide-binance)
 
 ---
 
-### 16. Product Designer Lead - UI/UX at Binance
+### 17. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-lead-ui-ux-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-lead-ui-ux-binance)
 
 ---
 
-### 17. Product Designer at Binance
+### 18. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-remote-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-remote-binance)
 
 ---
 
-### 18. Individual Sales Representative (Mandarin Speaking) at Binance
+### 19. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/individual-sales-representative-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/individual-sales-representative-binance)
 
 ---
 
-### 19. Senior Java Developer - Web3 Earn at Binance
+### 20. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
-
----
-
-### 20. Product Designer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-designer-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-web3-earn-binance)
 
 ---
 
@@ -254,13 +254,13 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 
 ## 📧 Stay Connected
 
-- 🌐 Visit our website: [https://remoteworldjobs.com](https://remoteworldjobs.com)
+- 🌐 Visit our website: [https://trueworkfromhome.com](https://trueworkfromhome.com)
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## About Remote World Jobs
+## About True Work From Home
 
-Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
+True Work From Home is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
 **Why choose us?**
 - ✅ 100% remote positions only - work from anywhere!
@@ -272,6 +272,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: May 04, 2026 at 00:00 UTC_
+_Last updated: May 05, 2026 at 00:00 UTC_
 
-**Made with ❤️ by the Remote World Jobs team**
+**Made with ❤️ by the True Work From Home team**
