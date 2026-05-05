@@ -14,7 +14,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-worldwide-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-worldwide-binance)
 
 ---
 
@@ -24,7 +24,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/senior-java-developer-web3-earn-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-web3-earn-binance)
 
 ---
 
@@ -34,7 +34,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/java-architect-compliance-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-binance)
 
 ---
 
@@ -44,7 +44,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/binance-accelerator-program-java-engineer-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-java-engineer-binance)
 
 ---
 
@@ -56,7 +56,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/staff-software-engineer-infrastructure-coinbase)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-infrastructure-coinbase)
 
 ---
 
@@ -66,7 +66,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/python-engineer-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-engineer-chess)
 
 ---
 
@@ -83,13 +83,13 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 
 ## 📧 Stay Connected
 
-- 🌐 Visit our website: [https://remoteworldjobs.com](https://remoteworldjobs.com)
+- 🌐 Visit our website: [https://trueworkfromhome.com](https://trueworkfromhome.com)
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## About Remote World Jobs
+## About True Work From Home
 
-Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
+True Work From Home is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
 **Why choose us?**
 - ✅ 100% remote positions only - work from anywhere!
@@ -101,6 +101,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: May 04, 2026 at 00:00 UTC_
+_Last updated: May 05, 2026 at 00:00 UTC_
 
-**Made with ❤️ by the Remote World Jobs team**
+**Made with ❤️ by the True Work From Home team**
