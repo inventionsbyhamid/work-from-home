@@ -14,7 +14,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/events-manager-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/events-manager-canonical)
 
 ---
 
@@ -24,7 +24,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/partner-marketing-director-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-marketing-director-canonical)
 
 ---
 
@@ -34,7 +34,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/growth-engineer-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-engineer-canonical)
 
 ---
 
@@ -44,7 +44,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-sao-paulo-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-sao-paulo-airbnb)
 
 ---
 
@@ -54,7 +54,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/product-manager-latam-airbnb)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-latam-airbnb)
 
 ---
 
@@ -64,7 +64,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/global-community-manager-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-community-manager-binance)
 
 ---
 
@@ -74,7 +74,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://remoteworldjobs.com/director-international-content-growth-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-international-content-growth-chess)
 
 ---
 
@@ -91,13 +91,13 @@ This repository is updated daily with the latest **100% remote** job opportuniti
 
 ## 📧 Stay Connected
 
-- 🌐 Visit our website: [https://remoteworldjobs.com](https://remoteworldjobs.com)
+- 🌐 Visit our website: [https://trueworkfromhome.com](https://trueworkfromhome.com)
 - 💼 New **100% remote** jobs added daily from top companies worldwide
 - 🏠 All positions verified as work from anywhere
 
-## About Remote World Jobs
+## About True Work From Home
 
-Remote World Jobs is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
+True Work From Home is a curated platform for **100% remote job opportunities** across various industries and skill levels. We partner with leading companies to bring you legitimate, high quality remote positions where you can work from anywhere in the world.
 
 **Why choose us?**
 - ✅ 100% remote positions only - work from anywhere!
@@ -109,6 +109,6 @@ Remote World Jobs is a curated platform for **100% remote job opportunities** ac
 
 ---
 
-_Last updated: May 04, 2026 at 00:00 UTC_
+_Last updated: May 05, 2026 at 00:00 UTC_
 
-**Made with ❤️ by the Remote World Jobs team**
+**Made with ❤️ by the True Work From Home team**
