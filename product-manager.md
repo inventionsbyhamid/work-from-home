@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Junior Product Manager at Canonical
+### 1. Product Lead Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-worldwide-remote-binance)
+
+---
+
+### 2. Product Manager (Contractor) at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-applaudo)
+
+---
+
+### 3. Product Lead Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-binance)
+
+---
+
+### 4. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager - Desktop at Canonical
+### 5. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Manager, LATAM at Airbnb
+### 6. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Product Manager, LATAM at Airbnb
+### 7. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Product Operations (Structured Finance) at Binance
+### 8. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +88,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Senior Product Manager at Binance
+### 9. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +98,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Senior Product Manager, AI/ML at Chess
+### 10. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +108,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Technical Product Manager - Ads and Compliance at Chess
+### 11. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +118,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. VP of Product Engineering at Chess
+### 12. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +128,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Director, International Content & Growth at Chess
+### 13. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -111,7 +141,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -139,6 +169,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
