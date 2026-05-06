@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+### 1. Cloud Field Engineer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-field-engineer-canonical)
+
+---
+
+### 2. AI Developer at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-developer-crossover)
+
+---
+
+### 3. Ubuntu Engineering Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-manager-canonical)
+
+---
+
+### 4. Staff Software Engineer, Infrastructure (Compute) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -20,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Developer Experience Engineer at Chess
+### 5. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +63,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -61,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
