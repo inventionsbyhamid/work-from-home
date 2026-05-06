@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. UX Designer - Design systems at Canonical
+### 1. Senior Product Designer, Creators at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-creators-vrchat)
+
+---
+
+### 2. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Product Designer Lead - UI/UX at Binance
+### 3. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Product Designer at Binance
+### 4. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Product Designer at Binance
+### 5. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Staff Product Designer - Consumer at Coinbase
+### 6. Staff Product Designer - Consumer at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. ChessKid Product Designer, Growth at Chess
+### 7. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +83,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -101,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
