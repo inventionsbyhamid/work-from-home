@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. QA Specialist at Chess
+### 1. Quality Assurance Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-assurance-engineer-fueled)
+
+---
+
+### 2. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +31,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
