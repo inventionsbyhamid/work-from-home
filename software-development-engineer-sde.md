@@ -8,7 +8,89 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Web Developer at Canonical
+### 1. Cloud Field Engineer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-field-engineer-canonical)
+
+---
+
+### 2. AI Developer at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-developer-crossover)
+
+---
+
+### 3. Staff Backend Engineer, Recommender Systems at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-recommender-systems-raya)
+
+---
+
+### 4. Ubuntu Engineering Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-manager-canonical)
+
+---
+
+### 5. Staff Engineer - Recommendations at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-recommendations-vrchat)
+
+---
+
+### 6. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-full-stack-phantom)
+
+---
+
+### 7. Senior Full Stack Engineer, Platform Extensions at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-platform-extensions-fueled)
+
+---
+
+### 8. Senior Full Stack Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-fueled)
+
+---
+
+### 9. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +100,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+### 10. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +110,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+### 11. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +120,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Growth Engineer at Canonical
+### 12. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +130,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Java Architect- Compliance at Binance
+### 13. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +140,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Senior Java Developer - Web3 Earn at Binance
+### 14. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +150,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Java Architect- Compliance at Binance
+### 15. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +160,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Software Engineer - Blockchain Security at Binance
+### 16. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +170,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 17. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +180,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+### 18. Staff Software Engineer, Infrastructure (Compute) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -110,7 +192,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Developer Experience Engineer at Chess
+### 19. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +202,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Senior Frontend Engineer at Chess
+### 20. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +212,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Python Engineer at Chess
+### 21. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +222,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. VP of Product Engineering at Chess
+### 22. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -153,7 +235,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -181,6 +263,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
