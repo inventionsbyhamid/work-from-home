@@ -8,7 +8,47 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Manager, AI/ML at Chess
+### 1. AI Developer at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-developer-crossover)
+
+---
+
+### 2. Staff Backend Engineer, Recommender Systems at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-recommender-systems-raya)
+
+---
+
+### 3. Staff Engineer - Recommendations at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-recommendations-vrchat)
+
+---
+
+### 4. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-data-scientist-binance)
+
+---
+
+### 5. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +58,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Director of AI/ML Engineering at Chess
+### 6. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +71,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -59,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 05, 2026 at 00:00 UTC_
+_Last updated: May 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
