@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer, Creators at VRChat
+### 1. Senior Growth Designer at Circle
+
+💰 **Salary**: $100,000-$120,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-designer-circle)
+
+---
+
+### 2. Lead Product Designer, Marketplace at Circle
+
+💰 **Salary**: $140,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
+
+---
+
+### 3. Senior Product Designer, Creators at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +42,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. UX Designer - Design systems at Canonical
+### 4. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Product Designer Lead - UI/UX at Binance
+### 5. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Product Designer at Binance
+### 6. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +72,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Product Designer at Binance
+### 7. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +82,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Staff Product Designer - Consumer at Coinbase
+### 8. Staff Product Designer - Consumer at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -70,7 +94,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. ChessKid Product Designer, Growth at Chess
+### 9. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +107,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -111,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
