@@ -18,30 +18,34 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 6 remote jobs available
-- 🏠 **[Backend](backend.md)** - 9 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 8 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
-- 🏠 **[Customer Support](customer-support.md)** - 3 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 13 remote jobs available
+- 🏠 **[Android Developer](android-developer.md)** - 3 remote jobs available
+- 🏠 **[Backend](backend.md)** - 16 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 13 remote jobs available
+- 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
+- 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 5 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 5 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 5 remote jobs available
-- 🏠 **[Finance](finance.md)** - 3 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 3 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 3 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 10 remote jobs available
+- 🏠 **[Finance](finance.md)** - 5 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 5 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
 - 🏠 **[HR](hr.md)** - 1 remote job available
-- 🏠 **[Intern](intern.md)** - 1 remote job available
-- 🏠 **[Legal](legal.md)** - 6 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 10 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 7 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 13 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
-- 🏠 **[Research](research.md)** - 2 remote jobs available
-- 🏠 **[Sales](sales.md)** - 4 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
+- 🏠 **[Intern](intern.md)** - 3 remote jobs available
+- 🏠 **[Legal](legal.md)** - 7 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 13 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 16 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 4 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
+- 🏠 **[Research](research.md)** - 3 remote jobs available
+- 🏠 **[Sales](sales.md)** - 9 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 5 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 22 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 37 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 1 remote job available
 
 
 ---
@@ -50,205 +54,219 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Ads Implementation Specialist - Social/Google at Binance
+### 1. Senior Growth Designer at Circle
 
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-binance)
-
----
-
-### 2. Cloud Field Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-field-engineer-canonical)
-
----
-
-### 3. AI Developer at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-developer-crossover)
-
----
-
-### 4. Staff Backend Engineer, Recommender Systems at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-recommender-systems-raya)
-
----
-
-### 5. Ubuntu Engineering Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-manager-canonical)
-
----
-
-### 6. Compliance Case Analyst - Ukrainian Speaking at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-case-analyst-ukrainian-speaking-binance)
-
----
-
-### 7. Product Lead Counsel at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-worldwide-remote-binance)
-
----
-
-### 8. Senior Product Designer, Creators at VRChat
+💰 **Salary**: $100,000-$120,000 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-creators-vrchat)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-designer-circle)
 
 ---
 
-### 9. Staff Engineer - Recommendations at VRChat
+### 2. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-recommendations-vrchat)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
 
 ---
 
-### 10. Senior User Growth & Lifecycle Specialist at Binance
+### 3. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Marketing
+📍 **Category**: Android Developer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-developer-remote-applaudo)
 
 ---
 
-### 11. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 4. Lead Product Designer, Marketplace at Circle
 
-💰 **Salary**: $200,000-$250,000 USD
+💰 **Salary**: $140,000-$170,000 USD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Frontend
+📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-full-stack-phantom)
-
----
-
-### 12. Director, Recruiting & Candidate Experience at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-recruiting-candidate-experience-chess)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
 
 ---
 
-### 13. Compliance EDD/High Risk Client Analyst at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-edd-high-risk-client-analyst-binance)
-
----
-
-### 14. Senior Full Stack Engineer, Platform Extensions at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-platform-extensions-fueled)
-
----
-
-### 15. Product Manager (Contractor) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-applaudo)
-
----
-
-### 16. Senior Full Stack Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-fueled)
-
----
-
-### 17. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-data-scientist-binance)
-
----
-
-### 18. Quality Assurance Engineer at Fueled
+### 5. Functional QA Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-assurance-engineer-fueled)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/functional-qa-analyst-applaudo)
 
 ---
 
-### 19. Product Lead Counsel at Binance
+### 6. Director, Presales - North America at Camunda
+
+💰 **Salary**: $279,300-$450,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-presales-north-america-camunda)
+
+---
+
+### 7. Head of Storytelling at Dandy
+
+💰 **Salary**: $156,000-$195,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-storytelling-dandy)
+
+---
+
+### 8. Backend Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-safetywing)
+
+---
+
+### 9. Compliance Geofencing Team Lead at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Legal
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-geofencing-team-lead-binance)
 
 ---
 
-### 20. Enterprise Customer Success Manager (French speaker) at Canonical
+### 10. Senior Flutter Engineer (iOS, Android) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-flutter-engineer-binance)
+
+---
+
+### 11. Institutional Sales Manager - Ukrainian Speakers at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-sales-manager-ukrainian-speakers-binance)
+
+---
+
+### 12. Information Security Specialist at Customer.io
+
+💰 **Salary**: $151,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/information-security-specialist-customer-io)
+
+---
+
+### 13. Revenue Operations Manager at Dandy
+
+💰 **Salary**: $125,800-$148,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-dandy)
+
+---
+
+### 14. Customer Success - Team Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-team-manager-canonical)
+
+---
+
+### 15. Senior Account Executive at Circle
+
+💰 **Salary**: $150,000-$190,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-account-executive-circle)
+
+---
+
+### 16. Senior Backend Engineer, Ruby on Rails at Coalition Technologies
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ruby-on-rails-coalition-technologies)
+
+---
+
+### 17. Senior Director, Technical Support Americas at Customer.io
+
+💰 **Salary**: $200,000-$220,000 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-customer-success-manager-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-technical-support-americas-customer-io)
+
+---
+
+### 18. OpenStack Engineering Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/openstack-engineering-manager-canonical)
+
+---
+
+### 19. Growth Marketing Intern at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-marketing-intern-applaudo)
+
+---
+
+### 20. Senior Engineer - Trust and Safety at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-trust-and-safety-vrchat)
 
 ---
 
@@ -278,6 +296,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
