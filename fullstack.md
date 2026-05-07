@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 1. Senior Engineer - Trust and Safety at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-trust-and-safety-vrchat)
+
+---
+
+### 2. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior Full Stack Engineer, Platform Extensions at Fueled
+### 3. Senior Full Stack Engineer, Platform Extensions at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior Full Stack Engineer at Fueled
+### 4. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +53,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -71,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
