@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Customer Success Manager (French speaker) at Canonical
+### 1. Senior Director, Technical Support Americas at Customer.io
+
+💰 **Salary**: $200,000-$220,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-technical-support-americas-customer-io)
+
+---
+
+### 2. Senior Application Support Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-support-engineer-applaudo)
+
+---
+
+### 3. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Graduate Customer Success Manager at Canonical
+### 4. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Dispute Analyst - P2P at Binance
+### 5. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +63,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -69,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
