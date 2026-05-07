@@ -8,7 +8,79 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Cloud Field Engineer at Canonical
+### 1. Backend Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-safetywing)
+
+---
+
+### 2. Senior Backend Engineer, Ruby on Rails at Coalition Technologies
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ruby-on-rails-coalition-technologies)
+
+---
+
+### 3. Backend Performance Engineer at Automattic
+
+💰 **Salary**: $70,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-performance-engineer-automattic)
+
+---
+
+### 4. Senior Application Support Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-support-engineer-applaudo)
+
+---
+
+### 5. Senior Backend Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-applaudo)
+
+---
+
+### 6. MuleSoft Integration Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/mulesoft-integration-engineer-applaudo)
+
+---
+
+### 7. Senior / Staff Backend Engineer (API) - Economy at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-backend-engineer-economy-vrchat)
+
+---
+
+### 8. Cloud Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +90,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Staff Backend Engineer, Recommender Systems at Raya
+### 9. Staff Backend Engineer, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +100,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Staff Engineer - Recommendations at VRChat
+### 10. Staff Engineer - Recommendations at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +110,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Java Architect- Compliance at Binance
+### 11. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Senior Java Developer - Web3 Earn at Binance
+### 12. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +130,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Java Architect- Compliance at Binance
+### 13. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +140,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 14. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +150,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+### 15. Staff Software Engineer, Infrastructure (Compute) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -90,7 +162,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Python Engineer at Chess
+### 16. Python Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -103,7 +175,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -131,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
