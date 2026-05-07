@@ -8,7 +8,59 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Lead Counsel at Binance
+### 1. Institutional Sales Manager - Ukrainian Speakers at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-sales-manager-ukrainian-speakers-binance)
+
+---
+
+### 2. Revenue Operations Manager at Dandy
+
+💰 **Salary**: $125,800-$148,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-dandy)
+
+---
+
+### 3. Growth Marketing Intern at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-marketing-intern-applaudo)
+
+---
+
+### 4. Research BD Manager/Director Global / Business Development at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/research-bd-manager-director-global-business-development-binance)
+
+---
+
+### 5. Account Development Representative - Future Openings Talent Pool at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-representative-future-openings-talent-pool-camunda)
+
+---
+
+### 6. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +70,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Senior User Growth & Lifecycle Specialist at Binance
+### 7. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +80,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Partner Marketing Director at Canonical
+### 8. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +90,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Enterprise Account Executive at Halcyon
+### 9. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -50,7 +102,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Chief Revenue Officer at Canonical
+### 10. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +112,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Product Manager, LATAM at Airbnb
+### 11. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +122,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Product Manager, LATAM at Airbnb
+### 12. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +132,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Solutions Architect, TOLA at Halcyon
+### 13. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -95,7 +147,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -123,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
