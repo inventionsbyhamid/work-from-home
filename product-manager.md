@@ -8,7 +8,41 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Lead Counsel at Binance
+### 1. Lead Product Designer, Marketplace at Circle
+
+💰 **Salary**: $140,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
+
+---
+
+### 2. Senior Technical Product Manager at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-product-manager-applaudo)
+
+---
+
+### 3. Senior Product Manager - P2P Payments at Coinbase
+
+💰 **Salary**: $207,485-$244,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-p2p-payments-coinbase)
+
+---
+
+### 4. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager (Contractor) at Applaudo
+### 5. Product Manager (Contractor) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Lead Counsel at Binance
+### 6. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +72,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Junior Product Manager at Canonical
+### 7. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +82,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Product Manager - Desktop at Canonical
+### 8. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +92,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Product Manager, LATAM at Airbnb
+### 9. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +102,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Product Manager, LATAM at Airbnb
+### 10. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +112,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Product Operations (Structured Finance) at Binance
+### 11. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +122,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Senior Product Manager at Binance
+### 12. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +132,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Senior Product Manager, AI/ML at Chess
+### 13. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +142,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Technical Product Manager - Ads and Compliance at Chess
+### 14. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +152,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. VP of Product Engineering at Chess
+### 15. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +162,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Director, International Content & Growth at Chess
+### 16. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -141,7 +175,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -169,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
