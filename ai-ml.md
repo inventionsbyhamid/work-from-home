@@ -8,7 +8,85 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Developer at Crossover
+### 1. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
+
+---
+
+### 2. Lead Product Designer, Marketplace at Circle
+
+💰 **Salary**: $140,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
+
+---
+
+### 3. Information Security Specialist at Customer.io
+
+💰 **Salary**: $151,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/information-security-specialist-customer-io)
+
+---
+
+### 4. Senior Director, Technical Support Americas at Customer.io
+
+💰 **Salary**: $200,000-$220,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-technical-support-americas-customer-io)
+
+---
+
+### 5. Senior Technical Productivity Manager at Camunda
+
+💰 **Salary**: $138,300-$223,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-productivity-manager-camunda)
+
+---
+
+### 6. Senior Backend Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-applaudo)
+
+---
+
+### 7. Software Engineer - Industrial IoT at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-industrial-iot-canonical)
+
+---
+
+### 8. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +96,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Staff Backend Engineer, Recommender Systems at Raya
+### 9. Staff Backend Engineer, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +106,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Staff Engineer - Recommendations at VRChat
+### 10. Staff Engineer - Recommendations at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +116,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 11. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +126,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Senior Product Manager, AI/ML at Chess
+### 12. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +136,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Director of AI/ML Engineering at Chess
+### 13. Director of AI/ML Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +149,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -99,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
