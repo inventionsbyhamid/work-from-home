@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 1. Compliance Geofencing Team Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-geofencing-team-lead-binance)
+
+---
+
+### 2. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Product Lead Counsel at Binance
+### 3. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Compliance EDD/High Risk Client Analyst at Binance
+### 4. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Product Lead Counsel at Binance
+### 5. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Global Regulatory Legal Lead at Binance
+### 6. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Corporate Counsel at Binance
+### 7. Corporate Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +81,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -99,6 +109,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 06, 2026 at 00:00 UTC_
+_Last updated: May 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
