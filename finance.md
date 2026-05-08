@@ -8,7 +8,61 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 1. Senior FP&A Analyst at Camunda
+
+💰 **Salary**: $124,600-$200,900 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-fp-a-analyst-camunda)
+
+---
+
+### 2. Internal Audit Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-audit-manager-binance)
+
+---
+
+### 3. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-enterprise-applications-engineer-zuora-netsuite-gitlab)
+
+---
+
+### 4. Senior Manager - Treasury at Dandy
+
+💰 **Salary**: $140,250-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-treasury-dandy)
+
+---
+
+### 5. Revenue Operations Manager at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-worldwide-dandy)
+
+---
+
+### 6. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +72,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Senior Product Manager - P2P Payments at Coinbase
+### 7. Senior Product Manager - P2P Payments at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -30,7 +84,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 8. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +94,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Compliance EDD/High Risk Client Analyst at Binance
+### 9. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +104,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Payments Fraud Analyst at Chess
+### 10. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +117,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -91,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
