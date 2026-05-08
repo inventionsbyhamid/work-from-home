@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Success - Team Manager at Canonical
+### 1. Senior User Growth & Lifecycle Specialist Global at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-global-binance)
+
+---
+
+### 2. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
+
+💰 **Salary**: $85,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manageron-the-automattic-special-projects-team-automattic)
+
+---
+
+### 3. Web3 Earn Product Operations Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web3-earn-product-operations-specialist-binance)
+
+---
+
+### 4. Customer Success - Team Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Senior User Growth & Lifecycle Specialist at Binance
+### 5. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +63,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -59,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
