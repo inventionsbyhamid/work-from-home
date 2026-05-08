@@ -8,7 +8,47 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Information Security Specialist at Customer.io
+### 1. Senior Backend Engineer, Systems Performance at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-systems-performance-binance)
+
+---
+
+### 2. Senior Backend Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-binance)
+
+---
+
+### 3. Senior Data Warehouse Engineer, Big Data at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-warehouse-engineer-big-data-binance)
+
+---
+
+### 4. Security Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-binance)
+
+---
+
+### 5. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -20,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. OpenStack Engineering Manager at Canonical
+### 6. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +70,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Senior Technical Productivity Manager at Camunda
+### 7. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -42,7 +82,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Senior Application Support Engineer at Applaudo
+### 8. Senior Application Support Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +92,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. SDET at Phantom
+### 9. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +102,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Junior Ubuntu Software Engineer at Canonical
+### 10. Junior Ubuntu Software Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +112,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Senior / Staff Backend Engineer (API) - Economy at VRChat
+### 11. Senior / Staff Backend Engineer (API) - Economy at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +122,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Cloud Field Engineer at Canonical
+### 12. Cloud Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +132,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. AI Developer at Crossover
+### 13. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +142,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Ubuntu Engineering Manager at Canonical
+### 14. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +152,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Staff Software Engineer, Infrastructure (Compute) at Coinbase
+### 15. Staff Software Engineer, Infrastructure (Compute) at Coinbase
 
 💰 **Salary**: $211,650-$249,000 USD
 
@@ -124,7 +164,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Developer Experience Engineer at Chess
+### 16. Developer Experience Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -137,7 +177,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -165,6 +205,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
