@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Developer at Applaudo
+### 1. Javascript Developer at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/javascript-developer-crossover)
+
+---
+
+### 2. Senior React Native Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-react-native-engineer-fueled)
+
+---
+
+### 3. (Senior) Product Manager, Futures Frontend at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-futures-frontend-binance)
+
+---
+
+### 4. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Flutter Engineer (iOS, Android) at Binance
+### 5. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 6. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Web Developer at Canonical
+### 7. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Frontend Engineer at Chess
+### 8. Senior Frontend Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +93,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -91,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
