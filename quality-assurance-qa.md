@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Functional QA Analyst at Applaudo
+### 1. Binance Accelerator Program - QA at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-qa-binance)
+
+---
+
+### 2. Senior QA Engineer - .COM - Automation & Java coding at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineer-com-automation-java-coding-binance)
+
+---
+
+### 3. Functional QA Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. SDET at Phantom
+### 4. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Quality Assurance Engineer at Fueled
+### 5. Quality Assurance Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. QA Specialist at Chess
+### 6. QA Specialist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +71,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -79,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
