@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Growth Designer at Circle
+### 1. Senior User Growth & Lifecycle Specialist Global at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-global-binance)
+
+---
+
+### 2. Enterprise Marketing Manager at Dandy
+
+💰 **Salary**: $127,500-$150,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-marketing-manager-dandy)
+
+---
+
+### 3. Creator Partnerships Manager, Binance Square Global at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-partnerships-manager-binance-square-global-binance)
+
+---
+
+### 4. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -20,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Head of Storytelling at Dandy
+### 5. Head of Storytelling at Dandy
 
 💰 **Salary**: $156,000-$195,000 USD
 
@@ -32,7 +64,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Growth Marketing Intern at Applaudo
+### 6. Growth Marketing Intern at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +74,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Ads Implementation Specialist - Social/Google at Binance
+### 7. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +84,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Senior User Growth & Lifecycle Specialist at Binance
+### 8. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +94,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Director, Recruiting & Candidate Experience at Chess
+### 9. Director, Recruiting & Candidate Experience at Chess
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +104,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Events Manager at Canonical
+### 10. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +114,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Partner Marketing Director at Canonical
+### 11. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +124,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Growth Engineer at Canonical
+### 12. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +134,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Product Manager, LATAM at Airbnb
+### 13. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +144,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Product Manager, LATAM at Airbnb
+### 14. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +154,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Global Community Manager at Binance
+### 15. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +164,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Director, International Content & Growth at Chess
+### 16. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -145,7 +177,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -173,6 +205,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
