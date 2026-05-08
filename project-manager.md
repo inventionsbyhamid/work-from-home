@@ -8,7 +8,61 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director, Presales - North America at Camunda
+### 1. Customer Experience Enablement Lead at Dandy
+
+💰 **Salary**: $90,000-$110,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-enablement-lead-dandy)
+
+---
+
+### 2. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
+
+💰 **Salary**: $85,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manageron-the-automattic-special-projects-team-automattic)
+
+---
+
+### 3. Program Manager at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/program-manager-gitlab)
+
+---
+
+### 4. Head of Creative Studio at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-creative-studio-vrchat)
+
+---
+
+### 5. Continuous Improvement Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/continuous-improvement-engineer-applaudo)
+
+---
+
+### 6. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -20,7 +74,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Compliance Geofencing Team Lead at Binance
+### 7. Compliance Geofencing Team Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +84,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Senior Technical Productivity Manager at Camunda
+### 8. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -42,7 +96,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Senior Technical Product Manager at Applaudo
+### 9. Senior Technical Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +109,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -83,6 +137,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
