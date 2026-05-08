@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+### 1. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/affiliate-data-asia-data-analyst-binance)
+
+---
+
+### 2. Binance Accelerator Program - QA at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-qa-binance)
+
+---
+
+### 3. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 2. Growth Marketing Intern at Applaudo
+### 4. Growth Marketing Intern at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 3. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 5. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +61,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -69,6 +89,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 07, 2026 at 00:00 UTC_
+_Last updated: May 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
