@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
+### 1. Sr. Product Security Engineer at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-product-security-engineer-raya)
+
+---
+
+### 2. Zero Knowledge/Cryptography Auditor at Nethermind
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/zero-knowledge-cryptography-auditor-nethermind)
+
+---
+
+### 3. Senior Security Engineer at Automattic
+
+💰 **Salary**: $70,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-engineer-automattic)
+
+---
+
+### 4. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -20,7 +52,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 5. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -32,7 +64,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Security Engineer at Binance
+### 6. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Information Security Specialist at Customer.io
+### 7. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -54,7 +86,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior Engineer - Trust and Safety at VRChat
+### 8. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +96,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Software Engineer - Blockchain Security at Binance
+### 9. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +106,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Security Engineer - Blue Team at Raya
+### 10. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +116,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Solutions Architect, TOLA at Halcyon
+### 11. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -99,7 +131,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -127,6 +159,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 08, 2026 at 00:00 UTC_
+_Last updated: May 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
