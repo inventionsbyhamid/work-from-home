@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
+### 1. Market Risk Analyst at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-risk-analyst-alpaca)
+
+---
+
+### 2. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Data Scientist / Analyst (AI/LLM) at Binance
+### 3. Senior Data Scientist / Analyst (AI/LLM) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. On-chain Data Analyst (12 months contract) at Binance
+### 4. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Senior Analytics Manager at Raya
+### 5. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Payments Fraud Analyst at Chess
+### 6. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 08, 2026 at 00:00 UTC_
+_Last updated: May 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
