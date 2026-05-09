@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Product Designer at Circle
+### 1. Product Designer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-chess)
+
+---
+
+### 2. Lead Product Designer at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Head of Creative Studio at VRChat
+### 3. Head of Creative Studio at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Senior Product Designer at Fueled
+### 4. Senior Product Designer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Senior Growth Designer at Circle
+### 5. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Lead Product Designer, Marketplace at Circle
+### 6. Lead Product Designer, Marketplace at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Senior Product Designer, Creators at VRChat
+### 7. Senior Product Designer, Creators at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. UX Designer - Design systems at Canonical
+### 8. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Product Designer Lead - UI/UX at Binance
+### 9. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Product Designer at Binance
+### 10. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Product Designer at Binance
+### 11. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Staff Product Designer - Consumer at Coinbase
+### 12. Staff Product Designer - Consumer at Coinbase
 
 💰 **Salary**: $217,900 CAD
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 12. ChessKid Product Designer, Growth at Chess
+### 13. ChessKid Product Designer, Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +149,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -167,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 08, 2026 at 00:00 UTC_
+_Last updated: May 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
