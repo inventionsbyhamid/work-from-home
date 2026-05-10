@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Experience Enablement Lead at Dandy
+### 1. CX Enablement Knowledge Management Associate at Dandy
+
+💰 **Salary**: $70,000-$80,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cx-enablement-knowledge-management-associate-dandy)
+
+---
+
+### 2. Customer Experience Enablement Lead at Dandy
 
 💰 **Salary**: $90,000-$110,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Senior Director, Technical Support Americas at Customer.io
+### 3. Senior Director, Technical Support Americas at Customer.io
 
 💰 **Salary**: $200,000-$220,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Senior Application Support Engineer at Applaudo
+### 4. Senior Application Support Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Enterprise Customer Success Manager (French speaker) at Canonical
+### 5. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Graduate Customer Success Manager at Canonical
+### 6. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Dispute Analyst - P2P at Binance
+### 7. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -75,7 +87,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -103,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
