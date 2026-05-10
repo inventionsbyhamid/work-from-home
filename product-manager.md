@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Product, Consumer at VRChat
+### 1. Product Manager, Growth & Analytics at Automattic
+
+💰 **Salary**: $120,000-$190,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-growth-analytics-automattic)
+
+---
+
+### 2. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager, Web3 Earn at Binance
+### 3. Senior Product Manager, Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Web3 Earn Product Operations Specialist at Binance
+### 4. Web3 Earn Product Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Head of Stablecoins at Solana
+### 5. Head of Stablecoins at Solana
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. (Senior) Product Manager, Futures Frontend at Binance
+### 6. (Senior) Product Manager, Futures Frontend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Lead Product Designer, Marketplace at Circle
+### 7. Lead Product Designer, Marketplace at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Senior Technical Product Manager at Applaudo
+### 8. Senior Technical Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Senior Product Manager - P2P Payments at Coinbase
+### 9. Senior Product Manager - P2P Payments at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Product Lead Counsel at Binance
+### 10. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Product Manager (Contractor) at Applaudo
+### 11. Product Manager (Contractor) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Product Lead Counsel at Binance
+### 12. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. Junior Product Manager at Canonical
+### 13. Junior Product Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Product Manager - Desktop at Canonical
+### 14. Product Manager - Desktop at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Product Manager, LATAM at Airbnb
+### 15. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. Product Manager, LATAM at Airbnb
+### 16. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +176,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 16. Product Operations (Structured Finance) at Binance
+### 17. Product Operations (Structured Finance) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +186,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Senior Product Manager at Binance
+### 18. Senior Product Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +196,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 18. Senior Product Manager, AI/ML at Chess
+### 19. Senior Product Manager, AI/ML at Chess
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +206,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 19. Technical Product Manager - Ads and Compliance at Chess
+### 20. Technical Product Manager - Ads and Compliance at Chess
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +216,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 20. VP of Product Engineering at Chess
+### 21. VP of Product Engineering at Chess
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +226,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 21. Director, International Content & Growth at Chess
+### 22. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -227,7 +239,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 21 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -255,6 +267,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
