@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of People at VRChat
+### 1. Total Rewards Analyst / Total Rewards Specialist at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/total-rewards-analyst-total-rewards-specialist-camunda)
+
+---
+
+### 2. Director of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Customer Experience Enablement Lead at Dandy
+### 3. Customer Experience Enablement Lead at Dandy
 
 💰 **Salary**: $90,000-$110,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Senior PeopleSoft HCM Consultant at Applaudo
+### 4. Senior PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Director, Recruiting & Candidate Experience at Chess
+### 5. Director, Recruiting & Candidate Experience at Chess
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +63,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -81,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
