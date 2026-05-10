@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Storytelling at Dandy
+### 1. Content Creator at 90 Seconds
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Copywriter
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-creator-full-time-90-seconds)
+
+---
+
+### 2. Head of Storytelling at Dandy
 
 💰 **Salary**: $156,000-$195,000 USD
 
@@ -23,7 +33,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -51,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
