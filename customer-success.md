@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Success Engineer at GitLab
+### 1. Customer Success Manager - MEA at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-manager-mea-camunda)
+
+---
+
+### 2. Customer Success Engineer at GitLab
 
 💰 **Salary**: $117,600-$252,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Senior Delivery Lead at Camunda
+### 3. Senior Delivery Lead at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Senior User Growth & Lifecycle Specialist Global at Binance
+### 4. Senior User Growth & Lifecycle Specialist Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
+### 5. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
 
 💰 **Salary**: $85,000-$130,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Web3 Earn Product Operations Specialist at Binance
+### 6. Web3 Earn Product Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Customer Success - Team Manager at Canonical
+### 7. Customer Success - Team Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Senior User Growth & Lifecycle Specialist at Binance
+### 8. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -85,7 +95,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -113,6 +123,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
