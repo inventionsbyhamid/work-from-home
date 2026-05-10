@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Manager of Enterprise Open Source Sales Team at Canonical
+### 1. founding XDR at Dandy
+
+💰 **Salary**: $62,400+ USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/founding-xdr-dandy)
+
+---
+
+### 2. Manager of Enterprise Open Source Sales Team at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Commercial Account Executive (CAE) at Dandy
+### 3. Commercial Account Executive (CAE) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 4. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Revenue Operations Manager at Dandy
+### 5. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Senior Solutions Engineer at Automattic
+### 6. Senior Solutions Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Telecom Account Executive at Canonical
+### 7. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Director, Presales - North America at Camunda
+### 8. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 9. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Revenue Operations Manager at Dandy
+### 10. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Senior Account Executive at Circle
+### 11. Senior Account Executive at Circle
 
 💰 **Salary**: $150,000-$190,000 USD
 
@@ -116,7 +128,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Account Development Representative - Future Openings Talent Pool at Camunda
+### 12. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +138,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Enterprise Account Executive at Halcyon
+### 13. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -138,7 +150,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Chief Revenue Officer at Canonical
+### 14. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +160,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Individual Sales Representative (Mandarin Speaking) at Binance
+### 15. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +170,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Solutions Architect, TOLA at Halcyon
+### 16. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -173,7 +185,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 15 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -201,6 +213,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 09, 2026 at 00:00 UTC_
+_Last updated: May 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
