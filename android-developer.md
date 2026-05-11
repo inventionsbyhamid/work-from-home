@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Developer at Applaudo
+### 1. Senior iOS Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-developer-applaudo)
+
+---
+
+### 2. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 2. Senior Flutter Engineer (iOS, Android) at Binance
+### 3. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 3. Senior Engineering Manager, Client at Raya
+### 4. Senior Engineering Manager, Client at Raya
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +51,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -69,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 10, 2026 at 00:00 UTC_
+_Last updated: May 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
