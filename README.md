@@ -20,19 +20,19 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 - 🏠 **[AI/ML](ai-ml.md)** - 22 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 2 remote jobs available
-- 🏠 **[Android Developer](android-developer.md)** - 3 remote jobs available
-- 🏠 **[Backend](backend.md)** - 26 remote jobs available
+- 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
+- 🏠 **[Backend](backend.md)** - 27 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 28 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 8 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 7 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 8 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 22 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 23 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 16 remote jobs available
 - 🏠 **[Finance](finance.md)** - 12 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 9 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 10 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 7 remote jobs available
-- 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
+- 🏠 **[Graphic Design](graphic-design.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 5 remote jobs available
 - 🏠 **[Intern](intern.md)** - 7 remote jobs available
 - 🏠 **[Legal](legal.md)** - 7 remote jobs available
@@ -45,7 +45,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 16 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 12 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 66 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 68 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 1 remote job available
 
@@ -56,7 +56,37 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Video Editor at Chess
+### 1. Senior Application Architect at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-architect-applaudo)
+
+---
+
+### 2. Senior iOS Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-developer-applaudo)
+
+---
+
+### 3. Prep Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/prep-designer-full-time-dandy)
+
+---
+
+### 4. Video Editor at Chess
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. founding XDR at Dandy
+### 5. founding XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -78,7 +108,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Salesforce Consultant at Applaudo
+### 6. Salesforce Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +118,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Team Lead, Digital Design at Dandy
+### 7. Team Lead, Digital Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. CX Enablement Knowledge Management Associate at Dandy
+### 8. CX Enablement Knowledge Management Associate at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -110,7 +140,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Marketing Leader at Dandy
+### 9. Marketing Leader at Dandy
 
 💰 **Salary**: $138,188-$167,500 USD
 
@@ -122,7 +152,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
+### 10. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +162,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Total Rewards Analyst / Total Rewards Specialist at Camunda
+### 11. Total Rewards Analyst / Total Rewards Specialist at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +172,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Machine Learning Engineer at Raya
+### 12. Senior Machine Learning Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +182,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior ML Engineer at Chess
+### 13. Senior ML Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +192,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Customer Success Manager - MEA at Camunda
+### 14. Customer Success Manager - MEA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +202,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Database Engineer at Chess
+### 15. Database Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +212,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Security Engineer, Data Privacy at Binance
+### 16. Security Engineer, Data Privacy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +222,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. EMEA Marketing Manager at Canonical
+### 17. EMEA Marketing Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +232,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Product Manager, Growth & Analytics at Automattic
+### 18. Product Manager, Growth & Analytics at Automattic
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -214,7 +244,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Research BD Manager/Director at Binance
+### 19. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -224,43 +254,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Content Creator at 90 Seconds
+### 20. Content Creator at 90 Seconds
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Copywriter
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-creator-full-time-90-seconds)
-
----
-
-### 18. Binance Accelerator Program - Creative Social Media & Meme at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-creative-social-media-meme-global-binance)
-
----
-
-### 19. Creator Partnerships Manager, Binance Square at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-partnerships-manager-binance-square-binance)
-
----
-
-### 20. Director of People at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-people-vrchat)
 
 ---
 
@@ -290,6 +290,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 10, 2026 at 00:00 UTC_
+_Last updated: May 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
