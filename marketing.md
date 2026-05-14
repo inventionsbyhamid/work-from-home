@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Marketing Leader at Dandy
+### 1. Ads Implementation Specialist - Social/Google at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-remote-binance)
+
+---
+
+### 2. Marketing Leader at Dandy
 
 💰 **Salary**: $138,188-$167,500 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. EMEA Marketing Manager at Canonical
+### 3. EMEA Marketing Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Content Creator at 90 Seconds
+### 4. Content Creator at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 5. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Creator Partnerships Manager, Binance Square at Binance
+### 6. Creator Partnerships Manager, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 7. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Senior User Growth & Lifecycle Specialist Global at Binance
+### 8. Senior User Growth & Lifecycle Specialist Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Enterprise Marketing Manager at Dandy
+### 9. Enterprise Marketing Manager at Dandy
 
 💰 **Salary**: $127,500-$150,000 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Creator Partnerships Manager, Binance Square Global at Binance
+### 10. Creator Partnerships Manager, Binance Square Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Senior Growth Designer at Circle
+### 11. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Head of Storytelling at Dandy
+### 12. Head of Storytelling at Dandy
 
 💰 **Salary**: $156,000-$195,000 USD
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Growth Marketing Intern at Applaudo
+### 13. Growth Marketing Intern at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Ads Implementation Specialist - Social/Google at Binance
+### 14. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Senior User Growth & Lifecycle Specialist at Binance
+### 15. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +166,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Director, Recruiting & Candidate Experience at Chess
+### 16. Director, Recruiting & Candidate Experience at Chess
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Events Manager at Canonical
+### 17. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Partner Marketing Director at Canonical
+### 18. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Growth Engineer at Canonical
+### 19. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +206,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Product Manager, LATAM at Airbnb
+### 20. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Product Manager, LATAM at Airbnb
+### 21. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +226,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Global Community Manager at Binance
+### 22. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Director, International Content & Growth at Chess
+### 23. Director, International Content & Growth at Chess
 
 🌍 **Location**: Worldwide
 
@@ -239,7 +249,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 22 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -267,6 +277,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
