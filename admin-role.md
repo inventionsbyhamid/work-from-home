@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Salesforce Consultant at Applaudo
+### 1. Happiness Engineer, Customer Support & Success at Automattic
+
+💰 **Salary**: $40,000-$68,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/happiness-engineer-customer-support-success-automattic)
+
+---
+
+### 2. Salesforce Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
+### 3. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +43,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
