@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Total Rewards Analyst / Total Rewards Specialist at Camunda
+### 1. Senior Data Engineer at Solana
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-solana)
+
+---
+
+### 2. Total Rewards Analyst / Total Rewards Specialist at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Product Manager, Growth & Analytics at Automattic
+### 3. Product Manager, Growth & Analytics at Automattic
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Market Risk Analyst at Alpaca
+### 4. Market Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
+### 5. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Scientist / Analyst (AI/LLM) at Binance
+### 6. Senior Data Scientist / Analyst (AI/LLM) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. On-chain Data Analyst (12 months contract) at Binance
+### 7. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Senior Analytics Manager at Raya
+### 8. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Payments Fraud Analyst at Chess
+### 9. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +103,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -121,6 +131,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
