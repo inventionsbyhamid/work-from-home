@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Content Creator at 90 Seconds
+### 1. Ads Implementation Specialist - Social/Google at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-remote-binance)
+
+---
+
+### 2. Content Creator at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 3. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 4. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Ads Implementation Specialist - Social/Google at Binance
+### 5. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. Global Community Manager at Binance
+### 6. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
