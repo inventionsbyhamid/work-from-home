@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Security Operations Engineer at Canonical
+### 1. Director of IT, Corporate & Manufacturing at Dandy
+
+💰 **Salary**: $153,600-$192,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-it-corporate-manufacturing-dandy)
+
+---
+
+### 2. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Security Engineer, Data Privacy at Binance
+### 3. Security Engineer, Data Privacy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Sr. Product Security Engineer at Raya
+### 4. Sr. Product Security Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Zero Knowledge/Cryptography Auditor at Nethermind
+### 5. Zero Knowledge/Cryptography Auditor at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior Security Engineer at Automattic
+### 6. Senior Security Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
+### 7. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 8. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Security Engineer at Binance
+### 9. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Information Security Specialist at Customer.io
+### 10. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -106,7 +118,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Senior Engineer - Trust and Safety at VRChat
+### 11. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +128,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Software Engineer - Blockchain Security at Binance
+### 12. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +138,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Senior Security Engineer - Blue Team at Raya
+### 13. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +148,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. Solutions Architect, TOLA at Halcyon
+### 14. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -151,7 +163,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -179,6 +191,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
