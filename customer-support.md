@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. CX Enablement Knowledge Management Associate at Dandy
+### 1. Happiness Engineer, Customer Support & Success at Automattic
+
+💰 **Salary**: $40,000-$68,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/happiness-engineer-customer-support-success-automattic)
+
+---
+
+### 2. CX Enablement Knowledge Management Associate at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Experience Enablement Lead at Dandy
+### 3. Customer Experience Enablement Lead at Dandy
 
 💰 **Salary**: $90,000-$110,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Senior Director, Technical Support Americas at Customer.io
+### 4. Senior Director, Technical Support Americas at Customer.io
 
 💰 **Salary**: $200,000-$220,000 USD
 
@@ -44,7 +56,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Senior Application Support Engineer at Applaudo
+### 5. Senior Application Support Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Enterprise Customer Success Manager (French speaker) at Canonical
+### 6. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Graduate Customer Success Manager at Canonical
+### 7. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Dispute Analyst - P2P at Binance
+### 8. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +99,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -115,6 +127,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 13, 2026 at 00:00 UTC_
+_Last updated: May 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
