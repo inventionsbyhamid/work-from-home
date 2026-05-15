@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Ads Implementation Specialist - Social/Google at Binance
+### 1. Senior Product Marketing Manager (global) at beehiiv
+
+💰 **Salary**: $140,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketing-manager-beehiiv)
+
+---
+
+### 2. Content marketing team manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-marketing-team-manager-canonical)
+
+---
+
+### 3. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Marketing Leader at Dandy
+### 4. Marketing Leader at Dandy
 
 💰 **Salary**: $138,188-$167,500 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. EMEA Marketing Manager at Canonical
+### 5. EMEA Marketing Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Content Creator at 90 Seconds
+### 6. Content Creator at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 7. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Creator Partnerships Manager, Binance Square at Binance
+### 8. Creator Partnerships Manager, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +92,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 9. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +102,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Senior User Growth & Lifecycle Specialist Global at Binance
+### 10. Senior User Growth & Lifecycle Specialist Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +112,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Enterprise Marketing Manager at Dandy
+### 11. Enterprise Marketing Manager at Dandy
 
 💰 **Salary**: $127,500-$150,000 USD
 
@@ -102,7 +124,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Creator Partnerships Manager, Binance Square Global at Binance
+### 12. Creator Partnerships Manager, Binance Square Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +134,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Senior Growth Designer at Circle
+### 13. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -124,7 +146,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Head of Storytelling at Dandy
+### 14. Head of Storytelling at Dandy
 
 💰 **Salary**: $156,000-$195,000 USD
 
@@ -136,7 +158,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Growth Marketing Intern at Applaudo
+### 15. Growth Marketing Intern at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +168,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Ads Implementation Specialist - Social/Google at Binance
+### 16. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +178,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Senior User Growth & Lifecycle Specialist at Binance
+### 17. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +188,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Director, Recruiting & Candidate Experience at Chess
+### 18. Director, Recruiting & Candidate Experience at Chess
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +198,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Events Manager at Canonical
+### 19. Events Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +208,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Partner Marketing Director at Canonical
+### 20. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +218,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Growth Engineer at Canonical
+### 21. Growth Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +228,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Product Manager, LATAM at Airbnb
+### 22. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +238,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Product Manager, LATAM at Airbnb
+### 23. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +248,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Global Community Manager at Binance
+### 24. Global Community Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -236,20 +258,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 23. Director, International Content & Growth at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-international-content-growth-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -277,6 +289,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 14, 2026 at 00:00 UTC_
+_Last updated: May 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
