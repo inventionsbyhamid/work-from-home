@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Embedded Devices Software Solution Sales Account Manager at Canonical
+### 1. Enterprise Account Executive at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-canonical)
+
+---
+
+### 2. Embedded Devices Software Solution Sales Account Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. SMB Practice Success Account Manager at Dandy
+### 3. SMB Practice Success Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Partner Sales Director - IHV Alliances at Canonical
+### 4. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. XDR at Dandy
+### 5. XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. founding XDR at Dandy
+### 6. founding XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Manager of Enterprise Open Source Sales Team at Canonical
+### 7. Manager of Enterprise Open Source Sales Team at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Commercial Account Executive (CAE) at Dandy
+### 8. Commercial Account Executive (CAE) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 9. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Revenue Operations Manager at Dandy
+### 10. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Senior Solutions Engineer at Automattic
+### 11. Senior Solutions Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Telecom Account Executive at Canonical
+### 12. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Director, Presales - North America at Camunda
+### 13. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -136,7 +146,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 14. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Revenue Operations Manager at Dandy
+### 15. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -158,7 +168,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Senior Account Executive at Circle
+### 16. Senior Account Executive at Circle
 
 💰 **Salary**: $150,000-$190,000 USD
 
@@ -170,7 +180,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Account Development Representative - Future Openings Talent Pool at Camunda
+### 17. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +190,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Enterprise Account Executive at Halcyon
+### 18. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -192,7 +202,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Chief Revenue Officer at Canonical
+### 19. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +212,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Individual Sales Representative (Mandarin Speaking) at Binance
+### 20. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +222,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Solutions Architect, TOLA at Halcyon
+### 21. Solutions Architect, TOLA at Halcyon
 
 💰 **Salary**: $160,000-$200,000 USD
 
@@ -227,7 +237,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 20 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -255,6 +265,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 15, 2026 at 00:00 UTC_
+_Last updated: May 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
