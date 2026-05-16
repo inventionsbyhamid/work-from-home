@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Research BD Manager/Director at Binance
+### 1. General Application - Remote, Worldwide at Nethermind
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-application-remote-worldwide-nethermind)
+
+---
+
+### 2. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Director of Product, Consumer at VRChat
+### 3. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Research BD Manager/Director Global / Business Development at Binance
+### 4. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 5. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 6. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +73,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -91,6 +101,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 15, 2026 at 00:00 UTC_
+_Last updated: May 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
