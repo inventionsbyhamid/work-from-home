@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of IT at Dandy
+### 1. Engineering Manager, AST: Composition Analysis at GitLab
+
+💰 **Salary**: $131,600-$282,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-ast-composition-analysis-gitlab)
+
+---
+
+### 2. Director of IT at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Director of IT, Corporate & Manufacturing at Dandy
+### 3. Director of IT, Corporate & Manufacturing at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Senior Security Operations Engineer at Canonical
+### 4. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Security Engineer, Data Privacy at Binance
+### 5. Security Engineer, Data Privacy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Sr. Product Security Engineer at Raya
+### 6. Sr. Product Security Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Zero Knowledge/Cryptography Auditor at Nethermind
+### 7. Zero Knowledge/Cryptography Auditor at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Security Engineer at Automattic
+### 8. Senior Security Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
+### 9. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -96,7 +108,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 10. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Security Engineer at Binance
+### 11. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +130,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Information Security Specialist at Customer.io
+### 12. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -130,7 +142,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Senior Engineer - Trust and Safety at VRChat
+### 13. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +152,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. Software Engineer - Blockchain Security at Binance
+### 14. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -150,25 +162,13 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Senior Security Engineer - Blue Team at Raya
+### 15. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-engineer-blue-team-raya)
-
----
-
-### 15. Solutions Architect, TOLA at Halcyon
-
-💰 **Salary**: $160,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-tola-halcyon)
 
 ---
 
@@ -203,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 16, 2026 at 00:00 UTC_
+_Last updated: May 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
