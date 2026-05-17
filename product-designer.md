@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Designer at Chess
+### 1. Senior Product Designer at Automattic
+
+💰 **Salary**: $95,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-automattic)
+
+---
+
+### 2. Product Designer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Lead Product Designer at Circle
+### 3. Lead Product Designer at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Head of Creative Studio at VRChat
+### 4. Head of Creative Studio at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Senior Product Designer at Fueled
+### 5. Senior Product Designer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Senior Growth Designer at Circle
+### 6. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Lead Product Designer, Marketplace at Circle
+### 7. Lead Product Designer, Marketplace at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Product Designer, Creators at VRChat
+### 8. Senior Product Designer, Creators at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. UX Designer - Design systems at Canonical
+### 9. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Product Designer Lead - UI/UX at Binance
+### 10. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Product Designer at Binance
+### 11. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Product Designer at Binance
+### 12. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -127,7 +139,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -155,6 +167,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 16, 2026 at 00:00 UTC_
+_Last updated: May 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
