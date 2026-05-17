@@ -14,11 +14,21 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 📍 **Category**: Finance
 
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-full-time-binance)
+
+---
+
+### 2. Global Regulatory Legal Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-worldwide-binance)
 
 ---
 
-### 2. Head of Data at Solana
+### 3. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Research BD Manager/Director at Binance
+### 4. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Market Risk Analyst at Alpaca
+### 5. Market Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Senior FP&A Analyst at Camunda
+### 6. Senior FP&A Analyst at Camunda
 
 💰 **Salary**: $124,600-$200,900 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Internal Audit Manager at Binance
+### 7. Internal Audit Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
+### 8. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Senior Manager - Treasury at Dandy
+### 9. Senior Manager - Treasury at Dandy
 
 💰 **Salary**: $140,250-$170,000 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Revenue Operations Manager at Dandy
+### 10. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 11. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Senior Product Manager - P2P Payments at Coinbase
+### 12. Senior Product Manager - P2P Payments at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 13. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Compliance EDD/High Risk Client Analyst at Binance
+### 14. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Payments Fraud Analyst at Chess
+### 15. Payments Fraud Analyst at Chess
 
 🌍 **Location**: Worldwide
 
@@ -157,7 +167,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -185,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 16, 2026 at 00:00 UTC_
+_Last updated: May 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
