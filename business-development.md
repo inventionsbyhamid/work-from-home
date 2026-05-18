@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Founding Enterprise & Strategic Account Executive at Dandy
+### 1. Commercial Account Executive at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-account-executive-full-time-dandy)
+
+---
+
+### 2. Founding Enterprise & Strategic Account Executive at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Enterprise Account Executive at Canonical
+### 3. Enterprise Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Embedded Devices Software Solution Sales Account Manager at Canonical
+### 4. Embedded Devices Software Solution Sales Account Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. SMB Practice Success Account Manager at Dandy
+### 5. SMB Practice Success Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Partner Sales Director - IHV Alliances at Canonical
+### 6. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. XDR at Dandy
+### 7. XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Marketing Leader at Dandy
+### 8. Marketing Leader at Dandy
 
 💰 **Salary**: $138,188-$167,500 USD
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Research BD Manager/Director at Binance
+### 9. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Creator Partnerships Manager, Binance Square at Binance
+### 10. Creator Partnerships Manager, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Manager of Enterprise Open Source Sales Team at Canonical
+### 11. Manager of Enterprise Open Source Sales Team at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Commercial Account Executive (CAE) at Dandy
+### 12. Commercial Account Executive (CAE) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Market Risk Analyst at Alpaca
+### 13. Market Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 14. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +152,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Enterprise Marketing Manager at Dandy
+### 15. Enterprise Marketing Manager at Dandy
 
 💰 **Salary**: $127,500-$150,000 USD
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Senior Product Manager, Web3 Earn at Binance
+### 16. Senior Product Manager, Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Web3 Earn Product Operations Specialist at Binance
+### 17. Web3 Earn Product Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. Revenue Operations Manager at Dandy
+### 18. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +194,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 18. Head of Stablecoins at Solana
+### 19. Head of Stablecoins at Solana
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +204,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 19. Senior Solutions Engineer at Automattic
+### 20. Senior Solutions Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 20. Telecom Account Executive at Canonical
+### 21. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +226,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 21. Creator Partnerships Manager, Binance Square Global at Binance
+### 22. Creator Partnerships Manager, Binance Square Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 22. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 23. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +246,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 23. Revenue Operations Manager at Dandy
+### 24. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -248,7 +258,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 24. Growth Marketing Intern at Applaudo
+### 25. Growth Marketing Intern at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -258,7 +268,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 25. Research BD Manager/Director Global / Business Development at Binance
+### 26. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -268,7 +278,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 26. Account Development Representative - Future Openings Talent Pool at Camunda
+### 27. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -278,7 +288,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 27. Product Lead Counsel at Binance
+### 28. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -288,7 +298,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 28. Senior User Growth & Lifecycle Specialist at Binance
+### 29. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -298,7 +308,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 29. Partner Marketing Director at Canonical
+### 30. Partner Marketing Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -308,7 +318,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 30. Enterprise Account Executive at Halcyon
+### 31. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -320,7 +330,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 31. Chief Revenue Officer at Canonical
+### 32. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -330,7 +340,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 32. Product Manager, LATAM at Airbnb
+### 33. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -340,7 +350,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 33. Product Manager, LATAM at Airbnb
+### 34. Product Manager, LATAM at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -353,7 +363,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 33 positions available
+**Total Jobs**: 34 positions available
 
 ---
 
@@ -381,6 +391,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 17, 2026 at 00:00 UTC_
+_Last updated: May 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
