@@ -320,22 +320,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 31. Staff Software Engineer, Infrastructure (Compute) at Coinbase
-
-💰 **Salary**: $211,650-$249,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-infrastructure-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 31 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -363,6 +351,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 17, 2026 at 00:00 UTC_
+_Last updated: May 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
