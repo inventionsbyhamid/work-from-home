@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Solutions Architect for Automotive at Canonical
+### 1. Commercial Account Executive at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-account-executive-full-time-dandy)
+
+---
+
+### 2. Solutions Architect for Automotive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Founding Enterprise & Strategic Account Executive at Dandy
+### 3. Founding Enterprise & Strategic Account Executive at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Enterprise Account Executive at Canonical
+### 4. Enterprise Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Embedded Devices Software Solution Sales Account Manager at Canonical
+### 5. Embedded Devices Software Solution Sales Account Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. SMB Practice Success Account Manager at Dandy
+### 6. SMB Practice Success Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Partner Sales Director - IHV Alliances at Canonical
+### 7. Partner Sales Director - IHV Alliances at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. XDR at Dandy
+### 8. XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. founding XDR at Dandy
+### 9. founding XDR at Dandy
 
 💰 **Salary**: $62,400+ USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Manager of Enterprise Open Source Sales Team at Canonical
+### 10. Manager of Enterprise Open Source Sales Team at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Commercial Account Executive (CAE) at Dandy
+### 11. Commercial Account Executive (CAE) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
+### 12. Partner Sales Manager - Hewlett Packard Enterprise, India at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Revenue Operations Manager at Dandy
+### 13. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Senior Solutions Engineer at Automattic
+### 14. Senior Solutions Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Telecom Account Executive at Canonical
+### 15. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Director, Presales - North America at Camunda
+### 16. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 17. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Revenue Operations Manager at Dandy
+### 18. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -188,7 +198,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Senior Account Executive at Circle
+### 19. Senior Account Executive at Circle
 
 💰 **Salary**: $150,000-$190,000 USD
 
@@ -200,7 +210,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Account Development Representative - Future Openings Talent Pool at Camunda
+### 20. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +220,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Enterprise Account Executive at Halcyon
+### 21. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -222,7 +232,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Chief Revenue Officer at Canonical
+### 22. Chief Revenue Officer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -232,7 +242,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 22. Individual Sales Representative (Mandarin Speaking) at Binance
+### 23. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -245,7 +255,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 22 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -273,6 +283,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 17, 2026 at 00:00 UTC_
+_Last updated: May 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
