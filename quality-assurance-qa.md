@@ -68,20 +68,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 7. QA Specialist at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-specialist-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -109,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 17, 2026 at 00:00 UTC_
+_Last updated: May 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
