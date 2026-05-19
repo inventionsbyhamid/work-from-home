@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Solutions Architect for Automotive at Canonical
+### 1. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/telco-cloud-engineer-americas-canonical)
+
+---
+
+### 2. Solutions Architect for Automotive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Field Strategist, Forward Deployed Engineer at GitLab
+### 3. Field Strategist, Forward Deployed Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Engineering Manager, AST: Composition Analysis at GitLab
+### 4. Engineering Manager, AST: Composition Analysis at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Distributed Systems Software Engineer, Python / Go at Canonical
+### 5. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Director of IT at Dandy
+### 6. Director of IT at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Engineering Manager - Ubuntu Desktop Apps at Canonical
+### 7. Engineering Manager - Ubuntu Desktop Apps at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Director of IT, Corporate & Manufacturing at Dandy
+### 8. Director of IT, Corporate & Manufacturing at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. DevOps Engineer at Applaudo
+### 9. DevOps Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Senior Software Engineer - Platform at Alpaca
+### 10. Senior Software Engineer - Platform at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Senior Application Architect at Applaudo
+### 11. Senior Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Senior ML Engineer at Chess
+### 12. Senior ML Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Database Engineer at Chess
+### 13. Database Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 13. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 14. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. MLOps Field Engineer at Canonical
+### 15. MLOps Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 15. Ubuntu Software Engineer at Canonical
+### 16. Ubuntu Software Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 16. Customer Success Engineer at GitLab
+### 17. Customer Success Engineer at GitLab
 
 💰 **Salary**: $117,600-$252,000 USD
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 17. Senior Backend Engineer, Systems Performance at Binance
+### 18. Senior Backend Engineer, Systems Performance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 18. Senior Backend Engineer at Binance
+### 19. Senior Backend Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +206,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 19. Senior Data Warehouse Engineer, Big Data at Binance
+### 20. Senior Data Warehouse Engineer, Big Data at Binance
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 20. Security Engineer at Binance
+### 21. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +226,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 21. Information Security Specialist at Customer.io
+### 22. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -228,7 +238,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 22. OpenStack Engineering Manager at Canonical
+### 23. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +248,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 23. Senior Technical Productivity Manager at Camunda
+### 24. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -250,7 +260,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 24. Senior Application Support Engineer at Applaudo
+### 25. Senior Application Support Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +270,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 25. SDET at Phantom
+### 26. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -270,7 +280,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 26. Junior Ubuntu Software Engineer at Canonical
+### 27. Junior Ubuntu Software Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -280,7 +290,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 27. Senior / Staff Backend Engineer (API) - Economy at VRChat
+### 28. Senior / Staff Backend Engineer (API) - Economy at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -290,7 +300,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 28. Cloud Field Engineer at Canonical
+### 29. Cloud Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -300,7 +310,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 29. AI Developer at Crossover
+### 30. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -310,7 +320,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 30. Ubuntu Engineering Manager at Canonical
+### 31. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -323,7 +333,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 30 positions available
+**Total Jobs**: 31 positions available
 
 ---
 
@@ -351,6 +361,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 18, 2026 at 00:00 UTC_
+_Last updated: May 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
