@@ -152,20 +152,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Software Engineer - Blockchain Security at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-blockchain-security-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -193,6 +183,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 20, 2026 at 00:00 UTC_
+_Last updated: May 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
