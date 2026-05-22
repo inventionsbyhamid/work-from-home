@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Graduate Talent Scientist at Canonical
+### 1. Senior Internal Communications Manager at Coinbase
+
+💰 **Salary**: $201,365-$236,900 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-internal-communications-manager-coinbase)
+
+---
+
+### 2. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Total Rewards Analyst / Total Rewards Specialist at Camunda
+### 3. Total Rewards Analyst / Total Rewards Specialist at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Director of People at VRChat
+### 4. Director of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Customer Experience Enablement Lead at Dandy
+### 5. Customer Experience Enablement Lead at Dandy
 
 💰 **Salary**: $90,000-$110,000 USD
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Senior PeopleSoft HCM Consultant at Applaudo
+### 6. Senior PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Director, Recruiting & Candidate Experience at Chess
+### 7. Director, Recruiting & Candidate Experience at Chess
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +85,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -101,6 +113,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 21, 2026 at 00:00 UTC_
+_Last updated: May 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
