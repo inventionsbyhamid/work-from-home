@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 1. Customer Experience Dental Lab Technicians - Removables at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-removables-dandy)
+
+---
+
+### 2. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. Binance Accelerator Program - QA at Binance
+### 3. Binance Accelerator Program - QA at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 4. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Functional QA Analyst at Applaudo
+### 5. Functional QA Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 5. SDET at Phantom
+### 6. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 6. Quality Assurance Engineer at Fueled
+### 7. Quality Assurance Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +81,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -99,6 +109,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 22, 2026 at 00:00 UTC_
+_Last updated: May 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
