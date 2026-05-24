@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 1. Customer Experience Dental Lab Technicians - Fixed at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-fixed-dandy)
+
+---
+
+### 2. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Happiness Engineer, Customer Support & Success at Automattic
+### 3. Happiness Engineer, Customer Support & Success at Automattic
 
 💰 **Salary**: $40,000-$68,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. CX Enablement Knowledge Management Associate at Dandy
+### 4. CX Enablement Knowledge Management Associate at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Customer Experience Enablement Lead at Dandy
+### 5. Customer Experience Enablement Lead at Dandy
 
 💰 **Salary**: $90,000-$110,000 USD
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Senior Director, Technical Support Americas at Customer.io
+### 6. Senior Director, Technical Support Americas at Customer.io
 
 💰 **Salary**: $200,000-$220,000 USD
 
@@ -66,7 +76,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Senior Application Support Engineer at Applaudo
+### 7. Senior Application Support Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +86,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Enterprise Customer Success Manager (French speaker) at Canonical
+### 8. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Graduate Customer Success Manager at Canonical
+### 9. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -99,7 +109,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -127,6 +137,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 23, 2026 at 00:00 UTC_
+_Last updated: May 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
