@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Engineer - Social Experience at VRChat
+### 1. Software Engineer III, Core Experiences at Wikimedia
+
+💰 **Salary**: $92,267-$144,201 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-iii-core-experiences-wikimedia)
+
+---
+
+### 2. Senior Full Stack Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-worldwide-fueled)
+
+---
+
+### 3. Senior Engineer - Social Experience at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Product Designer at Automattic
+### 4. Senior Product Designer at Automattic
 
 💰 **Salary**: $95,000-$200,000 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Senior iOS Developer at Applaudo
+### 5. Senior iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Full Stack Developer at Applaudo
+### 6. Full Stack Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Javascript Developer at Crossover
+### 7. Javascript Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Senior React Native Engineer at Fueled
+### 8. Senior React Native Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +92,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. (Senior) Product Manager, Futures Frontend at Binance
+### 9. (Senior) Product Manager, Futures Frontend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +102,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Android Developer at Applaudo
+### 10. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +112,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 9. Senior Flutter Engineer (iOS, Android) at Binance
+### 11. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +122,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 10. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 12. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -112,7 +134,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 11. Web Developer at Canonical
+### 13. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -125,7 +147,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -153,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 23, 2026 at 00:00 UTC_
+_Last updated: May 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
