@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager, AST: Composition Analysis at GitLab
+### 1. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+
+💰 **Salary**: $113,082-$175,725 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-infrastructure-foundations-wikimedia)
+
+---
+
+### 2. Engineering Manager, AST: Composition Analysis at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Director of IT at Dandy
+### 3. Director of IT at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Director of IT, Corporate & Manufacturing at Dandy
+### 4. Director of IT, Corporate & Manufacturing at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -44,7 +56,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Senior Security Operations Engineer at Canonical
+### 5. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Security Engineer, Data Privacy at Binance
+### 6. Security Engineer, Data Privacy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Sr. Product Security Engineer at Raya
+### 7. Sr. Product Security Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Zero Knowledge/Cryptography Auditor at Nethermind
+### 8. Zero Knowledge/Cryptography Auditor at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Senior Security Engineer at Automattic
+### 9. Senior Security Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -96,7 +108,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
+### 10. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
 
 💰 **Salary**: $98,000-$210,000 USD
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 11. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Security Engineer at Binance
+### 12. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +142,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Information Security Specialist at Customer.io
+### 13. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. Senior Engineer - Trust and Safety at VRChat
+### 14. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -155,7 +167,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -183,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 23, 2026 at 00:00 UTC_
+_Last updated: May 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
