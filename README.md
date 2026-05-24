@@ -22,30 +22,30 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Admin](admin-role.md)** - 3 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
 - 🏠 **[Backend](backend.md)** - 31 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 35 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 36 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 8 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 9 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 31 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 18 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 34 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 19 remote jobs available
 - 🏠 **[Finance](finance.md)** - 14 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 11 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 7 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 13 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 9 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 7 remote jobs available
 - 🏠 **[Intern](intern.md)** - 7 remote jobs available
 - 🏠 **[Legal](legal.md)** - 7 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 24 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 11 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 17 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 12 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 7 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 8 remote jobs available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
 - 🏠 **[Sales](sales.md)** - 24 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 13 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 76 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 14 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 80 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 1 remote job available
 
@@ -56,7 +56,81 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Revenue Operations Manager at Dandy
+### 1. Software Engineer III, Core Experiences at Wikimedia
+
+💰 **Salary**: $92,267-$144,201 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-iii-core-experiences-wikimedia)
+
+---
+
+### 2. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+
+💰 **Salary**: $113,082-$175,725 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-infrastructure-foundations-wikimedia)
+
+---
+
+### 3. Global Affiliate Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-affiliate-manager-binance)
+
+---
+
+### 4. Customer Experience Dental Lab Technicians - Fixed at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-fixed-dandy)
+
+---
+
+### 5. Ubuntu Engineering Lead at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-lead-canonical)
+
+---
+
+### 6. Senior Full Stack Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-worldwide-fueled)
+
+---
+
+### 7. Senior/Staff Platform Engineer at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-platform-engineer-vrchat)
+
+---
+
+### 8. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +140,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Business Development Manager at Dandy
+### 9. Business Development Manager at Dandy
 
 💰 **Salary**: $105,000-$210,000 USD
 
@@ -78,7 +152,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 10. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +162,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Internal Communications Manager at Coinbase
+### 11. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -100,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Staff Software Engineer, Backend (Consumer) at Coinbase
+### 12. Staff Software Engineer, Backend (Consumer) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -112,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Software Engineer - App Stores at Canonical
+### 13. Software Engineer - App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
+### 14. Telco Cloud Engineer (5G, OpenRan, OpenStack, Python) - Americas at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +206,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Commercial Account Executive at Dandy
+### 15. Commercial Account Executive at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Graduate Talent Scientist at Canonical
+### 16. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 17. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Global Regulatory Legal Lead at Binance
+### 18. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +246,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Engineer - Social Experience at VRChat
+### 19. Senior Engineer - Social Experience at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -182,89 +256,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Software Engineer (AI-driven Solutions) at Applaudo
+### 20. Senior Software Engineer (AI-driven Solutions) at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: AI/ML
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-applaudo)
-
----
-
-### 14. Solutions Architect for Automotive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-for-automotive-canonical)
-
----
-
-### 15. Senior Backend Engineer - Representation at Atticus
-
-💰 **Salary**: $157,250-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-representation-atticus)
-
----
-
-### 16. Senior Product Designer at Automattic
-
-💰 **Salary**: $95,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-automattic)
-
----
-
-### 17. Field Strategist, Forward Deployed Engineer at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-strategist-forward-deployed-engineer-gitlab)
-
----
-
-### 18. Engineering Manager, AST: Composition Analysis at GitLab
-
-💰 **Salary**: $131,600-$282,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-ast-composition-analysis-gitlab)
-
----
-
-### 19. Founding Enterprise & Strategic Account Executive at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/founding-enterprise-strategic-account-executive-dandy)
-
----
-
-### 20. General Application - Remote, Worldwide at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-application-remote-worldwide-nethermind)
 
 ---
 
@@ -294,6 +292,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 23, 2026 at 00:00 UTC_
+_Last updated: May 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
