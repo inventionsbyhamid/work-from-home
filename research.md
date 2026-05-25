@@ -8,7 +8,41 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. General Application - Remote, Worldwide at Nethermind
+### 1. LLM Data Scientist/Algorithm Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-binance)
+
+---
+
+### 2. Privacy Fellow at Wikimedia
+
+💰 **Salary**: $75,473-$114,977 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/privacy-fellow-wikimedia)
+
+---
+
+### 3. Process Engineer, CNC Automation at Dandy
+
+💰 **Salary**: $142,600-$167,700 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/process-engineer-cnc-automation-dandy)
+
+---
+
+### 4. General Application - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +52,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Research BD Manager/Director at Binance
+### 5. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +62,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Director of Product, Consumer at VRChat
+### 6. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -40,7 +74,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Research BD Manager/Director Global / Business Development at Binance
+### 7. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +84,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 8. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +94,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 9. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +107,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -101,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 24, 2026 at 00:00 UTC_
+_Last updated: May 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
