@@ -8,13 +8,13 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Regulatory Legal Lead at Binance
+### 1. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-full-time-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-compliance-specialist-binance)
 
 ---
 
@@ -24,11 +24,21 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 📍 **Category**: Finance
 
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-full-time-binance)
+
+---
+
+### 3. Global Regulatory Legal Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-worldwide-binance)
 
 ---
 
-### 3. Head of Data at Solana
+### 4. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Research BD Manager/Director at Binance
+### 5. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Market Risk Analyst at Alpaca
+### 6. Market Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Senior FP&A Analyst at Camunda
+### 7. Senior FP&A Analyst at Camunda
 
 💰 **Salary**: $124,600-$200,900 USD
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Internal Audit Manager at Binance
+### 8. Internal Audit Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
+### 9. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Senior Manager - Treasury at Dandy
+### 10. Senior Manager - Treasury at Dandy
 
 💰 **Salary**: $140,250-$170,000 USD
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Revenue Operations Manager at Dandy
+### 11. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 12. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Senior Product Manager - P2P Payments at Coinbase
+### 13. Senior Product Manager - P2P Payments at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 14. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Compliance EDD/High Risk Client Analyst at Binance
+### 15. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -157,7 +167,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -185,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 24, 2026 at 00:00 UTC_
+_Last updated: May 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
