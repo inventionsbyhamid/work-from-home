@@ -8,7 +8,59 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Graduate Talent Scientist at Canonical
+### 1. Machine Learning Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/machine-learning-engineer-applaudo)
+
+---
+
+### 2. Senior DevSecOps Engineer (Security, AI) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-devsecops-engineer-binance)
+
+---
+
+### 3. Senior Software Engineer, iOS at Wikimedia
+
+💰 **Salary**: $113,082-$175,725 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ios-wikimedia)
+
+---
+
+### 4. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-devops-engineer-binance)
+
+---
+
+### 5. LLM Data Scientist/Algorithm Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-binance)
+
+---
+
+### 6. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Software Engineer (AI-driven Solutions) at Applaudo
+### 7. Senior Software Engineer (AI-driven Solutions) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Field Strategist, Forward Deployed Engineer at GitLab
+### 8. Field Strategist, Forward Deployed Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +90,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. General Application - Remote, Worldwide at Nethermind
+### 9. General Application - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Distributed Systems Software Engineer, Python / Go at Canonical
+### 10. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
+### 11. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +120,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Senior Machine Learning Engineer at Raya
+### 12. Senior Machine Learning Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +130,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior ML Engineer at Chess
+### 13. Senior ML Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +140,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 14. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +150,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. MLOps Field Engineer at Canonical
+### 15. MLOps Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +160,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Director of Product, Consumer at VRChat
+### 16. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -120,7 +172,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Senior Security Engineer at Automattic
+### 17. Senior Security Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -132,7 +184,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Senior Data Scientist / Analyst (AI/LLM) at Binance
+### 18. Senior Data Scientist / Analyst (AI/LLM) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +194,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Senior Data Warehouse Engineer, Big Data at Binance
+### 19. Senior Data Warehouse Engineer, Big Data at Binance
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +204,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+### 20. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +214,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Lead Product Designer, Marketplace at Circle
+### 21. Lead Product Designer, Marketplace at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -174,7 +226,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Information Security Specialist at Customer.io
+### 22. Information Security Specialist at Customer.io
 
 💰 **Salary**: $151,000-$170,000 USD
 
@@ -186,7 +238,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Senior Director, Technical Support Americas at Customer.io
+### 23. Senior Director, Technical Support Americas at Customer.io
 
 💰 **Salary**: $200,000-$220,000 USD
 
@@ -198,7 +250,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. Senior Technical Productivity Manager at Camunda
+### 24. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -210,7 +262,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 20. Senior Backend Engineer at Applaudo
+### 25. Senior Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +272,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 21. Software Engineer - Industrial IoT at Canonical
+### 26. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +282,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 22. AI Developer at Crossover
+### 27. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -240,7 +292,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 23. Staff Backend Engineer, Recommender Systems at Raya
+### 28. Staff Backend Engineer, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -250,7 +302,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 24. Staff Engineer - Recommendations at VRChat
+### 29. Staff Engineer - Recommendations at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +312,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 25. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 30. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -273,7 +325,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 25 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -301,6 +353,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 24, 2026 at 00:00 UTC_
+_Last updated: May 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
