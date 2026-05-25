@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Regulatory Legal Lead at Binance
+### 1. Privacy Fellow at Wikimedia
+
+💰 **Salary**: $75,473-$114,977 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/privacy-fellow-wikimedia)
+
+---
+
+### 2. Global Regulatory & Licensing Legal Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-licensing-legal-lead-binance)
+
+---
+
+### 3. Business Compliance Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-compliance-specialist-binance)
+
+---
+
+### 4. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Global Regulatory Legal Lead at Binance
+### 5. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +60,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Compliance Geofencing Team Lead at Binance
+### 6. Compliance Geofencing Team Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +70,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 7. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +80,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Product Lead Counsel at Binance
+### 8. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +90,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Compliance EDD/High Risk Client Analyst at Binance
+### 9. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +100,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Product Lead Counsel at Binance
+### 10. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -81,7 +113,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -109,6 +141,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 24, 2026 at 00:00 UTC_
+_Last updated: May 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
