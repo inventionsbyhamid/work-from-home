@@ -264,20 +264,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 25. Chief Revenue Officer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-revenue-officer-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 25 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -305,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 26, 2026 at 00:00 UTC_
+_Last updated: May 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
