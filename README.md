@@ -21,7 +21,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 30 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 4 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
-- 🏠 **[Backend](backend.md)** - 34 remote jobs available
+- 🏠 **[Backend](backend.md)** - 35 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 34 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
@@ -37,7 +37,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[HR](hr.md)** - 7 remote jobs available
 - 🏠 **[Intern](intern.md)** - 7 remote jobs available
 - 🏠 **[Legal](legal.md)** - 10 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 23 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 22 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 15 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 13 remote jobs available
@@ -46,7 +46,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 24 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 85 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 86 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 1 remote job available
 
@@ -57,7 +57,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Revenue Operations Director at Dandy
+### 1. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/system-software-engineer-java-runtimes-tooling-and-ecosystem-canonical)
+
+---
+
+### 2. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical)
+
+---
+
+### 3. Revenue Operations Director at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. DevOps Engineer at Crossover
+### 4. DevOps Engineer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +97,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Machine Learning Engineer at Applaudo
+### 5. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior DevSecOps Engineer (Security, AI) at Binance
+### 6. Senior DevSecOps Engineer (Security, AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Software Engineer, iOS at Wikimedia
+### 7. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -109,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+### 8. Binance Accelerator Program - DevOps Engineer (AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -119,7 +139,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. LLM Data Scientist/Algorithm Engineer at Binance
+### 9. LLM Data Scientist/Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -129,7 +149,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Privacy Fellow at Wikimedia
+### 10. Privacy Fellow at Wikimedia
 
 💰 **Salary**: $75,473-$114,977 USD
 
@@ -141,7 +161,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Global Regulatory & Licensing Legal Lead at Binance
+### 11. Global Regulatory & Licensing Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -151,7 +171,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Process Engineer, CNC Automation at Dandy
+### 12. Process Engineer, CNC Automation at Dandy
 
 💰 **Salary**: $142,600-$167,700 USD
 
@@ -163,7 +183,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Staff Software Engineer (SRE) at Phantom
+### 13. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -175,7 +195,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Business Compliance Specialist at Binance
+### 14. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -185,7 +205,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 15. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -195,7 +215,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Software Engineer III, Core Experiences at Wikimedia
+### 16. Software Engineer III, Core Experiences at Wikimedia
 
 💰 **Salary**: $92,267-$144,201 USD
 
@@ -207,7 +227,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+### 17. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -219,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Global Affiliate Manager at Binance
+### 18. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -229,7 +249,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 19. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -239,33 +259,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Ubuntu Engineering Lead at Canonical
+### 20. Ubuntu Engineering Lead at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-lead-canonical)
-
----
-
-### 19. Senior Full Stack Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-worldwide-fueled)
-
----
-
-### 20. Senior/Staff Platform Engineer at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-platform-engineer-vrchat)
 
 ---
 
@@ -295,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 27, 2026 at 00:00 UTC_
+_Last updated: May 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
