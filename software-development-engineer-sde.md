@@ -884,20 +884,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 86. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/embedded-desktop-linux-systems-engineer-optimisation-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 86 positions available
+**Total Jobs**: 85 positions available
 
 ---
 
@@ -925,6 +915,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 29, 2026 at 00:00 UTC_
+_Last updated: May 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
