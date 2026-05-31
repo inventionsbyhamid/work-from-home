@@ -46,7 +46,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 24 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 85 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 84 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 1 remote job available
 
@@ -295,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: May 30, 2026 at 00:00 UTC_
+_Last updated: May 31, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
