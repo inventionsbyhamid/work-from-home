@@ -350,20 +350,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 34. Partner Marketing Director at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-marketing-director-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 34 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -391,6 +381,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 01, 2026 at 00:00 UTC_
+_Last updated: June 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
