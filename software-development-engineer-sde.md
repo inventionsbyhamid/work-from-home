@@ -864,20 +864,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 84. Web Developer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-developer-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 84 positions available
+**Total Jobs**: 83 positions available
 
 ---
 
@@ -905,6 +895,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 02, 2026 at 00:01 UTC_
+_Last updated: June 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
