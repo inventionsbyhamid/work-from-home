@@ -146,20 +146,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 14. Web Developer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-developer-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -187,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 02, 2026 at 00:00 UTC_
+_Last updated: June 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
