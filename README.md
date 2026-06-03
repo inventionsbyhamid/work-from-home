@@ -31,14 +31,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 18 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 15 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 14 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 13 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 9 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 7 remote jobs available
 - 🏠 **[Intern](intern.md)** - 7 remote jobs available
 - 🏠 **[Legal](legal.md)** - 10 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 20 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 15 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 13 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 8 remote jobs available
@@ -46,7 +46,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 24 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 17 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 84 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 83 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 1 remote job available
 
@@ -295,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 02, 2026 at 00:00 UTC_
+_Last updated: June 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
