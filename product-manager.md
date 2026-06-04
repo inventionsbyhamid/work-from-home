@@ -158,20 +158,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. Junior Product Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-product-manager-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -199,6 +189,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 03, 2026 at 00:00 UTC_
+_Last updated: June 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
