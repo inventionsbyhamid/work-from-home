@@ -39,7 +39,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Legal](legal.md)** - 10 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 20 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 15 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 14 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 13 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 8 remote jobs available
 - 🏠 **[Research](research.md)** - 9 remote jobs available
@@ -295,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 03, 2026 at 00:00 UTC_
+_Last updated: June 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
