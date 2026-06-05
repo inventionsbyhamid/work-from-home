@@ -84,30 +84,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Compliance Case Analyst - Ukrainian Speaking at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-case-analyst-ukrainian-speaking-binance)
 
 ---
 
-### 9. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-data-scientist-binance)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -135,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 04, 2026 at 00:00 UTC_
+_Last updated: June 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
