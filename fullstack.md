@@ -72,42 +72,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Software Engineer, Frontend / Full Stack (Trading) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-full-stack-phantom)
 
 ---
 
-### 8. Senior Full Stack Engineer, Platform Extensions at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-platform-extensions-fueled)
-
----
-
-### 9. Senior Full Stack Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-fueled)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -135,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 04, 2026 at 00:00 UTC_
+_Last updated: June 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
