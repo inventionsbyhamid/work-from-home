@@ -70,50 +70,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Compliance Case Analyst - Ukrainian Speaking at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-case-analyst-ukrainian-speaking-binance)
 
 ---
 
-### 8. Product Lead Counsel at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-worldwide-remote-binance)
-
----
-
-### 9. Compliance EDD/High Risk Client Analyst at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-edd-high-risk-client-analyst-binance)
-
----
-
-### 10. Product Lead Counsel at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-binance)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -141,6 +101,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 04, 2026 at 00:00 UTC_
+_Last updated: June 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
