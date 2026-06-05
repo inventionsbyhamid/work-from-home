@@ -18,20 +18,10 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 2. Ads Implementation Specialist - Social/Google at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Graphic Design
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -59,6 +49,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 04, 2026 at 00:00 UTC_
+_Last updated: June 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
