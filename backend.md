@@ -340,40 +340,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 33. Cloud Field Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-field-engineer-canonical)
 
 ---
 
-### 34. Staff Backend Engineer, Recommender Systems at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-recommender-systems-raya)
-
----
-
-### 35. Staff Engineer - Recommendations at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-recommendations-vrchat)
-
----
-
-
----
-
-**Total Jobs**: 35 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -401,6 +371,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 04, 2026 at 00:00 UTC_
+_Last updated: June 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
