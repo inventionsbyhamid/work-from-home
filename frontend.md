@@ -114,30 +114,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 11. Android Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-developer-remote-applaudo)
 
 ---
 
-### 12. Senior Flutter Engineer (iOS, Android) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-flutter-engineer-binance)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -165,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
