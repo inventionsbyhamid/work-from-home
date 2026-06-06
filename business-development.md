@@ -278,62 +278,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 27. Institutional Sales Manager - Ukrainian Speakers at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-sales-manager-ukrainian-speakers-binance)
 
 ---
 
-### 28. Revenue Operations Manager at Dandy
-
-💰 **Salary**: $125,800-$148,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-dandy)
-
----
-
-### 29. Growth Marketing Intern at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-marketing-intern-applaudo)
-
----
-
-### 30. Research BD Manager/Director Global / Business Development at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/research-bd-manager-director-global-business-development-binance)
-
----
-
-### 31. Account Development Representative - Future Openings Talent Pool at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-representative-future-openings-talent-pool-camunda)
-
----
-
-
----
-
-**Total Jobs**: 31 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -361,6 +309,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
