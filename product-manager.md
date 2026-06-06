@@ -94,44 +94,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Lead Product Designer, Marketplace at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
 
 ---
 
-### 10. Senior Technical Product Manager at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-product-manager-applaudo)
-
----
-
-### 11. Senior Product Manager - P2P Payments at Coinbase
-
-💰 **Salary**: $207,485-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-p2p-payments-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -159,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
