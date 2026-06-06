@@ -102,54 +102,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 10. Director, Presales - North America at Camunda
-
-💰 **Salary**: $279,300-$450,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-presales-north-america-camunda)
 
 ---
 
-### 11. Compliance Geofencing Team Lead at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-geofencing-team-lead-binance)
-
----
-
-### 12. Senior Technical Productivity Manager at Camunda
-
-💰 **Salary**: $138,300-$223,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-productivity-manager-camunda)
-
----
-
-### 13. Senior Technical Product Manager at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-product-manager-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -177,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
