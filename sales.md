@@ -206,66 +206,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Director, Presales - North America at Camunda
-
-💰 **Salary**: $279,300-$450,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-presales-north-america-camunda)
 
 ---
 
-### 21. Institutional Sales Manager - Ukrainian Speakers at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-sales-manager-ukrainian-speakers-binance)
-
----
-
-### 22. Revenue Operations Manager at Dandy
-
-💰 **Salary**: $125,800-$148,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-dandy)
-
----
-
-### 23. Senior Account Executive at Circle
-
-💰 **Salary**: $150,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-account-executive-circle)
-
----
-
-### 24. Account Development Representative - Future Openings Talent Pool at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-representative-future-openings-talent-pool-camunda)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -293,6 +237,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:01 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
