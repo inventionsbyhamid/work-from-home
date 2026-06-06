@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Ubuntu Engineering Lead at Canonical
+### 1. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solution-architect-xapo-bank)
+
+---
+
+### 2. Ubuntu Engineering Lead at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Manager, AST: Composition Analysis at GitLab
+### 3. Engineering Manager, AST: Composition Analysis at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Director of IT at Dandy
+### 4. Director of IT at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Head of Data at Solana
+### 5. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Engineering Manager - Ubuntu Desktop Apps at Canonical
+### 6. Engineering Manager - Ubuntu Desktop Apps at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Director of IT, Corporate & Manufacturing at Dandy
+### 7. Director of IT, Corporate & Manufacturing at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Team Lead, Digital Design at Dandy
+### 8. Team Lead, Digital Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Manager of Enterprise Open Source Sales Team at Canonical
+### 9. Manager of Enterprise Open Source Sales Team at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Billing System Engineering Manager at Canonical
+### 10. Billing System Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Engineering Director, Backend at DuckDuckGo
+### 11. Engineering Director, Backend at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -116,7 +126,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Head of Creative Studio at VRChat
+### 12. Head of Creative Studio at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Rust Engineering Lead - Linux and Open Source at Canonical
+### 13. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -136,64 +146,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Director, Presales - North America at Camunda
-
-💰 **Salary**: $279,300-$450,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-presales-north-america-camunda)
 
 ---
 
-### 14. Senior Director, Technical Support Americas at Customer.io
-
-💰 **Salary**: $200,000-$220,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-technical-support-americas-customer-io)
-
----
-
-### 15. OpenStack Engineering Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/openstack-engineering-manager-canonical)
-
----
-
-### 16. Engineering Manager - Security Standards and Hardening at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-security-standards-and-hardening-canonical)
-
----
-
-### 17. Senior Engineering Manager, Client at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineering-manager-client-raya)
-
----
-
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -221,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
