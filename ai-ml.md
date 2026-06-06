@@ -204,88 +204,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 20. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
 
 ---
 
-### 21. Lead Product Designer, Marketplace at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
-
----
-
-### 22. Information Security Specialist at Customer.io
-
-💰 **Salary**: $151,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/information-security-specialist-customer-io)
-
----
-
-### 23. Senior Director, Technical Support Americas at Customer.io
-
-💰 **Salary**: $200,000-$220,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-technical-support-americas-customer-io)
-
----
-
-### 24. Senior Technical Productivity Manager at Camunda
-
-💰 **Salary**: $138,300-$223,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-productivity-manager-camunda)
-
----
-
-### 25. Senior Backend Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-applaudo)
-
----
-
-### 26. Software Engineer - Industrial IoT at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-industrial-iot-canonical)
-
----
-
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -313,6 +235,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 05, 2026 at 00:00 UTC_
+_Last updated: June 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
