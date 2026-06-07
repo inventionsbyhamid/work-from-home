@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 1. Logistics Solutions Marketing Specialist at Camunda
+
+💰 **Salary**: $131,300-$211,600 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/logistics-solutions-marketing-specialist-camunda)
+
+---
+
+### 2. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Global Affiliate Manager at Binance
+### 3. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Senior Internal Communications Manager at Coinbase
+### 4. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Senior Product Marketing Manager (global) at beehiiv
+### 5. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Content marketing team manager at Canonical
+### 6. Content marketing team manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Ads Implementation Specialist - Social/Google at Binance
+### 7. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Marketing Leader at Dandy
+### 8. Marketing Leader at Dandy
 
 💰 **Salary**: $138,188-$167,500 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. EMEA Marketing Manager at Canonical
+### 9. EMEA Marketing Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Content Creator at 90 Seconds
+### 10. Content Creator at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 11. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Creator Partnerships Manager, Binance Square at Binance
+### 12. Creator Partnerships Manager, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Binance Accelerator Program - Creative Social Media & Meme at Binance
+### 13. Binance Accelerator Program - Creative Social Media & Meme at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,42 +146,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Senior User Growth & Lifecycle Specialist Global at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-global-binance)
 
 ---
 
-### 14. Enterprise Marketing Manager at Dandy
-
-💰 **Salary**: $127,500-$150,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-marketing-manager-dandy)
-
----
-
-### 15. Creator Partnerships Manager, Binance Square Global at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-partnerships-manager-binance-square-global-binance)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -197,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
