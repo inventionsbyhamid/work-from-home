@@ -84,40 +84,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Javascript Developer at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/javascript-developer-crossover)
 
 ---
 
-### 9. Senior React Native Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-react-native-engineer-fueled)
-
----
-
-### 10. (Senior) Product Manager, Futures Frontend at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-futures-frontend-binance)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -145,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
