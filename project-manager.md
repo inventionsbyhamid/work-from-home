@@ -48,64 +48,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Customer Experience Enablement Lead at Dandy
-
-💰 **Salary**: $90,000-$110,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-enablement-lead-dandy)
 
 ---
 
-### 6. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
-
-💰 **Salary**: $85,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manageron-the-automattic-special-projects-team-automattic)
-
----
-
-### 7. Program Manager at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/program-manager-gitlab)
-
----
-
-### 8. Head of Creative Studio at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-creative-studio-vrchat)
-
----
-
-### 9. Continuous Improvement Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/continuous-improvement-engineer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -133,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
