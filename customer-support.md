@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 1. Customer Support (Pacific Time) at Circle
+
+💰 **Salary**: $45,000-$60,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-circle)
+
+---
+
+### 2. Customer Success Advisor - APAC at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-advisor-apac-xapo-bank)
+
+---
+
+### 3. Institutional Client Services (EU) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-client-services-binance)
+
+---
+
+### 4. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 5. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Happiness Engineer, Customer Support & Success at Automattic
+### 6. Happiness Engineer, Customer Support & Success at Automattic
 
 💰 **Salary**: $40,000-$68,000 USD
 
@@ -40,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. CX Enablement Knowledge Management Associate at Dandy
+### 7. CX Enablement Knowledge Management Associate at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -52,22 +84,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Customer Experience Enablement Lead at Dandy
-
-💰 **Salary**: $90,000-$110,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-enablement-lead-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -95,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
