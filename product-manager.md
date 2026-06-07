@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Business Compliance Specialist at Binance
+### 1. Senior Product Manager at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-applaudo)
+
+---
+
+### 2. Logistics Solutions Marketing Specialist at Camunda
+
+💰 **Salary**: $131,300-$211,600 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/logistics-solutions-marketing-specialist-camunda)
+
+---
+
+### 3. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Marketing Manager (global) at beehiiv
+### 4. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Manager, Growth & Analytics at Automattic
+### 5. Product Manager, Growth & Analytics at Automattic
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -42,7 +64,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Director of Product, Consumer at VRChat
+### 6. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -54,50 +76,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Senior Product Manager, Web3 Earn at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-web3-earn-binance)
 
 ---
 
-### 6. Web3 Earn Product Operations Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web3-earn-product-operations-specialist-binance)
-
----
-
-### 7. Head of Stablecoins at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-stablecoins-solana)
-
----
-
-### 8. (Senior) Product Manager, Futures Frontend at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-futures-frontend-binance)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -125,6 +107,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
