@@ -148,44 +148,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Intermediate Vulnerability Researcher, AST: Vulnerability Research at GitLab
-
-💰 **Salary**: $98,000-$210,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-vulnerability-researcher-ast-vulnerability-research-gitlab)
 
 ---
 
-### 15. Senior Web Security Engineer, Browser Platform at DuckDuckGo
-
-💰 **Salary**: $178,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-duckduckgo)
-
----
-
-### 16. Security Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-binance)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -213,6 +179,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
