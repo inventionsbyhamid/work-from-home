@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Business Compliance Specialist at Binance
+### 1. Institutional Client Services (EU) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-client-services-binance)
+
+---
+
+### 2. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Global Regulatory Legal Lead at Binance
+### 3. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Global Regulatory Legal Lead at Binance
+### 4. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Head of Data at Solana
+### 5. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Research BD Manager/Director at Binance
+### 6. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Market Risk Analyst at Alpaca
+### 7. Market Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -68,64 +78,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Senior FP&A Analyst at Camunda
-
-💰 **Salary**: $124,600-$200,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-fp-a-analyst-camunda)
 
 ---
 
-### 8. Internal Audit Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-audit-manager-binance)
-
----
-
-### 9. IT Enterprise Applications Engineer, Zuora/NetSuite at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-enterprise-applications-engineer-zuora-netsuite-gitlab)
-
----
-
-### 10. Senior Manager - Treasury at Dandy
-
-💰 **Salary**: $140,250-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-treasury-dandy)
-
----
-
-### 11. Revenue Operations Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-worldwide-dandy)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -153,6 +109,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
