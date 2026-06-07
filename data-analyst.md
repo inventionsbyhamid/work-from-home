@@ -100,30 +100,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. Affiliate Data Asia / Data Analyst (Binance Accelerator Program) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/affiliate-data-asia-data-analyst-binance)
 
 ---
 
-### 11. Senior Data Scientist / Analyst (AI/LLM) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-analyst-binance)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -151,6 +131,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
