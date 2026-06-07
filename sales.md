@@ -174,42 +174,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Revenue Operations Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-worldwide-dandy)
 
 ---
 
-### 18. Senior Solutions Engineer at Automattic
-
-💰 **Salary**: $120,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-solutions-engineer-automattic)
-
----
-
-### 19. Telecom Account Executive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/telecom-account-executive-canonical)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -237,6 +205,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
