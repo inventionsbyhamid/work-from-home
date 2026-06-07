@@ -38,30 +38,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Binance Accelerator Program - QA at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-qa-binance)
 
 ---
 
-### 5. Senior QA Engineer - .COM - Automation & Java coding at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineer-com-automation-java-coding-binance)
-
----
-
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -89,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
