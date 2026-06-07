@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Account Executive at Canonical
+### 1. Customer Success Advisor - APAC at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-advisor-apac-xapo-bank)
+
+---
+
+### 2. Enterprise Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. SMB Practice Success Account Manager at Dandy
+### 3. SMB Practice Success Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Customer Success Manager - MEA at Camunda
+### 4. Customer Success Manager - MEA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Customer Success Engineer at GitLab
+### 5. Customer Success Engineer at GitLab
 
 💰 **Salary**: $117,600-$252,000 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Senior Delivery Lead at Camunda
+### 6. Senior Delivery Lead at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -60,42 +70,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Senior User Growth & Lifecycle Specialist Global at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-global-binance)
 
 ---
 
-### 7. Technical Account Manager (TAM) on the Automattic Special Projects team at Automattic
-
-💰 **Salary**: $85,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manageron-the-automattic-special-projects-team-automattic)
-
----
-
-### 8. Web3 Earn Product Operations Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web3-earn-product-operations-specialist-binance)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -123,6 +101,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
