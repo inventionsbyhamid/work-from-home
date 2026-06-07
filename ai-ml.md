@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Machine Learning Engineer at Applaudo
+### 1. Senior Product Manager at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-applaudo)
+
+---
+
+### 2. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior DevSecOps Engineer (Security, AI) at Binance
+### 3. Senior DevSecOps Engineer (Security, AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Software Engineer, iOS at Wikimedia
+### 4. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+### 5. Binance Accelerator Program - DevOps Engineer (AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. LLM Data Scientist/Algorithm Engineer at Binance
+### 6. LLM Data Scientist/Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Graduate Talent Scientist at Canonical
+### 7. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Senior Software Engineer (AI-driven Solutions) at Applaudo
+### 8. Senior Software Engineer (AI-driven Solutions) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Field Strategist, Forward Deployed Engineer at GitLab
+### 9. Field Strategist, Forward Deployed Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. General Application - Remote, Worldwide at Nethermind
+### 10. General Application - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Distributed Systems Software Engineer, Python / Go at Canonical
+### 11. Distributed Systems Software Engineer, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
+### 12. Senior Golang Engineer (Recommendation), Strategy Engine at Binance
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Senior Machine Learning Engineer at Raya
+### 13. Senior Machine Learning Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Senior ML Engineer at Chess
+### 14. Senior ML Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 15. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. MLOps Field Engineer at Canonical
+### 16. MLOps Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +170,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Director of Product, Consumer at VRChat
+### 17. Director of Product, Consumer at VRChat
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -172,7 +182,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Senior Security Engineer at Automattic
+### 18. Senior Security Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -184,30 +194,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Senior Data Scientist / Analyst (AI/LLM) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-analyst-binance)
 
 ---
 
-### 19. Senior Data Warehouse Engineer, Big Data at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-warehouse-engineer-big-data-binance)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -235,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 06, 2026 at 00:00 UTC_
+_Last updated: June 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
