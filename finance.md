@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Institutional Client Services (EU) at Binance
+### 1. Procurement Lead for Production Materials & Consumables at Dandy
+
+💰 **Salary**: $97,750-$115,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-lead-for-production-materials-consumables-dandy)
+
+---
+
+### 2. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Business Compliance Specialist at Binance
+### 3. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Global Regulatory Legal Lead at Binance
+### 4. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Global Regulatory Legal Lead at Binance
+### 5. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Head of Data at Solana
+### 6. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -58,23 +70,13 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Research BD Manager/Director at Binance
+### 7. Research BD Manager/Director at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/research-bd-manager-director-binance)
-
----
-
-### 7. Market Risk Analyst at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-risk-analyst-alpaca)
 
 ---
 
@@ -109,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 07, 2026 at 00:00 UTC_
+_Last updated: June 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
