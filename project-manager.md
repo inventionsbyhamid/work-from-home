@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Regulatory & Licensing Legal Lead at Binance
+### 1. Procurement Lead for Production Materials & Consumables at Dandy
+
+💰 **Salary**: $97,750-$115,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-lead-for-production-materials-consumables-dandy)
+
+---
+
+### 2. Global Regulatory & Licensing Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Revenue Operations Manager at Dandy
+### 3. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,23 +40,13 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Salesforce Consultant at Applaudo
+### 4. Salesforce Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Project Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/salesforce-consultant-applaudo)
-
----
-
-### 4. Senior Delivery Lead at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-delivery-lead-camunda)
 
 ---
 
@@ -79,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 07, 2026 at 00:00 UTC_
+_Last updated: June 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
