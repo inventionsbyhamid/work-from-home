@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Infrastructure Security Engineer at MatterLabs
+### 1. IT Operations Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-operations-engineer-applaudo)
+
+---
+
+### 2. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Senior DevSecOps Engineer (Security, AI) at Binance
+### 3. Senior DevSecOps Engineer (Security, AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+### 4. Binance Accelerator Program - DevOps Engineer (AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 5. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+### 6. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Engineering Manager, AST: Composition Analysis at GitLab
+### 7. Engineering Manager, AST: Composition Analysis at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Director of IT at Dandy
+### 8. Director of IT at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Director of IT, Corporate & Manufacturing at Dandy
+### 9. Director of IT, Corporate & Manufacturing at Dandy
 
 💰 **Salary**: $153,600-$192,000 USD
 
@@ -96,7 +106,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Senior Security Operations Engineer at Canonical
+### 10. Senior Security Operations Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Security Engineer, Data Privacy at Binance
+### 11. Security Engineer, Data Privacy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -116,42 +126,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Sr. Product Security Engineer at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-product-security-engineer-raya)
 
 ---
 
-### 12. Zero Knowledge/Cryptography Auditor at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/zero-knowledge-cryptography-auditor-nethermind)
-
----
-
-### 13. Senior Security Engineer at Automattic
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-engineer-automattic)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -179,6 +157,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 07, 2026 at 00:00 UTC_
+_Last updated: June 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
