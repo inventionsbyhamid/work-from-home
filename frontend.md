@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Software Engineer, iOS at Wikimedia
+### 1. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-full-time-canonical)
+
+---
+
+### 2. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Software Engineer III, Core Experiences at Wikimedia
+### 3. Software Engineer III, Core Experiences at Wikimedia
 
 💰 **Salary**: $92,267-$144,201 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Senior Full Stack Engineer at Fueled
+### 4. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Senior Engineer - Social Experience at VRChat
+### 5. Senior Engineer - Social Experience at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Product Designer at Automattic
+### 6. Senior Product Designer at Automattic
 
 💰 **Salary**: $95,000-$200,000 USD
 
@@ -64,23 +74,13 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Senior iOS Developer at Applaudo
+### 7. Senior iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-developer-applaudo)
-
----
-
-### 7. Full Stack Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-developer-applaudo)
 
 ---
 
@@ -115,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 07, 2026 at 00:00 UTC_
+_Last updated: June 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
