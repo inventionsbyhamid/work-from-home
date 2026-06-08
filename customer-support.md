@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Support (Pacific Time) at Circle
+### 1. Community Support Manager at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-manager-raya)
+
+---
+
+### 2. Customer Support (Pacific Time) at Circle
 
 💰 **Salary**: $45,000-$60,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Success Advisor - APAC at Xapo Bank
+### 3. Customer Success Advisor - APAC at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Institutional Client Services (EU) at Binance
+### 4. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 5. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 6. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Happiness Engineer, Customer Support & Success at Automattic
+### 7. Happiness Engineer, Customer Support & Success at Automattic
 
 💰 **Salary**: $40,000-$68,000 USD
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. CX Enablement Knowledge Management Associate at Dandy
+### 8. CX Enablement Knowledge Management Associate at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -87,7 +97,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -115,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 07, 2026 at 00:00 UTC_
+_Last updated: June 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
