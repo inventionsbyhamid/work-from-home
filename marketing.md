@@ -84,62 +84,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Marketing Leader at Dandy
-
-💰 **Salary**: $138,188-$167,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-leader-dandy)
 
 ---
 
-### 9. EMEA Marketing Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/emea-marketing-manager-canonical)
-
----
-
-### 10. Content Creator at 90 Seconds
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-creator-full-time-90-seconds)
-
----
-
-### 11. Binance Accelerator Program - Creative Social Media & Meme at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-creative-social-media-meme-global-binance)
-
----
-
-### 12. Creator Partnerships Manager, Binance Square at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-partnerships-manager-binance-square-binance)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -167,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 08, 2026 at 00:00 UTC_
+_Last updated: June 09, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
