@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director, User Insights at DuckDuckGo
+### 1. Senior Data Analyst at Solana
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-analyst-solana)
+
+---
+
+### 2. Director, User Insights at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. LLM Data Scientist/Algorithm Engineer at Binance
+### 3. LLM Data Scientist/Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Privacy Fellow at Wikimedia
+### 4. Privacy Fellow at Wikimedia
 
 💰 **Salary**: $75,473-$114,977 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Process Engineer, CNC Automation at Dandy
+### 5. Process Engineer, CNC Automation at Dandy
 
 💰 **Salary**: $142,600-$167,700 USD
 
@@ -54,23 +64,13 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. General Application - Remote, Worldwide at Nethermind
+### 6. General Application - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-application-remote-worldwide-nethermind)
-
----
-
-### 6. Research BD Manager/Director at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/research-bd-manager-director-binance)
 
 ---
 
@@ -105,6 +105,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 08, 2026 at 00:00 UTC_
+_Last updated: June 09, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
