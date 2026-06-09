@@ -28,30 +28,10 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Content Creator at 90 Seconds
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-creator-full-time-90-seconds)
 
 ---
 
-### 4. Binance Accelerator Program - Creative Social Media & Meme at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-creative-social-media-meme-global-binance)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -79,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 08, 2026 at 00:00 UTC_
+_Last updated: June 09, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
