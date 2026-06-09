@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Community Support Manager at Raya
+### 1. Customer Experience Dental Lab Technicians - Removables at Dandy
+
+💰 **Salary**: $64,800-$81,000 AUD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-removables-remote-australia-dandy)
+
+---
+
+### 2. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Support (Pacific Time) at Circle
+### 3. Customer Support (Pacific Time) at Circle
 
 💰 **Salary**: $45,000-$60,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Customer Success Advisor - APAC at Xapo Bank
+### 4. Customer Success Advisor - APAC at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Institutional Client Services (EU) at Binance
+### 5. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 6. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 7. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Happiness Engineer, Customer Support & Success at Automattic
+### 8. Happiness Engineer, Customer Support & Success at Automattic
 
 💰 **Salary**: $40,000-$68,000 USD
 
@@ -79,18 +91,6 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 📍 **Category**: Customer Support
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/happiness-engineer-customer-support-success-automattic)
-
----
-
-### 8. CX Enablement Knowledge Management Associate at Dandy
-
-💰 **Salary**: $70,000-$80,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cx-enablement-knowledge-management-associate-dandy)
 
 ---
 
@@ -125,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 08, 2026 at 00:00 UTC_
+_Last updated: June 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
