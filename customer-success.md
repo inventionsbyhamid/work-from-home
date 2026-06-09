@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Success Advisor - APAC at Xapo Bank
+### 1. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vp-of-customer-success-xapo-bank)
+
+---
+
+### 2. Customer Experience Dental Lab Technicians - Removables at Dandy
+
+💰 **Salary**: $64,800-$81,000 AUD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-removables-remote-australia-dandy)
+
+---
+
+### 3. Customer Success Advisor - APAC at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Enterprise Account Executive at Canonical
+### 4. Enterprise Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. SMB Practice Success Account Manager at Dandy
+### 5. SMB Practice Success Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,20 +60,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Customer Success Manager - MEA at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-manager-mea-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -79,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 08, 2026 at 00:00 UTC_
+_Last updated: June 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
