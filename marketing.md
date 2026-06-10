@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Logistics Solutions Marketing Specialist at Camunda
+### 1. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $103,700-$122,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
+
+---
+
+### 2. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $103,700-$122,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-remote-dandy)
+
+---
+
+### 3. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 4. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Global Affiliate Manager at Binance
+### 5. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +64,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Senior Internal Communications Manager at Coinbase
+### 6. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -52,7 +76,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Senior Product Marketing Manager (global) at beehiiv
+### 7. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -64,7 +88,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Content marketing team manager at Canonical
+### 8. Content marketing team manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +98,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Ads Implementation Specialist - Social/Google at Binance
+### 9. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +111,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -115,6 +139,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 09, 2026 at 00:01 UTC_
+_Last updated: June 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
