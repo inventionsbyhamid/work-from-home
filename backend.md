@@ -8,7 +8,57 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Platform Engineer at Xapo Bank
+### 1. Android Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-developer-full-time-applaudo)
+
+---
+
+### 2. Software Engineer at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-xapo-bank)
+
+---
+
+### 3. Senior Java Backend Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-backend-engineer-applaudo)
+
+---
+
+### 4. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-plan-knowledge-gitlab)
+
+---
+
+### 5. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-contractor-wp-media)
+
+---
+
+### 6. Platform Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +68,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 7. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -30,7 +80,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 8. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +90,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 9. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +100,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+### 10. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +110,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Machine Learning Engineer at Applaudo
+### 11. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Staff Software Engineer (SRE) at Phantom
+### 12. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -82,7 +132,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 13. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +142,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Senior/Staff Platform Engineer at VRChat
+### 14. Senior/Staff Platform Engineer at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +152,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Staff Software Engineer, Backend (Consumer) at Coinbase
+### 15. Staff Software Engineer, Backend (Consumer) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -114,7 +164,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Software Engineer - App Stores at Canonical
+### 16. Software Engineer - App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +174,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 17. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +184,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. Senior Software Engineer (AI-driven Solutions) at Applaudo
+### 18. Senior Software Engineer (AI-driven Solutions) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +194,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Senior Backend Engineer - Representation at Atticus
+### 19. Senior Backend Engineer - Representation at Atticus
 
 💰 **Salary**: $157,250-$230,000 USD
 
@@ -156,7 +206,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Senior Backend Engineer at Raya
+### 20. Senior Backend Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +216,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Backend Engineer (Java) - KYC Tech Asia at Binance
+### 21. Backend Engineer (Java) - KYC Tech Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +226,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Senior Data Engineer at Solana
+### 22. Senior Data Engineer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +236,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 18. Senior Software Engineer - Platform at Alpaca
+### 23. Senior Software Engineer - Platform at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -196,20 +246,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Senior Application Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-architect-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -237,6 +277,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 09, 2026 at 00:00 UTC_
+_Last updated: June 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
