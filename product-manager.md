@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director, User Insights at DuckDuckGo
+### 1. Product Manager, New Assets at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-new-assets-alpaca)
+
+---
+
+### 2. Senior Product Manager, Chess AI at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-chess-ai-chess)
+
+---
+
+### 3. Product Manager, Self Managed Service at Camunda
+
+💰 **Salary**: $143,800-$231,900 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-self-managed-service-camunda)
+
+---
+
+### 4. Director, User Insights at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -20,7 +52,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager at Applaudo
+### 5. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Logistics Solutions Marketing Specialist at Camunda
+### 6. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -42,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Business Compliance Specialist at Binance
+### 7. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +84,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Senior Product Marketing Manager (global) at beehiiv
+### 8. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -67,7 +99,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -95,6 +127,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 09, 2026 at 00:01 UTC_
+_Last updated: June 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
