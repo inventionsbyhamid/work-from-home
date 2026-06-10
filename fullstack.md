@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full Stack Developer at Crossover
+### 1. Software Engineer at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-xapo-bank)
+
+---
+
+### 2. Full Stack Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Software Engineer III, Core Experiences at Wikimedia
+### 3. Software Engineer III, Core Experiences at Wikimedia
 
 💰 **Salary**: $92,267-$144,201 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior Full Stack Engineer at Fueled
+### 4. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +53,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -71,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 09, 2026 at 00:00 UTC_
+_Last updated: June 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
