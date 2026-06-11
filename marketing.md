@@ -8,15 +8,15 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Enablement Manager at Dandy
+### 1. Senior Growth Engineer at Buffer
 
-💰 **Salary**: $103,700-$122,000 USD
+💰 **Salary**: $156,500-$202,300 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-engineer-buffer)
 
 ---
 
@@ -28,11 +28,23 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 📍 **Category**: Marketing
 
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
+
+---
+
+### 3. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $103,700-$122,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-remote-dandy)
 
 ---
 
-### 3. Logistics Solutions Marketing Specialist at Camunda
+### 4. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -44,7 +56,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 5. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Global Affiliate Manager at Binance
+### 6. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Senior Internal Communications Manager at Coinbase
+### 7. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -76,7 +88,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Senior Product Marketing Manager (global) at beehiiv
+### 8. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Content marketing team manager at Canonical
+### 9. Content marketing team manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +110,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Ads Implementation Specialist - Social/Google at Binance
+### 10. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -111,7 +123,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -139,6 +151,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 10, 2026 at 00:00 UTC_
+_Last updated: June 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
