@@ -21,26 +21,26 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 15 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 5 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 23 remote jobs available
+- 🏠 **[Backend](backend.md)** - 22 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 18 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 5 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 10 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 8 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 29 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 12 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 27 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 13 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 10 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 4 remote jobs available
 - 🏠 **[Legal](legal.md)** - 8 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 9 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 10 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 1 remote job available
-- 🏠 **[Product Manager](product-manager.md)** - 8 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 9 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 6 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 5 remote jobs available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
-- 🏠 **[Sales](sales.md)** - 19 remote jobs available
+- 🏠 **[Sales](sales.md)** - 20 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 11 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 47 remote jobs available
@@ -53,7 +53,51 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Android Developer at Applaudo
+### 1. Customer Experience Dental Lab Technicians - Fixed at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technicians-fixed-remote-dandy)
+
+---
+
+### 2. Senior Product Manager - Core Platform at Camunda
+
+💰 **Salary**: $119,900-$193,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-core-platform-camunda)
+
+---
+
+### 3. Sales Manager at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-manager-dandy)
+
+---
+
+### 4. Senior Growth Engineer at Buffer
+
+💰 **Salary**: $156,500-$202,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-engineer-buffer)
+
+---
+
+### 5. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -63,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Software Engineer at Xapo Bank
+### 6. Software Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Sales Enablement Manager at Dandy
+### 7. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -85,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Cloud Engineer at Applaudo
+### 8. Cloud Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +139,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Java Backend Engineer at Applaudo
+### 9. Senior Java Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -105,7 +149,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 10. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -115,7 +159,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Product Manager, New Assets at Alpaca
+### 11. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -125,7 +169,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+### 12. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -135,7 +179,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Staff Site Reliability Engineer, Database at Alpaca
+### 13. Staff Site Reliability Engineer, Database at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -145,7 +189,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
+### 14. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
 
 🌍 **Location**: Worldwide
 
@@ -155,7 +199,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Product Manager, Chess AI at Chess
+### 15. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -165,7 +209,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Founding GTM Operations Manager at Dandy
+### 16. Founding GTM Operations Manager at Dandy
 
 💰 **Salary**: $116,450-$137,000 USD
 
@@ -177,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
+### 17. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -187,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Product Manager, Self Managed Service at Camunda
+### 18. Product Manager, Self Managed Service at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -199,7 +243,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Director / Senior Director of Tax at Dandy
+### 19. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -211,7 +255,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Sales Enablement Manager at Dandy
+### 20. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -220,48 +264,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-remote-dandy)
-
----
-
-### 17. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vp-of-customer-success-xapo-bank)
-
----
-
-### 18. XDR at Dandy
-
-💰 **Salary**: $62,400-$82,400 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/xdr-remote-dandy)
-
----
-
-### 19. Senior Data Analyst at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-analyst-solana)
-
----
-
-### 20. Channel Partner Sales Executive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/channel-partner-sales-executive-canonical)
 
 ---
 
@@ -291,6 +293,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 10, 2026 at 00:00 UTC_
+_Last updated: June 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
