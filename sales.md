@@ -208,22 +208,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. XDR at Dandy
-
-💰 **Salary**: $62,400+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/xdr-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -251,6 +239,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 11, 2026 at 00:00 UTC_
+_Last updated: June 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
