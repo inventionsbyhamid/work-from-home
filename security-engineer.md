@@ -116,20 +116,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Senior Security Operations Engineer at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-operations-engineer-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -157,6 +147,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 11, 2026 at 00:00 UTC_
+_Last updated: June 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
