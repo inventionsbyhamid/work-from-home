@@ -8,15 +8,13 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Enablement Manager at Dandy
-
-💰 **Salary**: $103,700-$122,000 USD
+### 1. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: HR
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-specialist-binance)
 
 ---
 
@@ -28,11 +26,23 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 📍 **Category**: HR
 
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
+
+---
+
+### 3. Sales Enablement Manager at Dandy
+
+💰 **Salary**: $103,700-$122,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-remote-dandy)
 
 ---
 
-### 3. Senior Internal Communications Manager at Coinbase
+### 4. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -44,7 +54,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Graduate Talent Scientist at Canonical
+### 5. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -57,7 +67,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -85,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 11, 2026 at 00:00 UTC_
+_Last updated: June 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
