@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager, New Assets at Alpaca
+### 1. Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-analyst-xapo-bank)
+
+---
+
+### 2. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
+### 3. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Director / Senior Director of Tax at Dandy
+### 4. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Compliance Case Analyst - Chinese Speaking at Binance
+### 5. Compliance Case Analyst - Chinese Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Procurement Lead for Production Materials & Consumables at Dandy
+### 6. Procurement Lead for Production Materials & Consumables at Dandy
 
 💰 **Salary**: $97,750-$115,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Institutional Client Services (EU) at Binance
+### 7. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Business Compliance Specialist at Binance
+### 8. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Global Regulatory Legal Lead at Binance
+### 9. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Global Regulatory Legal Lead at Binance
+### 10. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Head of Data at Solana
+### 11. Head of Data at Solana
 
 🌍 **Location**: Worldwide
 
@@ -115,7 +125,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -143,6 +153,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 11, 2026 at 00:00 UTC_
+_Last updated: June 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
