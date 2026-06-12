@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 1. Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-analyst-xapo-bank)
+
+---
+
+### 2. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
+### 3. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 4. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 💰 **Salary**: $64,800-$81,000 AUD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Community Support Manager at Raya
+### 5. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Customer Support (Pacific Time) at Circle
+### 6. Customer Support (Pacific Time) at Circle
 
 💰 **Salary**: $45,000-$60,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Customer Success Advisor - APAC at Xapo Bank
+### 7. Customer Success Advisor - APAC at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Institutional Client Services (EU) at Binance
+### 8. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Customer Experience Dental Lab Technicians - Fixed at Dandy
+### 9. Customer Experience Dental Lab Technicians - Fixed at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 10. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Happiness Engineer, Customer Support & Success at Automattic
+### 11. Happiness Engineer, Customer Support & Success at Automattic
 
 💰 **Salary**: $40,000-$68,000 USD
 
@@ -117,7 +127,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -145,6 +155,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 11, 2026 at 00:00 UTC_
+_Last updated: June 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
