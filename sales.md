@@ -178,40 +178,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Embedded Devices Software Solution Sales Account Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/embedded-devices-software-solution-sales-account-manager-canonical)
 
 ---
 
-### 18. SMB Practice Success Account Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/smb-practice-success-account-manager-dandy)
-
----
-
-### 19. Partner Sales Director - IHV Alliances at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-sales-director-ihv-alliances-canonical)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -239,6 +209,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 12, 2026 at 00:00 UTC_
+_Last updated: June 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
