@@ -80,20 +80,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Senior Data Engineer at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-solana)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -121,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 12, 2026 at 00:00 UTC_
+_Last updated: June 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
