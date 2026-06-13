@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Talent Acquisition Specialist (Spanish Speaker) at Binance
+### 1. Social Media Manager - Italian at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-manager-italian-chess)
+
+---
+
+### 2. Senior Associate Growth at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-associate-growth-passion-io)
+
+---
+
+### 3. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. SEO Specialist at Coalition Technologies
+### 4. SEO Specialist at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Senior Growth Engineer at Buffer
+### 5. Senior Growth Engineer at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Sales Enablement Manager at Dandy
+### 6. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -52,7 +72,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Sales Enablement Manager at Dandy
+### 7. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -64,7 +84,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Logistics Solutions Marketing Specialist at Camunda
+### 8. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -76,7 +96,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 9. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +106,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Global Affiliate Manager at Binance
+### 10. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +116,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Senior Internal Communications Manager at Coinbase
+### 11. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -108,7 +128,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Senior Product Marketing Manager (global) at beehiiv
+### 12. Senior Product Marketing Manager (global) at beehiiv
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -120,7 +140,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Content marketing team manager at Canonical
+### 13. Content marketing team manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -130,20 +150,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Ads Implementation Specialist - Social/Google at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-remote-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -171,6 +181,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 12, 2026 at 00:00 UTC_
+_Last updated: June 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
