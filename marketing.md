@@ -128,32 +128,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Senior Product Marketing Manager (global) at beehiiv
-
-💰 **Salary**: $140,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketing-manager-beehiiv)
 
 ---
 
-### 13. Content marketing team manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-marketing-team-manager-canonical)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -181,6 +159,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 13, 2026 at 00:00 UTC_
+_Last updated: June 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
