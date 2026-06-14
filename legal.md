@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
+### 1. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/investment-manager-xapo-bank)
+
+---
+
+### 2. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Director / Senior Director of Tax at Dandy
+### 3. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Compliance Case Analyst - Chinese Speaking at Binance
+### 4. Compliance Case Analyst - Chinese Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Privacy Fellow at Wikimedia
+### 5. Privacy Fellow at Wikimedia
 
 💰 **Salary**: $75,473-$114,977 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Global Regulatory & Licensing Legal Lead at Binance
+### 6. Global Regulatory & Licensing Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Business Compliance Specialist at Binance
+### 7. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Global Regulatory Legal Lead at Binance
+### 8. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 8. Global Regulatory Legal Lead at Binance
+### 9. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +105,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -123,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 13, 2026 at 00:00 UTC_
+_Last updated: June 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
