@@ -500,30 +500,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 48. Engineering Manager - Ubuntu Desktop Apps at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-ubuntu-desktop-apps-canonical)
 
 ---
 
-### 49. Backend Engineer (Java) - KYC Tech Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-kyc-tech-asia-binance)
-
----
-
-
----
-
-**Total Jobs**: 49 positions available
+**Total Jobs**: 47 positions available
 
 ---
 
@@ -551,6 +531,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 13, 2026 at 00:00 UTC_
+_Last updated: June 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
