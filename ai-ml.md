@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Blockchain Engineer at Binance
+### 1. Product Designer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-applaudo)
+
+---
+
+### 2. AI Agent Platform Engineer (Openclaw) at Automattic
+
+💰 **Salary**: $70,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-agent-platform-engineer-automattic)
+
+---
+
+### 3. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 4. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Product Manager, Chess AI at Chess
+### 5. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Senior Data Analyst at Solana
+### 6. Senior Data Analyst at Solana
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Software Developer at Crossover
+### 7. Software Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Product Manager at Applaudo
+### 8. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +90,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Machine Learning Engineer at Applaudo
+### 9. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior DevSecOps Engineer (Security, AI) at Binance
+### 10. Senior DevSecOps Engineer (Security, AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Senior Software Engineer, iOS at Wikimedia
+### 11. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -100,7 +122,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+### 12. Binance Accelerator Program - DevOps Engineer (AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +132,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. LLM Data Scientist/Algorithm Engineer at Binance
+### 13. LLM Data Scientist/Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +142,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Graduate Talent Scientist at Canonical
+### 14. Graduate Talent Scientist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +152,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Senior Software Engineer (AI-driven Solutions) at Applaudo
+### 15. Senior Software Engineer (AI-driven Solutions) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -140,33 +162,13 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Field Strategist, Forward Deployed Engineer at GitLab
+### 16. Field Strategist, Forward Deployed Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: AI/ML
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-strategist-forward-deployed-engineer-gitlab)
-
----
-
-### 15. General Application - Remote, Worldwide at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-application-remote-worldwide-nethermind)
-
----
-
-### 16. Distributed Systems Software Engineer, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/distributed-systems-software-engineer-python-go-canonical)
 
 ---
 
@@ -201,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 14, 2026 at 00:00 UTC_
+_Last updated: June 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
