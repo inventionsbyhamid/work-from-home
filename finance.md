@@ -112,20 +112,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Global Regulatory Legal Lead at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-worldwide-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -153,6 +143,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 14, 2026 at 00:00 UTC_
+_Last updated: June 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
