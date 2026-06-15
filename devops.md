@@ -260,32 +260,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 25. Distributed Systems Software Engineer, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/distributed-systems-software-engineer-python-go-canonical)
 
 ---
 
-### 26. Director of IT at Dandy
-
-💰 **Salary**: $153,600-$192,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-it-dandy)
-
----
-
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -313,6 +291,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 14, 2026 at 00:00 UTC_
+_Last updated: June 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
