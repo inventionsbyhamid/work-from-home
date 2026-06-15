@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Manager - Core Platform at Camunda
+### 1. Product Designer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-applaudo)
+
+---
+
+### 2. Senior Product Manager - Core Platform at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager, New Assets at Alpaca
+### 3. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Senior Product Manager, Chess AI at Chess
+### 4. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Product Manager, Self Managed Service at Camunda
+### 5. Product Manager, Self Managed Service at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Director, User Insights at DuckDuckGo
+### 6. Director, User Insights at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Senior Product Manager at Applaudo
+### 7. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Logistics Solutions Marketing Specialist at Camunda
+### 8. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Business Compliance Specialist at Binance
+### 9. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -99,7 +109,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -127,6 +137,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 14, 2026 at 00:00 UTC_
+_Last updated: June 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
