@@ -174,20 +174,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. Enterprise Account Executive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -215,6 +205,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 14, 2026 at 00:00 UTC_
+_Last updated: June 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
