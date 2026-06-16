@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Associate Growth at Passion.io
+### 1. Assistant Relationship Manager - APAC (Remote - Work from Anywhere) at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/assistant-relationship-manager-apac-xapo-bank)
+
+---
+
+### 2. Senior Associate Growth at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Senior Customer Success Manager at Camunda
+### 3. Senior Customer Success Manager at Camunda
 
 💰 **Salary**: $143,400-$231,200 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
+### 4. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Customer Experience Dental Lab Technicians - Removables at Dandy
+### 5. Customer Experience Dental Lab Technicians - Removables at Dandy
 
 💰 **Salary**: $64,800-$81,000 AUD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Customer Success Advisor - APAC at Xapo Bank
+### 6. Customer Success Advisor - APAC at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -65,7 +75,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -93,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
