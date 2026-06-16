@@ -228,42 +228,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 22. Solutions Architect for Automotive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-for-automotive-canonical)
 
 ---
 
-### 23. Field Strategist, Forward Deployed Engineer at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-strategist-forward-deployed-engineer-gitlab)
-
----
-
-### 24. Engineering Manager, AST: Composition Analysis at GitLab
-
-💰 **Salary**: $131,600-$282,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-ast-composition-analysis-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -291,6 +259,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
