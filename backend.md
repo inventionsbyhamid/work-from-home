@@ -194,42 +194,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Senior QA Engineer - .COM - Automation & Java coding at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineer-com-automation-java-coding-remote-binance)
 
 ---
 
-### 20. Senior Software Engineer (AI-driven Solutions) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-applaudo)
-
----
-
-### 21. Senior Backend Engineer - Representation at Atticus
-
-💰 **Salary**: $157,250-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-representation-atticus)
-
----
-
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -257,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
