@@ -430,72 +430,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 41. Senior QA Engineer - .COM - Automation & Java coding at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineer-com-automation-java-coding-remote-binance)
 
 ---
 
-### 42. Senior Engineer - Social Experience at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-social-experience-vrchat)
-
----
-
-### 43. Senior Software Engineer (AI-driven Solutions) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-applaudo)
-
----
-
-### 44. Solutions Architect for Automotive at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-for-automotive-canonical)
-
----
-
-### 45. Senior Backend Engineer - Representation at Atticus
-
-💰 **Salary**: $157,250-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-representation-atticus)
-
----
-
-### 46. Field Strategist, Forward Deployed Engineer at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-strategist-forward-deployed-engineer-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 46 positions available
+**Total Jobs**: 40 positions available
 
 ---
 
@@ -523,6 +461,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
