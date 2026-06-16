@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Designer at Applaudo
+### 1. UX/UI Designer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-ui-designer-applaudo)
+
+---
+
+### 2. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,25 +28,13 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. UX/UI Designer - ChessKid at Chess
+### 3. UX/UI Designer - ChessKid at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-ui-designer-chesskid-chess)
-
----
-
-### 3. Senior Product Designer at Automattic
-
-💰 **Salary**: $95,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-automattic)
 
 ---
 
@@ -71,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
