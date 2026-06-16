@@ -86,32 +86,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Senior Engineer - Social Experience at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-social-experience-vrchat)
 
 ---
 
-### 9. Senior Product Designer at Automattic
-
-💰 **Salary**: $95,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-automattic)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -139,6 +117,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 15, 2026 at 00:00 UTC_
+_Last updated: June 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
