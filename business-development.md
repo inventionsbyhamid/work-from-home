@@ -154,20 +154,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Commercial Account Executive at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-account-executive-full-time-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -195,6 +185,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 16, 2026 at 00:00 UTC_
+_Last updated: June 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
