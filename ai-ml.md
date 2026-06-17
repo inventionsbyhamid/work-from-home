@@ -152,20 +152,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Graduate Talent Scientist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-talent-scientist-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -193,6 +183,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 16, 2026 at 00:00 UTC_
+_Last updated: June 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
