@@ -27,7 +27,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Customer Success](customer-success.md)** - 6 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 10 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 5 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 21 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 20 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 8 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 10 remote jobs available
@@ -45,7 +45,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 13 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 7 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 40 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 39 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 1 remote job available
 
 
@@ -287,6 +287,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 17, 2026 at 00:00 UTC_
+_Last updated: June 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
