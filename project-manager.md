@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Founding GTM Operations Manager at Dandy
+### 1. Field Marketing Manager - North America at Camunda
+
+💰 **Salary**: $109,400-$176,400 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-marketing-manager-north-america-camunda)
+
+---
+
+### 2. Founding GTM Operations Manager at Dandy
 
 💰 **Salary**: $116,450-$137,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
+### 3. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Director / Senior Director of Tax at Dandy
+### 4. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Procurement Lead for Production Materials & Consumables at Dandy
+### 5. Procurement Lead for Production Materials & Consumables at Dandy
 
 💰 **Salary**: $97,750-$115,000 USD
 
@@ -54,7 +66,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Global Regulatory & Licensing Legal Lead at Binance
+### 6. Global Regulatory & Licensing Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Revenue Operations Manager at Dandy
+### 7. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +89,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -105,6 +117,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 18, 2026 at 00:00 UTC_
+_Last updated: June 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
