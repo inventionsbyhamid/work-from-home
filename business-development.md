@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
+### 1. Field Marketing Manager - North America at Camunda
+
+💰 **Salary**: $109,400-$176,400 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/field-marketing-manager-north-america-camunda)
+
+---
+
+### 2. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Senior Associate Growth at Passion.io
+### 3. Senior Associate Growth at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Talent Acquisition Specialist (Spanish Speaker) at Binance
+### 4. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Product Manager, New Assets at Alpaca
+### 5. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. XDR at Dandy
+### 6. XDR at Dandy
 
 💰 **Salary**: $62,400-$82,400 USD
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Channel Partner Sales Executive at Canonical
+### 7. Channel Partner Sales Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Commercial Account Executive at Dandy
+### 8. Commercial Account Executive at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Enterprise Account Executive (DSO Team) at Dandy
+### 9. Enterprise Account Executive (DSO Team) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Institutional Client Services (EU) at Binance
+### 10. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +112,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Logistics Solutions Marketing Specialist at Camunda
+### 11. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 12. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +134,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Revenue Operations Director at Dandy
+### 13. Revenue Operations Director at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Global Affiliate Manager at Binance
+### 14. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Business Development Manager at Dandy
+### 15. Business Development Manager at Dandy
 
 💰 **Salary**: $105,000-$210,000 USD
 
@@ -157,7 +169,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -185,6 +197,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 18, 2026 at 00:00 UTC_
+_Last updated: June 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
