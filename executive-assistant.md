@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Regulatory & Licensing Legal Lead at Binance
+### 1. Senior Director, Accounting & Controlling at Camunda
+
+💰 **Salary**: $225,900-$364,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-accounting-controlling-camunda)
+
+---
+
+### 2. Global Regulatory & Licensing Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +33,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -49,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 19, 2026 at 00:00 UTC_
+_Last updated: June 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
