@@ -398,22 +398,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 38. Staff Software Engineer, Backend (Consumer) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-backend-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 38 positions available
+**Total Jobs**: 37 positions available
 
 ---
 
@@ -441,6 +429,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 19, 2026 at 00:00 UTC_
+_Last updated: June 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
