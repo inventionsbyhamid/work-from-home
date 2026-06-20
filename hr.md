@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Talent Acquisition Specialist (Spanish Speaker) at Binance
+### 1. Senior People Generalist at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-people-generalist-vrchat)
+
+---
+
+### 2. Compensation Lead at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compensation-lead-dandy)
+
+---
+
+### 3. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Sales Enablement Manager at Dandy
+### 4. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Sales Enablement Manager at Dandy
+### 5. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -42,7 +62,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Senior Internal Communications Manager at Coinbase
+### 6. Senior Internal Communications Manager at Coinbase
 
 💰 **Salary**: $201,365-$236,900 USD
 
@@ -57,7 +77,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -85,6 +105,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 19, 2026 at 00:00 UTC_
+_Last updated: June 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
