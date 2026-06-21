@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Cloud Engineer at Applaudo
+### 1. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+
+💰 **Salary**: $178,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-remote-duckduckgo)
+
+---
+
+### 2. IT Department Lead - Remote, Worldwide at Nethermind
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-department-lead-remote-worldwide-nethermind)
+
+---
+
+### 3. Cloud Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. IT Operations Engineer at Applaudo
+### 4. IT Operations Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Senior Infrastructure Security Engineer at MatterLabs
+### 5. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Senior DevSecOps Engineer (Security, AI) at Binance
+### 6. Senior DevSecOps Engineer (Security, AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Binance Accelerator Program - DevOps Engineer (AI) at Binance
+### 7. Binance Accelerator Program - DevOps Engineer (AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 8. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +90,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+### 9. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -83,7 +105,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -111,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
