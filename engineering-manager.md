@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Manager at Dandy
+### 1. Director of Global Support at Automattic
+
+💰 **Salary**: $100,000-$165,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-global-support-automattic)
+
+---
+
+### 2. IT Department Lead - Remote, Worldwide at Nethermind
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-department-lead-remote-worldwide-nethermind)
+
+---
+
+### 3. Sales Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
+### 4. VP of Customer Success (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Community Support Manager at Raya
+### 5. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Cloud Field Engineering Manager at Canonical
+### 6. Cloud Field Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Director, User Insights at DuckDuckGo
+### 7. Director, User Insights at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Manager, Cloud Infrastructure Engineering at Camunda
+### 8. Manager, Cloud Infrastructure Engineering at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -72,7 +94,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 9. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +104,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Ubuntu Engineering Lead at Canonical
+### 10. Ubuntu Engineering Lead at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +117,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -123,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
