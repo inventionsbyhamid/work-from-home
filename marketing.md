@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Field Marketing Manager - North America at Camunda
+### 1. SEO Strategist at Coalition Technologies
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/seo-strategist-coalition-technologies)
+
+---
+
+### 2. Account Executive (New Vertical) at Dandy
+
+💰 **Salary**: $85,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-dandy)
+
+---
+
+### 3. Field Marketing Manager - North America at Camunda
 
 💰 **Salary**: $109,400-$176,400 USD
 
@@ -20,7 +42,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Social Media Manager - Italian at Chess
+### 4. Social Media Manager - Italian at Chess
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Senior Associate Growth at Passion.io
+### 5. Senior Associate Growth at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Talent Acquisition Specialist (Spanish Speaker) at Binance
+### 6. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. SEO Specialist at Coalition Technologies
+### 7. SEO Specialist at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Senior Growth Engineer at Buffer
+### 8. Senior Growth Engineer at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -72,7 +94,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Sales Enablement Manager at Dandy
+### 9. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -84,7 +106,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Sales Enablement Manager at Dandy
+### 10. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $103,700-$122,000 USD
 
@@ -96,7 +118,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Logistics Solutions Marketing Specialist at Camunda
+### 11. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -108,7 +130,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 12. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +140,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Global Affiliate Manager at Binance
+### 13. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -128,22 +150,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Senior Internal Communications Manager at Coinbase
-
-💰 **Salary**: $201,365-$236,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-internal-communications-manager-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -171,6 +181,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
