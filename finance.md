@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Compensation Lead at Dandy
+### 1. Rule Tuning Specialist - Transaction Monitoring at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/rule-tuning-specialist-transaction-monitoring-binance)
+
+---
+
+### 2. Compensation Lead at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Senior Director, Accounting & Controlling at Camunda
+### 3. Senior Director, Accounting & Controlling at Camunda
 
 💰 **Salary**: $225,900-$364,300 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Assistant Relationship Manager - APAC (Remote - Work from Anywhere) at Xapo Bank
+### 4. Assistant Relationship Manager - APAC (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
+### 5. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 6. Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Product Manager, New Assets at Alpaca
+### 7. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
+### 8. Risk Operations Agent (AMER. US Timezone) - 8-months Contract at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Director / Senior Director of Tax at Dandy
+### 9. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Compliance Case Analyst - Chinese Speaking at Binance
+### 10. Compliance Case Analyst - Chinese Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Procurement Lead for Production Materials & Consumables at Dandy
+### 11. Procurement Lead for Production Materials & Consumables at Dandy
 
 💰 **Salary**: $97,750-$115,000 USD
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Institutional Client Services (EU) at Binance
+### 12. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Business Compliance Specialist at Binance
+### 13. Business Compliance Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -137,7 +147,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -165,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
