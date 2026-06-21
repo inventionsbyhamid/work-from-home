@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Backend Engineer, Recommendations at Raya
+### 1. Senior Backend Engineer, Member Experience at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-member-experience-raya)
+
+---
+
+### 2. Senior Backend Engineer, Recommendations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Blockchain Engineer at Binance
+### 3. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Android Developer at Applaudo
+### 4. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Software Engineer at Xapo Bank
+### 5. Software Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Senior Java Backend Engineer at Applaudo
+### 6. Senior Java Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 7. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+### 8. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Platform Engineer at Xapo Bank
+### 9. Platform Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 10. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 11. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 12. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+### 13. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. Machine Learning Engineer at Applaudo
+### 14. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Staff Software Engineer (SRE) at Phantom
+### 15. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -152,7 +162,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 16. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Senior/Staff Platform Engineer at VRChat
+### 17. Senior/Staff Platform Engineer at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -175,7 +185,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 16 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -203,6 +213,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
