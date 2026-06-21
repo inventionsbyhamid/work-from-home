@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Field Marketing Manager - North America at Camunda
+### 1. Account Executive (New Vertical) at Dandy
+
+💰 **Salary**: $85,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-dandy)
+
+---
+
+### 2. Field Marketing Manager - North America at Camunda
 
 💰 **Salary**: $109,400-$176,400 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
+### 3. Investment Manager (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Senior Associate Growth at Passion.io
+### 4. Senior Associate Growth at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Talent Acquisition Specialist (Spanish Speaker) at Binance
+### 5. Talent Acquisition Specialist (Spanish Speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Product Manager, New Assets at Alpaca
+### 6. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. XDR at Dandy
+### 7. XDR at Dandy
 
 💰 **Salary**: $62,400-$82,400 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Channel Partner Sales Executive at Canonical
+### 8. Channel Partner Sales Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Commercial Account Executive at Dandy
+### 9. Commercial Account Executive at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Enterprise Account Executive (DSO Team) at Dandy
+### 10. Enterprise Account Executive (DSO Team) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Institutional Client Services (EU) at Binance
+### 11. Institutional Client Services (EU) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Logistics Solutions Marketing Specialist at Camunda
+### 12. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Sales Director (B2B IT Services) - Remote Work: at BairesDev
+### 13. Sales Director (B2B IT Services) - Remote Work: at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Revenue Operations Director at Dandy
+### 14. Revenue Operations Director at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Global Affiliate Manager at Binance
+### 15. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Business Development Manager at Dandy
+### 16. Business Development Manager at Dandy
 
 💰 **Salary**: $105,000-$210,000 USD
 
@@ -169,7 +181,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 15 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -197,6 +209,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
