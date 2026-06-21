@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. QA Functional Engineer at Applaudo
+### 1. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+
+💰 **Salary**: $178,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-remote-duckduckgo)
+
+---
+
+### 2. Senior Backend Engineer, Member Experience at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-member-experience-raya)
+
+---
+
+### 3. QA Functional Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. AI Agent Platform Engineer (Openclaw) at Automattic
+### 4. AI Agent Platform Engineer (Openclaw) at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Senior Backend Engineer, Recommendations at Raya
+### 5. Senior Backend Engineer, Recommendations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Blockchain Engineer at Binance
+### 6. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Frontend Developer at Coalition Technologies
+### 7. Frontend Developer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Senior Product Manager - Core Platform at Camunda
+### 8. Senior Product Manager - Core Platform at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -72,7 +94,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Senior Growth Engineer at Buffer
+### 9. Senior Growth Engineer at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -84,7 +106,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Android Developer at Applaudo
+### 10. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +116,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Software Engineer at Xapo Bank
+### 11. Software Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +126,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Cloud Engineer at Applaudo
+### 12. Cloud Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +136,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Senior Java Backend Engineer at Applaudo
+### 13. Senior Java Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +146,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 14. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +156,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+### 15. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +166,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Staff Site Reliability Engineer, Database at Alpaca
+### 16. Staff Site Reliability Engineer, Database at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +176,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Platform Engineer at Xapo Bank
+### 17. Platform Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +186,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 18. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -176,7 +198,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Site Reliability Engineer at Chess
+### 19. Site Reliability Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +208,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Cloud Field Engineering Manager at Canonical
+### 20. Cloud Field Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +218,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 21. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +228,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Software Developer at Crossover
+### 22. Software Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +238,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 21. Senior Quality Platform Engineer at Circle
+### 23. Senior Quality Platform Engineer at Circle
 
 💰 **Salary**: $120,000-$130,000 USD
 
@@ -228,7 +250,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 22. Full Stack Developer at Crossover
+### 24. Full Stack Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +260,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 23. Manager, Cloud Infrastructure Engineering at Camunda
+### 25. Manager, Cloud Infrastructure Engineering at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -250,7 +272,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 24. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 26. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +282,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 25. Senior Infrastructure Security Engineer at MatterLabs
+### 27. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -270,7 +292,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 26. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
+### 28. System Software Engineer - Java Runtimes, Tooling and Ecosystem at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -280,7 +302,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 27. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 29. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -290,7 +312,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 28. DevOps Engineer at Crossover
+### 30. DevOps Engineer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -300,7 +322,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 29. Machine Learning Engineer at Applaudo
+### 31. Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -310,7 +332,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 30. Senior Software Engineer, iOS at Wikimedia
+### 32. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -322,7 +344,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 31. Staff Software Engineer (SRE) at Phantom
+### 33. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -334,7 +356,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 32. Smart Contract Auditor - Remote, Worldwide at Nethermind
+### 34. Smart Contract Auditor - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -344,7 +366,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 33. Software Engineer III, Core Experiences at Wikimedia
+### 35. Software Engineer III, Core Experiences at Wikimedia
 
 💰 **Salary**: $92,267-$144,201 USD
 
@@ -356,7 +378,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 34. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
+### 36. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -368,7 +390,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 35. Ubuntu Engineering Lead at Canonical
+### 37. Ubuntu Engineering Lead at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -378,7 +400,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 36. Senior Full Stack Engineer at Fueled
+### 38. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -388,7 +410,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 37. Senior/Staff Platform Engineer at VRChat
+### 39. Senior/Staff Platform Engineer at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -401,7 +423,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 37 positions available
+**Total Jobs**: 39 positions available
 
 ---
 
@@ -429,6 +451,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
