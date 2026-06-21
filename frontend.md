@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Frontend Developer at Coalition Technologies
+### 1. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+
+💰 **Salary**: $178,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-remote-duckduckgo)
+
+---
+
+### 2. Frontend Developer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Growth Engineer at Buffer
+### 3. Senior Growth Engineer at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 4. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 5. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Software Engineer, iOS at Wikimedia
+### 6. Senior Software Engineer, iOS at Wikimedia
 
 💰 **Salary**: $113,082-$175,725 USD
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Software Engineer III, Core Experiences at Wikimedia
+### 7. Software Engineer III, Core Experiences at Wikimedia
 
 💰 **Salary**: $92,267-$144,201 USD
 
@@ -76,7 +88,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Senior Full Stack Engineer at Fueled
+### 8. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -89,7 +101,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -117,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
