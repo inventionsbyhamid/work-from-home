@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior People Generalist at VRChat
+### 1. Rule Tuning Specialist - Transaction Monitoring at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/rule-tuning-specialist-transaction-monitoring-binance)
+
+---
+
+### 2. Senior People Generalist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Compensation Lead at Dandy
+### 3. Compensation Lead at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Founding GTM Operations Manager at Dandy
+### 4. Founding GTM Operations Manager at Dandy
 
 💰 **Salary**: $116,450-$137,000 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Senior Data Analyst at Solana
+### 5. Senior Data Analyst at Solana
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 6. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. LLM Data Scientist/Algorithm Engineer at Binance
+### 7. LLM Data Scientist/Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Revenue Operations Manager at Dandy
+### 8. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +93,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -111,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 20, 2026 at 00:00 UTC_
+_Last updated: June 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
