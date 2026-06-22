@@ -138,32 +138,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Revenue Operations Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-remote-dandy)
 
 ---
 
-### 14. Business Development Manager at Dandy
-
-💰 **Salary**: $105,000-$210,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-manager-dandy)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -191,6 +169,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 21, 2026 at 00:00 UTC_
+_Last updated: June 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
