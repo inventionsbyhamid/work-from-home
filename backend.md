@@ -172,20 +172,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Senior/Staff Platform Engineer at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-platform-engineer-vrchat)
 
 ---
 
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -213,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 22, 2026 at 00:00 UTC_
+_Last updated: June 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
