@@ -90,22 +90,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
-
-💰 **Salary**: $113,082-$175,725 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-infrastructure-foundations-wikimedia)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -133,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 22, 2026 at 00:00 UTC_
+_Last updated: June 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
