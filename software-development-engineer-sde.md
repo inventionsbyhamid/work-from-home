@@ -366,64 +366,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 35. Software Engineer III, Core Experiences at Wikimedia
-
-💰 **Salary**: $92,267-$144,201 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-iii-core-experiences-wikimedia)
 
 ---
 
-### 36. Senior Site Reliability Engineer, Infrastructure Foundations at Wikimedia
-
-💰 **Salary**: $113,082-$175,725 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-infrastructure-foundations-wikimedia)
-
----
-
-### 37. Ubuntu Engineering Lead at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ubuntu-engineering-lead-canonical)
-
----
-
-### 38. Senior Full Stack Engineer at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-worldwide-fueled)
-
----
-
-### 39. Senior/Staff Platform Engineer at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-platform-engineer-vrchat)
-
----
-
-
----
-
-**Total Jobs**: 39 positions available
+**Total Jobs**: 34 positions available
 
 ---
 
@@ -451,6 +397,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 22, 2026 at 00:00 UTC_
+_Last updated: June 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
