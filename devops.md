@@ -142,64 +142,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. DevOps Engineer at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/devops-engineer-crossover)
 
 ---
 
-### 15. Senior DevSecOps Engineer (Security, AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-devsecops-engineer-binance)
-
----
-
-### 16. Binance Accelerator Program - DevOps Engineer (AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-devops-engineer-binance)
-
----
-
-### 17. Process Engineer, CNC Automation at Dandy
-
-💰 **Salary**: $142,600-$167,700 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/process-engineer-cnc-automation-dandy)
-
----
-
-### 18. Staff Software Engineer (SRE) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-phantom)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -227,6 +173,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 23, 2026 at 00:00 UTC_
+_Last updated: June 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
