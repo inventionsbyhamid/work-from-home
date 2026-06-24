@@ -40,44 +40,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. LLM Data Scientist/Algorithm Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-binance)
 
 ---
 
-### 5. Privacy Fellow at Wikimedia
-
-💰 **Salary**: $75,473-$114,977 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/privacy-fellow-wikimedia)
-
----
-
-### 6. Process Engineer, CNC Automation at Dandy
-
-💰 **Salary**: $142,600-$167,700 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/process-engineer-cnc-automation-dandy)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -105,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 23, 2026 at 00:00 UTC_
+_Last updated: June 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
