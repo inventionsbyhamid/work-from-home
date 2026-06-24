@@ -60,40 +60,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Senior DevSecOps Engineer (Security, AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-devsecops-engineer-binance)
 
 ---
 
-### 7. Binance Accelerator Program - DevOps Engineer (AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-devops-engineer-binance)
-
----
-
-### 8. Smart Contract Auditor - Remote, Worldwide at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/smart-contract-auditor-remote-worldwide-nethermind)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -121,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 23, 2026 at 00:00 UTC_
+_Last updated: June 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
