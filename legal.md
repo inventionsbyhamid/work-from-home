@@ -60,42 +60,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Privacy Fellow at Wikimedia
-
-💰 **Salary**: $75,473-$114,977 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/privacy-fellow-wikimedia)
 
 ---
 
-### 7. Global Regulatory & Licensing Legal Lead at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-licensing-legal-lead-binance)
-
----
-
-### 8. Business Compliance Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-compliance-specialist-binance)
-
----
-
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -123,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 23, 2026 at 00:00 UTC_
+_Last updated: June 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
