@@ -140,42 +140,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Machine Learning Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/machine-learning-engineer-applaudo)
 
 ---
 
-### 15. Staff Software Engineer (SRE) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-phantom)
-
----
-
-### 16. Smart Contract Auditor - Remote, Worldwide at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/smart-contract-auditor-remote-worldwide-nethermind)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -203,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 23, 2026 at 00:00 UTC_
+_Last updated: June 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
