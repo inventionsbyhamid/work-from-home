@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Backend Engineer, Member Experience at Raya
+### 1. Application Architect at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/application-architect-applaudo)
+
+---
+
+### 2. Senior Backend Engineer, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Senior Backend Engineer, Recommendations at Raya
+### 3. Senior Backend Engineer, Recommendations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Blockchain Engineer at Binance
+### 4. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Android Developer at Applaudo
+### 5. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Software Engineer at Xapo Bank
+### 6. Software Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Senior Java Backend Engineer at Applaudo
+### 7. Senior Java Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 8. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+### 9. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Platform Engineer at Xapo Bank
+### 10. Platform Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 11. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 12. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 13. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -133,7 +143,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -161,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 27, 2026 at 00:00 UTC_
+_Last updated: June 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
