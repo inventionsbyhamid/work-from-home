@@ -118,20 +118,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Sales Director (B2B IT Services) - Remote Work: at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-director-remote-work-bairesdev)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -159,6 +149,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 27, 2026 at 00:00 UTC_
+_Last updated: June 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
