@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Global Support at Automattic
+### 1. Senior Data Scientist at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-vrchat)
+
+---
+
+### 2. Director of Global Support at Automattic
 
 💰 **Salary**: $100,000-$165,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Director, Accounting & Controlling at Camunda
+### 3. Senior Director, Accounting & Controlling at Camunda
 
 💰 **Salary**: $225,900-$364,300 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Product Manager at Chess
+### 4. Senior Product Manager at Chess
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Product Designer at Applaudo
+### 5. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. AI Agent Platform Engineer (Openclaw) at Automattic
+### 6. AI Agent Platform Engineer (Openclaw) at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Blockchain Engineer at Binance
+### 7. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 8. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Product Manager, Chess AI at Chess
+### 9. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Senior Data Analyst at Solana
+### 10. Senior Data Analyst at Solana
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Software Developer at Crossover
+### 11. Software Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Senior Product Manager at Applaudo
+### 12. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -127,7 +137,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 11 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -155,6 +165,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 27, 2026 at 00:00 UTC_
+_Last updated: June 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
