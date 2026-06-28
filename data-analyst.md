@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Rule Tuning Specialist - Transaction Monitoring at Binance
+### 1. Senior Data Scientist at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-vrchat)
+
+---
+
+### 2. Rule Tuning Specialist - Transaction Monitoring at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior People Generalist at VRChat
+### 3. Senior People Generalist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Compensation Lead at Dandy
+### 4. Compensation Lead at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Founding GTM Operations Manager at Dandy
+### 5. Founding GTM Operations Manager at Dandy
 
 💰 **Salary**: $116,450-$137,000 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Analyst at Solana
+### 6. Senior Data Analyst at Solana
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
+### 7. Marketing Operations Analyst (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +83,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -101,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 27, 2026 at 00:00 UTC_
+_Last updated: June 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
