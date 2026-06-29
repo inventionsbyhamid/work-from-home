@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. QA Functional Engineer at Applaudo
+### 1. Quality Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-engineer-applaudo)
+
+---
+
+### 2. Functional QA Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/functional-qa-engineer-applaudo)
+
+---
+
+### 3. QA Functional Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
+### 4. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Senior Quality Platform Engineer at Circle
+### 5. Senior Quality Platform Engineer at Circle
 
 💰 **Salary**: $120,000-$130,000 USD
 
@@ -43,7 +63,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -71,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 28, 2026 at 00:00 UTC_
+_Last updated: June 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
