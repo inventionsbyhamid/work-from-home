@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Data Scientist at VRChat
+### 1. Customer Support at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-crossover)
+
+---
+
+### 2. Senior Manager, Data Science at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-data-science-chess)
+
+---
+
+### 3. Product Manager, Crypto at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-crypto-alpaca)
+
+---
+
+### 4. Senior Software Engineer, Backend at Customer.io
+
+💰 **Salary**: $150,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-backend-customer-io)
+
+---
+
+### 5. Senior Data Scientist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Director of Global Support at Automattic
+### 6. Director of Global Support at Automattic
 
 💰 **Salary**: $100,000-$165,000 USD
 
@@ -30,7 +72,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Director, Accounting & Controlling at Camunda
+### 7. Senior Director, Accounting & Controlling at Camunda
 
 💰 **Salary**: $225,900-$364,300 USD
 
@@ -42,7 +84,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Senior Product Manager at Chess
+### 8. Senior Product Manager at Chess
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +94,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Product Designer at Applaudo
+### 9. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +104,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. AI Agent Platform Engineer (Openclaw) at Automattic
+### 10. AI Agent Platform Engineer (Openclaw) at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -74,7 +116,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Blockchain Engineer at Binance
+### 11. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +126,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 12. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +136,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Senior Product Manager, Chess AI at Chess
+### 13. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +146,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Senior Data Analyst at Solana
+### 14. Senior Data Analyst at Solana
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +156,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Software Developer at Crossover
+### 15. Software Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +166,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Senior Product Manager at Applaudo
+### 16. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -137,7 +179,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -165,6 +207,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 28, 2026 at 00:00 UTC_
+_Last updated: June 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
