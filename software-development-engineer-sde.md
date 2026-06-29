@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Application Architect at Applaudo
+### 1. C Developer at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/c-developer-crossover)
+
+---
+
+### 2. Quality Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-engineer-applaudo)
+
+---
+
+### 3. Functional QA Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/functional-qa-engineer-applaudo)
+
+---
+
+### 4. Senior Software Engineer, Backend at Customer.io
+
+💰 **Salary**: $150,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-backend-customer-io)
+
+---
+
+### 5. Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Product Builder at Camunda
+### 6. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -30,7 +72,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 7. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -42,7 +84,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Backend Engineer, Member Experience at Raya
+### 8. Senior Backend Engineer, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +94,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. QA Functional Engineer at Applaudo
+### 9. QA Functional Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +104,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. AI Agent Platform Engineer (Openclaw) at Automattic
+### 10. AI Agent Platform Engineer (Openclaw) at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -74,7 +116,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Senior Backend Engineer, Recommendations at Raya
+### 11. Senior Backend Engineer, Recommendations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +126,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Blockchain Engineer at Binance
+### 12. Blockchain Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +136,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Frontend Developer at Coalition Technologies
+### 13. Frontend Developer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +146,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Senior Product Manager - Core Platform at Camunda
+### 14. Senior Product Manager - Core Platform at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -116,7 +158,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Senior Growth Engineer at Buffer
+### 15. Senior Growth Engineer at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -128,7 +170,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Android Developer at Applaudo
+### 16. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +180,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Software Engineer at Xapo Bank
+### 17. Software Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +190,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Cloud Engineer at Applaudo
+### 18. Cloud Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +200,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Senior Java Backend Engineer at Applaudo
+### 19. Senior Java Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +210,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
+### 20. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +220,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
+### 21. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +230,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Staff Site Reliability Engineer, Database at Alpaca
+### 22. Staff Site Reliability Engineer, Database at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +240,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Platform Engineer at Xapo Bank
+### 23. Platform Engineer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +250,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Senior Software Engineer - Creator Growth and Monetization at Kit
+### 24. Senior Software Engineer - Creator Growth and Monetization at Kit
 
 💰 **Salary**: $126,000-$158,000 USD
 
@@ -220,7 +262,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 21. Site Reliability Engineer at Chess
+### 25. Site Reliability Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +272,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 22. Cloud Field Engineering Manager at Canonical
+### 26. Cloud Field Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -240,7 +282,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 23. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 27. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -250,7 +292,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 24. Software Developer at Crossover
+### 28. Software Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +302,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 25. Senior Quality Platform Engineer at Circle
+### 29. Senior Quality Platform Engineer at Circle
 
 💰 **Salary**: $120,000-$130,000 USD
 
@@ -272,7 +314,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 26. Full Stack Developer at Crossover
+### 30. Full Stack Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -282,7 +324,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 27. Manager, Cloud Infrastructure Engineering at Camunda
+### 31. Manager, Cloud Infrastructure Engineering at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -294,7 +336,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 28. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
+### 32. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -304,7 +346,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 29. Senior Infrastructure Security Engineer at MatterLabs
+### 33. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -317,7 +359,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 29 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -345,6 +387,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 28, 2026 at 00:00 UTC_
+_Last updated: June 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
