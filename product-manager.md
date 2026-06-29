@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Builder at Camunda
+### 1. Product Manager, Crypto at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-crypto-alpaca)
+
+---
+
+### 2. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Senior Product Manager at Chess
+### 3. Senior Product Manager at Chess
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Designer at Applaudo
+### 4. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Senior Product Manager - Core Platform at Camunda
+### 5. Senior Product Manager - Core Platform at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Product Manager, New Assets at Alpaca
+### 6. Product Manager, New Assets at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Senior Product Manager, Chess AI at Chess
+### 7. Senior Product Manager, Chess AI at Chess
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Product Manager, Self Managed Service at Camunda
+### 8. Product Manager, Self Managed Service at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Director, User Insights at DuckDuckGo
+### 9. Director, User Insights at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -96,7 +106,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Senior Product Manager at Applaudo
+### 10. Senior Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Logistics Solutions Marketing Specialist at Camunda
+### 11. Logistics Solutions Marketing Specialist at Camunda
 
 💰 **Salary**: $131,300-$211,600 USD
 
@@ -121,7 +131,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -149,6 +159,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 28, 2026 at 00:00 UTC_
+_Last updated: June 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
