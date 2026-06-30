@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Academics at Crossover
+### 1. Product Manager, Places at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-places-raya)
+
+---
+
+### 2. Director of Academics at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Senior People Generalist at VRChat
+### 3. Senior People Generalist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Field Marketing Manager - North America at Camunda
+### 4. Field Marketing Manager - North America at Camunda
 
 💰 **Salary**: $109,400-$176,400 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Founding GTM Operations Manager at Dandy
+### 5. Founding GTM Operations Manager at Dandy
 
 💰 **Salary**: $116,450-$137,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
+### 6. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Director / Senior Director of Tax at Dandy
+### 7. Director / Senior Director of Tax at Dandy
 
 💰 **Salary**: $167,200-$188,100 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Procurement Lead for Production Materials & Consumables at Dandy
+### 8. Procurement Lead for Production Materials & Consumables at Dandy
 
 💰 **Salary**: $97,750-$115,000 USD
 
@@ -89,7 +99,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -117,6 +127,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: June 29, 2026 at 00:00 UTC_
+_Last updated: June 30, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
