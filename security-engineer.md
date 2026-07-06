@@ -50,20 +50,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Senior Infrastructure Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-security-engineer-worldwide-east-coast-europe-timezones-matterlabs)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 05, 2026 at 00:00 UTC_
+_Last updated: July 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
