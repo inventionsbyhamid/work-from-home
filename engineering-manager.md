@@ -104,20 +104,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Solution Architect (Remote - Work from Anywhere) at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solution-architect-xapo-bank)
 
 ---
 
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -145,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 05, 2026 at 00:00 UTC_
+_Last updated: July 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
