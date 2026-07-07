@@ -114,32 +114,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Institutional Client Services (EU) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-client-services-binance)
 
 ---
 
-### 12. Logistics Solutions Marketing Specialist at Camunda
-
-💰 **Salary**: $131,300-$211,600 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/logistics-solutions-marketing-specialist-camunda)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -167,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 06, 2026 at 00:00 UTC_
+_Last updated: July 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
