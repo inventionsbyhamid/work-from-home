@@ -166,20 +166,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Senior Product Manager at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -207,6 +197,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 06, 2026 at 00:00 UTC_
+_Last updated: July 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
