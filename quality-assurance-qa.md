@@ -48,22 +48,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 5. Senior Quality Platform Engineer at Circle
-
-💰 **Salary**: $120,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-quality-platform-engineer-circle)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 07, 2026 at 00:00 UTC_
+_Last updated: July 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
