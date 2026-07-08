@@ -18,32 +18,10 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Procurement Lead for Production Materials & Consumables at Dandy
-
-💰 **Salary**: $97,750-$115,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-lead-for-production-materials-consumables-dandy)
 
 ---
 
-### 3. IT Operations Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-operations-engineer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -71,6 +49,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 07, 2026 at 00:00 UTC_
+_Last updated: July 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
