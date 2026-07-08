@@ -40,20 +40,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. IT Operations Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-operations-engineer-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 07, 2026 at 00:00 UTC_
+_Last updated: July 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
