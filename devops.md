@@ -88,42 +88,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Cloud Field Engineering Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-field-engineering-manager-canonical)
 
 ---
 
-### 10. IT Operations Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-operations-engineer-applaudo)
-
----
-
-### 11. Senior Quality Platform Engineer at Circle
-
-💰 **Salary**: $120,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-quality-platform-engineer-circle)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -151,6 +119,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 07, 2026 at 00:00 UTC_
+_Last updated: July 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
