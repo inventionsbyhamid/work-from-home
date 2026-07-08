@@ -38,22 +38,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Director, User Insights at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-user-insights-duckduckgo)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 07, 2026 at 00:00 UTC_
+_Last updated: July 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
