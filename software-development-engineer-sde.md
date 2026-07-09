@@ -240,42 +240,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 23. Platform Engineer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-xapo-bank)
 
 ---
 
-### 24. Senior Software Engineer - Creator Growth and Monetization at Kit
-
-💰 **Salary**: $126,000-$158,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-creator-growth-and-monetization-kit)
-
----
-
-### 25. Site Reliability Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineer-chess)
-
----
-
-
----
-
-**Total Jobs**: 25 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -303,6 +271,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 08, 2026 at 00:00 UTC_
+_Last updated: July 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
