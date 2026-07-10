@@ -28,50 +28,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Cloud Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-engineer-applaudo)
 
 ---
 
-### 4. Senior Java Backend Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-backend-engineer-applaudo)
-
----
-
-### 5. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-contractor-wp-media)
-
----
-
-### 6. Staff Site Reliability Engineer, Database at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-site-reliability-engineer-database-alpaca)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -99,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 09, 2026 at 00:00 UTC_
+_Last updated: July 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
