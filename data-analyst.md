@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Manager, Data Science at Chess
+### 1. Business Intelligence Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-engineer-safetywing)
+
+---
+
+### 2. Senior Manager, Data Science at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Data Scientist at VRChat
+### 3. Senior Data Scientist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Rule Tuning Specialist - Transaction Monitoring at Binance
+### 4. Rule Tuning Specialist - Transaction Monitoring at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Senior People Generalist at VRChat
+### 5. Senior People Generalist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -48,25 +58,13 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Compensation Lead at Dandy
+### 6. Compensation Lead at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compensation-lead-dandy)
-
----
-
-### 6. Founding GTM Operations Manager at Dandy
-
-💰 **Salary**: $116,450-$137,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/founding-gtm-operations-manager-dandy)
 
 ---
 
@@ -101,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 09, 2026 at 00:00 UTC_
+_Last updated: July 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
