@@ -170,80 +170,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Android Developer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-developer-full-time-applaudo)
 
 ---
 
-### 17. Software Engineer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-xapo-bank)
-
----
-
-### 18. Cloud Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/cloud-engineer-applaudo)
-
----
-
-### 19. Senior Java Backend Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-backend-engineer-applaudo)
-
----
-
-### 20. Senior Backend Engineer (Ruby on Rails), Plan: Knowledge at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-plan-knowledge-gitlab)
-
----
-
-### 21. Senior Backend Software Engineer (PHP/Python) - Contractor at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-contractor-wp-media)
-
----
-
-### 22. Staff Site Reliability Engineer, Database at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-site-reliability-engineer-database-alpaca)
-
----
-
-
----
-
-**Total Jobs**: 22 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -271,6 +201,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 09, 2026 at 00:00 UTC_
+_Last updated: July 10, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
