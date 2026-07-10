@@ -94,34 +94,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Sales Enablement Manager at Dandy
-
-💰 **Salary**: $103,700-$122,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-full-time-dandy)
 
 ---
 
-### 10. Sales Enablement Manager at Dandy
-
-💰 **Salary**: $103,700-$122,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-remote-dandy)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -149,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 09, 2026 at 00:00 UTC_
+_Last updated: July 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
