@@ -50,44 +50,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Founding GTM Operations Manager at Dandy
-
-💰 **Salary**: $116,450-$137,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/founding-gtm-operations-manager-dandy)
 
 ---
 
-### 6. SharePoint Online Information Architect (Microsoft 365 Enterprise) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sharepoint-online-information-architect-applaudo)
-
----
-
-### 7. Director / Senior Director of Tax at Dandy
-
-💰 **Salary**: $167,200-$188,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-senior-director-of-tax-dandy)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -115,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 09, 2026 at 00:00 UTC_
+_Last updated: July 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
