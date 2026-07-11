@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. IT Department Lead - Remote, Worldwide at Nethermind
+### 1. Principal Technical Program Manager, Platform Foundation at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-technical-program-manager-platform-foundation-binance)
+
+---
+
+### 2. IT Department Lead - Remote, Worldwide at Nethermind
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. IT Engineer at Raya
+### 3. IT Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 10, 2026 at 00:00 UTC_
+_Last updated: July 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
