@@ -25,10 +25,10 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 4 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 5 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 4 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 6 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 2 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 4 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 3 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 3 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 7 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 3 remote jobs available
@@ -36,16 +36,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
 - 🏠 **[HR](hr.md)** - 3 remote jobs available
 - 🏠 **[Legal](legal.md)** - 3 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 8 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 6 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 4 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 5 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 5 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 2 remote jobs available
-- 🏠 **[Sales](sales.md)** - 3 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 3 remote jobs available
+- 🏠 **[Sales](sales.md)** - 2 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 15 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 13 remote jobs available
 
 
 ---
@@ -54,7 +54,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Sanctions Advisory Specialist at Binance
+### 1. Principal Technical Program Manager, Platform Foundation at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-technical-program-manager-platform-foundation-binance)
+
+---
+
+### 2. Senior Product Designer at Solana
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-solana)
+
+---
+
+### 3. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +84,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Business Intelligence Engineer at SafetyWing
+### 4. Business Intelligence Engineer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +94,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Product Manager, Places at Raya
+### 5. Product Manager, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +104,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Launch Trainer at Dandy
+### 6. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +114,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. C Developer at Crossover
+### 7. C Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +124,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Customer Support at Crossover
+### 8. Customer Support at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +134,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Manager, Data Science at Chess
+### 9. Senior Manager, Data Science at Chess
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +144,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Quality Engineer at Applaudo
+### 10. Quality Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +154,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Functional QA Engineer at Applaudo
+### 11. Functional QA Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Product Manager, Crypto at Alpaca
+### 12. Product Manager, Crypto at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Software Engineer, Backend at Customer.io
+### 13. Senior Software Engineer, Backend at Customer.io
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -166,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Application Architect at Applaudo
+### 14. Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Data Scientist at VRChat
+### 15. Senior Data Scientist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +206,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Product Builder at Camunda
+### 16. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -198,7 +218,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. SEO Strategist at Coalition Technologies
+### 17. SEO Strategist at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +228,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Director of Global Support at Automattic
+### 18. Director of Global Support at Automattic
 
 💰 **Salary**: $100,000-$165,000 USD
 
@@ -220,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Web Security Engineer, Browser Platform at DuckDuckGo
+### 19. Senior Web Security Engineer, Browser Platform at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -232,7 +252,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Account Executive (New Vertical) at Dandy
+### 20. Account Executive (New Vertical) at Dandy
 
 💰 **Salary**: $85,000-$170,000 USD
 
@@ -241,26 +261,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Sales
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-dandy)
-
----
-
-### 19. Senior Backend Engineer, Member Experience at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-member-experience-raya)
-
----
-
-### 20. Rule Tuning Specialist - Transaction Monitoring at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/rule-tuning-specialist-transaction-monitoring-binance)
 
 ---
 
@@ -290,6 +290,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 10, 2026 at 00:00 UTC_
+_Last updated: July 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
