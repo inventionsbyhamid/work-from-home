@@ -146,34 +146,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Senior Product Manager - Core Platform at Camunda
-
-💰 **Salary**: $119,900-$193,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-core-platform-camunda)
 
 ---
 
-### 15. Senior Growth Engineer at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-engineer-buffer)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -201,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 10, 2026 at 00:01 UTC_
+_Last updated: July 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
