@@ -82,22 +82,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Senior Growth Engineer at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-engineer-buffer)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -125,6 +113,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 10, 2026 at 00:00 UTC_
+_Last updated: July 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
