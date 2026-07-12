@@ -62,30 +62,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Talent Acquisition Specialist (Spanish Speaker) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-specialist-binance)
 
 ---
 
-### 7. SEO Specialist at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/seo-specialist-coalition-technologies)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -113,6 +93,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 11, 2026 at 00:00 UTC_
+_Last updated: July 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
