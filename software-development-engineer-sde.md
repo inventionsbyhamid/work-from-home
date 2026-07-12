@@ -116,40 +116,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Senior Backend Engineer, Recommendations at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-recommendations-raya)
 
 ---
 
-### 12. Blockchain Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/blockchain-engineer-binance)
-
----
-
-### 13. Frontend Developer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-developer-coalition-technologies)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -177,6 +147,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 11, 2026 at 00:00 UTC_
+_Last updated: July 12, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
