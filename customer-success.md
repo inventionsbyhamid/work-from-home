@@ -38,22 +38,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Senior Customer Success Manager at Camunda
-
-💰 **Salary**: $143,400-$231,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-success-manager-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 11, 2026 at 00:00 UTC_
+_Last updated: July 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
