@@ -42,30 +42,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Social Media Manager - Italian at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-manager-italian-chess)
 
 ---
 
-### 5. Senior Associate Growth at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-associate-growth-passion-io)
-
----
-
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -93,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 12, 2026 at 00:00 UTC_
+_Last updated: July 13, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
