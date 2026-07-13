@@ -21,9 +21,8 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 10 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 4 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 4 remote jobs available
-- 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 3 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 3 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 3 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 6 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 2 remote jobs available
@@ -35,7 +34,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
 - 🏠 **[HR](hr.md)** - 2 remote jobs available
 - 🏠 **[Legal](legal.md)** - 3 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 5 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 5 remote jobs available
@@ -43,7 +42,6 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Research](research.md)** - 2 remote jobs available
 - 🏠 **[Sales](sales.md)** - 2 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 10 remote jobs available
 
 
@@ -289,6 +287,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 12, 2026 at 00:00 UTC_
+_Last updated: July 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
