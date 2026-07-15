@@ -94,32 +94,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. QA Functional Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-functional-engineer-applaudo)
 
 ---
 
-### 10. AI Agent Platform Engineer (Openclaw) at Automattic
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-agent-platform-engineer-automattic)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -147,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 14, 2026 at 00:01 UTC_
+_Last updated: July 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
