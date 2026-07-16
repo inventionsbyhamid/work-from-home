@@ -50,20 +50,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Assistant Relationship Manager - APAC (Remote - Work from Anywhere) at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/assistant-relationship-manager-apac-xapo-bank)
 
 ---
 
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -91,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 15, 2026 at 00:00 UTC_
+_Last updated: July 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
