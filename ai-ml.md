@@ -84,20 +84,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Product Manager at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-chess)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -125,6 +115,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 15, 2026 at 00:00 UTC_
+_Last updated: July 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
