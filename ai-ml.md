@@ -60,34 +60,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Director of Global Support at Automattic
-
-💰 **Salary**: $100,000-$165,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-global-support-automattic)
 
 ---
 
-### 7. Senior Director, Accounting & Controlling at Camunda
-
-💰 **Salary**: $225,900-$364,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-accounting-controlling-camunda)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -115,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
