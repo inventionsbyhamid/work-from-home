@@ -28,22 +28,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Director of Global Support at Automattic
-
-💰 **Salary**: $100,000-$165,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-global-support-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -71,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
