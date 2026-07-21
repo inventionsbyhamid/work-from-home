@@ -8,23 +8,25 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Data Scientist at VRChat
+### 1. Senior Product Security Engineer at Halcyon
+
+💰 **Salary**: $175,000-$235,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-security-engineer-halcyon)
+
+---
+
+### 2. Senior Data Scientist at VRChat
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-vrchat)
-
----
-
-### 2. Director of Academics at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-academics-crossover)
 
 ---
 
@@ -59,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
