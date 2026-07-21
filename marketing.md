@@ -8,32 +8,20 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. SEO Strategist at Coalition Technologies
+### 1. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/seo-strategist-coalition-technologies)
-
----
-
-### 2. Account Executive (New Vertical) at Dandy
-
-💰 **Salary**: $85,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/seo-specialist-manager-wp-media)
 
 ---
 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -61,6 +49,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
