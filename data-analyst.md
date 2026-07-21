@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Business Intelligence Engineer at SafetyWing
+### 1. Palantir Foundry Engineer - Remote Work at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/palantir-foundry-engineer-remote-work-bairesdev)
+
+---
+
+### 2. Business Intelligence Engineer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Manager, Data Science at Chess
+### 3. Senior Manager, Data Science at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Senior Data Scientist at VRChat
+### 4. Senior Data Scientist at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -38,40 +48,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Rule Tuning Specialist - Transaction Monitoring at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/rule-tuning-specialist-transaction-monitoring-binance)
 
 ---
 
-### 5. Senior People Generalist at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-people-generalist-vrchat)
-
----
-
-### 6. Compensation Lead at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compensation-lead-dandy)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -99,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
