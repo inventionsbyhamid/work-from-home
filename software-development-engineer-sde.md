@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. C Developer at Crossover
+### 1. Palantir Foundry Engineer - Remote Work at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/palantir-foundry-engineer-remote-work-bairesdev)
+
+---
+
+### 2. Backend Engineer, Data Platform & APIs at Halcyon
+
+💰 **Salary**: $120,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-data-platform-apis-halcyon)
+
+---
+
+### 3. C Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Quality Engineer at Applaudo
+### 4. Quality Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Functional QA Engineer at Applaudo
+### 5. Functional QA Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Software Engineer, Backend at Customer.io
+### 6. Senior Software Engineer, Backend at Customer.io
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Application Architect at Applaudo
+### 7. Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Product Builder at Camunda
+### 8. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -69,28 +91,6 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-builder-camunda)
-
----
-
-### 7. Senior Web Security Engineer, Browser Platform at DuckDuckGo
-
-💰 **Salary**: $178,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-remote-duckduckgo)
-
----
-
-### 8. Senior Backend Engineer, Member Experience at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-member-experience-raya)
 
 ---
 
@@ -125,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
