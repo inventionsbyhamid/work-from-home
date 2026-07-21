@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Principal Technical Program Manager, Platform Foundation at Binance
+### 1. Senior Product Security Engineer at Halcyon
+
+💰 **Salary**: $175,000-$235,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-security-engineer-halcyon)
+
+---
+
+### 2. Principal Technical Program Manager, Platform Foundation at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Sanctions Advisory Specialist at Binance
+### 3. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,32 +40,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Senior Web Security Engineer, Browser Platform at DuckDuckGo
-
-💰 **Salary**: $178,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-web-security-engineer-browser-platform-remote-duckduckgo)
 
 ---
 
-### 4. IT Department Lead - Remote, Worldwide at Nethermind
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-department-lead-remote-worldwide-nethermind)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 19, 2026 at 00:00 UTC_
+_Last updated: July 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
