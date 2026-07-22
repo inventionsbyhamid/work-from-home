@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Palantir Foundry Engineer - Remote Work at BairesDev
+### 1. Staff Engineer, Endpoint Agent at Halcyon
+
+💰 **Salary**: $220,000-$275,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-endpoint-agent-halcyon)
+
+---
+
+### 2. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Backend Engineer, Data Platform & APIs at Halcyon
+### 3. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. C Developer at Crossover
+### 4. C Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Quality Engineer at Applaudo
+### 5. Quality Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Functional QA Engineer at Applaudo
+### 6. Functional QA Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Senior Software Engineer, Backend at Customer.io
+### 7. Senior Software Engineer, Backend at Customer.io
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Application Architect at Applaudo
+### 8. Application Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Product Builder at Camunda
+### 9. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -97,7 +109,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -125,6 +137,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 21, 2026 at 00:00 UTC_
+_Last updated: July 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
