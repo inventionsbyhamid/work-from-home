@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Japanese Creative Copywriter (Contractor) at Wikimedia
+### 1. Head of Growth at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-growth-safetywing)
+
+---
+
+### 2. Japanese Creative Copywriter (Contractor) at Wikimedia
 
 💰 **Salary**: $36-$56 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. SEO Specialist / Manager at WP Media
+### 3. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +43,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 22, 2026 at 00:00 UTC_
+_Last updated: July 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
