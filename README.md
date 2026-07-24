@@ -21,26 +21,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 7 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
 - 🏠 **[Backend](backend.md)** - 6 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 2 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 3 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 2 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 2 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 6 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 2 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 1 remote job available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 2 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 1 remote job available
-- 🏠 **[Fullstack](fullstack.md)** - 1 remote job available
+- 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 2 remote jobs available
 - 🏠 **[Legal](legal.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 1 remote job available
-- 🏠 **[Product Manager](product-manager.md)** - 3 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 4 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 2 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 2 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
 - 🏠 **[Research](research.md)** - 2 remote jobs available
 - 🏠 **[Sales](sales.md)** - 2 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 5 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 10 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 6 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 1 remote job available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 11 remote jobs available
 
 
 ---
@@ -49,7 +50,63 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Attorney at Atticus
+### 1. Head of Product at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-pantom)
+
+---
+
+### 2. Content Marketing Manager - Social Media at Kit
+
+💰 **Salary**: $125,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-marketing-manager-social-media-kit)
+
+---
+
+### 3. Senior Fullstack Engineer at Atticus
+
+💰 **Salary**: $170,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-fullstack-engineer-atticus)
+
+---
+
+### 4. Staff KMS Security Engineer (Security) at Phantom
+
+💰 **Salary**: $250,000-$285,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-kms-security-engineer-pantom)
+
+---
+
+### 5. Head of Business Development at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-business-development-pantom)
+
+---
+
+### 6. Attorney at Atticus
 
 💰 **Salary**: $120,000-$150,000 USD
 
@@ -61,7 +118,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Data Scientist at Atticus
+### 7. Data Scientist at Atticus
 
 💰 **Salary**: $150,000-$200,000 USD
 
@@ -73,7 +130,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Software Engineer, Full-Stack at Phantom
+### 8. Senior Software Engineer, Full-Stack at Phantom
 
 💰 **Salary**: $180,000-$220,000 USD
 
@@ -85,7 +142,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Systems Engineer at Automattic
+### 9. Senior Systems Engineer at Automattic
 
 💰 **Salary**: $120,000-$180,000 USD
 
@@ -97,7 +154,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Head of Growth at SafetyWing
+### 10. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -107,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Data Scientist at Applaudo
+### 11. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -117,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Enterprise Account Executive at Halcyon
+### 12. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -129,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Staff Engineer, Endpoint Agent at Halcyon
+### 13. Staff Engineer, Endpoint Agent at Halcyon
 
 💰 **Salary**: $220,000-$275,000 USD
 
@@ -141,7 +198,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Recovery Consulting Specialist at Halcyon
+### 14. Recovery Consulting Specialist at Halcyon
 
 💰 **Salary**: $140,000-$180,000 USD
 
@@ -153,7 +210,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Japanese Creative Copywriter (Contractor) at Wikimedia
+### 15. Japanese Creative Copywriter (Contractor) at Wikimedia
 
 💰 **Salary**: $36-$56 USD
 
@@ -165,7 +222,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Palantir Foundry Engineer - Remote Work at BairesDev
+### 16. Palantir Foundry Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -175,7 +232,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. SEO Specialist / Manager at WP Media
+### 17. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -185,7 +242,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Product Security Engineer at Halcyon
+### 18. Senior Product Security Engineer at Halcyon
 
 💰 **Salary**: $175,000-$235,000 USD
 
@@ -197,7 +254,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Backend Engineer, Data Platform & APIs at Halcyon
+### 19. Backend Engineer, Data Platform & APIs at Halcyon
 
 💰 **Salary**: $120,000-$170,000 USD
 
@@ -209,63 +266,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Principal Technical Program Manager, Platform Foundation at Binance
+### 20. Principal Technical Program Manager, Platform Foundation at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Project Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-technical-program-manager-platform-foundation-binance)
-
----
-
-### 16. Senior Product Designer at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-solana)
-
----
-
-### 17. Sanctions Advisory Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sanctions-advisory-specialist-binance)
-
----
-
-### 18. Business Intelligence Engineer at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-engineer-safetywing)
-
----
-
-### 19. Product Manager, Places at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-places-raya)
-
----
-
-### 20. Launch Trainer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/launch-trainer-dandy)
 
 ---
 
@@ -295,6 +302,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 23, 2026 at 00:00 UTC_
+_Last updated: July 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
