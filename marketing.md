@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Growth at SafetyWing
+### 1. Content Marketing Manager - Social Media at Kit
+
+💰 **Salary**: $125,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-marketing-manager-social-media-kit)
+
+---
+
+### 2. Head of Growth at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Japanese Creative Copywriter (Contractor) at Wikimedia
+### 3. Japanese Creative Copywriter (Contractor) at Wikimedia
 
 💰 **Salary**: $36-$56 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. SEO Specialist / Manager at WP Media
+### 4. SEO Specialist / Manager at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +55,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -71,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 23, 2026 at 00:00 UTC_
+_Last updated: July 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
