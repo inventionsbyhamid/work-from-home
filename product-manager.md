@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager, Places at Raya
+### 1. Head of Product at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-pantom)
+
+---
+
+### 2. Product Manager, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager, Crypto at Alpaca
+### 3. Product Manager, Crypto at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Builder at Camunda
+### 4. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -43,7 +53,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -71,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 23, 2026 at 00:00 UTC_
+_Last updated: July 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
