@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Fullstack Engineer at Atticus
+### 1. Contract Senior Front-End Engineer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/contract-senior-front-end-engineer-fueled)
+
+---
+
+### 2. Senior Fullstack Engineer at Atticus
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Product Designer at Solana
+### 3. Senior Product Designer at Solana
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +43,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: July 24, 2026 at 00:00 UTC_
+_Last updated: July 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
