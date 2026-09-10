@@ -20,7 +20,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 - 🏠 **[AI/ML](ai-ml.md)** - 2 remote jobs available
 - 🏠 **[Backend](backend.md)** - 7 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 2 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 3 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 2 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 5 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 1 remote job available
@@ -31,7 +31,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Product Designer](product-designer.md)** - 3 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
 - 🏠 **[Research](research.md)** - 1 remote job available
-- 🏠 **[Sales](sales.md)** - 2 remote jobs available
+- 🏠 **[Sales](sales.md)** - 3 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 2 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 9 remote jobs available
 
@@ -42,7 +42,19 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Dental CAD Prep Designer at Dandy
+### 1. Commercial Account Executive (CAE) at Dandy
+
+💰 **Salary**: $170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-account-executive-dandy)
+
+---
+
+### 2. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +64,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 3. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -64,7 +76,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Engineering Manager, CorpSec at Coinbase
+### 4. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -76,7 +88,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Scheduling Optimization Engineer at Applaudo
+### 5. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +98,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Product Manager at Awesome Motive
+### 6. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -98,7 +110,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Experienced Software Engineer at Automattic
+### 7. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -110,7 +122,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Product Manager - BackWup at WP Media
+### 8. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -122,7 +134,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Software Engineer – Advisory Suite at Alpaca
+### 9. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +144,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Lead Product Manager - Brokerage at Alpaca
+### 10. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Product Security Engineer at Alpaca
+### 11. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 12. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Data Scientist at Automattic
+### 13. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -174,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Business Development Representative at Automattic
+### 14. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -186,7 +198,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Senior Product Engineer (Frontend) - Growth at Buffer
+### 15. Senior Product Engineer (Frontend) - Growth at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -198,7 +210,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Business Operations Lead at Atticus
+### 16. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -210,7 +222,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Fullstack Developer (Next.js) at Applaudo
+### 17. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +232,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Product Manager at Atticus
+### 18. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +242,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Senior Product Designer at Atticus
+### 19. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -240,23 +252,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Senior .NET Engineer - Remote Work at BairesDev
+### 20. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-net-engineer-remote-work-bairesdev)
-
----
-
-### 20. Lead User Researcher at Atticus
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-user-researcher-atticus)
 
 ---
 
@@ -286,6 +288,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 09, 2026 at 00:00 UTC_
+_Last updated: September 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
