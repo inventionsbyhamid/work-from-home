@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 1. Senior Software Engineer, Backend (Platform) at Coinbase
+
+💰 **Salary**: $191,000 CAD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-backend-coinbase)
+
+---
+
+### 2. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Senior Software Engineer – Advisory Suite at Alpaca
+### 3. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Senior .NET Engineer - Remote Work at BairesDev
+### 4. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Staff Backend Engineer (Social) at Phantom
+### 5. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Platform Engineer - Database at Appwrite
+### 6. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Platform Engineer - Integrations at Appwrite
+### 7. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Platform Engineer at Appwrite
+### 8. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -85,7 +97,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -113,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 10, 2026 at 00:00 UTC_
+_Last updated: September 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
