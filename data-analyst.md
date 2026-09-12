@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Scheduling Optimization Engineer at Applaudo
+### 1. Senior Data Scientist I at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-i-dandy)
+
+---
+
+### 2. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Data Scientist at Automattic
+### 3. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -33,7 +43,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 11, 2026 at 00:00 UTC_
+_Last updated: September 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
