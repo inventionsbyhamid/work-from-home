@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Scheduling Optimization Engineer at Applaudo
+### 1. Staff Machine Learning & Computer Vision Engineer at Dandy
+
+💰 **Salary**: $232,500-$258,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-machine-learning-computer-vision-engineer-dandy)
+
+---
+
+### 2. Senior Data Scientist I at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-i-dandy)
+
+---
+
+### 3. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Data Scientist at Automattic
+### 4. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -33,7 +55,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -61,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 11, 2026 at 00:00 UTC_
+_Last updated: September 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
