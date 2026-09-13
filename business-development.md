@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Commercial Account Executive (CAE) at Dandy
+### 1. Global Director of Operations at Dandy
+
+💰 **Salary**: $177,600-$222,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-director-of-operations-dandy)
+
+---
+
+### 2. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Business Development Representative at Automattic
+### 3. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Business Operations Lead at Atticus
+### 4. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -47,7 +59,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -75,6 +87,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 12, 2026 at 00:00 UTC_
+_Last updated: September 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
