@@ -20,15 +20,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 - 🏠 **[AI/ML](ai-ml.md)** - 4 remote jobs available
 - 🏠 **[Backend](backend.md)** - 8 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 3 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 4 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 5 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 3 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 1 remote job available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
+- 🏠 **[HR](hr.md)** - 1 remote job available
 - 🏠 **[Marketing](marketing.md)** - 1 remote job available
-- 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
 - 🏠 **[Research](research.md)** - 2 remote jobs available
 - 🏠 **[Sales](sales.md)** - 3 remote jobs available
@@ -42,7 +43,39 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 1. Dental CAD Injection Mold Designer (Blender) at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-injection-mold-designer-dandy)
+
+---
+
+### 2. Partial Denture Mold Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partial-denture-mold-designer-dandy)
+
+---
+
+### 3. Global Director of Operations at Dandy
+
+💰 **Salary**: $177,600-$222,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-director-of-operations-dandy)
+
+---
+
+### 4. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -54,7 +87,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Full-Stack Java + React Technical Leader at BairesDev
+### 5. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +97,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Data Scientist I at Dandy
+### 6. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +107,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Thermoform Model Designer at Dandy
+### 7. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +117,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Software Engineer, Backend (Platform) at Coinbase
+### 8. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -96,7 +129,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Engineering Manager (Platform) at Coinbase
+### 9. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -108,7 +141,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Commercial Account Executive (CAE) at Dandy
+### 10. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -120,7 +153,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Dental CAD Prep Designer at Dandy
+### 11. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +163,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 12. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -142,7 +175,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Engineering Manager, CorpSec at Coinbase
+### 13. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -154,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Scheduling Optimization Engineer at Applaudo
+### 14. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Product Manager at Awesome Motive
+### 15. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -176,7 +209,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Experienced Software Engineer at Automattic
+### 16. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -188,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Product Manager - BackWup at WP Media
+### 17. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -200,7 +233,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Software Engineer – Advisory Suite at Alpaca
+### 18. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +243,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Lead Product Manager - Brokerage at Alpaca
+### 19. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -220,47 +253,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Product Security Engineer at Alpaca
+### 20. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Security Engineer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-security-engineer-alpaca)
-
----
-
-### 18. Senior Site Reliability Engineer, Environment Automation at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-environment-automation-gitlab)
-
----
-
-### 19. Senior Data Scientist at Automattic
-
-💰 **Salary**: $90,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-automattic)
-
----
-
-### 20. Business Development Representative at Automattic
-
-💰 **Salary**: $50,000-$70,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-representative-automattic)
 
 ---
 
@@ -290,6 +289,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 12, 2026 at 00:00 UTC_
+_Last updated: September 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
