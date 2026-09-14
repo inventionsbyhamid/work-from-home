@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 1. Software Engineer, CAD at Dandy
+
+💰 **Salary**: $201,500-$237,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-cad-dandy)
+
+---
+
+### 2. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Data Scientist I at Dandy
+### 3. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Scheduling Optimization Engineer at Applaudo
+### 4. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Senior Data Scientist at Automattic
+### 5. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -55,7 +67,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -83,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 13, 2026 at 00:00 UTC_
+_Last updated: September 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
