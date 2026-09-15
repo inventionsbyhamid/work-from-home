@@ -23,14 +23,14 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 6 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 3 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 4 remote jobs available
 - 🏠 **[Finance](finance.md)** - 1 remote job available
 - 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 1 remote job available
-- 🏠 **[Marketing](marketing.md)** - 1 remote job available
-- 🏠 **[Product Designer](product-designer.md)** - 6 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 4 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 2 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
 - 🏠 **[Research](research.md)** - 2 remote jobs available
 - 🏠 **[Sales](sales.md)** - 4 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 2 remote jobs available
@@ -43,7 +43,63 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Software Engineer, CAD at Dandy
+### 1. Full Dentures Preppers at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-dentures-preppers-dandy)
+
+---
+
+### 2. Clear Aligner Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clear-aligner-designer-dandy)
+
+---
+
+### 3. Head of Product Marketing at Dandy
+
+💰 **Salary**: $232,000-$290,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-marketing-dandy)
+
+---
+
+### 4. Principal Product Manager, Growth at Dandy
+
+💰 **Salary**: $202,100-$245,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-growth-dandy)
+
+---
+
+### 5. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+
+💰 **Salary**: $218,025-$256,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-remote-coinbase)
+
+---
+
+### 6. Software Engineer, CAD at Dandy
 
 💰 **Salary**: $201,500-$237,000 USD
 
@@ -55,7 +111,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Sales Enablement Manager at Dandy
+### 7. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -67,7 +123,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Platform Engineer at Dandy
+### 8. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +133,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+### 9. Software Engineer, Frontend (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -89,7 +145,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Dental CAD Injection Mold Designer (Blender) at Dandy
+### 10. Dental CAD Injection Mold Designer (Blender) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -99,7 +155,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Partial Denture Mold Designer at Dandy
+### 11. Partial Denture Mold Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -109,7 +165,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Global Director of Operations at Dandy
+### 12. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -121,7 +177,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 13. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -133,7 +189,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Full-Stack Java + React Technical Leader at BairesDev
+### 14. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -143,7 +199,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Data Scientist I at Dandy
+### 15. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -153,7 +209,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Thermoform Model Designer at Dandy
+### 16. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -163,7 +219,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Software Engineer, Backend (Platform) at Coinbase
+### 17. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -175,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Engineering Manager (Platform) at Coinbase
+### 18. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -187,7 +243,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Commercial Account Executive (CAE) at Dandy
+### 19. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -199,71 +255,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Dental CAD Prep Designer at Dandy
+### 20. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-prep-designer-dandy)
-
----
-
-### 16. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
-
-💰 **Salary**: $185,500 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-infrastructure-coinbase)
-
----
-
-### 17. Engineering Manager, CorpSec at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-corpsec-coinbase)
-
----
-
-### 18. Scheduling Optimization Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/scheduling-optimization-engineer-applaudo)
-
----
-
-### 19. Product Manager at Awesome Motive
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-awesome-motive)
-
----
-
-### 20. Experienced Software Engineer at Automattic
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/experienced-software-engineer-automattic)
 
 ---
 
@@ -293,6 +291,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 14, 2026 at 00:00 UTC_
+_Last updated: September 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
