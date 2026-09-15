@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager at Awesome Motive
+### 1. Principal Product Manager, Growth at Dandy
+
+💰 **Salary**: $202,100-$245,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-growth-dandy)
+
+---
+
+### 2. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager - BackWup at WP Media
+### 3. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -32,7 +44,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Lead Product Manager - Brokerage at Alpaca
+### 4. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Product Manager at Atticus
+### 5. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +67,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -83,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 14, 2026 at 00:00 UTC_
+_Last updated: September 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
