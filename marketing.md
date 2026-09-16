@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Product Marketing at Dandy
+### 1. Head of Marketing at WP Media
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-marketing-wp-media)
+
+---
+
+### 2. Head of Product Marketing at Dandy
 
 💰 **Salary**: $232,000-$290,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Sales Openers Manager at Phantom
+### 3. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +43,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 15, 2026 at 00:00 UTC_
+_Last updated: September 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
