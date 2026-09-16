@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 1. Color Management Lead at Dandy
+
+💰 **Salary**: $109,700-$129,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/color-management-lead-dandy)
+
+---
+
+### 2. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Lead User Researcher at Atticus
+### 3. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +45,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 15, 2026 at 00:00 UTC_
+_Last updated: September 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
