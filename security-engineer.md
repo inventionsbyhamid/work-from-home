@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager, CorpSec at Coinbase
+### 1. Senior Platform Engineer - Remote at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-platform-engineer-cloudlinux)
+
+---
+
+### 2. Vice President, Trust and Safety at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vice-president-trust-and-safety-vrchat)
+
+---
+
+### 3. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -20,7 +40,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Product Security Engineer at Alpaca
+### 4. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +53,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -61,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
