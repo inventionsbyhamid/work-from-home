@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Principal Product Manager, Growth at Dandy
+### 1. General Manager, Nomad Insurance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-manager-nomad-insurance-safetywing)
+
+---
+
+### 2. Product Manager, Membership Payments at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-membership-payments-raya)
+
+---
+
+### 3. Head of Structured Solutions at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-structured-solutions-xapo-bank)
+
+---
+
+### 4. Principal Product Manager, Foundational ML Models at Dandy
+
+💰 **Salary**: $202,100-$245,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-foundational-ml-models-dandy)
+
+---
+
+### 5. Principal Product Manager, Growth at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -20,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager at Awesome Motive
+### 6. Product Manager at Awesome Motive
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -32,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Product Manager - BackWup at WP Media
+### 7. Product Manager - BackWup at WP Media
 
 💰 **Salary**: $120,000-$190,000 USD
 
@@ -44,7 +86,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Lead Product Manager - Brokerage at Alpaca
+### 8. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +96,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Product Manager at Atticus
+### 9. Product Manager at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +109,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -95,6 +137,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
