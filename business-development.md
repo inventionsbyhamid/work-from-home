@@ -8,7 +8,79 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sales Enablement Manager at Dandy
+### 1. Brand Partnerships Manager at Pitch - Remote at Pitch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brand-partnerships-manager-at-pitch-pitch)
+
+---
+
+### 2. General Manager, Nomad Insurance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-manager-nomad-insurance-safetywing)
+
+---
+
+### 3. Go-to-Market AI Sales Closer at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/go-to-market-ai-sales-closer-passion-io)
+
+---
+
+### 4. Head of Business Development at VRChat at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-business-development-at-vrchat-vrchat)
+
+---
+
+### 5. Procurement Specialist at Ciceksepeti
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-specialist-ciceksepeti)
+
+---
+
+### 6. Renewal Risk Engineer - Management Liability at Counterpart
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/renewal-risk-engineer-management-liability-counterpart)
+
+---
+
+### 7. Head of Structured Solutions at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-structured-solutions-xapo-bank)
+
+---
+
+### 8. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -20,7 +92,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Global Director of Operations at Dandy
+### 9. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -32,7 +104,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Commercial Account Executive (CAE) at Dandy
+### 10. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -44,7 +116,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Business Development Representative at Automattic
+### 11. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -56,7 +128,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Business Operations Lead at Atticus
+### 12. Business Operations Lead at Atticus
 
 💰 **Salary**: $130,000-$160,000 USD
 
@@ -71,7 +143,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -99,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
