@@ -8,7 +8,67 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Platform Engineer at Dandy
+### 1. Site Reliability Engineering Manager at Parity
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineering-manager-parity)
+
+---
+
+### 2. Senior Automation Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-automation-engineer-cloudlinux)
+
+---
+
+### 3. Senior Platform Engineer - Remote at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-platform-engineer-cloudlinux)
+
+---
+
+### 4. Platform Engineer, Edge and Networking at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-edge-and-networking-supabase)
+
+---
+
+### 5. Platform Engineer - Developer Experience at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-developer-experience-dandy)
+
+---
+
+### 6. Platform Engineer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-mexico-remote-dandy)
+
+---
+
+### 7. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +78,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 8. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -30,7 +90,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 9. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +100,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Platform Engineer - Database at Appwrite
+### 10. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +110,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Platform Engineer - Integrations at Appwrite
+### 11. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +120,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Platform Engineer at Appwrite
+### 12. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -73,7 +133,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -101,6 +161,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
