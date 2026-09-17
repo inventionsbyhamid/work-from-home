@@ -18,23 +18,27 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 6 remote jobs available
-- 🏠 **[Backend](backend.md)** - 8 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 5 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 3 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 6 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 6 remote jobs available
-- 🏠 **[Finance](finance.md)** - 1 remote job available
-- 🏠 **[Frontend](frontend.md)** - 2 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 8 remote jobs available
+- 🏠 **[Backend](backend.md)** - 12 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 12 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
+- 🏠 **[Data Analyst](data-analyst.md)** - 5 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 9 remote jobs available
+- 🏠 **[Finance](finance.md)** - 3 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 5 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
-- 🏠 **[HR](hr.md)** - 2 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 3 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 5 remote jobs available
-- 🏠 **[Research](research.md)** - 3 remote jobs available
-- 🏠 **[Sales](sales.md)** - 4 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 2 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 13 remote jobs available
+- 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
+- 🏠 **[HR](hr.md)** - 3 remote jobs available
+- 🏠 **[Intern](intern.md)** - 1 remote job available
+- 🏠 **[Legal](legal.md)** - 1 remote job available
+- 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 9 remote jobs available
+- 🏠 **[Research](research.md)** - 4 remote jobs available
+- 🏠 **[Sales](sales.md)** - 5 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 20 remote jobs available
 
 
 ---
@@ -43,223 +47,207 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Engineering Manager, Machine Learning at Dandy
-
-💰 **Salary**: $216,800-$255,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-machine-learning-dandy)
-
----
-
-### 2. Head of Marketing at WP Media
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-marketing-wp-media)
-
----
-
-### 3. Color Management Lead at Dandy
-
-💰 **Salary**: $109,700-$129,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/color-management-lead-dandy)
-
----
-
-### 4. Talent Acquisition Manager at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-manager-bairesdev)
-
----
-
-### 5. Full Dentures Preppers at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-dentures-preppers-dandy)
-
----
-
-### 6. Clear Aligner Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clear-aligner-designer-dandy)
-
----
-
-### 7. Head of Product Marketing at Dandy
-
-💰 **Salary**: $232,000-$290,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-marketing-dandy)
-
----
-
-### 8. Principal Product Manager, Growth at Dandy
-
-💰 **Salary**: $202,100-$245,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-growth-dandy)
-
----
-
-### 9. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-remote-coinbase)
-
----
-
-### 10. Software Engineer, CAD at Dandy
-
-💰 **Salary**: $201,500-$237,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-cad-dandy)
-
----
-
-### 11. Sales Enablement Manager at Dandy
-
-💰 **Salary**: $124,100-$146,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-enablement-manager-dandy)
-
----
-
-### 12. Platform Engineer at Dandy
+### 1. Site Reliability Engineering Manager at Parity
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: DevOps
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineering-manager-parity)
 
 ---
 
-### 13. Software Engineer, Frontend (Consumer - Trading) at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-coinbase)
-
----
-
-### 14. Dental CAD Injection Mold Designer (Blender) at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-injection-mold-designer-dandy)
-
----
-
-### 15. Partial Denture Mold Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partial-denture-mold-designer-dandy)
-
----
-
-### 16. Global Director of Operations at Dandy
-
-💰 **Salary**: $177,600-$222,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-director-of-operations-dandy)
-
----
-
-### 17. Staff Machine Learning & Computer Vision Engineer at Dandy
-
-💰 **Salary**: $232,500-$258,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-machine-learning-computer-vision-engineer-dandy)
-
----
-
-### 18. Full-Stack Java + React Technical Leader at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-java-react-technical-leader-bairesdev)
-
----
-
-### 19. Senior Data Scientist I at Dandy
+### 2. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Data Analyst
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-i-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-digital-assets-operations-analyst-omega-enterprises-ltd)
 
 ---
 
-### 20. Thermoform Model Designer at Dandy
+### 3. Brand Partnerships Manager at Pitch - Remote at Pitch
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Product Designer
+📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/thermoform-model-designer-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brand-partnerships-manager-at-pitch-pitch)
+
+---
+
+### 4. Senior Automation Engineer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-automation-engineer-cloudlinux)
+
+---
+
+### 5. Senior Platform Engineer - Remote at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-platform-engineer-cloudlinux)
+
+---
+
+### 6. General Manager, Nomad Insurance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-manager-nomad-insurance-safetywing)
+
+---
+
+### 7. Go-to-Market AI Sales Closer at Passion.io
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/go-to-market-ai-sales-closer-passion-io)
+
+---
+
+### 8. Staff ML and AI Agent Systems Engineer at Sourcegraph
+
+💰 **Salary**: $88,000-$176,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-ml-and-ai-agent-systems-engineer-sourcegraph)
+
+---
+
+### 9. Vice President, Trust and Safety at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vice-president-trust-and-safety-vrchat)
+
+---
+
+### 10. Head of Business Development at VRChat at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-business-development-at-vrchat-vrchat)
+
+---
+
+### 11. Unity Technical Artist for Immersive Events at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/unity-technical-artist-for-immersive-events-vrchat)
+
+---
+
+### 12. Senior Recruiter at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-recruiter-vrchat)
+
+---
+
+### 13. Procurement Specialist at Ciceksepeti
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-specialist-ciceksepeti)
+
+---
+
+### 14. Product Manager, Membership Payments at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-membership-payments-raya)
+
+---
+
+### 15. Marketing Programs and Operations Specialist at Metabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-programs-and-operations-specialist-metabase)
+
+---
+
+### 16. Renewal Risk Engineer - Management Liability at Counterpart
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/renewal-risk-engineer-management-liability-counterpart)
+
+---
+
+### 17. Engineering Manager, Billing Systems (Remote) at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-billing-systems-supabase)
+
+---
+
+### 18. Platform Engineer, Edge and Networking at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-edge-and-networking-supabase)
+
+---
+
+### 19. Email Marketing Developer at Winona
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/email-marketing-developer-winona)
+
+---
+
+### 20. Head of Structured Solutions at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-structured-solutions-xapo-bank)
 
 ---
 
@@ -289,6 +277,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
