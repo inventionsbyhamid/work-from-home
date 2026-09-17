@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full Dentures Preppers at Dandy
+### 1. Senior Design Engineer, Web Brand - Remote at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-design-engineer-web-brand-livekit)
+
+---
+
+### 2. Full Dentures Preppers at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Clear Aligner Designer at Dandy
+### 3. Clear Aligner Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Dental CAD Injection Mold Designer (Blender) at Dandy
+### 4. Dental CAD Injection Mold Designer (Blender) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Partial Denture Mold Designer at Dandy
+### 5. Partial Denture Mold Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Thermoform Model Designer at Dandy
+### 6. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Dental CAD Prep Designer at Dandy
+### 7. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Product Designer at Atticus
+### 8. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Lead User Researcher at Atticus
+### 9. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -91,7 +101,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -119,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 16, 2026 at 00:00 UTC_
+_Last updated: September 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
