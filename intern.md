@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 1. C Language Software Developer Intern at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/c-language-software-developer-intern-cloudlinux)
+
+---
+
+### 2. Graduate Software Developer, Open Source & Linux at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-developer-open-source-linux-canonical)
+
+---
+
+### 3. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +41,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -49,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
