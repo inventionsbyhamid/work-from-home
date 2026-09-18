@@ -18,27 +18,32 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 8 remote jobs available
-- 🏠 **[Backend](backend.md)** - 12 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 12 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 1 remote job available
-- 🏠 **[Data Analyst](data-analyst.md)** - 5 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 12 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 9 remote jobs available
-- 🏠 **[Finance](finance.md)** - 3 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 5 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 4 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 17 remote jobs available
+- 🏠 **[Backend](backend.md)** - 36 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 26 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 4 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 2 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 7 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 27 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 18 remote jobs available
+- 🏠 **[Finance](finance.md)** - 14 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 7 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 1 remote job available
-- 🏠 **[HR](hr.md)** - 3 remote jobs available
-- 🏠 **[Intern](intern.md)** - 1 remote job available
-- 🏠 **[Legal](legal.md)** - 1 remote job available
-- 🏠 **[Marketing](marketing.md)** - 7 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 9 remote jobs available
-- 🏠 **[Research](research.md)** - 4 remote jobs available
-- 🏠 **[Sales](sales.md)** - 5 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 4 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 20 remote jobs available
+- 🏠 **[HR](hr.md)** - 5 remote jobs available
+- 🏠 **[Intern](intern.md)** - 3 remote jobs available
+- 🏠 **[Legal](legal.md)** - 2 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 14 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 14 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 16 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 6 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
+- 🏠 **[Research](research.md)** - 8 remote jobs available
+- 🏠 **[Sales](sales.md)** - 13 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 13 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 2 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 59 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 
 
 ---
@@ -47,207 +52,209 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Site Reliability Engineering Manager at Parity
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineering-manager-parity)
-
----
-
-### 2. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-digital-assets-operations-analyst-omega-enterprises-ltd)
-
----
-
-### 3. Brand Partnerships Manager at Pitch - Remote at Pitch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brand-partnerships-manager-at-pitch-pitch)
-
----
-
-### 4. Senior Automation Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-automation-engineer-cloudlinux)
-
----
-
-### 5. Senior Platform Engineer - Remote at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-platform-engineer-cloudlinux)
-
----
-
-### 6. General Manager, Nomad Insurance at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-manager-nomad-insurance-safetywing)
-
----
-
-### 7. Go-to-Market AI Sales Closer at Passion.io
+### 1. Corporate Account Executive - Public Sector DACH at Camunda
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/go-to-market-ai-sales-closer-passion-io)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-account-executive-public-sector-dach-camunda)
 
 ---
 
-### 8. Staff ML and AI Agent Systems Engineer at Sourcegraph
-
-💰 **Salary**: $88,000-$176,000 USD
+### 2. Senior Product Designer, Connect at Chess
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: AI/ML
+📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-ml-and-ai-agent-systems-engineer-sourcegraph)
-
----
-
-### 9. Vice President, Trust and Safety at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vice-president-trust-and-safety-vrchat)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-connect-chess)
 
 ---
 
-### 10. Head of Business Development at VRChat at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-business-development-at-vrchat-vrchat)
-
----
-
-### 11. Unity Technical Artist for Immersive Events at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/unity-technical-artist-for-immersive-events-vrchat)
-
----
-
-### 12. Senior Recruiter at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-recruiter-vrchat)
-
----
-
-### 13. Procurement Specialist at Ciceksepeti
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-specialist-ciceksepeti)
-
----
-
-### 14. Product Manager, Membership Payments at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-membership-payments-raya)
-
----
-
-### 15. Marketing Programs and Operations Specialist at Metabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-programs-and-operations-specialist-metabase)
-
----
-
-### 16. Renewal Risk Engineer - Management Liability at Counterpart
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/renewal-risk-engineer-management-liability-counterpart)
-
----
-
-### 17. Engineering Manager, Billing Systems (Remote) at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-billing-systems-supabase)
-
----
-
-### 18. Platform Engineer, Edge and Networking at Supabase
+### 3. FinOps Cloud Financial Engineer at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: DevOps
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-edge-and-networking-supabase)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-cloud-financial-engineer-at-supabase-supabase)
 
 ---
 
-### 19. Email Marketing Developer at Winona
+### 4. Account Development Manager at Camunda
+
+💰 **Salary**: $135,200-$218,100 USD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Marketing
+📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/email-marketing-developer-winona)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-manager-camunda)
 
 ---
 
-### 20. Head of Structured Solutions at Xapo Bank
+### 5. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
+
+💰 **Salary**: $152,000-$205,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-fingerprint)
+
+---
+
+### 6. Senior Research Engineer at AssemblyAI at AssemblyAI
+
+💰 **Salary**: $270,000-$310,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-research-engineer-at-assemblyai-assemblyai)
+
+---
+
+### 7. Backend Engineer, Real Time Media at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-real-time-media-livekit)
+
+---
+
+### 8. Senior Security Software Engineer at Parity
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-software-engineer-parity)
+
+---
+
+### 9. Senior Product Manager, Orchestrator Platform at Chili Piper
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-orchestrator-platform-chili-piper)
+
+---
+
+### 10. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/reinforcement-learning-research-engineer-at-livekit-livekit)
+
+---
+
+### 11. Financial Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-structured-solutions-xapo-bank)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-analyst-applaudo)
+
+---
+
+### 12. C Language Software Developer Intern at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/c-language-software-developer-intern-cloudlinux)
+
+---
+
+### 13. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-data-scientist-at-duckduckgo-duckduckgo)
+
+---
+
+### 14. Senior Product Design Engineer at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-design-engineer-duckduckgo)
+
+---
+
+### 15. IT Engineer - Remote at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-engineer-livekit)
+
+---
+
+### 16. Demand Generation Manager at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/demand-generation-manager-livekit)
+
+---
+
+### 17. Junior Cryptocurrency Trader at Atom Partners
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-cryptocurrency-trader-atom-partners)
+
+---
+
+### 18. Senior Backend Software Engineer, Distributed Systems at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-distributed-systems-camunda)
+
+---
+
+### 19. Financial Planning & Analysis Analyst at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-planning-analysis-analyst-clutch)
+
+---
+
+### 20. Staff Content Designer, Remote at Bolt.new
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-content-designer-remote-bolt-new)
 
 ---
 
@@ -277,6 +284,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
