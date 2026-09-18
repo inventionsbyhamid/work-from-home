@@ -8,7 +8,103 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Site Reliability Engineering Manager at Parity
+### 1. AWS Practice Lead, Open Source Databases at Percona
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-practice-lead-open-source-databases-percona)
+
+---
+
+### 2. VP of Engineering at Counterpart
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vp-of-engineering-counterpart)
+
+---
+
+### 3. Senior QA Engineering Manager at Camunda
+
+💰 **Salary**: $175,600-$283,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineering-manager-camunda)
+
+---
+
+### 4. Pre-Sales Solutions Architect Leader at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/pre-sales-solutions-architect-leader-supabase)
+
+---
+
+### 5. Lead Technical Account Manager (TAM) at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-technical-account-manager-supabase)
+
+---
+
+### 6. Lead Engineer, CMS Builder at Circle
+
+💰 **Salary**: $160,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-engineer-cms-builder-circle)
+
+---
+
+### 7. Engineering Team Lead at Counterpart
+
+💰 **Salary**: $190,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-team-lead-counterpart)
+
+---
+
+### 8. Engineering Manager, Member Experience at Raya at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-member-experience-at-raya-raya)
+
+---
+
+### 9. Quality and Release Manager at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-and-release-manager-raya)
+
+---
+
+### 10. Site Reliability Engineering Manager at Parity
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +114,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Vice President, Trust and Safety at VRChat
+### 11. Vice President, Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +124,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Engineering Manager, Billing Systems (Remote) at Supabase
+### 12. Engineering Manager, Billing Systems (Remote) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +134,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Engineering Manager, Machine Learning at Dandy
+### 13. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -50,7 +146,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Color Management Lead at Dandy
+### 14. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -62,7 +158,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+### 15. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -74,7 +170,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Full-Stack Java + React Technical Leader at BairesDev
+### 16. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +180,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Engineering Manager (Platform) at Coinbase
+### 17. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -96,7 +192,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Engineering Manager, CorpSec at Coinbase
+### 18. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -111,7 +207,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -139,6 +235,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
