@@ -8,7 +8,117 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Renewal Risk Engineer - Management Liability at Counterpart
+### 1. FinOps Cloud Financial Engineer at Supabase at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-cloud-financial-engineer-at-supabase-supabase)
+
+---
+
+### 2. Financial Analyst at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-analyst-applaudo)
+
+---
+
+### 3. Junior Cryptocurrency Trader at Atom Partners
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-cryptocurrency-trader-atom-partners)
+
+---
+
+### 4. Financial Planning & Analysis Analyst at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-planning-analysis-analyst-clutch)
+
+---
+
+### 5. Director of Business Operations at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-business-operations-clutch)
+
+---
+
+### 6. Senior Financial Planning & Analysis Manager at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-financial-planning-analysis-manager-camunda)
+
+---
+
+### 7. Director of Risk Management at Bobtail
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-risk-management-bobtail)
+
+---
+
+### 8. Senior Accounting Manager - Fully Remote at Counterpart
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-accounting-manager-fully-remote-counterpart)
+
+---
+
+### 9. Director of Corporate Development at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-corporate-development-cloudlinux)
+
+---
+
+### 10. GTM Strategic Finance Manager at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/gtm-strategic-finance-manager-livekit)
+
+---
+
+### 11. Lead Payment Operations Specialist at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-payment-operations-specialist-xapo-bank)
+
+---
+
+### 12. Renewal Risk Engineer - Management Liability at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -20,7 +130,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Head of Structured Solutions at Xapo Bank
+### 13. Head of Structured Solutions at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +140,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Lead Product Manager - Brokerage at Alpaca
+### 14. Lead Product Manager - Brokerage at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +153,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -71,6 +181,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
