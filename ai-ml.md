@@ -8,7 +8,103 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff ML and AI Agent Systems Engineer at Sourcegraph
+### 1. Senior Research Engineer at AssemblyAI at AssemblyAI
+
+💰 **Salary**: $270,000-$310,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-research-engineer-at-assemblyai-assemblyai)
+
+---
+
+### 2. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/reinforcement-learning-research-engineer-at-livekit-livekit)
+
+---
+
+### 3. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-data-scientist-at-duckduckgo-duckduckgo)
+
+---
+
+### 4. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
+
+💰 **Salary**: $143,800-$231,900 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-go-to-market-systems-ai-and-automation-engineer-camunda)
+
+---
+
+### 5. Senior Product Manager - Trading APIs at 0x
+
+💰 **Salary**: $150,000-$225,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-trading-apis-0x)
+
+---
+
+### 6. Remote Java Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-developer-cloudlinux)
+
+---
+
+### 7. Senior Product Manager at Bolt.new at Bolt.new
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-at-bolt-new-bolt-new)
+
+---
+
+### 8. Senior Developer Advocate for Social Media at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-developer-advocate-for-social-media-livekit)
+
+---
+
+### 9. Creative Technology Specialist at Superside
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creative-technology-specialist-superside)
+
+---
+
+### 10. Staff ML and AI Agent Systems Engineer at Sourcegraph
 
 💰 **Salary**: $88,000-$176,000 USD
 
@@ -20,7 +116,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Principal Product Manager, Foundational ML Models at Dandy
+### 11. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -32,7 +128,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Engineering Manager, Machine Learning at Dandy
+### 12. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -44,7 +140,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Software Engineer, CAD at Dandy
+### 13. Software Engineer, CAD at Dandy
 
 💰 **Salary**: $201,500-$237,000 USD
 
@@ -56,7 +152,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 14. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -68,7 +164,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Data Scientist I at Dandy
+### 15. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +174,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Scheduling Optimization Engineer at Applaudo
+### 16. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +184,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Data Scientist at Automattic
+### 17. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -103,7 +199,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -131,6 +227,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
