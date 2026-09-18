@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 1. Senior Research Engineer at AssemblyAI at AssemblyAI
+
+💰 **Salary**: $270,000-$310,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-research-engineer-at-assemblyai-assemblyai)
+
+---
+
+### 2. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/reinforcement-learning-research-engineer-at-livekit-livekit)
+
+---
+
+### 3. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-data-scientist-at-duckduckgo-duckduckgo)
+
+---
+
+### 4. Junior Cryptocurrency Trader at Atom Partners
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-cryptocurrency-trader-atom-partners)
+
+---
+
+### 5. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Color Management Lead at Dandy
+### 6. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -30,7 +72,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 7. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -42,7 +84,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Lead User Researcher at Atticus
+### 8. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +97,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -83,6 +125,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:01 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
