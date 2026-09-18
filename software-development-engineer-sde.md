@@ -8,7 +8,411 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Automation Engineer at CloudLinux
+### 1. FinOps Cloud Financial Engineer at Supabase at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-cloud-financial-engineer-at-supabase-supabase)
+
+---
+
+### 2. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
+
+💰 **Salary**: $152,000-$205,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-fingerprint)
+
+---
+
+### 3. Senior Research Engineer at AssemblyAI at AssemblyAI
+
+💰 **Salary**: $270,000-$310,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-research-engineer-at-assemblyai-assemblyai)
+
+---
+
+### 4. Backend Engineer, Real Time Media at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-real-time-media-livekit)
+
+---
+
+### 5. Senior Security Software Engineer at Parity
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-software-engineer-parity)
+
+---
+
+### 6. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/reinforcement-learning-research-engineer-at-livekit-livekit)
+
+---
+
+### 7. C Language Software Developer Intern at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/c-language-software-developer-intern-cloudlinux)
+
+---
+
+### 8. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-data-scientist-at-duckduckgo-duckduckgo)
+
+---
+
+### 9. Senior Product Design Engineer at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-design-engineer-duckduckgo)
+
+---
+
+### 10. IT Engineer - Remote at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-engineer-livekit)
+
+---
+
+### 11. Senior Backend Software Engineer, Distributed Systems at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-distributed-systems-camunda)
+
+---
+
+### 12. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-site-reliability-engineer-imunify-reliability-platform-cloudlinux)
+
+---
+
+### 13. Developer Relations Engineer at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/developer-relations-engineer-supabase)
+
+---
+
+### 14. AWS Practice Lead, Open Source Databases at Percona
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-practice-lead-open-source-databases-percona)
+
+---
+
+### 15. Senior Backend Engineer, Core APIs at Fingerprint
+
+💰 **Salary**: $130,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-core-apis-fingerprint)
+
+---
+
+### 16. Backend Software Engineer, Core API and Process Automation at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-software-engineer-core-api-and-process-automation-camunda)
+
+---
+
+### 17. Senior Software Engineer, Engineering Operations at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-engineering-operations-camunda)
+
+---
+
+### 18. Senior Backend Software Engineer, Data Streaming at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-software-engineer-data-streaming-camunda)
+
+---
+
+### 19. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-pipeline-engineer-at-cloudlinux-cloudlinux)
+
+---
+
+### 20. Graduate Software Developer, Open Source & Linux at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-developer-open-source-linux-canonical)
+
+---
+
+### 21. Backend Software Engineer, Data Layer at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-software-engineer-data-layer-camunda)
+
+---
+
+### 22. Blockchain Platform Engineer at Parity
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/blockchain-platform-engineer-parity)
+
+---
+
+### 23. Staff Software Engineer, SecureChain at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-securechain-cloudlinux)
+
+---
+
+### 24. Blockchain Protocol Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/blockchain-protocol-security-engineer-matterlabs)
+
+---
+
+### 25. Forward Deployed Engineer (Spanish/English) at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/forward-deployed-engineer-livekit)
+
+---
+
+### 26. Remote Java Developer at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-developer-cloudlinux)
+
+---
+
+### 27. Senior Platform Engineer (Cloud & DevOps) at Kindred
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-platform-engineer-kindred)
+
+---
+
+### 28. Senior Front-End Software Engineer, Email Hub at Circle
+
+💰 **Salary**: $130,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-front-end-software-engineer-email-hub-circle)
+
+---
+
+### 29. Senior Full-Stack Software Engineer, Discover at Circle
+
+💰 **Salary**: $130,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-circle)
+
+---
+
+### 30. Senior Full-Stack Engineer, Payments Core at Circle
+
+💰 **Salary**: $130,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-payments-core-circle)
+
+---
+
+### 31. Engineering Team Lead at Counterpart
+
+💰 **Salary**: $190,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-team-lead-counterpart)
+
+---
+
+### 32. Senior Java Developer for Enterprise Security Solutions at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-for-enterprise-security-solutions-cloudlinux)
+
+---
+
+### 33. Senior Backend Engineer, Ledger Team at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ledger-team-alpaca)
+
+---
+
+### 34. Platform Engineer, Compute Capacity at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-compute-capacity-supabase)
+
+---
+
+### 35. Senior Software Engineer, CI/CD Branching Platform at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-ci-cd-branching-platform-supabase)
+
+---
+
+### 36. Creative Technology Specialist at Superside
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creative-technology-specialist-superside)
+
+---
+
+### 37. Engineering Manager, Member Experience at Raya at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-member-experience-at-raya-raya)
+
+---
+
+### 38. Remote Product Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-engineer-safetywing)
+
+---
+
+### 39. Senior Forward Deployment Engineer at Clutch at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-forward-deployment-engineer-at-clutch-clutch)
+
+---
+
+### 40. Senior Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +422,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Go-to-Market AI Sales Closer at Passion.io
+### 41. Go-to-Market AI Sales Closer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +432,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Staff ML and AI Agent Systems Engineer at Sourcegraph
+### 42. Staff ML and AI Agent Systems Engineer at Sourcegraph
 
 💰 **Salary**: $88,000-$176,000 USD
 
@@ -40,7 +444,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Unity Technical Artist for Immersive Events at VRChat
+### 43. Unity Technical Artist for Immersive Events at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +454,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Platform Engineer, Edge and Networking at Supabase
+### 44. Platform Engineer, Edge and Networking at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +464,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Platform Engineer - Developer Experience at Dandy
+### 45. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +474,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Senior Product Engineer (Frontend) at Buffer
+### 46. Senior Product Engineer (Frontend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -82,7 +486,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Software Engineer, CAD at Dandy
+### 47. Software Engineer, CAD at Dandy
 
 💰 **Salary**: $201,500-$237,000 USD
 
@@ -94,7 +498,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+### 48. Software Engineer, Frontend (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -106,7 +510,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Full-Stack Java + React Technical Leader at BairesDev
+### 49. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +520,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Senior Software Engineer, Backend (Platform) at Coinbase
+### 50. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -128,7 +532,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 51. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -140,7 +544,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Experienced Software Engineer at Automattic
+### 52. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -152,7 +556,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Senior Software Engineer – Advisory Suite at Alpaca
+### 53. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +566,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Product Security Engineer at Alpaca
+### 54. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +576,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 55. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +586,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Senior .NET Engineer - Remote Work at BairesDev
+### 56. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +596,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Staff Backend Engineer (Social) at Phantom
+### 57. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -204,7 +608,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Platform Engineer at Appwrite
+### 58. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +618,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Platform Engineer - functions at Appwrite
+### 59. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -227,7 +631,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-**Total Jobs**: 20 positions available
+**Total Jobs**: 59 positions available
 
 ---
 
@@ -255,6 +659,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:01 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
