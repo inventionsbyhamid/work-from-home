@@ -8,7 +8,41 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Customer Success Manager at Camunda at Camunda
+### 1. Lead Technical Account Manager (TAM) at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-technical-account-manager-supabase)
+
+---
+
+### 2. Client Experience Specialist at Atticus
+
+💰 **Salary**: $60,000-$75,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-experience-specialist-atticus)
+
+---
+
+### 3. Senior Customer Success Operations Manager at Circle
+
+💰 **Salary**: $140,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-success-operations-manager-circle)
+
+---
+
+### 4. Senior Customer Success Manager at Camunda at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -21,7 +55,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -49,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
