@@ -8,7 +8,43 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full-Stack Java + React Technical Leader at BairesDev
+### 1. Lead Engineer, CMS Builder at Circle
+
+💰 **Salary**: $160,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-engineer-cms-builder-circle)
+
+---
+
+### 2. Senior Full-Stack Software Engineer, Discover at Circle
+
+💰 **Salary**: $130,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-circle)
+
+---
+
+### 3. Senior Full-Stack Engineer, Payments Core at Circle
+
+💰 **Salary**: $130,000-$140,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-payments-core-circle)
+
+---
+
+### 4. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +54,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Experienced Software Engineer at Automattic
+### 5. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -30,7 +66,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Fullstack Developer (Next.js) at Applaudo
+### 6. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +76,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Platform Engineer - functions at Appwrite
+### 7. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +89,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -81,6 +117,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
