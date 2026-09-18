@@ -8,7 +8,97 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Platform Engineer - Remote at CloudLinux
+### 1. Senior Security Software Engineer at Parity
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-software-engineer-parity)
+
+---
+
+### 2. IT Engineer - Remote at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-engineer-livekit)
+
+---
+
+### 3. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-site-reliability-engineer-imunify-reliability-platform-cloudlinux)
+
+---
+
+### 4. Staff Software Engineer, SecureChain at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-securechain-cloudlinux)
+
+---
+
+### 5. Blockchain Protocol Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/blockchain-protocol-security-engineer-matterlabs)
+
+---
+
+### 6. Senior Java Developer for Enterprise Security Solutions at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-for-enterprise-security-solutions-cloudlinux)
+
+---
+
+### 7. Senior Information Security GRC Analyst at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-information-security-grc-analyst-camunda)
+
+---
+
+### 8. Platform Security Engineer at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-security-engineer-supabase)
+
+---
+
+### 9. Staff Security Engineer at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-security-engineer-livekit)
+
+---
+
+### 10. Senior Platform Engineer - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +108,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Vice President, Trust and Safety at VRChat
+### 11. Vice President, Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +118,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Engineering Manager, CorpSec at Coinbase
+### 12. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -40,7 +130,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Product Security Engineer at Alpaca
+### 13. Product Security Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -53,7 +143,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -81,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:01 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
