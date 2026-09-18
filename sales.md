@@ -8,7 +8,91 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Go-to-Market AI Sales Closer at Passion.io
+### 1. Corporate Account Executive - Public Sector DACH at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-account-executive-public-sector-dach-camunda)
+
+---
+
+### 2. Account Development Manager at Camunda
+
+💰 **Salary**: $135,200-$218,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-manager-camunda)
+
+---
+
+### 3. Senior Sales Engineer at Camunda
+
+💰 **Salary**: $175,200-$326,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-sales-engineer-camunda)
+
+---
+
+### 4. Pre-Sales Solutions Architect Leader at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/pre-sales-solutions-architect-leader-supabase)
+
+---
+
+### 5. Account Executive I, Sales at Uscreen
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-i-sales-uscreen)
+
+---
+
+### 6. Commercial Sales Executive at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-sales-executive-supabase)
+
+---
+
+### 7. AWS Enterprise Segment Lead at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-enterprise-segment-lead-supabase)
+
+---
+
+### 8. AWS Gaming Segment Lead at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-gaming-segment-lead-supabase)
+
+---
+
+### 9. Go-to-Market AI Sales Closer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +102,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Sales Enablement Manager at Dandy
+### 10. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -30,7 +114,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Commercial Account Executive (CAE) at Dandy
+### 11. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -42,7 +126,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Business Development Representative at Automattic
+### 12. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -54,7 +138,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Sales Openers Manager at Phantom
+### 13. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +151,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -95,6 +179,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:01 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
