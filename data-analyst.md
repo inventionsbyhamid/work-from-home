@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 1. Financial Planning & Analysis Analyst at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-planning-analysis-analyst-clutch)
+
+---
+
+### 2. Senior Customer Success Operations Manager at Circle
+
+💰 **Salary**: $140,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-success-operations-manager-circle)
+
+---
+
+### 3. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Marketing Programs and Operations Specialist at Metabase
+### 4. Marketing Programs and Operations Specialist at Metabase
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Senior Data Scientist I at Dandy
+### 5. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Scheduling Optimization Engineer at Applaudo
+### 6. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Scientist at Automattic
+### 7. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -63,7 +85,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -91,6 +113,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 17, 2026 at 00:00 UTC_
+_Last updated: September 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
