@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer, Connect at Chess
+### 1. Senior Brand Designer at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-brand-designer-circle)
+
+---
+
+### 2. Senior Product Designer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-safetywing)
+
+---
+
+### 3. Senior UX/UI Designer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ux-ui-designer-applaudo)
+
+---
+
+### 4. Senior Product Designer, Connect at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Senior Product Design Engineer at DuckDuckGo
+### 5. Senior Product Design Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Staff Content Designer, Remote at Bolt.new
+### 6. Staff Content Designer, Remote at Bolt.new
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Lead Product Designer at Circle
+### 7. Lead Product Designer at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Lead Product Designer for Marketplace at Circle at Circle
+### 8. Lead Product Designer for Marketplace at Circle at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -62,7 +92,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Senior Design Engineer, Web Brand - Remote at LiveKit
+### 9. Senior Design Engineer, Web Brand - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +102,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Full Dentures Preppers at Dandy
+### 10. Full Dentures Preppers at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +112,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Clear Aligner Designer at Dandy
+### 11. Clear Aligner Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +122,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Dental CAD Injection Mold Designer (Blender) at Dandy
+### 12. Dental CAD Injection Mold Designer (Blender) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +132,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Partial Denture Mold Designer at Dandy
+### 13. Partial Denture Mold Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +142,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Thermoform Model Designer at Dandy
+### 14. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +152,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 12. Dental CAD Prep Designer at Dandy
+### 15. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +162,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 13. Senior Product Designer at Atticus
+### 16. Senior Product Designer at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +172,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 14. Lead User Researcher at Atticus
+### 17. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -155,7 +185,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -183,6 +213,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
