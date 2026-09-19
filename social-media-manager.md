@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Social Content Creator for Remote-First Company at Pitch
+### 1. Social Media Lead at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-lead-circle)
+
+---
+
+### 2. Senior Full Stack Developer at 90 Seconds
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-developer-90-seconds)
+
+---
+
+### 3. Business Development Manager at 90 Seconds
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-manager-90-seconds)
+
+---
+
+### 4. Social Content Creator for Remote-First Company at Pitch
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Remote Social Media Lead for Global Creator Platform at Circle
+### 5. Remote Social Media Lead for Global Creator Platform at Circle
 
 💰 **Salary**: $145,000-$160,000 USD
 
@@ -33,7 +63,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -61,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
