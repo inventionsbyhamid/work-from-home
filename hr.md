@@ -8,7 +8,57 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Global Human Resources at Percona
+### 1. Talent Acquisition Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-specialist-remote-binance)
+
+---
+
+### 2. Senior Recruiter at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-recruiter-bairesdev)
+
+---
+
+### 3. Recruiting Analyst at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/recruiting-analyst-bairesdev)
+
+---
+
+### 4. Hunting Manager at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hunting-manager-bairesdev)
+
+---
+
+### 5. Talent Acquisition Associate at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-associate-bairesdev)
+
+---
+
+### 6. Director of Global Human Resources at Percona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Director of Talent Acquisition at Fingerprint
+### 7. Director of Talent Acquisition at Fingerprint
 
 💰 **Salary**: $159,000-$215,000 USD
 
@@ -30,7 +80,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Senior Recruiter at VRChat
+### 8. Senior Recruiter at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +90,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Talent Acquisition Manager at BairesDev
+### 9. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +100,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Global Director of Operations at Dandy
+### 10. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -65,7 +115,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -93,6 +143,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
