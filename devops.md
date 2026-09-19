@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. FinOps Cloud Financial Engineer at Supabase at Supabase
+### 1. Senior Site Reliability Engineer at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-alpaca)
+
+---
+
+### 2. Senior Software Engineer, Quality Engineering at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-quality-engineering-alpaca)
+
+---
+
+### 3. Senior Infrastructure Security Engineer at MatterLabs
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-security-engineer-matterlabs)
+
+---
+
+### 4. FinOps Cloud Financial Engineer at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
+### 5. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -30,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. IT Engineer - Remote at LiveKit
+### 6. IT Engineer - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
+### 7. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. AWS Practice Lead, Open Source Databases at Percona
+### 8. AWS Practice Lead, Open Source Databases at Percona
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
+### 9. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -72,7 +102,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Senior Software Engineer, Engineering Operations at Camunda
+### 10. Senior Software Engineer, Engineering Operations at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +112,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
+### 11. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +122,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Forward Deployed Engineer (Spanish/English) at LiveKit
+### 12. Forward Deployed Engineer (Spanish/English) at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +132,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Senior Platform Engineer (Cloud & DevOps) at Kindred
+### 13. Senior Platform Engineer (Cloud & DevOps) at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +142,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Platform Engineer, Compute Capacity at Supabase
+### 14. Platform Engineer, Compute Capacity at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +152,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Senior Software Engineer, CI/CD Branching Platform at Supabase
+### 15. Senior Software Engineer, CI/CD Branching Platform at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +162,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 13. Platform Security Engineer at Supabase
+### 16. Platform Security Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +172,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. Quality and Release Manager at Raya
+### 17. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +182,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 15. Senior Forward Deployment Engineer at Clutch at Clutch
+### 18. Senior Forward Deployment Engineer at Clutch at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +192,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 16. Site Reliability Engineering Manager at Parity
+### 19. Site Reliability Engineering Manager at Parity
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +202,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 17. Senior Automation Engineer at CloudLinux
+### 20. Senior Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +212,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 18. Senior Platform Engineer - Remote at CloudLinux
+### 21. Senior Platform Engineer - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +222,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 19. Platform Engineer, Edge and Networking at Supabase
+### 22. Platform Engineer, Edge and Networking at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +232,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 20. Platform Engineer - Developer Experience at Dandy
+### 23. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +242,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 21. Platform Engineer at Dandy
+### 24. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +252,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 22. Platform Engineer at Dandy
+### 25. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -232,7 +262,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 23. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 26. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -244,7 +274,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 24. Senior Site Reliability Engineer, Environment Automation at GitLab
+### 27. Senior Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +284,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 25. Platform Engineer - Database at Appwrite
+### 28. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +294,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 26. Platform Engineer - Integrations at Appwrite
+### 29. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -274,7 +304,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 27. Platform Engineer at Appwrite
+### 30. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -287,7 +317,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 27 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -315,6 +345,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
