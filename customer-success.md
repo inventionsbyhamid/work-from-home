@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Technical Account Manager (TAM) at Supabase
+### 1. VIP Account Manager at Phantom
+
+💰 **Salary**: $75,000-$100,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/vip-account-manager-phantom)
+
+---
+
+### 2. Lead Technical Account Manager (TAM) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Client Experience Specialist at Atticus
+### 3. Client Experience Specialist at Atticus
 
 💰 **Salary**: $60,000-$75,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Senior Customer Success Operations Manager at Circle
+### 4. Senior Customer Success Operations Manager at Circle
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Senior Customer Success Manager at Camunda at Camunda
+### 5. Senior Customer Success Manager at Camunda at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +67,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -83,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
