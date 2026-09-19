@@ -8,7 +8,59 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior QA Engineering Manager at Camunda
+### 1. Clinical Support Expert, Aligners at Dandy
+
+💰 **Salary**: $70,000-$80,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-expert-aligners-dandy)
+
+---
+
+### 2. Senior Software Engineer, Quality Engineering at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-quality-engineering-alpaca)
+
+---
+
+### 3. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
+
+---
+
+### 4. Senior Quality Engineer at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-quality-engineer-circle)
+
+---
+
+### 5. Quality Assurance Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-assurance-engineer-applaudo)
+
+---
+
+### 6. Senior QA Engineering Manager at Camunda
 
 💰 **Salary**: $175,600-$283,100 USD
 
@@ -20,7 +72,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. Quality and Release Manager at Raya
+### 7. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +85,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -61,6 +113,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
