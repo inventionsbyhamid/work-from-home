@@ -8,7 +8,67 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Engineer, CMS Builder at Circle
+### 1. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-identity-security-binance)
+
+---
+
+### 2. Fullstack Engineer, Exchange at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-engineer-exchange-binance)
+
+---
+
+### 3. Full Stack Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-remote-applaudo)
+
+---
+
+### 4. Senior Full Stack Engineer at Zircuit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-zircuit)
+
+---
+
+### 5. Backend Engineer at Clerk
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-clerk)
+
+---
+
+### 6. Staff Engineer at Clerk
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-clerk)
+
+---
+
+### 7. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -20,7 +80,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior Full-Stack Software Engineer, Discover at Circle
+### 8. Senior Full-Stack Software Engineer, Discover at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -32,7 +92,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior Full-Stack Engineer, Payments Core at Circle
+### 9. Senior Full-Stack Engineer, Payments Core at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -44,7 +104,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Full-Stack Java + React Technical Leader at BairesDev
+### 10. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +114,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Experienced Software Engineer at Automattic
+### 11. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -66,7 +126,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Fullstack Developer (Next.js) at Applaudo
+### 12. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +136,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Platform Engineer - functions at Appwrite
+### 13. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -89,7 +149,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -117,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
