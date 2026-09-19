@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Financial Planning & Analysis Analyst at Clutch
+### 1. Senior Data Analyst, Trading Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-analyst-trading-asia-binance)
+
+---
+
+### 2. Sr. Insider Risk Analyst at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-insider-risk-analyst-alpaca)
+
+---
+
+### 3. Senior Evaluation Algorithm Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-evaluation-algorithm-engineer-binance)
+
+---
+
+### 4. Financial Planning & Analysis Analyst at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Customer Success Operations Manager at Circle
+### 5. Senior Customer Success Operations Manager at Circle
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -30,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 6. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Marketing Programs and Operations Specialist at Metabase
+### 7. Marketing Programs and Operations Specialist at Metabase
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Scientist I at Dandy
+### 8. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Scheduling Optimization Engineer at Applaudo
+### 9. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +100,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Senior Data Scientist at Automattic
+### 10. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -85,7 +115,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -113,6 +143,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 18, 2026 at 00:00 UTC_
+_Last updated: September 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
