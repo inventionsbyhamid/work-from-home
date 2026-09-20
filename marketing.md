@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - Lifecycle Operations at Binance
+### 1. Product Manager - Community Strategy Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-community-strategy-asia-binance)
+
+---
+
+### 2. Binance Accelerator Program - Global Swag at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-global-swag-binance)
+
+---
+
+### 3. Product Communications Lead at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-communications-lead-phantom)
+
+---
+
+### 4. Binance Accelerator Program - Lifecycle Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Senior Brand Designer at Circle
+### 5. Senior Brand Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Social Media Lead at Circle
+### 6. Social Media Lead at Circle
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Ad Sales Director at Chess
+### 7. Ad Sales Director at Chess
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Creative Director at Circle
+### 8. Creative Director at Circle
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +88,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Director, Global Marketing Operations at Binance
+### 9. Director, Global Marketing Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +98,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Director of Product Marketing at MatterLabs
+### 10. Director of Product Marketing at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +108,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Business Development Manager at 90 Seconds
+### 11. Business Development Manager at 90 Seconds
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +118,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Demand Generation Manager at LiveKit
+### 12. Demand Generation Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +128,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Developer Relations Engineer at Supabase
+### 13. Developer Relations Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +138,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Social Content Creator for Remote-First Company at Pitch
+### 14. Social Content Creator for Remote-First Company at Pitch
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +148,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Lifecycle Marketing Manager - Remote at SafetyWing
+### 15. Lifecycle Marketing Manager - Remote at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +158,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Remote Social Media Lead for Global Creator Platform at Circle
+### 16. Remote Social Media Lead for Global Creator Platform at Circle
 
 💰 **Salary**: $145,000-$160,000 USD
 
@@ -140,7 +170,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Startup Program Lead at LiveKit
+### 17. Startup Program Lead at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +180,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Senior Developer Advocate for Social Media at LiveKit
+### 18. Senior Developer Advocate for Social Media at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +190,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Brand Partnerships Manager at Pitch - Remote at Pitch
+### 19. Brand Partnerships Manager at Pitch - Remote at Pitch
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +200,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Marketing Programs and Operations Specialist at Metabase
+### 20. Marketing Programs and Operations Specialist at Metabase
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +210,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Email Marketing Developer at Winona
+### 21. Email Marketing Developer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +220,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Senior Brand Designer at LiveKit
+### 22. Senior Brand Designer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +230,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Head of Marketing at WP Media
+### 23. Head of Marketing at WP Media
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +240,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Head of Product Marketing at Dandy
+### 24. Head of Product Marketing at Dandy
 
 💰 **Salary**: $232,000-$290,000 USD
 
@@ -222,7 +252,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Sales Openers Manager at Phantom
+### 25. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -235,7 +265,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 22 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -263,6 +293,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 19, 2026 at 00:00 UTC_
+_Last updated: September 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
