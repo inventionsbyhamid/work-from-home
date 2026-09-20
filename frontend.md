@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+### 1. Senior iOS Developer - Member Experience at Raya at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-developer-member-experience-at-raya-raya)
+
+---
+
+### 2. Senior Software Engineer, Frontend (Money Movement) at Phantom
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-frontend-phantom)
+
+---
+
+### 3. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
+### 4. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
+### 5. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Staff Engineer at Clerk
+### 6. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Product Design Engineer at DuckDuckGo
+### 7. Senior Product Design Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +78,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Senior Front-End Software Engineer, Email Hub at Circle
+### 8. Senior Front-End Software Engineer, Email Hub at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -70,7 +90,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Remote Product Engineer at SafetyWing
+### 9. Remote Product Engineer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +100,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Email Marketing Developer at Winona
+### 10. Email Marketing Developer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +110,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 9. Senior Design Engineer, Web Brand - Remote at LiveKit
+### 11. Senior Design Engineer, Web Brand - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +120,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 10. Senior Product Engineer (Frontend) at Buffer
+### 12. Senior Product Engineer (Frontend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -112,7 +132,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 11. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+### 13. Software Engineer, Frontend (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -124,7 +144,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 12. Senior Product Engineer (Frontend) - Growth at Buffer
+### 14. Senior Product Engineer (Frontend) - Growth at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -139,7 +159,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -167,6 +187,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 19, 2026 at 00:00 UTC_
+_Last updated: September 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
