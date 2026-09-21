@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Quality and Release Manager at Raya
+### 1. Senior Analytics Manager at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-analytics-manager-raya)
+
+---
+
+### 2. Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions) at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-nonlinear-productivity-gitlab)
+
+---
+
+### 3. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Director, Windows at DuckDuckGo
+### 4. Engineering Director, Windows at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Senior Tech Lead, AI Code Platform at Sourcegraph
+### 5. Senior Tech Lead, AI Code Platform at Sourcegraph
 
 💰 **Salary**: $144,000+ USD
 
@@ -42,7 +62,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Staff Machine Learning Engineer at Phantom
+### 6. Staff Machine Learning Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -52,35 +72,13 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 7. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
----
-
-### 6. Engineering Director, Web Platform at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-remote-duckduckgo)
-
----
-
-### 7. Senior Project Manager - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-project-manager-remote-work-bairesdev)
 
 ---
 
@@ -92,11 +90,33 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 📍 **Category**: Engineering Manager
 
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-remote-duckduckgo)
+
+---
+
+### 9. Senior Project Manager - Remote Work at BairesDev
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-project-manager-remote-work-bairesdev)
+
+---
+
+### 10. Engineering Director, Web Platform at DuckDuckGo
+
+💰 **Salary**: $243,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-duckduckgo)
 
 ---
 
-### 9. Market Data Lead Asia / Project Management at Binance
+### 11. Market Data Lead Asia / Project Management at Binance
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +126,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. AWS Practice Lead, Open Source Databases at Percona
+### 12. AWS Practice Lead, Open Source Databases at Percona
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +136,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. VP of Engineering at Counterpart
+### 13. VP of Engineering at Counterpart
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +146,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Senior QA Engineering Manager at Camunda
+### 14. Senior QA Engineering Manager at Camunda
 
 💰 **Salary**: $175,600-$283,100 USD
 
@@ -138,7 +158,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Pre-Sales Solutions Architect Leader at Supabase
+### 15. Pre-Sales Solutions Architect Leader at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +168,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Lead Technical Account Manager (TAM) at Supabase
+### 16. Lead Technical Account Manager (TAM) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +178,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Lead Engineer, CMS Builder at Circle
+### 17. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -170,7 +190,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Engineering Team Lead at Counterpart
+### 18. Engineering Team Lead at Counterpart
 
 💰 **Salary**: $190,000-$240,000 USD
 
@@ -182,7 +202,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Engineering Manager, Member Experience at Raya at Raya
+### 19. Engineering Manager, Member Experience at Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +212,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Quality and Release Manager at Raya
+### 20. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +222,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 19. Site Reliability Engineering Manager at Parity
+### 21. Site Reliability Engineering Manager at Parity
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +232,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 20. Vice President, Trust and Safety at VRChat
+### 22. Vice President, Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +242,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 21. Engineering Manager, Billing Systems (Remote) at Supabase
+### 23. Engineering Manager, Billing Systems (Remote) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -232,7 +252,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 22. Engineering Manager, Machine Learning at Dandy
+### 24. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -244,7 +264,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 23. Color Management Lead at Dandy
+### 25. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -256,7 +276,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 24. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
+### 26. Engineering Manager (Institutional - Prime, Trade Interfaces) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -268,7 +288,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 25. Full-Stack Java + React Technical Leader at BairesDev
+### 27. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -278,7 +298,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 26. Engineering Manager (Platform) at Coinbase
+### 28. Engineering Manager (Platform) at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -290,7 +310,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 27. Engineering Manager, CorpSec at Coinbase
+### 29. Engineering Manager, CorpSec at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -305,7 +325,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 27 positions available
+**Total Jobs**: 29 positions available
 
 ---
 
@@ -333,6 +353,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 20, 2026 at 00:00 UTC_
+_Last updated: September 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
