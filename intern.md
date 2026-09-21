@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - Global Swag at Binance
+### 1. Product Manager AI Agent & Harness at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ai-agent-harness-binance)
+
+---
+
+### 2. Binance Accelerator Program - Global Swag at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 2. Binance Accelerator Program - Lifecycle Operations at Binance
+### 3. Binance Accelerator Program - Lifecycle Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 3. C Language Software Developer Intern at CloudLinux
+### 4. C Language Software Developer Intern at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 4. Graduate Software Developer, Open Source & Linux at Canonical
+### 5. Graduate Software Developer, Open Source & Linux at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 5. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 6. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 20, 2026 at 00:00 UTC_
+_Last updated: September 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
