@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Employment Counsel at Camunda
+### 1. Global Regulatory Legal Lead at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-regulatory-legal-lead-binance)
+
+---
+
+### 2. Corporate Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-counsel-binance)
+
+---
+
+### 3. Senior Employment Counsel at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Director of Risk Management at Bobtail
+### 4. Director of Risk Management at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Renewal Risk Engineer - Management Liability at Counterpart
+### 5. Renewal Risk Engineer - Management Liability at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -43,7 +63,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -71,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 20, 2026 at 00:00 UTC_
+_Last updated: September 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
