@@ -8,7 +8,109 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
+### 1. Enterprise Data Architect at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-data-architect-applaudo)
+
+---
+
+### 2. Backend Engineer - Futures at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-futures-binance)
+
+---
+
+### 3. Senior Backend Engineer (Python/Django) at Coalition Technologies
+
+💰 **Salary**: $140,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-coalition-technologies)
+
+---
+
+### 4. Software Engineer - Advisory Suite Remote at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-advisory-suite-remote-alpaca)
+
+---
+
+### 5. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-kyc-tech-binance)
+
+---
+
+### 6. Intermediate Backend Engineer - Database Change Management at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-backend-engineer-database-change-management-gitlab)
+
+---
+
+### 7. Senior Backend Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-full-time-binance)
+
+---
+
+### 8. Senior Software Engineer, Core Trading Systems at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-core-trading-systems-binance)
+
+---
+
+### 9. Java Architect- Compliance at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-worldwide-binance)
+
+---
+
+### 10. Senior Java Developer - Web3 Earn at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-web3-earn-binance)
+
+---
+
+### 11. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +120,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 2. Senior Security Engineer at Binance
+### 12. Senior Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +130,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 3. Backend Developer at Coalition Technologies
+### 13. Backend Developer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +140,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 4. Senior Database Reliability Engineer at CloudLinux
+### 14. Senior Database Reliability Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +150,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 5. Java Architect- Compliance at Binance
+### 15. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +160,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 6. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
+### 16. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +170,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 7. Security Engineer at Binance
+### 17. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +180,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 8. Senior Backend Engineer at Applaudo
+### 18. Senior Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +190,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 9. Backend Engineer at Coalition Technologies
+### 19. Backend Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +200,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 10. Backend Engineer, Security (Remote) at Binance
+### 20. Backend Engineer, Security (Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +210,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 11. QA Engineer - Automation Backend Testing, Coding (Fully Remote) at Binance
+### 21. QA Engineer - Automation Backend Testing, Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +220,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 12. Engineer to own the automated pipelines at CloudLinux
+### 22. Engineer to own the automated pipelines at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +230,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 13. Backend Engineer at Binance
+### 23. Backend Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +240,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 14. Senior Software Engineer - Market Data at Alpaca
+### 24. Senior Software Engineer - Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +250,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 15. Data Platform Engineer at CloudLinux
+### 25. Data Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +260,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 16. Senior Product Engineer (Backend) at Buffer
+### 26. Senior Product Engineer (Backend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -170,7 +272,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 17. Senior Software Engineer, Backend (Money Movement) at Phantom
+### 27. Senior Software Engineer, Backend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +282,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 18. Senior/Staff Backend Engineer, Identity Platform at Phantom
+### 28. Senior/Staff Backend Engineer, Identity Platform at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +292,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 19. Software Engineer (Trading) at Phantom
+### 29. Software Engineer (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -202,7 +304,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 20. Software Engineer - Infrastructure at Camunda
+### 30. Software Engineer - Infrastructure at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +314,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 21. Senior Ruby on Rails Engineer at Coalition Technologies
+### 31. Senior Ruby on Rails Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +324,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 22. Senior Software Engineer, Backend - Core/API & Process Automation at Camunda
+### 32. Senior Software Engineer, Backend - Core/API & Process Automation at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -234,7 +336,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 23. Senior Site Reliability Engineer at Alpaca
+### 33. Senior Site Reliability Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +346,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 24. Node.js Runtime Protection Engineer at CloudLinux
+### 34. Node.js Runtime Protection Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +356,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 25. Senior Software Engineer - Workflow at Cloudbeds
+### 35. Senior Software Engineer - Workflow at Cloudbeds
 
 💰 **Salary**: $130,000-$175,000 USD
 
@@ -266,7 +368,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 26. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
+### 36. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -276,7 +378,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 27. Senior Full Stack Engineer at Zircuit
+### 37. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -286,7 +388,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 28. Protocol Engineer at MatterLabs
+### 38. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -296,7 +398,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 29. Backend Engineer at Clerk
+### 39. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +408,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 30. Engineering Director, Web Platform at DuckDuckGo
+### 40. Engineering Director, Web Platform at DuckDuckGo
 
 💰 **Salary**: $243,800 USD
 
@@ -318,7 +420,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 31. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
+### 41. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -330,7 +432,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 32. Backend Engineer, Real Time Media at LiveKit
+### 42. Backend Engineer, Real Time Media at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -340,7 +442,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 33. C Language Software Developer Intern at CloudLinux
+### 43. C Language Software Developer Intern at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -350,7 +452,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 34. Senior Backend Software Engineer, Distributed Systems at Camunda
+### 44. Senior Backend Software Engineer, Distributed Systems at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -360,7 +462,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 35. Senior Backend Engineer, Core APIs at Fingerprint
+### 45. Senior Backend Engineer, Core APIs at Fingerprint
 
 💰 **Salary**: $130,000-$180,000 USD
 
@@ -372,7 +474,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 36. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
+### 46. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -384,7 +486,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 37. Backend Software Engineer, Core API and Process Automation at Camunda
+### 47. Backend Software Engineer, Core API and Process Automation at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -394,7 +496,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 38. Senior Software Engineer, Engineering Operations at Camunda
+### 48. Senior Software Engineer, Engineering Operations at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -404,7 +506,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 39. Senior Backend Software Engineer, Data Streaming at Camunda
+### 49. Senior Backend Software Engineer, Data Streaming at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -414,7 +516,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 40. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
+### 50. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -424,7 +526,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 41. Graduate Software Developer, Open Source & Linux at Canonical
+### 51. Graduate Software Developer, Open Source & Linux at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -434,7 +536,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 42. Backend Software Engineer, Data Layer at Camunda
+### 52. Backend Software Engineer, Data Layer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -444,7 +546,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 43. Blockchain Platform Engineer at Parity
+### 53. Blockchain Platform Engineer at Parity
 
 🌍 **Location**: Worldwide
 
@@ -454,7 +556,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 44. Staff Software Engineer, SecureChain at CloudLinux
+### 54. Staff Software Engineer, SecureChain at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -464,7 +566,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 45. Forward Deployed Engineer (Spanish/English) at LiveKit
+### 55. Forward Deployed Engineer (Spanish/English) at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -474,7 +576,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 46. Remote Java Developer at CloudLinux
+### 56. Remote Java Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -484,7 +586,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 47. Senior Platform Engineer (Cloud & DevOps) at Kindred
+### 57. Senior Platform Engineer (Cloud & DevOps) at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -494,7 +596,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 48. Lead Engineer, CMS Builder at Circle
+### 58. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -506,7 +608,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 49. Engineering Team Lead at Counterpart
+### 59. Engineering Team Lead at Counterpart
 
 💰 **Salary**: $190,000-$240,000 USD
 
@@ -518,7 +620,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 50. Senior Java Developer for Enterprise Security Solutions at CloudLinux
+### 60. Senior Java Developer for Enterprise Security Solutions at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -528,7 +630,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 51. Senior Backend Engineer, Ledger Team at Alpaca
+### 61. Senior Backend Engineer, Ledger Team at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -538,7 +640,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 52. Senior Software Engineer, CI/CD Branching Platform at Supabase
+### 62. Senior Software Engineer, CI/CD Branching Platform at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -548,7 +650,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 53. Engineering Manager, Member Experience at Raya at Raya
+### 63. Engineering Manager, Member Experience at Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -558,7 +660,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 54. Remote Product Engineer at SafetyWing
+### 64. Remote Product Engineer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -568,7 +670,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 55. Senior Automation Engineer at CloudLinux
+### 65. Senior Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -578,7 +680,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 56. Senior Platform Engineer - Remote at CloudLinux
+### 66. Senior Platform Engineer - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -588,7 +690,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 57. Engineering Manager, Billing Systems (Remote) at Supabase
+### 67. Engineering Manager, Billing Systems (Remote) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -598,7 +700,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 58. Platform Engineer, Edge and Networking at Supabase
+### 68. Platform Engineer, Edge and Networking at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -608,7 +710,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 59. Senior Software Engineer, Backend (Platform) at Coinbase
+### 69. Senior Software Engineer, Backend (Platform) at Coinbase
 
 💰 **Salary**: $191,000 CAD
 
@@ -620,7 +722,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 60. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
+### 70. Senior Software Engineer, Infrastructure (Platform - Datastores) at Coinbase
 
 💰 **Salary**: $185,500 CAD
 
@@ -632,7 +734,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 61. Senior Software Engineer – Advisory Suite at Alpaca
+### 71. Senior Software Engineer – Advisory Suite at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -642,7 +744,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 62. Senior .NET Engineer - Remote Work at BairesDev
+### 72. Senior .NET Engineer - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -652,7 +754,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 63. Staff Backend Engineer (Social) at Phantom
+### 73. Staff Backend Engineer (Social) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -664,7 +766,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 64. Platform Engineer - Database at Appwrite
+### 74. Platform Engineer - Database at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -674,7 +776,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 65. Platform Engineer - Integrations at Appwrite
+### 75. Platform Engineer - Integrations at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -684,7 +786,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 66. Platform Engineer at Appwrite
+### 76. Platform Engineer at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -697,7 +799,7 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 66 positions available
+**Total Jobs**: 76 positions available
 
 ---
 
@@ -725,6 +827,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
