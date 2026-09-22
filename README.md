@@ -18,34 +18,34 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 29 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 32 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 1 remote job available
-- 🏠 **[Backend](backend.md)** - 66 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 35 remote jobs available
+- 🏠 **[Backend](backend.md)** - 76 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 39 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 7 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 7 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 8 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 9 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 14 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 41 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 29 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 43 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 32 remote jobs available
 - 🏠 **[Finance](finance.md)** - 21 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 14 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 14 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 18 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 17 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
-- 🏠 **[HR](hr.md)** - 11 remote jobs available
-- 🏠 **[Intern](intern.md)** - 6 remote jobs available
+- 🏠 **[HR](hr.md)** - 12 remote jobs available
+- 🏠 **[Intern](intern.md)** - 7 remote jobs available
 - 🏠 **[Legal](legal.md)** - 5 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 27 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 20 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 30 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 15 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 10 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 28 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 25 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 33 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 16 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 11 remote jobs available
 - 🏠 **[Research](research.md)** - 10 remote jobs available
-- 🏠 **[Sales](sales.md)** - 21 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 31 remote jobs available
+- 🏠 **[Sales](sales.md)** - 24 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 33 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 114 remote jobs available
-- 🏠 **[Technical Writer](technical-writer.md)** - 4 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 137 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 6 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
 
@@ -55,205 +55,207 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Kernel Developer at CloudLinux
+### 1. Enterprise Data Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/kernel-developer-worldwide-cloudlinux)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-data-architect-applaudo)
 
 ---
 
-### 2. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
+### 2. Backend Engineer - Futures at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ai-engineering-ai-coding-gitlab)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-futures-binance)
 
 ---
 
-### 3. Director of Academics at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-academics-remote-crossover)
-
----
-
-### 4. Senior Android Engineer, Futures Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Android Developer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-android-engineer-futures-asia-binance)
-
----
-
-### 5. Senior Product Manager - TradFi Wealth at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-tradfi-wealth-binance)
-
----
-
-### 6. Junior Software Engineer（AI&LLM） at Binance
+### 3. Principal Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-software-engineer-ai-llm-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-architect-applaudo)
 
 ---
 
-### 7. Senior Security Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-engineer-binance)
-
----
-
-### 8. Product Manager AI Agent & Harness at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ai-agent-harness-binance)
-
----
-
-### 9. Senior Site Reliability Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-cloudlinux)
-
----
-
-### 10. Backend Developer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-developer-coalition-technologies)
-
----
-
-### 11. Senior Product Manager at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-remote-applaudo)
-
----
-
-### 12. Senior Large Language Model Algorithm Engineer/Expert at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-large-language-model-algorithm-engineer-expert-binance)
-
----
-
-### 13. Operations Finance Manager at Dandy
-
-💰 **Salary**: $170,000-$212,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-finance-manager-dandy)
-
----
-
-### 14. Staff Software Engineer, Machine Learning Platform at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-machine-learning-platform-airbnb)
-
----
-
-### 15. Senior Product Manager - Experience Optimization Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-experience-optimization-asia-binance)
-
----
-
-### 16. Senior Database Reliability Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-database-reliability-engineer-cloudlinux)
-
----
-
-### 17. Copywriter at WP Media
+### 4. Binance Accelerator Program - Brand KOL Asia at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/copywriter-wp-media)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-brand-kol-asia-binance)
 
 ---
 
-### 18. Product Designer at Binance
+### 5. Senior Backend Engineer (Python/Django) at Coalition Technologies
 
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-binance)
-
----
-
-### 19. Product Operations (Structured Finance) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-operations-binance)
-
----
-
-### 20. Java Architect- Compliance at Binance
+💰 **Salary**: $140,000-$170,000 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-coalition-technologies)
+
+---
+
+### 6. iOS Engineer (TradFi), AI Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ios-engineer-ai-asia-binance)
+
+---
+
+### 7. Lead Product Designer at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-full-time-circle)
+
+---
+
+### 8. Software Engineer - Advisory Suite Remote at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-advisory-suite-remote-alpaca)
+
+---
+
+### 9. Fullstack Engineer at Atticus
+
+💰 **Salary**: $157,250-$230,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-engineer-atticus)
+
+---
+
+### 10. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-kyc-tech-binance)
+
+---
+
+### 11. Intermediate Backend Engineer - Database Change Management at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-backend-engineer-database-change-management-gitlab)
+
+---
+
+### 12. Senior Full-Stack Software Engineer, Discover at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-worldwide-circle)
+
+---
+
+### 13. QA Automation Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-engineer-remote-applaudo)
+
+---
+
+### 14. iOS Developer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ios-developer-applaudo)
+
+---
+
+### 15. Senior Backend Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-full-time-binance)
+
+---
+
+### 16. Senior Software Engineer, Frontend at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-frontend-binance)
+
+---
+
+### 17. Binance Accelerator Program - AI Supportability Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-ai-supportability-engineer-binance)
+
+---
+
+### 18. Kernel Developers at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/kernel-developers-cloudlinux)
+
+---
+
+### 19. Platform Engineer, PaaS at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-paas-cloudlinux)
+
+---
+
+### 20. Binance Accelerator Program - VIP Sales at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-vip-sales-binance)
 
 ---
 
@@ -283,6 +285,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
