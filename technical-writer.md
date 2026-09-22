@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Technical Writer at Camunda
+### 1. Tamil Translator at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/tamil-translator-chess)
+
+---
+
+### 2. Technical Writer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-writer-safetywing)
+
+---
+
+### 3. Technical Writer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 2. Junior Developer Support Specialist - Contractor at Phantom
+### 4. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 3. Staff Content Designer, Remote at Bolt.new
+### 5. Staff Content Designer, Remote at Bolt.new
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 4. Senior Technical Writer for PostgreSQL Products at Percona
+### 6. Senior Technical Writer for PostgreSQL Products at Percona
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +71,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -79,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
