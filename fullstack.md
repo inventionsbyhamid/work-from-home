@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Full-Stack Engineer, Internal Tools at Raya
+### 1. Fullstack Engineer at Atticus
+
+💰 **Salary**: $157,250-$230,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-engineer-atticus)
+
+---
+
+### 2. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-kyc-tech-binance)
+
+---
+
+### 3. Senior Full-Stack Software Engineer, Discover at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-worldwide-circle)
+
+---
+
+### 4. Senior Full-Stack Engineer, Internal Tools at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+### 5. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +60,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Fullstack Engineer, Exchange at Binance
+### 6. Fullstack Engineer, Exchange at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +70,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Full Stack Engineer at Applaudo
+### 7. Full Stack Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +80,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Senior Full Stack Engineer at Zircuit
+### 8. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +90,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Backend Engineer at Clerk
+### 9. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +100,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Staff Engineer at Clerk
+### 10. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +110,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Lead Engineer, CMS Builder at Circle
+### 11. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -90,7 +122,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Senior Full-Stack Software Engineer, Discover at Circle
+### 12. Senior Full-Stack Software Engineer, Discover at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -102,7 +134,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Senior Full-Stack Engineer, Payments Core at Circle
+### 13. Senior Full-Stack Engineer, Payments Core at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -114,7 +146,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Full-Stack Java + React Technical Leader at BairesDev
+### 14. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +156,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Experienced Software Engineer at Automattic
+### 15. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -136,7 +168,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Fullstack Developer (Next.js) at Applaudo
+### 16. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +178,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 14. Platform Engineer - functions at Appwrite
+### 17. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -159,7 +191,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -187,6 +219,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
