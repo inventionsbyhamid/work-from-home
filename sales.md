@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Regional SDR Director at Canonical
+### 1. Binance Accelerator Program - VIP Sales at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-vip-sales-binance)
+
+---
+
+### 2. Account Executive at Dandy
+
+💰 **Salary**: $95,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-remote-dandy)
+
+---
+
+### 3. Individual Sales Representative (Mandarin Speaking) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/individual-sales-representative-binance)
+
+---
+
+### 4. Regional SDR Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Business Development Manager at Dandy
+### 5. Business Development Manager at Dandy
 
 💰 **Salary**: $160,000-$180,000 USD
 
@@ -30,7 +62,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Senior Partner Manager at Automattic
+### 6. Senior Partner Manager at Automattic
 
 💰 **Salary**: $125,000-$180,000 USD
 
@@ -42,7 +74,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Senior account Executive at Toggl
+### 7. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -54,7 +86,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Manager, Enterprise Growth at Dandy
+### 8. Manager, Enterprise Growth at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +96,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Ad Sales Director at Chess
+### 9. Ad Sales Director at Chess
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +106,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Senior Outside Sales Executive at BairesDev
+### 10. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +116,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 11. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +126,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Corporate Account Executive - Public Sector DACH at Camunda
+### 12. Corporate Account Executive - Public Sector DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +136,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Account Development Manager at Camunda
+### 13. Account Development Manager at Camunda
 
 💰 **Salary**: $135,200-$218,100 USD
 
@@ -116,7 +148,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Senior Sales Engineer at Camunda
+### 14. Senior Sales Engineer at Camunda
 
 💰 **Salary**: $175,200-$326,300 USD
 
@@ -128,7 +160,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Pre-Sales Solutions Architect Leader at Supabase
+### 15. Pre-Sales Solutions Architect Leader at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +170,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Account Executive I, Sales at Uscreen
+### 16. Account Executive I, Sales at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +180,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Commercial Sales Executive at Supabase
+### 17. Commercial Sales Executive at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +190,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. AWS Enterprise Segment Lead at Supabase
+### 18. AWS Enterprise Segment Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +200,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. AWS Gaming Segment Lead at Supabase
+### 19. AWS Gaming Segment Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +210,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Go-to-Market AI Sales Closer at Passion.io
+### 20. Go-to-Market AI Sales Closer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +220,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Sales Enablement Manager at Dandy
+### 21. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -200,7 +232,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Commercial Account Executive (CAE) at Dandy
+### 22. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -212,7 +244,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Business Development Representative at Automattic
+### 23. Business Development Representative at Automattic
 
 💰 **Salary**: $50,000-$70,000 USD
 
@@ -224,7 +256,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Sales Openers Manager at Phantom
+### 24. Sales Openers Manager at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -237,7 +269,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 21 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -265,6 +297,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
