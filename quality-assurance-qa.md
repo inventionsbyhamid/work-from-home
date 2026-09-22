@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. QA Engineer - Automation Backend Testing, Coding (Fully Remote) at Binance
+### 1. QA Automation Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-engineer-remote-applaudo)
+
+---
+
+### 2. QA Engineer - Automation Backend Testing, Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. Quality and Release Manager at Raya
+### 3. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Data Quality Assurance Engineer at Applaudo
+### 4. Data Quality Assurance Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Clinical Support Expert, Aligners at Dandy
+### 5. Clinical Support Expert, Aligners at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 5. Senior Software Engineer, Quality Engineering at Alpaca
+### 6. Senior Software Engineer, Quality Engineering at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 6. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
+### 7. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 7. Senior Quality Engineer at Circle
+### 8. Senior Quality Engineer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 8. Quality Assurance Engineer at Applaudo
+### 9. Quality Assurance Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 9. Senior QA Engineering Manager at Camunda
+### 10. Senior QA Engineering Manager at Camunda
 
 💰 **Salary**: $175,600-$283,100 USD
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 10. Quality and Release Manager at Raya
+### 11. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -115,7 +125,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -143,6 +153,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
