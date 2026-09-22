@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Dispute Analyst - P2P at Binance
+### 1. Tamil Translator at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/tamil-translator-chess)
+
+---
+
+### 2. Graduate Customer Success Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-customer-success-manager-canonical)
+
+---
+
+### 3. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Junior Trust & Safety Moderator - Contractor at Phantom
+### 4. Junior Trust & Safety Moderator - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Junior Developer Support Specialist - Contractor at Phantom
+### 5. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. VIP Account Manager at Phantom
+### 6. VIP Account Manager at Phantom
 
 💰 **Salary**: $75,000-$100,000 USD
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Clinical Support Expert, Aligners at Dandy
+### 7. Clinical Support Expert, Aligners at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -62,7 +82,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Client Experience Specialist at Atticus
+### 8. Client Experience Specialist at Atticus
 
 💰 **Salary**: $60,000-$75,000 USD
 
@@ -74,7 +94,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Patient Care Specialist at Winona
+### 9. Patient Care Specialist at Winona
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +107,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -115,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 21, 2026 at 00:00 UTC_
+_Last updated: September 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
