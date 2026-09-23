@@ -8,7 +8,77 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Regulatory Legal Lead at Binance
+### 1. Compliance Specialist - Regulatory Exam & Audit Issue Management at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-specialist-regulatory-exam-audit-issue-management-binance)
+
+---
+
+### 2. Compliance Case Analyst - Ukrainian Speaking at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-case-analyst-ukrainian-speaking-binance)
+
+---
+
+### 3. Product Lead Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-worldwide-remote-binance)
+
+---
+
+### 4. Compliance EDD/High Risk Client Analyst at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-edd-high-risk-client-analyst-binance)
+
+---
+
+### 5. Product Lead Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-lead-counsel-binance)
+
+---
+
+### 6. Head of Risk, NTL at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-risk-ntl-binance)
+
+---
+
+### 7. Compliance Officer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-officer-binance)
+
+---
+
+### 8. Global Regulatory Legal Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +88,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Corporate Counsel at Binance
+### 9. Corporate Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +98,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Senior Employment Counsel at Camunda
+### 10. Senior Employment Counsel at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +108,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Director of Risk Management at Bobtail
+### 11. Director of Risk Management at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +118,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Renewal Risk Engineer - Management Liability at Counterpart
+### 12. Renewal Risk Engineer - Management Liability at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -63,7 +133,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -91,6 +161,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 22, 2026 at 00:00 UTC_
+_Last updated: September 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
