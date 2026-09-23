@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. HR Business Partner Asia / HR at Binance
+### 1. People Benefits & Compliance Associate at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/people-benefits-compliance-associate-applaudo)
+
+---
+
+### 2. People Operations Manager at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/people-operations-manager-safetywing)
+
+---
+
+### 3. IT Talent Acquisition Specialist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-talent-acquisition-specialist-applaudo)
+
+---
+
+### 4. HR Business Partner Asia / HR at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. PeopleSoft HCM Consultant at Applaudo
+### 5. PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Talent Acquisition Specialist at Binance
+### 6. Talent Acquisition Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Senior Recruiter at BairesDev
+### 7. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Recruiting Analyst at BairesDev
+### 8. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +88,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Hunting Manager at BairesDev
+### 9. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +98,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Talent Acquisition Associate at BairesDev
+### 10. Talent Acquisition Associate at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +108,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Director of Global Human Resources at Percona
+### 11. Director of Global Human Resources at Percona
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +118,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Director of Talent Acquisition at Fingerprint
+### 12. Director of Talent Acquisition at Fingerprint
 
 💰 **Salary**: $159,000-$215,000 USD
 
@@ -100,7 +130,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Senior Recruiter at VRChat
+### 13. Senior Recruiter at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +140,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Talent Acquisition Manager at BairesDev
+### 14. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +150,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Global Director of Operations at Dandy
+### 15. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -135,7 +165,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -163,6 +193,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 22, 2026 at 00:00 UTC_
+_Last updated: September 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
