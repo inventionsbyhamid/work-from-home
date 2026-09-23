@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Operations at Coalition Technologies
+### 1. Intermediate Technical Program Manager at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-technical-program-manager-gitlab)
+
+---
+
+### 2. Head of Operations at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Director of Academics at Crossover
+### 3. Director of Academics at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Treasury Asset Management at Binance
+### 4. Treasury Asset Management at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. PeopleSoft HCM Consultant at Applaudo
+### 5. PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Senior Partner Manager at Automattic
+### 6. Senior Partner Manager at Automattic
 
 💰 **Salary**: $125,000-$180,000 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Senior Operations Manager, Tradfi / Equities at Binance
+### 7. Senior Operations Manager, Tradfi / Equities at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Technical Project Manager at Dandy
+### 8. Technical Project Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 8. Director, Global Marketing Operations at Binance
+### 9. Director, Global Marketing Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 9. Senior Project Manager - Remote Work at BairesDev
+### 10. Senior Project Manager - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 10. Market Data Lead Asia / Project Management at Binance
+### 11. Market Data Lead Asia / Project Management at Binance
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 11. Founding Technical Program Manager - Supabase at Supabase
+### 12. Founding Technical Program Manager - Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 12. Director of Business Operations at Clutch
+### 13. Director of Business Operations at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 13. Lead Product Operations - Insurance Platform at Counterpart
+### 14. Lead Product Operations - Insurance Platform at Counterpart
 
 💰 **Salary**: $170,000-$200,000 USD
 
@@ -142,7 +152,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 14. Startup Program Lead at LiveKit
+### 15. Startup Program Lead at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +162,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 15. Partner Operations and Systems Lead at Supabase
+### 16. Partner Operations and Systems Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 16. Lead Payment Operations Specialist at Xapo Bank
+### 17. Lead Payment Operations Specialist at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -175,7 +185,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 16 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -203,6 +213,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 22, 2026 at 00:00 UTC_
+_Last updated: September 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
