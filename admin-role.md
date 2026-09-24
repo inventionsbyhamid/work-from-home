@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. People Benefits & Compliance Associate at Applaudo
+### 1. Trading Operations Associate - West Coast Remote at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/trading-operations-associate-west-coast-remote-alpaca)
+
+---
+
+### 2. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. People Operations Manager at SafetyWing
+### 3. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 23, 2026 at 00:00 UTC_
+_Last updated: September 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
