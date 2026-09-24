@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Brand Designer at Circle
+### 1. Ads Implementation Specialist - Social/Google at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-binance)
+
+---
+
+### 2. Senior Brand Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 2. Creative Director at Circle
+### 3. Creative Director at Circle
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 3. Senior Brand Designer at LiveKit
+### 4. Senior Brand Designer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +51,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -69,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 23, 2026 at 00:00 UTC_
+_Last updated: September 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
