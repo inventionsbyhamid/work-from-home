@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - Full Stack Engineer at Binance
+### 1. Senior Full-Stack Software Engineer, CMS at Circle
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-cms-circle)
+
+---
+
+### 2. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-full-stack-engineer-im-chat-platform-android-focus-binance)
+
+---
+
+### 3. Senior Engineer - Trust and Safety at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-trust-and-safety-vrchat)
+
+---
+
+### 4. Binance Accelerator Program - Full Stack Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
+### 5. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 6. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Senior Full Stack Engineer at Fueled
+### 7. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Fullstack Engineer at Atticus
+### 8. Fullstack Engineer at Atticus
 
 💰 **Salary**: $157,250-$230,000 USD
 
@@ -62,7 +92,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+### 9. Full Stack Engineer - KYC Tech (fully remote!) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +102,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Senior Full-Stack Software Engineer, Discover at Circle
+### 10. Senior Full-Stack Software Engineer, Discover at Circle
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +112,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior Full-Stack Engineer, Internal Tools at Raya
+### 11. Senior Full-Stack Engineer, Internal Tools at Raya
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +122,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+### 12. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +132,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Fullstack Engineer, Exchange at Binance
+### 13. Fullstack Engineer, Exchange at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +142,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Full Stack Engineer at Applaudo
+### 14. Full Stack Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +152,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Senior Full Stack Engineer at Zircuit
+### 15. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +162,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Backend Engineer at Clerk
+### 16. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +172,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 14. Staff Engineer at Clerk
+### 17. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +182,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 15. Lead Engineer, CMS Builder at Circle
+### 18. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -164,7 +194,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 16. Senior Full-Stack Software Engineer, Discover at Circle
+### 19. Senior Full-Stack Software Engineer, Discover at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -176,7 +206,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 17. Senior Full-Stack Engineer, Payments Core at Circle
+### 20. Senior Full-Stack Engineer, Payments Core at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -188,7 +218,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 18. Full-Stack Java + React Technical Leader at BairesDev
+### 21. Full-Stack Java + React Technical Leader at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +228,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 19. Experienced Software Engineer at Automattic
+### 22. Experienced Software Engineer at Automattic
 
 💰 **Salary**: $70,000-$170,000 USD
 
@@ -210,7 +240,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 20. Fullstack Developer (Next.js) at Applaudo
+### 23. Fullstack Developer (Next.js) at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +250,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 21. Platform Engineer - functions at Appwrite
+### 24. Platform Engineer - functions at Appwrite
 
 🌍 **Location**: Worldwide
 
@@ -233,7 +263,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 21 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -261,6 +291,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 23, 2026 at 00:00 UTC_
+_Last updated: September 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
