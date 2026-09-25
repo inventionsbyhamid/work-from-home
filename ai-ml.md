@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Engineer at GitLab
+### 1. Senior Data Engineer at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-camunda)
+
+---
+
+### 2. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
+
+---
+
+### 3. Lead Product Designer, Marketplace at Circle
+
+💰 **Salary**: $140,000-$170,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
+
+---
+
+### 4. Business Intelligence/ Data Analytics at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-data-analytics-binance)
+
+---
+
+### 5. AI Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Pioneer Talent Program - Research Data Scientist at Binance
+### 6. Pioneer Talent Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Financial AI Engineer (Data & Knowledge Engineering) at Binance
+### 7. Senior Financial AI Engineer (Data & Knowledge Engineering) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Senior Technical Productivity Manager at Camunda
+### 8. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -50,7 +92,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Software Engineer - Industrial IoT at Canonical
+### 9. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +102,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Data Engineer at Applaudo
+### 10. Senior Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +112,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. AI Developer at Crossover
+### 11. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +122,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Staff Backend Engineer, Recommender Systems at Raya
+### 12. Staff Backend Engineer, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +132,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Staff Engineer - Recommendations at VRChat
+### 13. Staff Engineer - Recommendations at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +142,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 14. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +152,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. iOS Engineer (TradFi), AI Asia at Binance
+### 15. iOS Engineer (TradFi), AI Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +162,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Lead Product Designer at Circle
+### 16. Lead Product Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +172,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Binance Accelerator Program - AI Supportability Engineer at Binance
+### 17. Binance Accelerator Program - AI Supportability Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +182,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
+### 18. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +192,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Junior Software Engineer（AI&LLM） at Binance
+### 19. Junior Software Engineer（AI&LLM） at Binance
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +202,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Product Manager AI Agent & Harness at Binance
+### 20. Product Manager AI Agent & Harness at Binance
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +212,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Senior Large Language Model Algorithm Engineer/Expert at Binance
+### 21. Senior Large Language Model Algorithm Engineer/Expert at Binance
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +222,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Staff Software Engineer, Machine Learning Platform at Airbnb
+### 22. Staff Software Engineer, Machine Learning Platform at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +232,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. Senior Product Manager - Experience Optimization Asia at Binance
+### 23. Senior Product Manager - Experience Optimization Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +242,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 20. Senior Product Builder-Connectors Experience- EMEA at Camunda
+### 24. Senior Product Builder-Connectors Experience- EMEA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +252,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 21. Senior Data Analyst, Trading Asia at Binance
+### 25. Senior Data Analyst, Trading Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +262,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 22. Senior Evaluation Algorithm Engineer at Binance
+### 26. Senior Evaluation Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +272,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 23. Senior Tech Lead, AI Code Platform at Sourcegraph
+### 27. Senior Tech Lead, AI Code Platform at Sourcegraph
 
 💰 **Salary**: $144,000+ USD
 
@@ -242,7 +284,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 24. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
+### 28. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -252,7 +294,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 25. Staff Machine Learning Engineer at Phantom
+### 29. Staff Machine Learning Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -262,7 +304,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 26. Senior Research Engineer at AssemblyAI at AssemblyAI
+### 30. Senior Research Engineer at AssemblyAI at AssemblyAI
 
 💰 **Salary**: $270,000-$310,000 USD
 
@@ -274,7 +316,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 27. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+### 31. Reinforcement Learning Research Engineer at LiveKit at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -284,7 +326,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 28. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+### 32. Staff Data Scientist at DuckDuckGo at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -294,7 +336,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 29. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
+### 33. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -306,7 +348,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 30. Senior Product Manager - Trading APIs at 0x
+### 34. Senior Product Manager - Trading APIs at 0x
 
 💰 **Salary**: $150,000-$225,000 USD
 
@@ -318,7 +360,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 31. Remote Java Developer at CloudLinux
+### 35. Remote Java Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -328,7 +370,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 32. Senior Product Manager at Bolt.new at Bolt.new
+### 36. Senior Product Manager at Bolt.new at Bolt.new
 
 🌍 **Location**: Worldwide
 
@@ -338,7 +380,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 33. Senior Developer Advocate for Social Media at LiveKit
+### 37. Senior Developer Advocate for Social Media at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -348,7 +390,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 34. Creative Technology Specialist at Superside
+### 38. Creative Technology Specialist at Superside
 
 🌍 **Location**: Worldwide
 
@@ -358,7 +400,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 35. Staff ML and AI Agent Systems Engineer at Sourcegraph
+### 39. Staff ML and AI Agent Systems Engineer at Sourcegraph
 
 💰 **Salary**: $88,000-$176,000 USD
 
@@ -370,7 +412,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 36. Principal Product Manager, Foundational ML Models at Dandy
+### 40. Principal Product Manager, Foundational ML Models at Dandy
 
 💰 **Salary**: $202,100-$245,000 USD
 
@@ -382,7 +424,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 37. Engineering Manager, Machine Learning at Dandy
+### 41. Engineering Manager, Machine Learning at Dandy
 
 💰 **Salary**: $216,800-$255,000 USD
 
@@ -394,7 +436,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 38. Software Engineer, CAD at Dandy
+### 42. Software Engineer, CAD at Dandy
 
 💰 **Salary**: $201,500-$237,000 USD
 
@@ -406,7 +448,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 39. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 43. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -418,7 +460,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 40. Senior Data Scientist I at Dandy
+### 44. Senior Data Scientist I at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -428,7 +470,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 41. Scheduling Optimization Engineer at Applaudo
+### 45. Scheduling Optimization Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -438,7 +480,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 42. Senior Data Scientist at Automattic
+### 46. Senior Data Scientist at Automattic
 
 💰 **Salary**: $90,000-$160,000 USD
 
@@ -453,7 +495,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 42 positions available
+**Total Jobs**: 46 positions available
 
 ---
 
@@ -481,6 +523,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 24, 2026 at 00:00 UTC_
+_Last updated: September 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
