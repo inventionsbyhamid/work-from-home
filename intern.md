@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+### 1. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-programme-campaigns-operations-binance-square-binance)
+
+---
+
+### 2. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 2. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 3. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 3. Binance Accelerator Program - Brand KOL Asia at Binance
+### 4. Binance Accelerator Program - Brand KOL Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 4. Product Manager AI Agent & Harness at Binance
+### 5. Product Manager AI Agent & Harness at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 5. Binance Accelerator Program - Global Swag at Binance
+### 6. Binance Accelerator Program - Global Swag at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 6. Binance Accelerator Program - Lifecycle Operations at Binance
+### 7. Binance Accelerator Program - Lifecycle Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 7. C Language Software Developer Intern at CloudLinux
+### 8. C Language Software Developer Intern at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 8. Graduate Software Developer, Open Source & Linux at Canonical
+### 9. Graduate Software Developer, Open Source & Linux at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 9. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 10. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -101,7 +111,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -129,6 +139,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 25, 2026 at 00:00 UTC_
+_Last updated: September 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
