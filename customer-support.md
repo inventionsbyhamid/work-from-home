@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Japanese Speaking Database Support Engineer at Supabase
+### 1. Senior Support Engineer at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-support-engineer-clutch)
+
+---
+
+### 2. Care Navigator, US Health Insurance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/care-navigator-us-health-insurance-safetywing)
+
+---
+
+### 3. Japanese Speaking Database Support Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Enterprise Customer Success Manager (French speaker) at Canonical
+### 4. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Trading Operations Associate - West Coast Remote at Alpaca
+### 5. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Intermediate Support Engineer at GitLab
+### 6. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Tamil Translator at Chess
+### 7. Tamil Translator at Chess
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +78,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Graduate Customer Success Manager at Canonical
+### 8. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +88,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Dispute Analyst - P2P at Binance
+### 9. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +98,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Junior Trust & Safety Moderator - Contractor at Phantom
+### 10. Junior Trust & Safety Moderator - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +108,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Junior Developer Support Specialist - Contractor at Phantom
+### 11. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +118,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. VIP Account Manager at Phantom
+### 12. VIP Account Manager at Phantom
 
 💰 **Salary**: $75,000-$100,000 USD
 
@@ -110,7 +130,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Clinical Support Expert, Aligners at Dandy
+### 13. Clinical Support Expert, Aligners at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -122,7 +142,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Client Experience Specialist at Atticus
+### 14. Client Experience Specialist at Atticus
 
 💰 **Salary**: $60,000-$75,000 USD
 
@@ -134,7 +154,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Patient Care Specialist at Winona
+### 15. Patient Care Specialist at Winona
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +167,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -175,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 25, 2026 at 00:00 UTC_
+_Last updated: September 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
