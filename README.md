@@ -18,35 +18,35 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 46 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 47 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 3 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
-- 🏠 **[Backend](backend.md)** - 95 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 51 remote jobs available
+- 🏠 **[Backend](backend.md)** - 100 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 54 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 13 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 17 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 65 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 41 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 12 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 15 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 18 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 68 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 42 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 29 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 24 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 25 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 25 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 15 remote jobs available
-- 🏠 **[Intern](intern.md)** - 9 remote jobs available
+- 🏠 **[Intern](intern.md)** - 10 remote jobs available
 - 🏠 **[Legal](legal.md)** - 13 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 37 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 26 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 43 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 41 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 29 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 46 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 22 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 14 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 16 remote jobs available
 - 🏠 **[Research](research.md)** - 14 remote jobs available
-- 🏠 **[Sales](sales.md)** - 31 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 45 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 190 remote jobs available
+- 🏠 **[Sales](sales.md)** - 32 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 47 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 10 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 194 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 7 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
@@ -57,215 +57,209 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Data Engineer at Camunda
+### 1. Senior Product Designer, Growth at beehiiv
 
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-camunda)
-
----
-
-### 2. Staff Site Reliability Engineer, Environment Automation at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-site-reliability-engineer-environment-automation-gitlab)
-
----
-
-### 3. Sr Analyst Technical Internal Control at Empower
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-analyst-technical-internal-control-empower)
-
----
-
-### 4. Python Software Engineer, ELS Delivery Pipeline at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-software-engineer-els-delivery-pipeline-cloudlinux)
-
----
-
-### 5. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-direct-sales-north-america-emea-cloudlinux)
-
----
-
-### 6. Japanese Speaking Database Support Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/japanese-speaking-database-support-engineer-supabase)
-
----
-
-### 7. Organic Social Media Manager at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/organic-social-media-manager-winona)
-
----
-
-### 8. OrioleDB Deployment Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/orioledb-deployment-engineer-supabase)
-
----
-
-### 9. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-full-stack-phantom)
-
----
-
-### 10. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
-
----
-
-### 11. Lead Product Designer, Marketplace at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
+💰 **Salary**: $150,000-$170,000 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-growth-beehiiv)
 
 ---
 
-### 12. Director, Presales - North America at Camunda
+### 2. Senior Data Engineer at Dandy
 
-💰 **Salary**: $279,300-$450,300 USD
+💰 **Salary**: $133,600-$167,000 CAD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Sales
+📍 **Category**: Data Analyst
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-presales-north-america-camunda)
-
----
-
-### 13. Head of Storytelling at Dandy
-
-💰 **Salary**: $156,000-$195,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-storytelling-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-dandy)
 
 ---
 
-### 14. Compliance Geofencing Team Lead at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-geofencing-team-lead-binance)
-
----
-
-### 15. Senior Flutter Engineer (iOS, Android) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-flutter-engineer-binance)
-
----
-
-### 16. Institutional Sales Manager - Ukrainian Speakers at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/institutional-sales-manager-ukrainian-speakers-binance)
-
----
-
-### 17. Revenue Operations Manager at Dandy
-
-💰 **Salary**: $125,800-$148,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-dandy)
-
----
-
-### 18. Senior Account Executive at Circle
-
-💰 **Salary**: $150,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-account-executive-circle)
-
----
-
-### 19. Senior Backend Engineer, Ruby on Rails at Coalition Technologies
+### 3. Software Engineer, ELS Delivery Pipeline at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ruby-on-rails-coalition-technologies)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-els-delivery-pipeline-cloudlinux)
 
 ---
 
-### 20. OpenStack Engineering Manager at Canonical
+### 4. DevOps Engineer, Infra Asia / DevOps/SRE at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/devops-engineer-infra-asia-devops-sre-binance)
+
+---
+
+### 5. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-programme-campaigns-operations-binance-square-binance)
+
+---
+
+### 6. QA Engineer, Blockchain at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-engineer-blockchain-binance)
+
+---
+
+### 7. Senior Architect at Empower
+
+💰 **Salary**: $138,000-$200,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-architect-empower)
+
+---
+
+### 8. Product Owner, Email Security at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/openstack-engineering-manager-canonical)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-owner-email-security-cloudlinux)
+
+---
+
+### 9. Senior Support Engineer at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-support-engineer-clutch)
+
+---
+
+### 10. Creator Manager at Winona
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-manager-winona)
+
+---
+
+### 11. Care Navigator, US Health Insurance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/care-navigator-us-health-insurance-safetywing)
+
+---
+
+### 12. Senior Product Designer at Fueled
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-fueled)
+
+---
+
+### 13. Head of Stablecoins at Solana
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-stablecoins-solana)
+
+---
+
+### 14. Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels) at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/linux-software-engineer-ubuntu-for-next-gen-silicon-canonical)
+
+---
+
+### 15. Telecom Account Executive at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/telecom-account-executive-canonical)
+
+---
+
+### 16. Software Maintenance Engineer at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-maintenance-engineer-canonical)
+
+---
+
+### 17. Senior QA Engineer - .COM - Automation & Java coding at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-qa-engineer-com-automation-java-coding-binance)
+
+---
+
+### 18. (Senior) Product Manager, Futures Frontend at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-futures-frontend-binance)
+
+---
+
+### 19. Creator Partnerships Manager, Binance Square Global at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-partnerships-manager-binance-square-global-binance)
+
+---
+
+### 20. Security Engineer at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-binance)
 
 ---
 
@@ -295,6 +289,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 25, 2026 at 00:00 UTC_
+_Last updated: September 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
