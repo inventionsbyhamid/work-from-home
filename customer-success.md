@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Care Navigator, US Health Insurance at SafetyWing
+### 1. Customer Success Program Manager at OpenZeppelin
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-program-manager-openzeppelin)
+
+---
+
+### 2. Care Navigator, US Health Insurance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Customer Success - Team Manager at Canonical
+### 3. Customer Success - Team Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Customer Growth Specialist at Uscreen
+### 4. Customer Growth Specialist at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Senior User Growth & Lifecycle Specialist at Binance
+### 5. Senior User Growth & Lifecycle Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Senior Manager, Revenue Operations, Training at Dandy
+### 6. Senior Manager, Revenue Operations, Training at Dandy
 
 💰 **Salary**: $150,975-$183,000 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Forward Deployed Engineer at MatterLabs
+### 7. Forward Deployed Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Manager, Enterprise Growth at Dandy
+### 8. Manager, Enterprise Growth at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 8. VIP Account Manager at Phantom
+### 9. VIP Account Manager at Phantom
 
 💰 **Salary**: $75,000-$100,000 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 9. Lead Technical Account Manager (TAM) at Supabase
+### 10. Lead Technical Account Manager (TAM) at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 10. Client Experience Specialist at Atticus
+### 11. Client Experience Specialist at Atticus
 
 💰 **Salary**: $60,000-$75,000 USD
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 11. Senior Customer Success Operations Manager at Circle
+### 12. Senior Customer Success Operations Manager at Circle
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 12. Senior Customer Success Manager at Camunda at Camunda
+### 13. Senior Customer Success Manager at Camunda at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +149,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -167,6 +177,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 26, 2026 at 00:00 UTC_
+_Last updated: September 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
