@@ -694,40 +694,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 68. Platform Engineer - Database at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-database-appwrite)
 
 ---
 
-### 69. Platform Engineer - Integrations at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-integrations-appwrite)
-
----
-
-### 70. Platform Engineer at Appwrite
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-appwrite)
-
----
-
-
----
-
-**Total Jobs**: 70 positions available
+**Total Jobs**: 67 positions available
 
 ---
 
@@ -755,6 +725,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 27, 2026 at 00:00 UTC_
+_Last updated: September 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
