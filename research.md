@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Pioneer Talent Program - Research Data Scientist at Binance
+### 1. Sanctions Advisory Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sanctions-advisory-specialist-remote-binance)
+
+---
+
+### 2. Pioneer Talent Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Research BD Manager/Director Global / Business Development at Binance
+### 3. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 4. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 5. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Director of Academics at Crossover
+### 6. Director of Academics at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Protocol Security Engineer at MatterLabs
+### 7. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Senior Research Engineer at AssemblyAI at AssemblyAI
+### 8. Senior Research Engineer at AssemblyAI at AssemblyAI
 
 💰 **Salary**: $270,000-$310,000 USD
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+### 9. Reinforcement Learning Research Engineer at LiveKit at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 9. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+### 10. Staff Data Scientist at DuckDuckGo at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 10. Junior Cryptocurrency Trader at Atom Partners
+### 11. Junior Cryptocurrency Trader at Atom Partners
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 11. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 12. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 12. Color Management Lead at Dandy
+### 13. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 13. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 14. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 14. Lead User Researcher at Atticus
+### 15. Lead User Researcher at Atticus
 
 🌍 **Location**: Worldwide
 
@@ -157,7 +167,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -185,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 27, 2026 at 00:00 UTC_
+_Last updated: September 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
