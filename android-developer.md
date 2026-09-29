@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Flutter Engineer (iOS, Android) at Binance
+### 1. Senior Android Developer - Cryptographic at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-android-developer-cryptographic-binance)
+
+---
+
+### 2. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 2. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
+### 3. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 3. Senior Engineering Manager, Client at Raya
+### 4. Senior Engineering Manager, Client at Raya
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 4. Senior Android Engineer, Futures Asia at Binance
+### 5. Senior Android Engineer, Futures Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -51,7 +61,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -79,6 +89,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 28, 2026 at 00:00 UTC_
+_Last updated: September 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
