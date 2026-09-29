@@ -2020,22 +2020,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 196. Staff Backend Engineer (Social) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-pantom)
 
 ---
 
-
----
-
-**Total Jobs**: 196 positions available
+**Total Jobs**: 195 positions available
 
 ---
 
@@ -2063,6 +2051,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 28, 2026 at 00:00 UTC_
+_Last updated: September 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
