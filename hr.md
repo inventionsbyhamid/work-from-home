@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. People Benefits & Compliance Associate at Applaudo
+### 1. HRIS Manager Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hris-manager-asia-binance)
+
+---
+
+### 2. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. People Operations Manager at SafetyWing
+### 3. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. IT Talent Acquisition Specialist at Applaudo
+### 4. IT Talent Acquisition Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. HR Business Partner Asia / HR at Binance
+### 5. HR Business Partner Asia / HR at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. PeopleSoft HCM Consultant at Applaudo
+### 6. PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Talent Acquisition Specialist at Binance
+### 7. Talent Acquisition Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Senior Recruiter at BairesDev
+### 8. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Recruiting Analyst at BairesDev
+### 9. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Hunting Manager at BairesDev
+### 10. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Talent Acquisition Associate at BairesDev
+### 11. Talent Acquisition Associate at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Director of Global Human Resources at Percona
+### 12. Director of Global Human Resources at Percona
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Director of Talent Acquisition at Fingerprint
+### 13. Director of Talent Acquisition at Fingerprint
 
 💰 **Salary**: $159,000-$215,000 USD
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 13. Senior Recruiter at VRChat
+### 14. Senior Recruiter at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 14. Talent Acquisition Manager at BairesDev
+### 15. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 15. Global Director of Operations at Dandy
+### 16. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -165,7 +175,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 15 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -193,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 30, 2026 at 00:00 UTC_
+_Last updated: October 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
