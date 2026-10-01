@@ -18,35 +18,35 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 57 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 59 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 3 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 5 remote jobs available
-- 🏠 **[Backend](backend.md)** - 109 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 57 remote jobs available
+- 🏠 **[Backend](backend.md)** - 110 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 56 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 14 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 17 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 20 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 68 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 46 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 69 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 47 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 1 remote job available
 - 🏠 **[Finance](finance.md)** - 29 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 27 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 26 remote jobs available
-- 🏠 **[Graphic Design](graphic-design.md)** - 5 remote jobs available
-- 🏠 **[HR](hr.md)** - 15 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 26 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 25 remote jobs available
+- 🏠 **[Graphic Design](graphic-design.md)** - 6 remote jobs available
+- 🏠 **[HR](hr.md)** - 16 remote jobs available
 - 🏠 **[Intern](intern.md)** - 12 remote jobs available
 - 🏠 **[Legal](legal.md)** - 14 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 40 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 28 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 47 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 30 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 50 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 23 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 19 remote jobs available
 - 🏠 **[Research](research.md)** - 14 remote jobs available
-- 🏠 **[Sales](sales.md)** - 34 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 55 remote jobs available
+- 🏠 **[Sales](sales.md)** - 35 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 56 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 10 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 199 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 200 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 7 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
@@ -57,7 +57,109 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Software Engineer - Payments & Treasury at Alpaca
+### 1. HRIS Manager Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hris-manager-asia-binance)
+
+---
+
+### 2. Enterprise Account Executive III - NA at Camunda
+
+💰 **Salary**: $281,300-$453,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-iii-na-camunda)
+
+---
+
+### 3. Product Owner at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-owner-cloudlinux)
+
+---
+
+### 4. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-infrastructure-self-managed-experience-camunda)
+
+---
+
+### 5. Product Manager for Dr. Wolf Chess Learning App at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-for-dr-wolf-chess-learning-app-chess-com)
+
+---
+
+### 6. Product Designer (Connect Team) at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-chess-com)
+
+---
+
+### 7. Senior Product Designer at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-chess-com)
+
+---
+
+### 8. Web Application Security Engineer at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-application-security-engineer-chess-com)
+
+---
+
+### 9. 2D Game Artist at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/2d-game-artist-chess-com)
+
+---
+
+### 10. Senior Product Manager, Account Opening at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-account-opening-clutch)
+
+---
+
+### 11. Senior Software Engineer - Payments & Treasury at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +169,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Golang Developer at Binance
+### 12. Golang Developer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +179,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Experience Engineer at Parity
+### 13. Senior Experience Engineer at Parity
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +189,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Software Engineer, Quality at Camunda
+### 14. Senior Software Engineer, Quality at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -99,7 +201,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Cloud AI Engineer at Binance
+### 15. Cloud AI Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -109,7 +211,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Java Engineer Asia / Backend at Binance
+### 16. Java Engineer Asia / Backend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -119,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Head of Direct Sales at CloudLinux
+### 17. Head of Direct Sales at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -129,7 +231,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Android Developer - Cryptographic at Binance
+### 18. Senior Android Developer - Cryptographic at Binance
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +241,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Senior Card Product Manager Asia / Product at Binance
+### 19. Senior Card Product Manager Asia / Product at Binance
 
 🌍 **Location**: Worldwide
 
@@ -149,115 +251,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. 2D Game Artist at Chess
+### 20. 2D Game Artist at Chess
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Graphic Design
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/2d-game-artist-chess)
-
----
-
-### 11. GRC Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/grc-engineer-clerk)
-
----
-
-### 12. Engineering Manager, QA at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-qa-binance)
-
----
-
-### 13. Product Builder at Camunda
-
-💰 **Salary**: $119,900-$193,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-builder-remote-camunda)
-
----
-
-### 14. Launch Trainer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/launch-trainer-worldwide-dandy)
-
----
-
-### 15. Backend Engineer, Spot at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-spot-binance)
-
----
-
-### 16. Senior Design Engineer, AI Platforms at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-design-engineer-ai-platforms-chess)
-
----
-
-### 17. Sanctions Advisory Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sanctions-advisory-specialist-remote-binance)
-
----
-
-### 18. Binance Accelerator Program - Backend Engineer (Web3) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-backend-engineer-binance)
-
----
-
-### 19. Development Lead Asia / Backend at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/development-lead-asia-backend-binance)
-
----
-
-### 20. Rust Engineering Lead - Linux and Open Source at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/rust-engineering-lead-linux-and-open-source-canonical)
 
 ---
 
@@ -287,6 +287,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 30, 2026 at 00:00 UTC_
+_Last updated: October 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
