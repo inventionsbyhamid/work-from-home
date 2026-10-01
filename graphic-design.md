@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ## Available Positions (Last 30 Days)
 
-### 1. 2D Game Artist at Chess
+### 1. 2D Game Artist at Chess.com
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/2d-game-artist-chess-com)
+
+---
+
+### 2. 2D Game Artist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 2. Ads Implementation Specialist - Social/Google at Binance
+### 3. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 3. Senior Brand Designer at Circle
+### 4. Senior Brand Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 4. Creative Director at Circle
+### 5. Creative Director at Circle
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 5. Senior Brand Designer at LiveKit
+### 6. Senior Brand Designer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -61,7 +71,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -89,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 30, 2026 at 00:00 UTC_
+_Last updated: October 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
