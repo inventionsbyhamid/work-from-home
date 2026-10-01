@@ -274,20 +274,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 26. Fullstack Developer (Next.js) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-developer-applaudo)
 
 ---
 
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -315,6 +305,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 30, 2026 at 00:00 UTC_
+_Last updated: October 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
