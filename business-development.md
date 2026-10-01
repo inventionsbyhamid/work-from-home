@@ -592,22 +592,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 57. Business Operations Lead at Atticus
-
-💰 **Salary**: $130,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-operations-lead-atticus)
 
 ---
 
-
----
-
-**Total Jobs**: 57 positions available
+**Total Jobs**: 56 positions available
 
 ---
 
@@ -635,6 +623,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: September 30, 2026 at 00:00 UTC_
+_Last updated: October 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
