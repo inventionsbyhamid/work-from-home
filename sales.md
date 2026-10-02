@@ -372,22 +372,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 35. Business Development Representative at Automattic
-
-💰 **Salary**: $50,000-$70,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-representative-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 35 positions available
+**Total Jobs**: 34 positions available
 
 ---
 
@@ -415,6 +403,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 01, 2026 at 00:00 UTC_
+_Last updated: October 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
