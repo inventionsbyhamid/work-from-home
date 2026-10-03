@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Account Executive III - NA at Camunda
+### 1. Director of Revenue Operations at Uscreen
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-revenue-operations-uscreen)
+
+---
+
+### 2. Enterprise Account Executive III - NA at Camunda
 
 💰 **Salary**: $281,300-$453,500 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Head of Direct Sales at CloudLinux
+### 3. Head of Direct Sales at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Enterprise Account Executive at CloudLinux
+### 4. Enterprise Account Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Senior Technical Sales Lead, Ecosystems at OpenZeppelin
+### 5. Senior Technical Sales Lead, Ecosystems at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Telecom Account Executive at Canonical
+### 6. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
+### 7. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Director, Presales - North America at Camunda
+### 8. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 9. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Revenue Operations Manager at Dandy
+### 10. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Senior Account Executive at Circle
+### 11. Senior Account Executive at Circle
 
 💰 **Salary**: $150,000-$190,000 USD
 
@@ -116,7 +126,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Alliances & Channels Leader at Canonical
+### 12. Alliances & Channels Leader at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Account Development Representative - Future Openings Talent Pool at Camunda
+### 13. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Binance Accelerator Program - VIP Sales at Binance
+### 14. Binance Accelerator Program - VIP Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Account Executive at Dandy
+### 15. Account Executive at Dandy
 
 💰 **Salary**: $95,000 USD
 
@@ -158,7 +168,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Individual Sales Representative (Mandarin Speaking) at Binance
+### 16. Individual Sales Representative (Mandarin Speaking) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +178,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Regional SDR Director at Canonical
+### 17. Regional SDR Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +188,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Business Development Manager at Dandy
+### 18. Business Development Manager at Dandy
 
 💰 **Salary**: $160,000-$180,000 USD
 
@@ -190,7 +200,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Senior Partner Manager at Automattic
+### 19. Senior Partner Manager at Automattic
 
 💰 **Salary**: $125,000-$180,000 USD
 
@@ -202,7 +212,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Senior account Executive at Toggl
+### 20. Senior account Executive at Toggl
 
 💰 **Salary**: $80,000+ USD
 
@@ -214,7 +224,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Manager, Enterprise Growth at Dandy
+### 21. Manager, Enterprise Growth at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +234,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Ad Sales Director at Chess
+### 22. Ad Sales Director at Chess
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +244,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 22. Senior Outside Sales Executive at BairesDev
+### 23. Senior Outside Sales Executive at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +254,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 23. Sales Director (Healthcare Industry) - Remote Work at BairesDev
+### 24. Sales Director (Healthcare Industry) - Remote Work at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +264,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 24. Corporate Account Executive - Public Sector DACH at Camunda
+### 25. Corporate Account Executive - Public Sector DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +274,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 25. Account Development Manager at Camunda
+### 26. Account Development Manager at Camunda
 
 💰 **Salary**: $135,200-$218,100 USD
 
@@ -276,7 +286,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 26. Senior Sales Engineer at Camunda
+### 27. Senior Sales Engineer at Camunda
 
 💰 **Salary**: $175,200-$326,300 USD
 
@@ -288,7 +298,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 27. Pre-Sales Solutions Architect Leader at Supabase
+### 28. Pre-Sales Solutions Architect Leader at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -298,7 +308,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 28. Account Executive I, Sales at Uscreen
+### 29. Account Executive I, Sales at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -308,7 +318,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 29. Commercial Sales Executive at Supabase
+### 30. Commercial Sales Executive at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -318,7 +328,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 30. AWS Enterprise Segment Lead at Supabase
+### 31. AWS Enterprise Segment Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -328,7 +338,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 31. AWS Gaming Segment Lead at Supabase
+### 32. AWS Gaming Segment Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -338,7 +348,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 32. Go-to-Market AI Sales Closer at Passion.io
+### 33. Go-to-Market AI Sales Closer at Passion.io
 
 🌍 **Location**: Worldwide
 
@@ -348,7 +358,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 33. Sales Enablement Manager at Dandy
+### 34. Sales Enablement Manager at Dandy
 
 💰 **Salary**: $124,100-$146,000 USD
 
@@ -360,7 +370,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 34. Commercial Account Executive (CAE) at Dandy
+### 35. Commercial Account Executive (CAE) at Dandy
 
 💰 **Salary**: $170,000 USD
 
@@ -375,7 +385,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 34 positions available
+**Total Jobs**: 35 positions available
 
 ---
 
@@ -403,6 +413,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 02, 2026 at 00:00 UTC_
+_Last updated: October 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
