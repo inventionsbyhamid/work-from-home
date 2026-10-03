@@ -620,22 +620,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 59. Senior Data Scientist at Automattic
-
-💰 **Salary**: $90,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 59 positions available
+**Total Jobs**: 58 positions available
 
 ---
 
@@ -663,6 +651,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 02, 2026 at 00:00 UTC_
+_Last updated: October 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
