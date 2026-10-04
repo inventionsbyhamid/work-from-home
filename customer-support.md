@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Launch Trainer at Dandy
+### 1. Operations Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-specialist-binance)
+
+---
+
+### 2. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Player Support Representative (Chinese/English) at Yodo1
+### 3. Player Support Representative (Chinese/English) at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Senior Support Engineer at Clutch
+### 4. Senior Support Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Care Navigator, US Health Insurance at SafetyWing
+### 5. Care Navigator, US Health Insurance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Japanese Speaking Database Support Engineer at Supabase
+### 6. Japanese Speaking Database Support Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Enterprise Customer Success Manager (French speaker) at Canonical
+### 7. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Trading Operations Associate - West Coast Remote at Alpaca
+### 8. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Intermediate Support Engineer at GitLab
+### 9. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Tamil Translator at Chess
+### 10. Tamil Translator at Chess
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Graduate Customer Success Manager at Canonical
+### 11. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Dispute Analyst - P2P at Binance
+### 12. Dispute Analyst - P2P at Binance
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Junior Trust & Safety Moderator - Contractor at Phantom
+### 13. Junior Trust & Safety Moderator - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +138,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Junior Developer Support Specialist - Contractor at Phantom
+### 14. Junior Developer Support Specialist - Contractor at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +148,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 14. VIP Account Manager at Phantom
+### 15. VIP Account Manager at Phantom
 
 💰 **Salary**: $75,000-$100,000 USD
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 15. Clinical Support Expert, Aligners at Dandy
+### 16. Clinical Support Expert, Aligners at Dandy
 
 💰 **Salary**: $70,000-$80,000 USD
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 16. Client Experience Specialist at Atticus
+### 17. Client Experience Specialist at Atticus
 
 💰 **Salary**: $60,000-$75,000 USD
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 17. Patient Care Specialist at Winona
+### 18. Patient Care Specialist at Winona
 
 🌍 **Location**: Worldwide
 
@@ -187,7 +197,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -215,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 03, 2026 at 00:00 UTC_
+_Last updated: October 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
