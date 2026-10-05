@@ -544,20 +544,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 52. Lead Product Manager - Brokerage at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-manager-brokerage-alpaca)
 
 ---
 
-
----
-
-**Total Jobs**: 52 positions available
+**Total Jobs**: 51 positions available
 
 ---
 
@@ -585,6 +575,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 04, 2026 at 00:00 UTC_
+_Last updated: October 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
