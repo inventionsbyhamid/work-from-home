@@ -606,20 +606,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 60. Product Security Engineer at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-security-engineer-alpaca)
 
 ---
 
-
----
-
-**Total Jobs**: 60 positions available
+**Total Jobs**: 59 positions available
 
 ---
 
@@ -647,6 +637,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 04, 2026 at 00:01 UTC_
+_Last updated: October 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
