@@ -520,34 +520,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 50. Product Manager at Awesome Motive
-
-💰 **Salary**: $70,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-awesome-motive)
 
 ---
 
-### 51. Product Manager - BackWup at WP Media
-
-💰 **Salary**: $120,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-backwup-wp-media)
-
----
-
-
----
-
-**Total Jobs**: 51 positions available
+**Total Jobs**: 49 positions available
 
 ---
 
@@ -575,6 +551,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 05, 2026 at 00:00 UTC_
+_Last updated: October 06, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
