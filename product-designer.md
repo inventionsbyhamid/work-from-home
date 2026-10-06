@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer at CoinMarketCap
+### 1. Web Designer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-designer-applaudo)
+
+---
+
+### 2. Senior Product Designer at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Product Designer (Connect Team) at Chess.com
+### 3. Product Designer (Connect Team) at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Senior Product Designer at Chess.com
+### 4. Senior Product Designer at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Senior Design Engineer, AI Platforms at Chess
+### 5. Senior Design Engineer, AI Platforms at Chess
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Senior Product Designer, Growth at beehiiv
+### 6. Senior Product Designer, Growth at beehiiv
 
 💰 **Salary**: $150,000-$170,000 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Senior Product Designer at Fueled
+### 7. Senior Product Designer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Growth Designer at Circle
+### 8. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Lead Product Designer, Marketplace at Circle
+### 9. Lead Product Designer, Marketplace at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Lead Product Designer at Circle
+### 10. Lead Product Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Senior Product Designer at SafetyWing
+### 11. Senior Product Designer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. UX Designer - Design systems at Canonical
+### 12. UX Designer - Design systems at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 12. Product Designer Lead - UI/UX at Binance
+### 13. Product Designer Lead - UI/UX at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 13. Product Designer at Binance
+### 14. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 14. Product Designer at Binance
+### 15. Product Designer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 15. Lead Product Designer, Marketplace at Circle
+### 16. Lead Product Designer, Marketplace at Circle
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 16. Product Designer, Connect at Chess
+### 17. Product Designer, Connect at Chess
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 17. Senior Brand Designer at Circle
+### 18. Senior Brand Designer at Circle
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +194,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 18. Senior Product Designer at SafetyWing
+### 19. Senior Product Designer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +204,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 19. Senior UX/UI Designer at Applaudo
+### 20. Senior UX/UI Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +214,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 20. Senior Product Designer, Connect at Chess
+### 21. Senior Product Designer, Connect at Chess
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +224,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 21. Senior Product Design Engineer at DuckDuckGo
+### 22. Senior Product Design Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +234,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 22. Staff Content Designer, Remote at Bolt.new
+### 23. Staff Content Designer, Remote at Bolt.new
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +244,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 23. Lead Product Designer at Circle
+### 24. Lead Product Designer at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -246,7 +256,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 24. Lead Product Designer for Marketplace at Circle at Circle
+### 25. Lead Product Designer for Marketplace at Circle at Circle
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -258,7 +268,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 25. Senior Design Engineer, Web Brand - Remote at LiveKit
+### 26. Senior Design Engineer, Web Brand - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -268,7 +278,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 26. Full Dentures Preppers at Dandy
+### 27. Full Dentures Preppers at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -278,7 +288,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 27. Clear Aligner Designer at Dandy
+### 28. Clear Aligner Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -288,7 +298,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 28. Dental CAD Injection Mold Designer (Blender) at Dandy
+### 29. Dental CAD Injection Mold Designer (Blender) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -298,7 +308,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 29. Partial Denture Mold Designer at Dandy
+### 30. Partial Denture Mold Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -308,7 +318,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 30. Thermoform Model Designer at Dandy
+### 31. Thermoform Model Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -318,7 +328,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 31. Dental CAD Prep Designer at Dandy
+### 32. Dental CAD Prep Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -331,7 +341,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 31 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -359,6 +369,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 05, 2026 at 00:00 UTC_
+_Last updated: October 06, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
