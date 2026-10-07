@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Data Scientist / Machine Learning Engineer at Applaudo
+### 1. Project Research & Due Diligence Asia at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/project-research-due-diligence-asia-binance)
+
+---
+
+### 2. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Financial Risk Manager at Alpaca
+### 3. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Binance Accelerator Program - Research Data Scientist at Binance
+### 4. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Sanctions Advisory Specialist at Binance
+### 5. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Pioneer Talent Program - Research Data Scientist at Binance
+### 6. Pioneer Talent Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Research BD Manager/Director Global / Business Development at Binance
+### 7. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 8. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 9. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 9. Director of Academics at Crossover
+### 10. Director of Academics at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 10. Protocol Security Engineer at MatterLabs
+### 11. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 11. Senior Research Engineer at AssemblyAI at AssemblyAI
+### 12. Senior Research Engineer at AssemblyAI at AssemblyAI
 
 💰 **Salary**: $270,000-$310,000 USD
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 12. Reinforcement Learning Research Engineer at LiveKit at LiveKit
+### 13. Reinforcement Learning Research Engineer at LiveKit at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 13. Staff Data Scientist at DuckDuckGo at DuckDuckGo
+### 14. Staff Data Scientist at DuckDuckGo at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 14. Junior Cryptocurrency Trader at Atom Partners
+### 15. Junior Cryptocurrency Trader at Atom Partners
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 15. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 16. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +170,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 16. Color Management Lead at Dandy
+### 17. Color Management Lead at Dandy
 
 💰 **Salary**: $109,700-$129,000 USD
 
@@ -172,7 +182,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 17. Staff Machine Learning & Computer Vision Engineer at Dandy
+### 18. Staff Machine Learning & Computer Vision Engineer at Dandy
 
 💰 **Salary**: $232,500-$258,800 USD
 
@@ -187,7 +197,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -215,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 06, 2026 at 00:01 UTC_
+_Last updated: October 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
