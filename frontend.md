@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Front End Engineer (React, TypeScript) at DuckDuckGo
+### 1. Frontend Engineer - KYC at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-engineer-kyc-binance)
+
+---
+
+### 2. Senior Front End Engineer (React, TypeScript) at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Experience Engineer at Parity
+### 3. Senior Experience Engineer at Parity
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Senior Design Engineer, AI Platforms at Chess
+### 4. Senior Design Engineer, AI Platforms at Chess
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. (Senior) Product Manager, Futures Frontend at Binance
+### 5. (Senior) Product Manager, Futures Frontend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Flutter Engineer (iOS, Android) at Binance
+### 6. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Senior iOS Engineer, Member Experience at Raya
+### 7. Senior iOS Engineer, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Senior Frontend Engineer - Stablecoin Asia at Binance
+### 8. Senior Frontend Engineer - Stablecoin Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Senior Front End Engineer at Binance
+### 9. Senior Front End Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 9. Flutter Engineer (iOS) at Binance
+### 10. Flutter Engineer (iOS) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 10. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 11. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 11. Software Engineer - Advisory Suite Remote at Alpaca
+### 12. Software Engineer - Advisory Suite Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 12. iOS Developer at Applaudo
+### 13. iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 13. Senior Software Engineer, Frontend at Binance
+### 14. Senior Software Engineer, Frontend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 14. Web Developer at Canonical
+### 15. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 15. Senior iOS Developer - Member Experience at Raya at Raya
+### 16. Senior iOS Developer - Member Experience at Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +170,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 16. Senior Software Engineer, Frontend (Money Movement) at Phantom
+### 17. Senior Software Engineer, Frontend (Money Movement) at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +180,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 17. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+### 18. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +190,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 18. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
+### 19. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +200,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 19. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
+### 20. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +210,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 20. Staff Engineer at Clerk
+### 21. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +220,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 21. Senior Product Design Engineer at DuckDuckGo
+### 22. Senior Product Design Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +230,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 22. Senior Front-End Software Engineer, Email Hub at Circle
+### 23. Senior Front-End Software Engineer, Email Hub at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -232,7 +242,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 23. Remote Product Engineer at SafetyWing
+### 24. Remote Product Engineer at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -242,7 +252,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 24. Email Marketing Developer at Winona
+### 25. Email Marketing Developer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -252,7 +262,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 25. Senior Design Engineer, Web Brand - Remote at LiveKit
+### 26. Senior Design Engineer, Web Brand - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -262,7 +272,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 26. Senior Product Engineer (Frontend) at Buffer
+### 27. Senior Product Engineer (Frontend) at Buffer
 
 💰 **Salary**: $156,500-$202,300 USD
 
@@ -274,7 +284,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 27. Software Engineer, Frontend (Consumer - Trading) at Coinbase
+### 28. Software Engineer, Frontend (Consumer - Trading) at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -289,7 +299,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 27 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -317,6 +327,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 06, 2026 at 00:00 UTC_
+_Last updated: October 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
