@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. HRIS Manager Asia at Binance
+### 1. Technical Project Manager, People Operations at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-project-manager-people-operations-dandy)
+
+---
+
+### 2. HRIS Manager Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. People Benefits & Compliance Associate at Applaudo
+### 3. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. People Operations Manager at SafetyWing
+### 4. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. IT Talent Acquisition Specialist at Applaudo
+### 5. IT Talent Acquisition Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. HR Business Partner Asia / HR at Binance
+### 6. HR Business Partner Asia / HR at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. PeopleSoft HCM Consultant at Applaudo
+### 7. PeopleSoft HCM Consultant at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Talent Acquisition Specialist at Binance
+### 8. Talent Acquisition Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Senior Recruiter at BairesDev
+### 9. Senior Recruiter at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Recruiting Analyst at BairesDev
+### 10. Recruiting Analyst at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Hunting Manager at BairesDev
+### 11. Hunting Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Talent Acquisition Associate at BairesDev
+### 12. Talent Acquisition Associate at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Director of Global Human Resources at Percona
+### 13. Director of Global Human Resources at Percona
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +138,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 13. Director of Talent Acquisition at Fingerprint
+### 14. Director of Talent Acquisition at Fingerprint
 
 💰 **Salary**: $159,000-$215,000 USD
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 14. Senior Recruiter at VRChat
+### 15. Senior Recruiter at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 15. Talent Acquisition Manager at BairesDev
+### 16. Talent Acquisition Manager at BairesDev
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +170,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 16. Global Director of Operations at Dandy
+### 17. Global Director of Operations at Dandy
 
 💰 **Salary**: $177,600-$222,000 USD
 
@@ -175,7 +185,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 16 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -203,6 +213,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 07, 2026 at 00:00 UTC_
+_Last updated: October 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
