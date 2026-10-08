@@ -544,22 +544,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 52. Engineering Manager, CorpSec at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-corpsec-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 52 positions available
+**Total Jobs**: 51 positions available
 
 ---
 
@@ -587,6 +575,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 07, 2026 at 00:00 UTC_
+_Last updated: October 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
