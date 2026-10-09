@@ -338,20 +338,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 33. Dental CAD Prep Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-prep-designer-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -379,6 +369,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 08, 2026 at 00:01 UTC_
+_Last updated: October 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
