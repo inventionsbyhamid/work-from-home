@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Full Stack Engineer (Angular/Python) at CloudLinux
+### 1. Senior CX Platform Engineer at GitLab
+
+💰 **Salary**: $139,200-$235,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-cx-platform-engineer-gitlab)
+
+---
+
+### 2. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior Forward Deployed Engineer at Camunda
+### 3. Senior Forward Deployed Engineer at Camunda
 
 💰 **Salary**: $157,300-$253,600 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior Ruby on Rails Developer at Applaudo
+### 4. Senior Ruby on Rails Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Staff Software Engineer at B12
+### 5. Staff Software Engineer at B12
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Senior Web Compatibility Engineer at DuckDuckGo
+### 6. Senior Web Compatibility Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Product Builder at Camunda
+### 7. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Senior Design Engineer, AI Platforms at Chess
+### 8. Senior Design Engineer, AI Platforms at Chess
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
+### 9. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Senior Full-Stack Software Engineer, CMS at Circle
+### 10. Senior Full-Stack Software Engineer, CMS at Circle
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
+### 11. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Senior Engineer - Trust and Safety at VRChat
+### 12. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Binance Accelerator Program - Full Stack Engineer at Binance
+### 13. Binance Accelerator Program - Full Stack Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
+### 14. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 14. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 15. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -156,7 +168,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 15. Senior Full Stack Engineer at Fueled
+### 16. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +178,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 16. Fullstack Engineer at Atticus
+### 17. Fullstack Engineer at Atticus
 
 💰 **Salary**: $157,250-$230,000 USD
 
@@ -178,7 +190,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 17. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+### 18. Full Stack Engineer - KYC Tech (fully remote!) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +200,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 18. Senior Full-Stack Software Engineer, Discover at Circle
+### 19. Senior Full-Stack Software Engineer, Discover at Circle
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +210,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 19. Senior Full-Stack Engineer, Internal Tools at Raya
+### 20. Senior Full-Stack Engineer, Internal Tools at Raya
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +220,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 20. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
+### 21. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +230,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 21. Fullstack Engineer, Exchange at Binance
+### 22. Fullstack Engineer, Exchange at Binance
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +240,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 22. Full Stack Engineer at Applaudo
+### 23. Full Stack Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +250,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 23. Senior Full Stack Engineer at Zircuit
+### 24. Senior Full Stack Engineer at Zircuit
 
 🌍 **Location**: Worldwide
 
@@ -248,7 +260,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 24. Backend Engineer at Clerk
+### 25. Backend Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -258,7 +270,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 25. Staff Engineer at Clerk
+### 26. Staff Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -268,7 +280,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 26. Lead Engineer, CMS Builder at Circle
+### 27. Lead Engineer, CMS Builder at Circle
 
 💰 **Salary**: $160,000-$170,000 USD
 
@@ -280,7 +292,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 27. Senior Full-Stack Software Engineer, Discover at Circle
+### 28. Senior Full-Stack Software Engineer, Discover at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -292,7 +304,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 28. Senior Full-Stack Engineer, Payments Core at Circle
+### 29. Senior Full-Stack Engineer, Payments Core at Circle
 
 💰 **Salary**: $130,000-$140,000 USD
 
@@ -301,16 +313,6 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-payments-core-circle)
-
----
-
-### 29. Full-Stack Java + React Technical Leader at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-java-react-technical-leader-bairesdev)
 
 ---
 
@@ -345,6 +347,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 11, 2026 at 00:00 UTC_
+_Last updated: October 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
