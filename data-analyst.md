@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Data Scientist at DuckDuckGo
+### 1. Business Intelligence / Data Analyst at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-data-analyst-binance)
+
+---
+
+### 2. Senior Data Scientist at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Junior Crypto Analyst and Trader at Empire Assets
+### 3. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 4. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Data Engineer at Applaudo
+### 5. Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Data Scientist / Machine Learning Engineer at Applaudo
+### 6. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Financial Risk Manager at Alpaca
+### 7. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Senior Data Scientist at Fingerprint
+### 8. Senior Data Scientist at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Binance Accelerator Program - Research Data Scientist at Binance
+### 9. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. Solution Architect at Applaudo
+### 10. Solution Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. Director of Revenue Operations at Uscreen
+### 11. Director of Revenue Operations at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 11. Trust and Safety Manager, Policy and Risk Insights at Kindred
+### 12. Trust and Safety Manager, Policy and Risk Insights at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 12. Data Scientist, Ad Network (global) at beehiiv
+### 13. Data Scientist, Ad Network (global) at beehiiv
 
 💰 **Salary**: $120,000-$220,000 USD
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. GTM Analyst at Uscreen
+### 14. GTM Analyst at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 14. Senior Data Engineer at Dandy
+### 15. Senior Data Engineer at Dandy
 
 💰 **Salary**: $133,600-$167,000 CAD
 
@@ -156,7 +166,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 15. Business Intelligence/ Data Analytics at Binance
+### 16. Business Intelligence/ Data Analytics at Binance
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 16. Data Analyst at Coalition Technologies
+### 17. Data Analyst at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 17. Data Product Manager, Derivatives (12 months contract) at Binance
+### 18. Data Product Manager, Derivatives (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 18. On-chain Data Analyst (12 months contract) at Binance
+### 19. On-chain Data Analyst (12 months contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +206,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 19. Senior Analytics Manager at Raya
+### 20. Senior Analytics Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 20. Senior Data Engineer at Phantom
+### 21. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +226,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 21. Data Quality Assurance Engineer at Applaudo
+### 22. Data Quality Assurance Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 22. Senior Data Analyst, Trading Asia at Binance
+### 23. Senior Data Analyst, Trading Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +246,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 23. Sr. Insider Risk Analyst at Alpaca
+### 24. Sr. Insider Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -246,7 +256,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 24. Senior Evaluation Algorithm Engineer at Binance
+### 25. Senior Evaluation Algorithm Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -256,7 +266,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 25. Financial Planning & Analysis Analyst at Clutch
+### 26. Financial Planning & Analysis Analyst at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -266,7 +276,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 26. Senior Customer Success Operations Manager at Circle
+### 27. Senior Customer Success Operations Manager at Circle
 
 💰 **Salary**: $140,000-$160,000 USD
 
@@ -278,7 +288,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 27. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
+### 28. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
 
 🌍 **Location**: Worldwide
 
@@ -288,23 +298,13 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 28. Marketing Programs and Operations Specialist at Metabase
+### 29. Marketing Programs and Operations Specialist at Metabase
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-programs-and-operations-specialist-metabase)
-
----
-
-### 29. Senior Data Scientist I at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-i-dandy)
 
 ---
 
@@ -339,6 +339,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 11, 2026 at 00:00 UTC_
+_Last updated: October 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
