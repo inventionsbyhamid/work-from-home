@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Cloud Platform Engineer at Supabase
+### 1. Senior CX Platform Engineer at GitLab
+
+💰 **Salary**: $139,200-$235,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-cx-platform-engineer-gitlab)
+
+---
+
+### 2. Cloud Platform Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Platform Software Engineer at Supabase
+### 3. Platform Software Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Platform Engineer at CloudLinux
+### 4. Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 5. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. DevOps Engineer, Cloud Infra at Binance
+### 6. DevOps Engineer, Cloud Infra at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Engineering Manager - Distributed Systems, Python / Go at Canonical
+### 7. Engineering Manager - Distributed Systems, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. AI Agent Platform Engineer (Openclaw) at Binance
+### 8. AI Agent Platform Engineer (Openclaw) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +90,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Security Engineer Manager at Binance
+### 9. Security Engineer Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Staff Engineer at CloudLinux
+### 10. Staff Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +110,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
+### 11. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +120,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. GRC Engineer at Clerk
+### 12. GRC Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +130,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. AI Agent Engineer at Binance
+### 13. AI Agent Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +140,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 13. Senior Governance Risk and Compliance Security Engineer at Clerk
+### 14. Senior Governance Risk and Compliance Security Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +150,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. Software Engineer, ELS Delivery Pipeline at CloudLinux
+### 15. Software Engineer, ELS Delivery Pipeline at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +160,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 15. DevOps Engineer, Infra Asia / DevOps/SRE at Binance
+### 16. DevOps Engineer, Infra Asia / DevOps/SRE at Binance
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +170,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 16. Security Engineer at Binance
+### 17. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +180,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 17. Staff Site Reliability Engineer, Environment Automation at GitLab
+### 18. Staff Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +190,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 18. Python Software Engineer, ELS Delivery Pipeline at CloudLinux
+### 19. Python Software Engineer, ELS Delivery Pipeline at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +200,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 19. OrioleDB Deployment Engineer at Supabase
+### 20. OrioleDB Deployment Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +210,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 20. OpenStack Engineering Manager at Canonical
+### 21. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +220,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 21. DevOps Engineer, Blockchain Infra (Fully Remote) at Binance
+### 22. DevOps Engineer, Blockchain Infra (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +230,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 22. Senior Site Reliability Engineer (SRE) at Binance
+### 23. Senior Site Reliability Engineer (SRE) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +240,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 23. Principal Technical Program Manager at GitLab
+### 24. Principal Technical Program Manager at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +250,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 24. Senior Kubernetes Software Engineer at Camunda
+### 25. Senior Kubernetes Software Engineer at Camunda
 
 💰 **Salary**: $149,800-$241,500 USD
 
@@ -250,7 +262,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 25. Senior Technical Productivity Manager at Camunda
+### 26. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -262,7 +274,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 26. SDET at Phantom
+### 27. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -272,7 +284,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 27. Junior Ubuntu Software Engineer at Canonical
+### 28. Junior Ubuntu Software Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -282,7 +294,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 28. Senior / Staff Backend Engineer (API) - Economy at VRChat
+### 29. Senior / Staff Backend Engineer (API) - Economy at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -292,7 +304,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 29. Cloud Field Engineer at Canonical
+### 30. Cloud Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -302,7 +314,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 30. Incident Operations Commander Remote - Global at Alpaca
+### 31. Incident Operations Commander Remote - Global at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -312,7 +324,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 31. DevSecOps Engineer at Raya
+### 32. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -322,7 +334,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 32. Intermediate Support Engineer at GitLab
+### 33. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -332,7 +344,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 33. Intermediate Technical Program Manager at GitLab
+### 34. Intermediate Technical Program Manager at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -342,7 +354,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 34. Binance Accelerator Program - DevSecOps Engineer at Binance
+### 35. Binance Accelerator Program - DevSecOps Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -352,7 +364,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 35. Senior Site Reliability Engineer at Camunda
+### 36. Senior Site Reliability Engineer at Camunda
 
 💰 **Salary**: $149,800-$241,500 USD
 
@@ -364,7 +376,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 36. DevSecOps Engineer at Raya
+### 37. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -374,7 +386,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 37. AI Developer at Crossover
+### 38. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -384,7 +396,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 38. Ubuntu Engineering Manager at Canonical
+### 39. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -394,7 +406,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 39. Principal Architect at Applaudo
+### 40. Principal Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -404,7 +416,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 40. Platform Engineer, PaaS at CloudLinux
+### 41. Platform Engineer, PaaS at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -414,7 +426,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 41. Senior Site Reliability Engineer at CloudLinux
+### 42. Senior Site Reliability Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -424,7 +436,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 42. Senior Database Reliability Engineer at CloudLinux
+### 43. Senior Database Reliability Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -434,7 +446,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 43. DevSecOps Engineer at Raya
+### 44. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -444,7 +456,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 44. Forward Deployed Engineer at MatterLabs
+### 45. Forward Deployed Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -454,7 +466,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 45. Senior Backend Engineer at Applaudo
+### 46. Senior Backend Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -464,7 +476,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 46. Lead Infrastructure Engineer at Atticus
+### 47. Lead Infrastructure Engineer at Atticus
 
 💰 **Salary**: $170,000-$220,000 USD
 
@@ -476,7 +488,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 47. Senior Infrastructure Engineer at Buffer
+### 48. Senior Infrastructure Engineer at Buffer
 
 💰 **Salary**: $164,595-$212,744 USD
 
@@ -488,7 +500,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 48. Lead Security Engineer at Binance
+### 49. Lead Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -498,7 +510,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 49. Engineer to own the automated pipelines at CloudLinux
+### 50. Engineer to own the automated pipelines at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -508,7 +520,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 50. Data Platform Engineer at CloudLinux
+### 51. Data Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -518,7 +530,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 51. Software Engineer - Infrastructure at Camunda
+### 52. Software Engineer - Infrastructure at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -528,7 +540,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 52. Senior Site Reliability Engineer at Alpaca
+### 53. Senior Site Reliability Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -538,7 +550,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 53. Senior Software Engineer, Quality Engineering at Alpaca
+### 54. Senior Software Engineer, Quality Engineering at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -548,7 +560,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 54. Senior Infrastructure Security Engineer at MatterLabs
+### 55. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -558,7 +570,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 55. FinOps Cloud Financial Engineer at Supabase at Supabase
+### 56. FinOps Cloud Financial Engineer at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -568,7 +580,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 56. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
+### 57. Senior Backend Software Engineer (Go, APIs, Distributed Systems) at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -580,7 +592,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 57. IT Engineer - Remote at LiveKit
+### 58. IT Engineer - Remote at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -590,7 +602,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 58. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
+### 59. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -600,7 +612,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 59. AWS Practice Lead, Open Source Databases at Percona
+### 60. AWS Practice Lead, Open Source Databases at Percona
 
 🌍 **Location**: Worldwide
 
@@ -610,7 +622,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 60. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
+### 61. Senior Go-To-Market Systems AI and Automation Engineer at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -622,7 +634,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 61. Senior Software Engineer, Engineering Operations at Camunda
+### 62. Senior Software Engineer, Engineering Operations at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -632,7 +644,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 62. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
+### 63. Remote Backend Pipeline Engineer at CloudLinux at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -642,7 +654,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 63. Forward Deployed Engineer (Spanish/English) at LiveKit
+### 64. Forward Deployed Engineer (Spanish/English) at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -652,7 +664,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 64. Senior Platform Engineer (Cloud & DevOps) at Kindred
+### 65. Senior Platform Engineer (Cloud & DevOps) at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -662,7 +674,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 65. Platform Engineer, Compute Capacity at Supabase
+### 66. Platform Engineer, Compute Capacity at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -672,7 +684,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 66. Senior Software Engineer, CI/CD Branching Platform at Supabase
+### 67. Senior Software Engineer, CI/CD Branching Platform at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -682,7 +694,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 67. Platform Security Engineer at Supabase
+### 68. Platform Security Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -692,7 +704,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 68. Quality and Release Manager at Raya
+### 69. Quality and Release Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -702,7 +714,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 69. Senior Forward Deployment Engineer at Clutch at Clutch
+### 70. Senior Forward Deployment Engineer at Clutch at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -712,7 +724,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 70. Site Reliability Engineering Manager at Parity
+### 71. Site Reliability Engineering Manager at Parity
 
 🌍 **Location**: Worldwide
 
@@ -722,7 +734,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 71. Senior Automation Engineer at CloudLinux
+### 72. Senior Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -732,7 +744,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 72. Senior Platform Engineer - Remote at CloudLinux
+### 73. Senior Platform Engineer - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -742,7 +754,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 73. Platform Engineer, Edge and Networking at Supabase
+### 74. Platform Engineer, Edge and Networking at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -752,7 +764,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 74. Platform Engineer - Developer Experience at Dandy
+### 75. Platform Engineer - Developer Experience at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -762,7 +774,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 75. Platform Engineer at Dandy
+### 76. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -772,7 +784,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 76. Platform Engineer at Dandy
+### 77. Platform Engineer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -785,7 +797,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 76 positions available
+**Total Jobs**: 77 positions available
 
 ---
 
@@ -813,6 +825,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 11, 2026 at 00:00 UTC_
+_Last updated: October 12, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
