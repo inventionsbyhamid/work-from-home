@@ -21,10 +21,10 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 65 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 6 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 8 remote jobs available
-- 🏠 **[Backend](backend.md)** - 123 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 56 remote jobs available
+- 🏠 **[Backend](backend.md)** - 124 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 55 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 16 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 17 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 20 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 29 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 77 remote jobs available
@@ -34,16 +34,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Frontend](frontend.md)** - 30 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 29 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 6 remote jobs available
-- 🏠 **[HR](hr.md)** - 17 remote jobs available
+- 🏠 **[HR](hr.md)** - 16 remote jobs available
 - 🏠 **[Intern](intern.md)** - 15 remote jobs available
 - 🏠 **[Legal](legal.md)** - 17 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 45 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 31 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 29 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 54 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 28 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 20 remote jobs available
 - 🏠 **[Research](research.md)** - 18 remote jobs available
-- 🏠 **[Sales](sales.md)** - 36 remote jobs available
+- 🏠 **[Sales](sales.md)** - 38 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 60 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 10 remote jobs available
 - 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 201 remote jobs available
@@ -57,7 +57,39 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Business Intelligence / Data Analyst at Binance
+### 1. Backend Engineer (Java) - Trading at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-trading-remote-binance)
+
+---
+
+### 2. Account Manager at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-manager-dandy)
+
+---
+
+### 3. Enterprise Account Executive II - DACH at Camunda
+
+💰 **Salary**: $158,000-$261,400 EUR
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-ii-dach-camunda)
+
+---
+
+### 4. Business Intelligence / Data Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +99,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
+### 5. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +109,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Frontend Engineer - Earn at Binance
+### 6. Frontend Engineer - Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +119,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior CX Platform Engineer at GitLab
+### 7. Senior CX Platform Engineer at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -99,7 +131,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Product Manager - Experience Optimization at Binance
+### 8. Senior Product Manager - Experience Optimization at Binance
 
 🌍 **Location**: Worldwide
 
@@ -109,7 +141,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Android Developer at Binance
+### 9. Android Developer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -119,7 +151,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Cloud Platform Engineer at Supabase
+### 10. Cloud Platform Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -129,7 +161,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Platform Software Engineer at Supabase
+### 11. Platform Software Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +171,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Product Operations Manager at LiveKit
+### 12. Product Operations Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -149,7 +181,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Director, Customer Experience, Trading API at Alpaca
+### 13. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -159,7 +191,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Service Delivery Lead at Applaudo
+### 14. Service Delivery Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -169,7 +201,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Senior Backend Engineer (Java / Go) at Binance
+### 15. Senior Backend Engineer (Java / Go) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -179,7 +211,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Platform Engineer at CloudLinux
+### 16. Platform Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -189,7 +221,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Senior Data Scientist at DuckDuckGo
+### 17. Senior Data Scientist at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -201,7 +233,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Manager, Engineering - Identity at Camunda
+### 18. Manager, Engineering - Identity at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -213,7 +245,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Junior Crypto Analyst and Trader at Empire Assets
+### 19. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -223,45 +255,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 20. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-binance)
-
----
-
-### 18. Corporate Account Executive III - NA at Camunda
-
-💰 **Salary**: $212,700-$343,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-account-executive-iii-na-camunda)
-
----
-
-### 19. Senior Product Manager, Trading API at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-trading-api-alpaca)
-
----
-
-### 20. Communications and Partnerships Assistant at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-partnerships-assistant-winona)
 
 ---
 
@@ -291,6 +291,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 12, 2026 at 00:00 UTC_
+_Last updated: October 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
