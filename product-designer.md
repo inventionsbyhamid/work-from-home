@@ -308,30 +308,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 30. Dental CAD Injection Mold Designer (Blender) at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-injection-mold-designer-dandy)
 
 ---
 
-### 31. Partial Denture Mold Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partial-denture-mold-designer-dandy)
-
----
-
-
----
-
-**Total Jobs**: 31 positions available
+**Total Jobs**: 29 positions available
 
 ---
 
@@ -359,6 +339,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 12, 2026 at 00:00 UTC_
+_Last updated: October 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
