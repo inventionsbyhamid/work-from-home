@@ -2054,34 +2054,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 200. Software Engineer, CAD at Dandy
-
-💰 **Salary**: $201,500-$237,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-cad-dandy)
 
 ---
 
-### 201. Software Engineer, Frontend (Consumer - Trading) at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 201 positions available
+**Total Jobs**: 199 positions available
 
 ---
 
@@ -2109,6 +2085,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 13, 2026 at 00:01 UTC_
+_Last updated: October 14, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
