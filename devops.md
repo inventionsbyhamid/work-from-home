@@ -784,20 +784,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 77. Platform Engineer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 77 positions available
+**Total Jobs**: 76 positions available
 
 ---
 
@@ -825,6 +815,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 13, 2026 at 00:00 UTC_
+_Last updated: October 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
