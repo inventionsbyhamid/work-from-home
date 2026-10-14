@@ -682,22 +682,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 65. Software Engineer, CAD at Dandy
-
-💰 **Salary**: $201,500-$237,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-cad-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 65 positions available
+**Total Jobs**: 64 positions available
 
 ---
 
@@ -725,6 +713,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 13, 2026 at 00:00 UTC_
+_Last updated: October 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
