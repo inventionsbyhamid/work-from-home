@@ -304,22 +304,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 30. Software Engineer, Frontend (Consumer - Trading) at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-frontend-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 29 positions available
 
 ---
 
@@ -347,6 +335,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 13, 2026 at 00:00 UTC_
+_Last updated: October 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
