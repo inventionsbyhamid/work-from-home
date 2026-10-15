@@ -558,22 +558,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 54. Principal Product Manager, Growth at Dandy
-
-💰 **Salary**: $202,100-$245,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-growth-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 54 positions available
+**Total Jobs**: 53 positions available
 
 ---
 
@@ -601,6 +589,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 14, 2026 at 00:00 UTC_
+_Last updated: October 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
