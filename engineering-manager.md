@@ -508,34 +508,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 49. Engineering Manager, Machine Learning at Dandy
-
-💰 **Salary**: $216,800-$255,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-machine-learning-dandy)
 
 ---
 
-### 50. Color Management Lead at Dandy
-
-💰 **Salary**: $109,700-$129,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/color-management-lead-dandy)
-
----
-
-
----
-
-**Total Jobs**: 50 positions available
+**Total Jobs**: 48 positions available
 
 ---
 
@@ -563,6 +539,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 15, 2026 at 00:00 UTC_
+_Last updated: October 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
