@@ -298,20 +298,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 29. Lead Payment Operations Specialist at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-payment-operations-specialist-xapo-bank)
 
 ---
 
-
----
-
-**Total Jobs**: 29 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -339,6 +329,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
