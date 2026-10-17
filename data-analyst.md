@@ -298,30 +298,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 29. Junior Digital Assets Operations Analyst at OMEGA ENTERPRISES LTD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-digital-assets-operations-analyst-omega-enterprises-ltd)
 
 ---
 
-### 30. Marketing Programs and Operations Specialist at Metabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-programs-and-operations-specialist-metabase)
-
----
-
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -349,6 +329,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
