@@ -514,82 +514,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 50. Brand Partnerships Manager at Pitch - Remote at Pitch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brand-partnerships-manager-at-pitch-pitch)
 
 ---
 
-### 51. General Manager, Nomad Insurance at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/general-manager-nomad-insurance-safetywing)
-
----
-
-### 52. Go-to-Market AI Sales Closer at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/go-to-market-ai-sales-closer-passion-io)
-
----
-
-### 53. Head of Business Development at VRChat at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-business-development-at-vrchat-vrchat)
-
----
-
-### 54. Procurement Specialist at Ciceksepeti
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-specialist-ciceksepeti)
-
----
-
-### 55. Renewal Risk Engineer - Management Liability at Counterpart
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/renewal-risk-engineer-management-liability-counterpart)
-
----
-
-### 56. Head of Structured Solutions at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-structured-solutions-xapo-bank)
-
----
-
-
----
-
-**Total Jobs**: 56 positions available
+**Total Jobs**: 49 positions available
 
 ---
 
@@ -617,6 +545,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
