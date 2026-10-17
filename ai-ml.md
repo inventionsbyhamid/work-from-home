@@ -646,34 +646,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 62. Staff ML and AI Agent Systems Engineer at Sourcegraph
-
-💰 **Salary**: $88,000-$176,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-ml-and-ai-agent-systems-engineer-sourcegraph)
 
 ---
 
-### 63. Principal Product Manager, Foundational ML Models at Dandy
-
-💰 **Salary**: $202,100-$245,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-foundational-ml-models-dandy)
-
----
-
-
----
-
-**Total Jobs**: 63 positions available
+**Total Jobs**: 61 positions available
 
 ---
 
@@ -701,6 +677,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
