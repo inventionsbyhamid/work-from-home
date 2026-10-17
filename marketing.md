@@ -406,50 +406,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 40. Brand Partnerships Manager at Pitch - Remote at Pitch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brand-partnerships-manager-at-pitch-pitch)
 
 ---
 
-### 41. Marketing Programs and Operations Specialist at Metabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-programs-and-operations-specialist-metabase)
-
----
-
-### 42. Email Marketing Developer at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/email-marketing-developer-winona)
-
----
-
-### 43. Senior Brand Designer at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-brand-designer-livekit)
-
----
-
-
----
-
-**Total Jobs**: 43 positions available
+**Total Jobs**: 39 positions available
 
 ---
 
@@ -477,6 +437,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
