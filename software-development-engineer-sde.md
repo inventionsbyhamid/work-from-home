@@ -2002,84 +2002,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 195. Senior Automation Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-automation-engineer-cloudlinux)
 
 ---
 
-### 196. Go-to-Market AI Sales Closer at Passion.io
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/go-to-market-ai-sales-closer-passion-io)
-
----
-
-### 197. Staff ML and AI Agent Systems Engineer at Sourcegraph
-
-💰 **Salary**: $88,000-$176,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-ml-and-ai-agent-systems-engineer-sourcegraph)
-
----
-
-### 198. Unity Technical Artist for Immersive Events at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/unity-technical-artist-for-immersive-events-vrchat)
-
----
-
-### 199. Platform Engineer, Edge and Networking at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-edge-and-networking-supabase)
-
----
-
-### 200. Platform Engineer - Developer Experience at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-developer-experience-dandy)
-
----
-
-### 201. Senior Product Engineer (Frontend) at Buffer
-
-💰 **Salary**: $156,500-$202,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-engineer-buffer)
-
----
-
-
----
-
-**Total Jobs**: 201 positions available
+**Total Jobs**: 194 positions available
 
 ---
 
@@ -2107,6 +2033,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:01 UTC_
+_Last updated: October 17, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
