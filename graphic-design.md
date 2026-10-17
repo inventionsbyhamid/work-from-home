@@ -58,20 +58,10 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 6. Senior Brand Designer at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Graphic Design
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-brand-designer-livekit)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -99,6 +89,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 16, 2026 at 00:00 UTC_
+_Last updated: October 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
