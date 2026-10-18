@@ -192,32 +192,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 19. Client Experience Specialist at Atticus
-
-💰 **Salary**: $60,000-$75,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-experience-specialist-atticus)
 
 ---
 
-### 20. Patient Care Specialist at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/patient-care-specialist-winona)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -245,6 +223,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
