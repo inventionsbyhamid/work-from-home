@@ -246,62 +246,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 24. Founding Technical Program Manager - Supabase at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/founding-technical-program-manager-supabase-supabase)
 
 ---
 
-### 25. Director of Business Operations at Clutch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-business-operations-clutch)
-
----
-
-### 26. Lead Product Operations - Insurance Platform at Counterpart
-
-💰 **Salary**: $170,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-operations-insurance-platform-counterpart)
-
----
-
-### 27. Startup Program Lead at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/startup-program-lead-livekit)
-
----
-
-### 28. Partner Operations and Systems Lead at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-operations-and-systems-lead-supabase)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -329,6 +277,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
