@@ -290,46 +290,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 28. Lead Engineer, CMS Builder at Circle
-
-💰 **Salary**: $160,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-engineer-cms-builder-circle)
 
 ---
 
-### 29. Senior Full-Stack Software Engineer, Discover at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-circle)
-
----
-
-### 30. Senior Full-Stack Engineer, Payments Core at Circle
-
-💰 **Salary**: $130,000-$140,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-payments-core-circle)
-
----
-
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 27 positions available
 
 ---
 
@@ -357,6 +321,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
