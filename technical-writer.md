@@ -60,30 +60,10 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 6. Staff Content Designer, Remote at Bolt.new
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-content-designer-remote-bolt-new)
 
 ---
 
-### 7. Senior Technical Writer for PostgreSQL Products at Percona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-writer-for-postgresql-products-percona)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -111,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:01 UTC_
+_Last updated: October 18, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
