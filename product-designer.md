@@ -224,64 +224,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 22. Senior Product Designer, Connect at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-connect-chess)
 
 ---
 
-### 23. Senior Product Design Engineer at DuckDuckGo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-design-engineer-duckduckgo)
-
----
-
-### 24. Staff Content Designer, Remote at Bolt.new
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-content-designer-remote-bolt-new)
-
----
-
-### 25. Lead Product Designer at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-worldwide-circle)
-
----
-
-### 26. Lead Product Designer for Marketplace at Circle at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-for-marketplace-at-circle-circle)
-
----
-
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -309,6 +255,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
