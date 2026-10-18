@@ -18,36 +18,36 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 61 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 54 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 6 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 8 remote jobs available
-- 🏠 **[Backend](backend.md)** - 124 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 49 remote jobs available
+- 🏠 **[Backend](backend.md)** - 102 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 35 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 16 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 20 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 28 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 73 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 45 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 13 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 18 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 27 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 59 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 38 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 2 remote jobs available
-- 🏠 **[Finance](finance.md)** - 35 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 27 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 30 remote jobs available
+- 🏠 **[Finance](finance.md)** - 24 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 24 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 27 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 5 remote jobs available
-- 🏠 **[HR](hr.md)** - 14 remote jobs available
-- 🏠 **[Intern](intern.md)** - 14 remote jobs available
-- 🏠 **[Legal](legal.md)** - 16 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 39 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 26 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 50 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 29 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 20 remote jobs available
-- 🏠 **[Research](research.md)** - 16 remote jobs available
-- 🏠 **[Sales](sales.md)** - 38 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 60 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 10 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 194 remote jobs available
-- 🏠 **[Technical Writer](technical-writer.md)** - 7 remote jobs available
+- 🏠 **[HR](hr.md)** - 12 remote jobs available
+- 🏠 **[Intern](intern.md)** - 12 remote jobs available
+- 🏠 **[Legal](legal.md)** - 15 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 32 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 21 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 43 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 23 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 18 remote jobs available
+- 🏠 **[Research](research.md)** - 12 remote jobs available
+- 🏠 **[Sales](sales.md)** - 30 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 53 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 156 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 5 remote jobs available
 - 🏠 **[Video Editor](video-editor.md)** - 2 remote jobs available
 
 
@@ -57,7 +57,75 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Site Reliability Engineer at Supabase
+### 1. Director of Data Science at DuckDuckGo
+
+💰 **Salary**: $263,300-$346,250 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-data-science-duckduckgo)
+
+---
+
+### 2. Senior Software Engineer, API Products at 0x
+
+💰 **Salary**: $150,000-$230,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-api-products-0x)
+
+---
+
+### 3. Distributed Systems Evaluation Engineer at Institute of Free Technology
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/distributed-systems-evaluation-engineer-institute-of-free-technology)
+
+---
+
+### 4. Python SDK Engineer at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-sdk-engineer-supabase)
+
+---
+
+### 5. Senior Application Security Manager at Fingerprint
+
+💰 **Salary**: $177,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-security-manager-fingerprint)
+
+---
+
+### 6. Staff Application Security Engineer at Fingerprint
+
+💰 **Salary**: $177,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-application-security-engineer-fingerprint)
+
+---
+
+### 7. Site Reliability Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -67,7 +135,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Product Manager, Gameplay at Chess
+### 8. Senior Product Manager, Gameplay at Chess
 
 🌍 **Location**: Worldwide
 
@@ -77,7 +145,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Revenue Accounting Manager at LiveKit
+### 9. Revenue Accounting Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -87,7 +155,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Full Stack Engineer (Angular/Python) at CloudLinux
+### 10. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +165,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Financial Controller at Xapo Bank
+### 11. Financial Controller at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -107,7 +175,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior C++ Chromium Software Engineer at DuckDuckGo
+### 12. Senior C++ Chromium Software Engineer at DuckDuckGo
 
 💰 **Salary**: $178,500+ USD
 
@@ -119,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Revenue Operations Administrator at Kinsta
+### 13. Revenue Operations Administrator at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -129,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Sales Development Representative at Chili Piper
+### 14. Sales Development Representative at Chili Piper
 
 🌍 **Location**: Worldwide
 
@@ -139,7 +207,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Security Engineer, Product and Source Code Research at Metabase
+### 15. Security Engineer, Product and Source Code Research at Metabase
 
 💰 **Salary**: $160,000-$225,000 USD
 
@@ -151,7 +219,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. FinOps Data Engineer at Supabase
+### 16. FinOps Data Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -161,7 +229,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Platform Engineer, Compute at Supabase
+### 17. Platform Engineer, Compute at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -171,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Strategic Project Manager, Operations at Lido
+### 18. Strategic Project Manager, Operations at Lido
 
 🌍 **Location**: Worldwide
 
@@ -181,7 +249,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Backend Engineer (Java) - Trading at Binance
+### 19. Backend Engineer (Java) - Trading at Binance
 
 🌍 **Location**: Worldwide
 
@@ -191,77 +259,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Account Manager at Dandy
+### 20. Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Success
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-manager-dandy)
-
----
-
-### 15. Enterprise Account Executive II - DACH at Camunda
-
-💰 **Salary**: $158,000-$261,400 EUR
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-ii-dach-camunda)
-
----
-
-### 16. Business Intelligence / Data Analyst at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-data-analyst-binance)
-
----
-
-### 17. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-qa-coding-binance)
-
----
-
-### 18. Frontend Engineer - Earn at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-engineer-earn-binance)
-
----
-
-### 19. Senior CX Platform Engineer at GitLab
-
-💰 **Salary**: $139,200-$235,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-cx-platform-engineer-gitlab)
-
----
-
-### 20. Senior Product Manager - Experience Optimization at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-experience-optimization-binance)
 
 ---
 
@@ -291,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
