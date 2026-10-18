@@ -128,32 +128,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 13. Director of Global Human Resources at Percona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-global-human-resources-percona)
 
 ---
 
-### 14. Director of Talent Acquisition at Fingerprint
-
-💰 **Salary**: $159,000-$215,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-talent-acquisition-fingerprint)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -181,6 +159,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
