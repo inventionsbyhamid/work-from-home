@@ -250,120 +250,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 25. FinOps Cloud Financial Engineer at Supabase at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-cloud-financial-engineer-at-supabase-supabase)
 
 ---
 
-### 26. Financial Analyst at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-analyst-applaudo)
-
----
-
-### 27. Junior Cryptocurrency Trader at Atom Partners
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-cryptocurrency-trader-atom-partners)
-
----
-
-### 28. Financial Planning & Analysis Analyst at Clutch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-planning-analysis-analyst-clutch)
-
----
-
-### 29. Director of Business Operations at Clutch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-business-operations-clutch)
-
----
-
-### 30. Senior Financial Planning & Analysis Manager at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-financial-planning-analysis-manager-camunda)
-
----
-
-### 31. Director of Risk Management at Bobtail
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-risk-management-bobtail)
-
----
-
-### 32. Senior Accounting Manager - Fully Remote at Counterpart
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-accounting-manager-fully-remote-counterpart)
-
----
-
-### 33. Director of Corporate Development at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-corporate-development-cloudlinux)
-
----
-
-### 34. GTM Strategic Finance Manager at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/gtm-strategic-finance-manager-livekit)
-
----
-
-### 35. Lead Payment Operations Specialist at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-payment-operations-specialist-xapo-bank)
-
----
-
-
----
-
-**Total Jobs**: 35 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -391,6 +281,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
