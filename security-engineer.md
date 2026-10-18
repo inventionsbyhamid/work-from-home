@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Site Reliability Engineer at Supabase
+### 1. Senior Application Security Manager at Fingerprint
+
+💰 **Salary**: $177,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-security-manager-fingerprint)
+
+---
+
+### 2. Staff Application Security Engineer at Fingerprint
+
+💰 **Salary**: $177,000-$240,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-application-security-engineer-fingerprint)
+
+---
+
+### 3. Site Reliability Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +42,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Security Engineer, Product and Source Code Research at Metabase
+### 4. Security Engineer, Product and Source Code Research at Metabase
 
 💰 **Salary**: $160,000-$225,000 USD
 
@@ -30,7 +54,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Cloud Platform Engineer at Supabase
+### 5. Cloud Platform Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +64,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Internal Audit - Investigations Specialist at Binance
+### 6. Internal Audit - Investigations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +74,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. Security Engineer Manager at Binance
+### 7. Security Engineer Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +84,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Senior Privacy Engineer at DuckDuckGo
+### 8. Senior Privacy Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +94,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Staff Engineer at CloudLinux
+### 9. Staff Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +104,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Trust and Safety Manager, Policy and Risk Insights at Kindred
+### 10. Trust and Safety Manager, Policy and Risk Insights at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +114,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Web Application Security Engineer at Chess.com
+### 11. Web Application Security Engineer at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +124,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Cloud AI Engineer at Binance
+### 12. Cloud AI Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +134,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. GRC Engineer at Clerk
+### 13. GRC Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +144,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Sanctions Advisory Specialist at Binance
+### 14. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +154,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. C Developer Intern at CloudLinux
+### 15. C Developer Intern at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +164,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Lead Blockchain Security Developer, Canton at OpenZeppelin
+### 16. Lead Blockchain Security Developer, Canton at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +174,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 15. Principal Solana Security Engineer at OpenZeppelin
+### 17. Principal Solana Security Engineer at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +184,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 16. Head of IT and Information Security at OpenZeppelin
+### 18. Head of IT and Information Security at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +194,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 17. Senior Governance Risk and Compliance Security Engineer at Clerk
+### 19. Senior Governance Risk and Compliance Security Engineer at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +204,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 18. Software Engineer, ELS Delivery Pipeline at CloudLinux
+### 20. Software Engineer, ELS Delivery Pipeline at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +214,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 19. Security Engineer at Binance
+### 21. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +224,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 20. Staff Site Reliability Engineer, Environment Automation at GitLab
+### 22. Staff Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +234,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 21. Sr Analyst Technical Internal Control at Empower
+### 23. Sr Analyst Technical Internal Control at Empower
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +244,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 22. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
+### 24. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -232,7 +256,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 23. DevOps Engineer, Blockchain Infra (Fully Remote) at Binance
+### 25. DevOps Engineer, Blockchain Infra (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -242,7 +266,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 24. Senior Site Reliability Engineer (SRE) at Binance
+### 26. Senior Site Reliability Engineer (SRE) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -252,7 +276,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 25. Senior Engineer - Trust and Safety at VRChat
+### 27. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -262,7 +286,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 26. Engineering Manager, Language Security Research at CloudLinux
+### 28. Engineering Manager, Language Security Research at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -272,7 +296,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 27. Senior Application Security Architect at Binance
+### 29. Senior Application Security Architect at Binance
 
 🌍 **Location**: Worldwide
 
@@ -282,7 +306,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 28. DevSecOps Engineer at Raya
+### 30. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -292,7 +316,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 29. Binance Accelerator Program - DevSecOps Engineer at Binance
+### 31. Binance Accelerator Program - DevSecOps Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -302,7 +326,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 30. DevSecOps Engineer at Raya
+### 32. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -312,7 +336,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 31. Head of Risk, NTL at Binance
+### 33. Head of Risk, NTL at Binance
 
 🌍 **Location**: Worldwide
 
@@ -322,7 +346,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 32. Kernel Developers at CloudLinux
+### 34. Kernel Developers at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -332,7 +356,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 33. Platform Engineer, PaaS at CloudLinux
+### 35. Platform Engineer, PaaS at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -342,7 +366,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 34. Kernel Developer at CloudLinux
+### 36. Kernel Developer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -352,7 +376,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 35. Senior Security Engineer at Binance
+### 37. Senior Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -362,7 +386,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 36. Senior Site Reliability Engineer at CloudLinux
+### 38. Senior Site Reliability Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -372,7 +396,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 37. Software Engineer - Blockchain Security at Binance
+### 39. Software Engineer - Blockchain Security at Binance
 
 🌍 **Location**: Worldwide
 
@@ -382,7 +406,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 38. Senior Security Engineer - Blue Team at Raya
+### 40. Senior Security Engineer - Blue Team at Raya
 
 🌍 **Location**: Worldwide
 
@@ -392,7 +416,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 39. DevSecOps Engineer at Raya
+### 41. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -402,7 +426,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 40. Security Engineer at Binance
+### 42. Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -412,7 +436,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 41. Backend Engineer, Security (Remote) at Binance
+### 43. Backend Engineer, Security (Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -422,7 +446,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 42. Senior Infrastructure Engineer at Buffer
+### 44. Senior Infrastructure Engineer at Buffer
 
 💰 **Salary**: $164,595-$212,744 USD
 
@@ -434,7 +458,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 43. Lead Security Engineer at Binance
+### 45. Lead Security Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -444,7 +468,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 44. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 46. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -454,7 +478,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 45. Senior/Staff Security Engineer - Corporate Security at Phantom
+### 47. Senior/Staff Security Engineer - Corporate Security at Phantom
 
 💰 **Salary**: $225,000-$285,000 USD
 
@@ -466,7 +490,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 46. Sr. Insider Risk Analyst at Alpaca
+### 48. Sr. Insider Risk Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -476,7 +500,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 47. Node.js Runtime Protection Engineer at CloudLinux
+### 49. Node.js Runtime Protection Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -486,7 +510,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 48. Security Engineer at Chess
+### 50. Security Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -496,7 +520,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 49. Senior Infrastructure Security Engineer at MatterLabs
+### 51. Senior Infrastructure Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -506,7 +530,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 50. Protocol Security Engineer at MatterLabs
+### 52. Protocol Security Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -516,7 +540,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 51. Protocol Engineer at MatterLabs
+### 53. Protocol Engineer at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -526,100 +550,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 52. Senior Security Software Engineer at Parity
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-software-engineer-parity)
 
 ---
 
-### 53. IT Engineer - Remote at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-engineer-livekit)
-
----
-
-### 54. Lead Site Reliability Engineer, Imunify Reliability Platform at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-site-reliability-engineer-imunify-reliability-platform-cloudlinux)
-
----
-
-### 55. Staff Software Engineer, SecureChain at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-securechain-cloudlinux)
-
----
-
-### 56. Blockchain Protocol Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/blockchain-protocol-security-engineer-matterlabs)
-
----
-
-### 57. Senior Java Developer for Enterprise Security Solutions at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-java-developer-for-enterprise-security-solutions-cloudlinux)
-
----
-
-### 58. Senior Information Security GRC Analyst at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-information-security-grc-analyst-camunda)
-
----
-
-### 59. Platform Security Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-security-engineer-supabase)
-
----
-
-### 60. Staff Security Engineer at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-security-engineer-livekit)
-
----
-
-
----
-
-**Total Jobs**: 60 positions available
+**Total Jobs**: 53 positions available
 
 ---
 
@@ -647,6 +581,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
