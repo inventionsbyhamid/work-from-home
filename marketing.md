@@ -334,82 +334,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 33. Demand Generation Manager at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/demand-generation-manager-livekit)
 
 ---
 
-### 34. Developer Relations Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/developer-relations-engineer-supabase)
-
----
-
-### 35. Social Content Creator for Remote-First Company at Pitch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-content-creator-for-remote-first-company-pitch)
-
----
-
-### 36. Lifecycle Marketing Manager - Remote at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lifecycle-marketing-manager-safetywing)
-
----
-
-### 37. Remote Social Media Lead for Global Creator Platform at Circle
-
-💰 **Salary**: $145,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-lead-for-global-creator-platform-circle)
-
----
-
-### 38. Startup Program Lead at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/startup-program-lead-livekit)
-
----
-
-### 39. Senior Developer Advocate for Social Media at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-developer-advocate-for-social-media-livekit)
-
----
-
-
----
-
-**Total Jobs**: 39 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -437,6 +365,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
