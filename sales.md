@@ -330,94 +330,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 31. Corporate Account Executive - Public Sector DACH at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-account-executive-public-sector-dach-camunda)
 
 ---
 
-### 32. Account Development Manager at Camunda
-
-💰 **Salary**: $135,200-$218,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-manager-camunda)
-
----
-
-### 33. Senior Sales Engineer at Camunda
-
-💰 **Salary**: $175,200-$326,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-sales-engineer-camunda)
-
----
-
-### 34. Pre-Sales Solutions Architect Leader at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/pre-sales-solutions-architect-leader-supabase)
-
----
-
-### 35. Account Executive I, Sales at Uscreen
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-i-sales-uscreen)
-
----
-
-### 36. Commercial Sales Executive at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/commercial-sales-executive-supabase)
-
----
-
-### 37. AWS Enterprise Segment Lead at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-enterprise-segment-lead-supabase)
-
----
-
-### 38. AWS Gaming Segment Lead at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-gaming-segment-lead-supabase)
-
----
-
-
----
-
-**Total Jobs**: 38 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -445,6 +361,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
