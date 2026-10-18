@@ -450,86 +450,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 44. Senior Product Manager, Orchestrator Platform at Chili Piper
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-orchestrator-platform-chili-piper)
 
 ---
 
-### 45. Senior Product Manager - AI Powered App Builder at Bolt.new
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-ai-powered-app-builder-bolt-new)
-
----
-
-### 46. Product Manager, Developer Workflow at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-developer-workflow-supabase)
-
----
-
-### 47. Senior Product Manager - Trading APIs at 0x
-
-💰 **Salary**: $150,000-$225,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-trading-apis-0x)
-
----
-
-### 48. Principal Product Manager, First Production Experience at Camunda
-
-💰 **Salary**: $198,500-$320,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-product-manager-first-production-experience-camunda)
-
----
-
-### 49. Senior Product Manager at Bolt.new at Bolt.new
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-at-bolt-new-bolt-new)
-
----
-
-### 50. Lead Product Operations - Insurance Platform at Counterpart
-
-💰 **Salary**: $170,000-$200,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-operations-insurance-platform-counterpart)
-
----
-
-
----
-
-**Total Jobs**: 50 positions available
+**Total Jobs**: 43 positions available
 
 ---
 
@@ -557,6 +481,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 17, 2026 at 00:00 UTC_
+_Last updated: October 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
