@@ -580,40 +580,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 57. Senior Site Reliability Engineer at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-alpaca)
 
 ---
 
-### 58. Senior Software Engineer, Quality Engineering at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-quality-engineering-alpaca)
-
----
-
-### 59. Senior Infrastructure Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-security-engineer-matterlabs)
-
----
-
-
----
-
-**Total Jobs**: 59 positions available
+**Total Jobs**: 56 positions available
 
 ---
 
@@ -641,6 +611,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
