@@ -522,62 +522,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 50. Senior Data Analyst, Trading Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-analyst-trading-asia-binance)
 
 ---
 
-### 51. Senior Evaluation Algorithm Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-evaluation-algorithm-engineer-binance)
-
----
-
-### 52. Senior Tech Lead, AI Code Platform at Sourcegraph
-
-💰 **Salary**: $144,000+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-tech-lead-ai-code-platform-sourcegraph)
-
----
-
-### 53. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-java-engineer-binance)
-
----
-
-### 54. Staff Machine Learning Engineer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-machine-learning-engineer-phantom)
-
----
-
-
----
-
-**Total Jobs**: 54 positions available
+**Total Jobs**: 49 positions available
 
 ---
 
@@ -605,6 +553,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
