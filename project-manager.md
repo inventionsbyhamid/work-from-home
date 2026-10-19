@@ -206,50 +206,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 20. Technical Project Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-project-manager-dandy)
 
 ---
 
-### 21. Director, Global Marketing Operations at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-global-marketing-operations-binance)
-
----
-
-### 22. Senior Project Manager - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-project-manager-remote-work-bairesdev)
-
----
-
-### 23. Market Data Lead Asia / Project Management at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-data-lead-asia-project-management-binance)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -277,6 +237,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
