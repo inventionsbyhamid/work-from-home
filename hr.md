@@ -78,60 +78,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Talent Acquisition Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-specialist-remote-binance)
 
 ---
 
-### 9. Senior Recruiter at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-recruiter-bairesdev)
-
----
-
-### 10. Recruiting Analyst at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/recruiting-analyst-bairesdev)
-
----
-
-### 11. Hunting Manager at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hunting-manager-bairesdev)
-
----
-
-### 12. Talent Acquisition Associate at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/talent-acquisition-associate-bairesdev)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -159,6 +109,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
