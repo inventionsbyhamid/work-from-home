@@ -330,86 +330,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 32. Senior Tech Lead, AI Code Platform at Sourcegraph
-
-💰 **Salary**: $144,000+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-tech-lead-ai-code-platform-sourcegraph)
 
 ---
 
-### 33. Staff Machine Learning Engineer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-machine-learning-engineer-phantom)
-
----
-
-### 34. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
----
-
-### 35. Engineering Director, Web Platform at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-remote-duckduckgo)
-
----
-
-### 36. Senior Project Manager - Remote Work at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-project-manager-remote-work-bairesdev)
-
----
-
-### 37. Engineering Director, Web Platform at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-duckduckgo)
-
----
-
-### 38. Market Data Lead Asia / Project Management at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-data-lead-asia-project-management-binance)
-
----
-
-
----
-
-**Total Jobs**: 38 positions available
+**Total Jobs**: 31 positions available
 
 ---
 
@@ -437,6 +361,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
