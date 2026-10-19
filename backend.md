@@ -952,116 +952,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 93. Senior Ruby on Rails Engineer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ruby-on-rails-engineer-coalition-technologies)
 
 ---
 
-### 94. Senior Software Engineer, Backend - Core/API & Process Automation at Camunda
-
-💰 **Salary**: $143,800-$231,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-backend-core-api-process-automation-camunda)
-
----
-
-### 95. Senior Site Reliability Engineer at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-alpaca)
-
----
-
-### 96. Node.js Runtime Protection Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/node-js-runtime-protection-engineer-cloudlinux)
-
----
-
-### 97. Senior Software Engineer - Workflow at Cloudbeds
-
-💰 **Salary**: $130,000-$175,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-workflow-cloudbeds)
-
----
-
-### 98. Data/ Java Engineer (AI/LLM Chatbot, Customer Service) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-java-engineer-binance)
-
----
-
-### 99. Senior Full Stack Engineer at Zircuit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-zircuit)
-
----
-
-### 100. Protocol Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/protocol-engineer-matterlabs)
-
----
-
-### 101. Backend Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-clerk)
-
----
-
-### 102. Engineering Director, Web Platform at DuckDuckGo
-
-💰 **Salary**: $243,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-director-web-platform-remote-duckduckgo)
-
----
-
-
----
-
-**Total Jobs**: 102 positions available
+**Total Jobs**: 92 positions available
 
 ---
 
@@ -1089,6 +983,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
