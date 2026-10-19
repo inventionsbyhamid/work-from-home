@@ -258,40 +258,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 25. Senior Data Analyst, Trading Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-analyst-trading-asia-binance)
 
 ---
 
-### 26. Sr. Insider Risk Analyst at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-insider-risk-analyst-alpaca)
-
----
-
-### 27. Senior Evaluation Algorithm Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-evaluation-algorithm-engineer-binance)
-
----
-
-
----
-
-**Total Jobs**: 27 positions available
+**Total Jobs**: 24 positions available
 
 ---
 
@@ -319,6 +289,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
