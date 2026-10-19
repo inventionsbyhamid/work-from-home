@@ -490,70 +490,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 48. Sr. Insider Risk Analyst at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-insider-risk-analyst-alpaca)
 
 ---
 
-### 49. Node.js Runtime Protection Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/node-js-runtime-protection-engineer-cloudlinux)
-
----
-
-### 50. Security Engineer at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-chess)
-
----
-
-### 51. Senior Infrastructure Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-security-engineer-matterlabs)
-
----
-
-### 52. Protocol Security Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/protocol-security-engineer-matterlabs)
-
----
-
-### 53. Protocol Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/protocol-engineer-matterlabs)
-
----
-
-
----
-
-**Total Jobs**: 53 positions available
+**Total Jobs**: 47 positions available
 
 ---
 
@@ -581,6 +521,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
