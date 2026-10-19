@@ -210,50 +210,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 21. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-identity-security-binance)
 
 ---
 
-### 22. Senior Product Engineer (Frontend) - Channels and Platform at Buffer
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-engineer-channels-and-platform-buffer)
-
----
-
-### 23. Desarrollador Senior React + TypeScript - Trabajo Remoto at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/desarrollador-senior-react-typescript-trabajo-remoto-bairesdev)
-
----
-
-### 24. Staff Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-clerk)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -281,6 +241,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
