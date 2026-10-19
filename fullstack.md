@@ -230,70 +230,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 22. Full Stack Engineer (Frontend Oriented), Identity & Security at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-identity-security-binance)
 
 ---
 
-### 23. Fullstack Engineer, Exchange at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-engineer-exchange-binance)
-
----
-
-### 24. Full Stack Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-remote-applaudo)
-
----
-
-### 25. Senior Full Stack Engineer at Zircuit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-zircuit)
-
----
-
-### 26. Backend Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-clerk)
-
----
-
-### 27. Staff Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-clerk)
-
----
-
-
----
-
-**Total Jobs**: 27 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -321,6 +261,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
