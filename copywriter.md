@@ -20,20 +20,10 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 2. Senior Full Stack Developer at 90 Seconds
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Copywriter
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-developer-90-seconds)
 
 ---
 
-
----
-
-**Total Jobs**: 2 positions available
+**Total Jobs**: 1 positions available
 
 ---
 
@@ -61,6 +51,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
