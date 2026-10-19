@@ -140,62 +140,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 14. Clinical Support Expert, Aligners at Dandy
-
-💰 **Salary**: $70,000-$80,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-expert-aligners-dandy)
 
 ---
 
-### 15. Senior Software Engineer, Quality Engineering at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-quality-engineering-alpaca)
-
----
-
-### 16. QA Automation/SDET + Java Technical Leader - Trabajo Remoto at BairesDev
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-sdet-java-technical-leader-trabajo-remoto-bairesdev)
-
----
-
-### 17. Senior Quality Engineer at Circle
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-quality-engineer-circle)
-
----
-
-### 18. Quality Assurance Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-assurance-engineer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -223,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 18, 2026 at 00:00 UTC_
+_Last updated: October 19, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
