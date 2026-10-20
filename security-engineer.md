@@ -436,64 +436,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 43. Backend Engineer, Security (Remote) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-security-binance)
 
 ---
 
-### 44. Senior Infrastructure Engineer at Buffer
-
-💰 **Salary**: $164,595-$212,744 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-engineer-buffer)
-
----
-
-### 45. Lead Security Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-binance)
-
----
-
-### 46. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-wide-risk-assessmentspecialist-binance)
-
----
-
-### 47. Senior/Staff Security Engineer - Corporate Security at Phantom
-
-💰 **Salary**: $225,000-$285,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-security-engineer-corporate-security-phantom)
-
----
-
-
----
-
-**Total Jobs**: 47 positions available
+**Total Jobs**: 42 positions available
 
 ---
 
@@ -521,6 +467,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:01 UTC_
+_Last updated: October 20, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
