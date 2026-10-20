@@ -110,40 +110,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 11. QA Engineer - Automation Backend Testing, Coding (Fully Remote) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-engineer-automation-backend-testing-coding-binance)
 
 ---
 
-### 12. Quality and Release Manager at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/quality-and-release-manager-remote-raya)
-
----
-
-### 13. Data Quality Assurance Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-quality-assurance-engineer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -171,6 +141,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:01 UTC_
+_Last updated: October 20, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
