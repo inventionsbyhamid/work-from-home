@@ -496,94 +496,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 49. Forward Deployed Engineer at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/forward-deployed-engineer-matterlabs)
 
 ---
 
-### 50. Senior Backend Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-remote-applaudo)
-
----
-
-### 51. Lead Infrastructure Engineer at Atticus
-
-💰 **Salary**: $170,000-$220,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-infrastructure-engineer-atticus)
-
----
-
-### 52. Senior Infrastructure Engineer at Buffer
-
-💰 **Salary**: $164,595-$212,744 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-engineer-buffer)
-
----
-
-### 53. Lead Security Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-binance)
-
----
-
-### 54. Engineer to own the automated pipelines at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineer-to-own-the-automated-pipelines-cloudlinux)
-
----
-
-### 55. Data Platform Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-platform-engineer-cloudlinux)
-
----
-
-### 56. Software Engineer - Infrastructure at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-infrastructure-camunda)
-
----
-
-
----
-
-**Total Jobs**: 56 positions available
+**Total Jobs**: 48 positions available
 
 ---
 
@@ -611,6 +527,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
