@@ -40,30 +40,10 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 4. Technical Writer at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-writer-camunda)
 
 ---
 
-### 5. Junior Developer Support Specialist - Contractor at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-developer-support-specialist-contractor-phantom)
-
----
-
-
----
-
-**Total Jobs**: 5 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -91,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:01 UTC_
+_Last updated: October 20, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
