@@ -200,50 +200,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 20. Senior Product Manager, Payments at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-payments-binance)
 
 ---
 
-### 21. Treasury Asset Management at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/treasury-asset-management-binance)
-
----
-
-### 22. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-wide-risk-assessmentspecialist-binance)
-
----
-
-### 23. Senior Operations Manager, Tradfi / Equities at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-operations-manager-tradfi-equities-binance)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -271,6 +231,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
