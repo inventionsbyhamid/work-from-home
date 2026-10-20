@@ -238,30 +238,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 23. Senior Data Engineer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-phantom)
 
 ---
 
-### 24. Data Quality Assurance Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-quality-assurance-engineer-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -289,6 +269,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
