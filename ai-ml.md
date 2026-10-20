@@ -512,20 +512,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 49. Senior Product Builder-Connectors Experience- EMEA at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-builder-connectors-experience-emea-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 49 positions available
+**Total Jobs**: 48 positions available
 
 ---
 
@@ -553,6 +543,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
