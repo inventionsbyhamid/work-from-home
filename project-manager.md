@@ -164,52 +164,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 16. Treasury Asset Management at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/treasury-asset-management-binance)
 
 ---
 
-### 17. PeopleSoft HCM Consultant at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/peoplesoft-hcm-consultant-applaudo)
-
----
-
-### 18. Senior Partner Manager at Automattic
-
-💰 **Salary**: $125,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-partner-manager-automattic)
-
----
-
-### 19. Senior Operations Manager, Tradfi / Equities at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-operations-manager-tradfi-equities-binance)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -237,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:01 UTC_
+_Last updated: October 20, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
