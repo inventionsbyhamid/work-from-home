@@ -18,36 +18,36 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 49 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 48 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 6 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 8 remote jobs available
-- 🏠 **[Backend](backend.md)** - 92 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 31 remote jobs available
+- 🏠 **[Backend](backend.md)** - 79 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 27 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
-- 🏠 **[Customer Success](customer-success.md)** - 12 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 16 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 24 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 56 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 31 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 14 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 22 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 48 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 29 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 2 remote jobs available
-- 🏠 **[Finance](finance.md)** - 23 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 20 remote jobs available
+- 🏠 **[Finance](finance.md)** - 19 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 18 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 21 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
-- 🏠 **[HR](hr.md)** - 7 remote jobs available
-- 🏠 **[Intern](intern.md)** - 11 remote jobs available
-- 🏠 **[Legal](legal.md)** - 15 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 24 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 18 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 41 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 19 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 13 remote jobs available
+- 🏠 **[HR](hr.md)** - 6 remote jobs available
+- 🏠 **[Intern](intern.md)** - 10 remote jobs available
+- 🏠 **[Legal](legal.md)** - 14 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 21 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 16 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 35 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 15 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 10 remote jobs available
 - 🏠 **[Research](research.md)** - 11 remote jobs available
-- 🏠 **[Sales](sales.md)** - 27 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 47 remote jobs available
+- 🏠 **[Sales](sales.md)** - 23 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 42 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 137 remote jobs available
-- 🏠 **[Technical Writer](technical-writer.md)** - 5 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 115 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 3 remote jobs available
 
 
 ---
@@ -294,6 +294,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
