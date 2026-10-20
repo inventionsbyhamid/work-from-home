@@ -190,30 +190,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 19. Senior iOS Developer - Member Experience at Raya at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-developer-member-experience-at-raya-raya)
 
 ---
 
-### 20. Senior Software Engineer, Frontend (Money Movement) at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-frontend-phantom)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -241,6 +221,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
