@@ -148,30 +148,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 15. Junior Trust & Safety Moderator - Contractor at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-trust-safety-moderator-contractor-phantom)
 
 ---
 
-### 16. Junior Developer Support Specialist - Contractor at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-developer-support-specialist-contractor-phantom)
-
----
-
-
----
-
-**Total Jobs**: 16 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -199,6 +179,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
