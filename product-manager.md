@@ -368,70 +368,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 36. Senior Product Manager, Payments at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-payments-binance)
 
 ---
 
-### 37. Product Manager - Community Strategy Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-community-strategy-asia-binance)
-
----
-
-### 38. Senior Product Manager, Growth at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-growth-gitlab)
-
----
-
-### 39. Product Manager, Learn Chess with Dr. Wolf at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-learn-chess-with-dr-wolf-chess)
-
----
-
-### 40. Product Growth Strategist at Fueled
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-growth-strategist-fueled)
-
----
-
-### 41. Senior Product Builder-Connectors Experience- EMEA at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-builder-connectors-experience-emea-camunda)
-
----
-
-
----
-
-**Total Jobs**: 41 positions available
+**Total Jobs**: 35 positions available
 
 ---
 
@@ -459,6 +399,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:01 UTC_
+_Last updated: October 20, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
