@@ -286,56 +286,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 28. Business Development Manager at Dandy
-
-💰 **Salary**: $160,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-manager-remote-dandy)
 
 ---
 
-### 29. Senior Partner Manager at Automattic
-
-💰 **Salary**: $125,000-$180,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-partner-manager-automattic)
-
----
-
-### 30. Senior account Executive at Toggl
-
-💰 **Salary**: $80,000+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-account-executive-toggl)
-
----
-
-### 31. Manager, Enterprise Growth at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-enterprise-growth-dandy)
-
----
-
-
----
-
-**Total Jobs**: 31 positions available
+**Total Jobs**: 27 positions available
 
 ---
 
@@ -363,6 +317,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 19, 2026 at 00:00 UTC_
+_Last updated: October 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
