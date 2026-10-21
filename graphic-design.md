@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ## Available Positions (Last 30 Days)
 
-### 1. 2D Game Artist at Chess.com
+### 1. Part-time 2D Designer for VRChat Platform at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/part-time-2d-designer-for-vrchat-platform-vrchat)
+
+---
+
+### 2. 2D Game Artist at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 2. 2D Game Artist at Chess
+### 3. 2D Game Artist at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 3. Ads Implementation Specialist - Social/Google at Binance
+### 4. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +51,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -69,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:01 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
