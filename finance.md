@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Revenue Accounting Manager at LiveKit
+### 1. Brokerage Operations Quality Specialist at Empower
+
+💰 **Salary**: $59,700-$84,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brokerage-operations-quality-specialist-empower)
+
+---
+
+### 2. Investments Director at Empower
+
+💰 **Salary**: $125,400-$181,875 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/investments-director-empower)
+
+---
+
+### 3. Revenue Accounting Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +42,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Financial Controller at Xapo Bank
+### 4. Financial Controller at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +52,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Junior Crypto Analyst and Trader at Empire Assets
+### 5. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +62,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Internal Audit - Investigations Specialist at Binance
+### 6. Internal Audit - Investigations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +72,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Project Research & Due Diligence Asia at Binance
+### 7. Project Research & Due Diligence Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +82,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Financial Risk Manager at Alpaca
+### 8. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +92,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Operations Specialist at Binance
+### 9. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +102,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Solution Architect at Applaudo
+### 10. Solution Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +112,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Director of Corporate Development at CloudLinux
+### 11. Director of Corporate Development at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +122,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Sr Analyst Technical Internal Control at Empower
+### 12. Sr Analyst Technical Internal Control at Empower
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +132,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 13. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +142,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Senior Accountant, Financial Operations at Solana
+### 14. Senior Accountant, Financial Operations at Solana
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +152,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Finance Manager (Controllership Focus) at Binance
+### 15. Finance Manager (Controllership Focus) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +162,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 16. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +172,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Compliance EDD/High Risk Client Analyst at Binance
+### 17. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +182,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Head of Risk, NTL at Binance
+### 18. Head of Risk, NTL at Binance
 
 🌍 **Location**: Worldwide
 
@@ -168,35 +192,13 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. Compliance Officer at Binance
+### 19. Compliance Officer at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-officer-binance)
-
----
-
-### 18. Senior Product Manager - TradFi Wealth at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-tradfi-wealth-binance)
-
----
-
-### 19. Operations Finance Manager at Dandy
-
-💰 **Salary**: $170,000-$212,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-finance-manager-dandy)
 
 ---
 
@@ -231,6 +233,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
