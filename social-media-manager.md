@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 1. Social Media and Content Intern at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-and-content-intern-binance)
+
+---
+
+### 2. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Creator Manager at Winona
+### 3. Creator Manager at Winona
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Organic Social Media Manager at Winona
+### 4. Organic Social Media Manager at Winona
 
 🌍 **Location**: Worldwide
 
@@ -38,23 +48,13 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Ads Implementation Specialist - Social/Google at Binance
+### 5. Ads Implementation Specialist - Social/Google at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Social Media Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ads-implementation-specialist-social-google-binance)
-
----
-
-### 5. Global Community Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-community-manager-binance)
 
 ---
 
@@ -89,6 +89,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:01 UTC_
+_Last updated: October 21, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
