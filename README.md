@@ -18,35 +18,35 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 48 remote jobs available
-- 🏠 **[Admin](admin-role.md)** - 6 remote jobs available
-- 🏠 **[Android Developer](android-developer.md)** - 8 remote jobs available
-- 🏠 **[Backend](backend.md)** - 79 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 27 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 42 remote jobs available
+- 🏠 **[Admin](admin-role.md)** - 8 remote jobs available
+- 🏠 **[Android Developer](android-developer.md)** - 7 remote jobs available
+- 🏠 **[Backend](backend.md)** - 75 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 29 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 1 remote job available
 - 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 14 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 22 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 15 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 20 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 48 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 29 remote jobs available
-- 🏠 **[Executive Assistant](executive-assistant.md)** - 2 remote jobs available
+- 🏠 **[Executive Assistant](executive-assistant.md)** - 3 remote jobs available
 - 🏠 **[Finance](finance.md)** - 19 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 18 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 21 remote jobs available
-- 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 20 remote jobs available
+- 🏠 **[Graphic Design](graphic-design.md)** - 4 remote jobs available
 - 🏠 **[HR](hr.md)** - 6 remote jobs available
 - 🏠 **[Intern](intern.md)** - 10 remote jobs available
 - 🏠 **[Legal](legal.md)** - 14 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 21 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 16 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 35 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 15 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 23 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 15 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 31 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 14 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 10 remote jobs available
-- 🏠 **[Research](research.md)** - 11 remote jobs available
-- 🏠 **[Sales](sales.md)** - 23 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 42 remote jobs available
+- 🏠 **[Research](research.md)** - 10 remote jobs available
+- 🏠 **[Sales](sales.md)** - 24 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 36 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 5 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 115 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 105 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 3 remote jobs available
 
 
@@ -56,7 +56,203 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Director of Data Science at DuckDuckGo
+### 1. Brokerage Operations Quality Specialist at Empower
+
+💰 **Salary**: $59,700-$84,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brokerage-operations-quality-specialist-empower)
+
+---
+
+### 2. Senior Backend Engineer at DuckDuckGo
+
+💰 **Salary**: $157,350-$190,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-duckduckgo)
+
+---
+
+### 3. GFCO Program Manager at Coinbase
+
+💰 **Salary**: $166,345-$225,055 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/gfco-program-manager-coinbase)
+
+---
+
+### 4. Social Media and Content Intern at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-and-content-intern-binance)
+
+---
+
+### 5. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/affiliate-bd-greater-china-hong-kong-taiwan-binance)
+
+---
+
+### 6. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/regulatory-legal-counsel-us-monitorships-singapore-united-arab-emirates-united-kingdom-united-states-binance)
+
+---
+
+### 7. Global Affiliate Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-affiliate-manager-remote-binance)
+
+---
+
+### 8. Senior Software Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-safetywing)
+
+---
+
+### 9. Senior Software Engineer, Core Reliability at Coinbase
+
+💰 **Salary**: $186,065-$197,010 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-core-reliability-coinbase)
+
+---
+
+### 10. IT Support Specialist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-support-specialist-applaudo)
+
+---
+
+### 11. Product Manager II, Workspace and Multi-User Remote at Coinbase
+
+💰 **Salary**: $180,370-$212,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ii-workspace-and-multi-user-remote-coinbase)
+
+---
+
+### 12. Investments Director at Empower
+
+💰 **Salary**: $125,400-$181,875 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/investments-director-empower)
+
+---
+
+### 13. Advanced Support Payments at Cloudbeds
+
+💰 **Salary**: $70,000-$89,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/advanced-support-payments-cloudbeds)
+
+---
+
+### 14. Staff Security Engineer for Imunify360 at CloudLinux at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-security-engineer-for-imunify360-at-cloudlinux-cloudlinux)
+
+---
+
+### 15. Staff Engineer, Imunify360 Security Suite at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-imunify360-security-suite-cloudlinux)
+
+---
+
+### 16. Claims Manager at Counterpart at Counterpart
+
+💰 **Salary**: $120,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/claims-manager-at-counterpart-counterpart)
+
+---
+
+### 17. Part-time 2D Designer for VRChat Platform at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/part-time-2d-designer-for-vrchat-platform-vrchat)
+
+---
+
+### 18. Platform Business Partner at SafetyWing at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-business-partner-at-safetywing-safetywing)
+
+---
+
+### 19. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -68,7 +264,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior Software Engineer, API Products at 0x
+### 20. Senior Software Engineer, API Products at 0x
 
 💰 **Salary**: $150,000-$230,000 USD
 
@@ -77,194 +273,6 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-api-products-0x)
-
----
-
-### 3. Distributed Systems Evaluation Engineer at Institute of Free Technology
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/distributed-systems-evaluation-engineer-institute-of-free-technology)
-
----
-
-### 4. Python SDK Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-sdk-engineer-supabase)
-
----
-
-### 5. Senior Application Security Manager at Fingerprint
-
-💰 **Salary**: $177,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-security-manager-fingerprint)
-
----
-
-### 6. Staff Application Security Engineer at Fingerprint
-
-💰 **Salary**: $177,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-application-security-engineer-fingerprint)
-
----
-
-### 7. Site Reliability Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineer-supabase)
-
----
-
-### 8. Senior Product Manager, Gameplay at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-gameplay-chess)
-
----
-
-### 9. Revenue Accounting Manager at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-accounting-manager-livekit)
-
----
-
-### 10. Full Stack Engineer (Angular/Python) at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-worldwide-cloudlinux)
-
----
-
-### 11. Financial Controller at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-controller-xapo-bank)
-
----
-
-### 12. Senior C++ Chromium Software Engineer at DuckDuckGo
-
-💰 **Salary**: $178,500+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-c-chromium-software-engineer-duckduckgo)
-
----
-
-### 13. Revenue Operations Administrator at Kinsta
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-administrator-kinsta)
-
----
-
-### 14. Sales Development Representative at Chili Piper
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-development-representative-chili-piper)
-
----
-
-### 15. Security Engineer, Product and Source Code Research at Metabase
-
-💰 **Salary**: $160,000-$225,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-product-and-source-code-research-metabase)
-
----
-
-### 16. FinOps Data Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-data-engineer-supabase)
-
----
-
-### 17. Platform Engineer, Compute at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-compute-supabase)
-
----
-
-### 18. Strategic Project Manager, Operations at Lido
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/strategic-project-manager-operations-lido)
-
----
-
-### 19. Backend Engineer (Java) - Trading at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-trading-remote-binance)
-
----
-
-### 20. Account Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-manager-dandy)
 
 ---
 
@@ -294,6 +302,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
