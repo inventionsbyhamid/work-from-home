@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
+### 1. Social Media and Content Intern at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Intern
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-and-content-intern-binance)
+
+---
+
+### 2. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 2. Junior Crypto Analyst and Trader at Empire Assets
+### 3. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 3. Binance Accelerator Program - Creative Operations Intern at Binance
+### 4. Binance Accelerator Program - Creative Operations Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 4. Binance Accelerator Program - Backend Engineer (Web3) at Binance
+### 5. Binance Accelerator Program - Backend Engineer (Web3) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 5. C Developer Intern at CloudLinux
+### 6. C Developer Intern at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 6. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 7. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 7. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+### 8. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 8. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
+### 9. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,23 +98,13 @@ Latest **100% remote** job opportunities in **Intern** from the past 30 days. Al
 
 ---
 
-### 9. Binance Accelerator Program - Brand KOL Asia at Binance
+### 10. Binance Accelerator Program - Brand KOL Asia at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Intern
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-brand-kol-asia-binance)
-
----
-
-### 10. Product Manager AI Agent & Harness at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Intern
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ai-agent-harness-binance)
 
 ---
 
@@ -139,6 +139,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:01 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
