@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Communications and Partnerships Assistant at Winona
+### 1. Brokerage Operations Quality Specialist at Empower
+
+💰 **Salary**: $59,700-$84,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brokerage-operations-quality-specialist-empower)
+
+---
+
+### 2. IT Support Specialist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-support-specialist-applaudo)
+
+---
+
+### 3. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Executive Assistant and Corporate Administrator at Canonical
+### 4. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. Operations Specialist at Binance
+### 5. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Trading Operations Associate - West Coast Remote at Alpaca
+### 6. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. People Benefits & Compliance Associate at Applaudo
+### 7. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. People Operations Manager at SafetyWing
+### 8. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -71,7 +93,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -99,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
