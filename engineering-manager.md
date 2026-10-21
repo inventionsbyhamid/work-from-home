@@ -8,7 +8,31 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Data Science at DuckDuckGo
+### 1. GFCO Program Manager at Coinbase
+
+💰 **Salary**: $166,345-$225,055 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/gfco-program-manager-coinbase)
+
+---
+
+### 2. Product Manager II, Workspace and Multi-User Remote at Coinbase
+
+💰 **Salary**: $180,370-$212,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ii-workspace-and-multi-user-remote-coinbase)
+
+---
+
+### 3. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -20,7 +44,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Senior Application Security Manager at Fingerprint
+### 4. Senior Application Security Manager at Fingerprint
 
 💰 **Salary**: $177,000-$240,000 USD
 
@@ -32,7 +56,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Director, Customer Experience, Trading API at Alpaca
+### 5. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +66,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Manager, Engineering - Identity at Camunda
+### 6. Manager, Engineering - Identity at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -54,7 +78,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Head of AI Operations at Supabase
+### 7. Head of AI Operations at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +88,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Senior Manager, Technical Program Management at GitLab
+### 8. Senior Manager, Technical Program Management at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +98,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Director of Professional Services, WordPress VIP at Automattic
+### 9. Director of Professional Services, WordPress VIP at Automattic
 
 💰 **Salary**: $130,000-$190,000 USD
 
@@ -86,7 +110,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Engineering Manager - Distributed Systems, Python / Go at Canonical
+### 10. Engineering Manager - Distributed Systems, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +120,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Security Engineer Manager at Binance
+### 11. Security Engineer Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +130,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Product Owner at CloudLinux
+### 12. Product Owner at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +140,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Engineering Manager, QA at Binance
+### 13. Engineering Manager, QA at Binance
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +150,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Development Lead Asia / Backend at Binance
+### 14. Development Lead Asia / Backend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +160,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Rust Engineering Lead - Linux and Open Source at Canonical
+### 15. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +170,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Head of IT and Information Security at OpenZeppelin
+### 16. Head of IT and Information Security at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +180,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Product Owner, Email Security at CloudLinux
+### 17. Product Owner, Email Security at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +190,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Director, Presales - North America at Camunda
+### 18. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -178,7 +202,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. OpenStack Engineering Manager at Canonical
+### 19. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +212,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Server Engineering Manager, Member Experience at Raya
+### 20. Server Engineering Manager, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +222,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 19. Engineering Manager, App Stores at Canonical
+### 21. Engineering Manager, App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +232,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 20. Director, Solutions and Product Marketing at Camunda
+### 22. Director, Solutions and Product Marketing at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +242,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 21. Engineering Manager - Security Standards and Hardening at Canonical
+### 23. Engineering Manager - Security Standards and Hardening at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +252,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 22. Senior Engineering Manager, Client at Raya
+### 24. Senior Engineering Manager, Client at Raya
 
 🌍 **Location**: Worldwide
 
@@ -238,7 +262,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 23. Engineering Manager, Language Security Research at CloudLinux
+### 25. Engineering Manager, Language Security Research at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -248,7 +272,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 24. Ubuntu Engineering Manager at Canonical
+### 26. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -258,7 +282,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 25. Principal Architect at Applaudo
+### 27. Principal Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -268,7 +292,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 26. Engineering Manager for IAM (Identity and Access Management) at Canonical
+### 28. Engineering Manager for IAM (Identity and Access Management) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -278,33 +302,13 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 27. Head of Operations at Coalition Technologies
+### 29. Head of Operations at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-operations-coalition-technologies)
-
----
-
-### 28. Senior Analytics Manager at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-analytics-manager-raya)
-
----
-
-### 29. Engineering Manager - Nonlinear Productivity (Friction Elimination & Solutions) at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-nonlinear-productivity-gitlab)
 
 ---
 
@@ -339,6 +343,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
