@@ -8,7 +8,51 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ## Available Positions (Last 30 Days)
 
-### 1. Python SDK Engineer at Supabase
+### 1. Senior Backend Engineer at DuckDuckGo
+
+💰 **Salary**: $157,350-$190,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-duckduckgo)
+
+---
+
+### 2. Senior Software Engineer at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-safetywing)
+
+---
+
+### 3. Senior Software Engineer, Core Reliability at Coinbase
+
+💰 **Salary**: $186,065-$197,010 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-core-reliability-coinbase)
+
+---
+
+### 4. Staff Engineer, Imunify360 Security Suite at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-imunify360-security-suite-cloudlinux)
+
+---
+
+### 5. Python SDK Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +62,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 2. Senior C++ Chromium Software Engineer at DuckDuckGo
+### 6. Senior C++ Chromium Software Engineer at DuckDuckGo
 
 💰 **Salary**: $178,500+ USD
 
@@ -30,7 +74,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 3. Platform Engineer, Compute at Supabase
+### 7. Platform Engineer, Compute at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +84,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 4. Senior Backend Engineer (Java / Go) at Binance
+### 8. Senior Backend Engineer (Java / Go) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +94,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 5. Manager, Engineering - Identity at Camunda
+### 9. Manager, Engineering - Identity at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -62,7 +106,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 6. Backend Architect, Binance Pay & Card at Binance
+### 10. Backend Architect, Binance Pay & Card at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +116,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 7. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 11. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +126,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 8. Data Engineer at Applaudo
+### 12. Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +136,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 9. Engineering Manager - Distributed Systems, Python / Go at Canonical
+### 13. Engineering Manager - Distributed Systems, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +146,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 10. Staff Software Engineer at B12
+### 14. Staff Software Engineer at B12
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +156,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 11. Senior Web Compatibility Engineer at DuckDuckGo
+### 15. Senior Web Compatibility Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +166,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 12. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
+### 16. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +176,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 13. Senior Software Engineer - Payments & Treasury at Alpaca
+### 17. Senior Software Engineer - Payments & Treasury at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +186,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 14. Golang Developer at Binance
+### 18. Golang Developer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +196,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 15. Senior Experience Engineer at Parity
+### 19. Senior Experience Engineer at Parity
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +206,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 16. Senior Software Engineer, Quality at Camunda
+### 20. Senior Software Engineer, Quality at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -174,7 +218,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 17. Java Engineer Asia / Backend at Binance
+### 21. Java Engineer Asia / Backend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +228,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 18. Backend Engineer, Spot at Binance
+### 22. Backend Engineer, Spot at Binance
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +238,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 19. Rust Engineering Lead - Linux and Open Source at Canonical
+### 23. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +248,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 20. Principal Solana Security Engineer at OpenZeppelin
+### 24. Principal Solana Security Engineer at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -214,7 +258,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 21. Senior Backend Software Engineer at Ava Labs
+### 25. Senior Backend Software Engineer at Ava Labs
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +268,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 22. Senior Architect at Empower
+### 26. Senior Architect at Empower
 
 💰 **Salary**: $138,000-$200,100 USD
 
@@ -236,7 +280,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 23. Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels) at Canonical
+### 27. Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -246,7 +290,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 24. Software Maintenance Engineer at Canonical
+### 28. Software Maintenance Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -256,7 +300,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 25. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 29. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -266,7 +310,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 26. Senior Data Engineer at Camunda
+### 30. Senior Data Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -276,7 +320,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 27. Staff Site Reliability Engineer, Environment Automation at GitLab
+### 31. Staff Site Reliability Engineer, Environment Automation at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -286,7 +330,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 28. Python Software Engineer, ELS Delivery Pipeline at CloudLinux
+### 32. Python Software Engineer, ELS Delivery Pipeline at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -296,7 +340,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 29. Japanese Speaking Database Support Engineer at Supabase
+### 33. Japanese Speaking Database Support Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +350,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 30. OrioleDB Deployment Engineer at Supabase
+### 34. OrioleDB Deployment Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -316,7 +360,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 31. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
+### 35. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -328,7 +372,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 32. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
+### 36. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -338,7 +382,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 33. Senior Flutter Engineer (iOS, Android) at Binance
+### 37. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -348,7 +392,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 34. Senior Backend Engineer, Ruby on Rails at Coalition Technologies
+### 38. Senior Backend Engineer, Ruby on Rails at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -358,7 +402,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 35. OpenStack Engineering Manager at Canonical
+### 39. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -368,7 +412,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 36. Server Engineering Manager, Member Experience at Raya
+### 40. Server Engineering Manager, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -378,7 +422,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 37. Senior iOS Engineer, Member Experience at Raya
+### 41. Senior iOS Engineer, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -388,7 +432,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 38. Senior Site Reliability Engineer (SRE) at Binance
+### 42. Senior Site Reliability Engineer (SRE) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -398,7 +442,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 39. Senior Frontend Engineer - Stablecoin Asia at Binance
+### 43. Senior Frontend Engineer - Stablecoin Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -408,7 +452,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 40. Senior Full-Stack Software Engineer, CMS at Circle
+### 44. Senior Full-Stack Software Engineer, CMS at Circle
 
 🌍 **Location**: Worldwide
 
@@ -418,7 +462,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 41. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
+### 45. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -428,7 +472,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 42. AI Engineer at GitLab
+### 46. AI Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -438,7 +482,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 43. Content Governance Engineer (Java / Go) at Binance
+### 47. Content Governance Engineer (Java / Go) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -448,7 +492,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 44. Senior Financial AI Engineer (Data & Knowledge Engineering) at Binance
+### 48. Senior Financial AI Engineer (Data & Knowledge Engineering) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -458,7 +502,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 45. Senior Backend Engineer at Binance
+### 49. Senior Backend Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -468,7 +512,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 46. Senior Front End Engineer at Binance
+### 50. Senior Front End Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -478,7 +522,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 47. Senior Kubernetes Software Engineer at Camunda
+### 51. Senior Kubernetes Software Engineer at Camunda
 
 💰 **Salary**: $149,800-$241,500 USD
 
@@ -490,7 +534,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 48. Senior Engineer - Trust and Safety at VRChat
+### 52. Senior Engineer - Trust and Safety at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -500,7 +544,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 49. SDET at Phantom
+### 53. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -510,7 +554,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 50. Junior Ubuntu Software Engineer at Canonical
+### 54. Junior Ubuntu Software Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -520,7 +564,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 51. Senior / Staff Backend Engineer (API) - Economy at VRChat
+### 55. Senior / Staff Backend Engineer (API) - Economy at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -530,7 +574,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 52. Software Engineer - Industrial IoT at Canonical
+### 56. Software Engineer - Industrial IoT at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -540,7 +584,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 53. Senior Engineering Manager, Client at Raya
+### 57. Senior Engineering Manager, Client at Raya
 
 🌍 **Location**: Worldwide
 
@@ -550,7 +594,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 54. Cloud Field Engineer at Canonical
+### 58. Cloud Field Engineer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -560,7 +604,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 55. Engineering Manager, Language Security Research at CloudLinux
+### 59. Engineering Manager, Language Security Research at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -570,7 +614,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 56. Flutter Engineer (iOS) at Binance
+### 60. Flutter Engineer (iOS) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -580,7 +624,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 57. Senior Data Engineer at Applaudo
+### 61. Senior Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -590,7 +634,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 58. Senior Application Security Architect at Binance
+### 62. Senior Application Security Architect at Binance
 
 🌍 **Location**: Worldwide
 
@@ -600,7 +644,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 59. Binance Accelerator Program - Full Stack Engineer at Binance
+### 63. Binance Accelerator Program - Full Stack Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -610,7 +654,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 60. DevSecOps Engineer at Raya
+### 64. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -620,7 +664,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 61. Intermediate Support Engineer at GitLab
+### 65. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -630,7 +674,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 62. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
+### 66. Pioneer Talent Program - Full Stack Engineer (Back-end Oriented) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -640,7 +684,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 63. Software Engineer, Back end at Binance
+### 67. Software Engineer, Back end at Binance
 
 🌍 **Location**: Worldwide
 
@@ -650,7 +694,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 64. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+### 68. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -660,7 +704,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 65. Binance Accelerator Program - DevSecOps Engineer at Binance
+### 69. Binance Accelerator Program - DevSecOps Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -670,7 +714,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 66. Senior Ruby on Rails Developer at Bolt.new
+### 70. Senior Ruby on Rails Developer at Bolt.new
 
 🌍 **Location**: Worldwide
 
@@ -680,7 +724,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 67. Mobile Automation Engineer at Applaudo
+### 71. Mobile Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -690,7 +734,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 68. Backend Engineer at Coalition Technologies
+### 72. Backend Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -700,7 +744,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 69. Senior Site Reliability Engineer at Camunda
+### 73. Senior Site Reliability Engineer at Camunda
 
 💰 **Salary**: $149,800-$241,500 USD
 
@@ -712,7 +756,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 70. DevSecOps Engineer at Raya
+### 74. DevSecOps Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -722,7 +766,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 71. AI Developer at Crossover
+### 75. AI Developer at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -732,7 +776,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 72. Staff Backend Engineer, Recommender Systems at Raya
+### 76. Staff Backend Engineer, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -742,7 +786,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 73. Ubuntu Engineering Manager at Canonical
+### 77. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -752,7 +796,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 74. Staff Engineer - Recommendations at VRChat
+### 78. Staff Engineer - Recommendations at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -762,7 +806,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 75. Software Engineer, Frontend / Full Stack (Trading) at Phantom
+### 79. Software Engineer, Frontend / Full Stack (Trading) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -774,7 +818,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 76. Senior Full Stack Engineer at Fueled
+### 80. Senior Full Stack Engineer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -784,7 +828,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 77. Senior Backend Engineer at Binance
+### 81. Senior Backend Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -794,7 +838,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 78. Senior Backend Engineer, Core Discovery at Raya
+### 82. Senior Backend Engineer, Core Discovery at Raya
 
 🌍 **Location**: Worldwide
 
@@ -804,7 +848,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 79. Enterprise Data Architect at Applaudo
+### 83. Enterprise Data Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -814,7 +858,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 80. Backend Engineer - Futures at Binance
+### 84. Backend Engineer - Futures at Binance
 
 🌍 **Location**: Worldwide
 
@@ -824,7 +868,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 81. Principal Architect at Applaudo
+### 85. Principal Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -834,7 +878,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 82. Senior Backend Engineer (Python/Django) at Coalition Technologies
+### 86. Senior Backend Engineer (Python/Django) at Coalition Technologies
 
 💰 **Salary**: $140,000-$170,000 USD
 
@@ -846,7 +890,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 83. iOS Engineer (TradFi), AI Asia at Binance
+### 87. iOS Engineer (TradFi), AI Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -856,7 +900,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 84. Software Engineer - Advisory Suite Remote at Alpaca
+### 88. Software Engineer - Advisory Suite Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -866,7 +910,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 85. Fullstack Engineer at Atticus
+### 89. Fullstack Engineer at Atticus
 
 💰 **Salary**: $157,250-$230,000 USD
 
@@ -878,7 +922,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 86. Full Stack Engineer - KYC Tech (fully remote!) at Binance
+### 90. Full Stack Engineer - KYC Tech (fully remote!) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -888,7 +932,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 87. Intermediate Backend Engineer - Database Change Management at GitLab
+### 91. Intermediate Backend Engineer - Database Change Management at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -898,7 +942,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 88. Senior Full-Stack Software Engineer, Discover at Circle
+### 92. Senior Full-Stack Software Engineer, Discover at Circle
 
 🌍 **Location**: Worldwide
 
@@ -908,7 +952,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 89. QA Automation Engineer at Applaudo
+### 93. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -918,7 +962,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 90. iOS Developer at Applaudo
+### 94. iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -928,7 +972,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 91. Senior Backend Engineer at Binance
+### 95. Senior Backend Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -938,7 +982,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 92. Senior Software Engineer, Frontend at Binance
+### 96. Senior Software Engineer, Frontend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -948,7 +992,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 93. Binance Accelerator Program - AI Supportability Engineer at Binance
+### 97. Binance Accelerator Program - AI Supportability Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -958,7 +1002,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 94. Kernel Developers at CloudLinux
+### 98. Kernel Developers at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -968,7 +1012,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 95. Platform Engineer, PaaS at CloudLinux
+### 99. Platform Engineer, PaaS at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -978,7 +1022,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 96. Senior Software Engineer, Core Trading Systems at Binance
+### 100. Senior Software Engineer, Core Trading Systems at Binance
 
 🌍 **Location**: Worldwide
 
@@ -988,7 +1032,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 97. Web Developer at Canonical
+### 101. Web Developer at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -998,7 +1042,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 98. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
+### 102. Ubuntu Linux Kernel Engineer - BIOS/Firmware at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -1008,7 +1052,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 99. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
+### 103. Embedded & Desktop Linux Systems Engineer - Optimisation at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -1018,7 +1062,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 100. Java Architect- Compliance at Binance
+### 104. Java Architect- Compliance at Binance
 
 🌍 **Location**: Worldwide
 
@@ -1028,7 +1072,7 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 101. Senior Java Developer - Web3 Earn at Binance
+### 105. Senior Java Developer - Web3 Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -1038,150 +1082,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 102. Kernel Developer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/kernel-developer-worldwide-cloudlinux)
 
 ---
 
-### 103. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ai-engineering-ai-coding-gitlab)
-
----
-
-### 104. Senior Android Engineer, Futures Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-android-engineer-futures-asia-binance)
-
----
-
-### 105. Junior Software Engineer（AI&LLM） at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-software-engineer-ai-llm-binance)
-
----
-
-### 106. Senior Site Reliability Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-site-reliability-engineer-cloudlinux)
-
----
-
-### 107. Backend Developer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-developer-coalition-technologies)
-
----
-
-### 108. Senior Large Language Model Algorithm Engineer/Expert at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-large-language-model-algorithm-engineer-expert-binance)
-
----
-
-### 109. Staff Software Engineer, Machine Learning Platform at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-machine-learning-platform-airbnb)
-
----
-
-### 110. Senior Database Reliability Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-database-reliability-engineer-cloudlinux)
-
----
-
-### 111. Java Architect- Compliance at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-architect-compliance-binance)
-
----
-
-### 112. Software Engineer - Blockchain Security at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-blockchain-security-binance)
-
----
-
-### 113. Binance Accelerator Program - Java Engineer (Web3 Wallet) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-java-engineer-binance)
-
----
-
-### 114. Security Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-remote-binance)
-
----
-
-### 115. Senior Full-Stack Engineer, Internal Tools at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-internal-tools-raya)
-
----
-
-
----
-
-**Total Jobs**: 115 positions available
+**Total Jobs**: 105 positions available
 
 ---
 
@@ -1209,6 +1113,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:01 UTC_
+_Last updated: October 21, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
