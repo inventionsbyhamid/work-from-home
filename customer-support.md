@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director, Customer Experience, Trading API at Alpaca
+### 1. IT Support Specialist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-support-specialist-applaudo)
+
+---
+
+### 2. Advanced Support Payments at Cloudbeds
+
+💰 **Salary**: $70,000-$89,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/advanced-support-payments-cloudbeds)
+
+---
+
+### 3. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 4. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Operations Specialist at Binance
+### 5. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Launch Trainer at Dandy
+### 6. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Player Support Representative (Chinese/English) at Yodo1
+### 7. Player Support Representative (Chinese/English) at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Senior Support Engineer at Clutch
+### 8. Senior Support Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Care Navigator, US Health Insurance at SafetyWing
+### 9. Care Navigator, US Health Insurance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +100,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Japanese Speaking Database Support Engineer at Supabase
+### 10. Japanese Speaking Database Support Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +110,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Enterprise Customer Success Manager (French speaker) at Canonical
+### 11. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +120,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Trading Operations Associate - West Coast Remote at Alpaca
+### 12. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +130,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Intermediate Support Engineer at GitLab
+### 13. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +140,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Tamil Translator at Chess
+### 14. Tamil Translator at Chess
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +150,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Graduate Customer Success Manager at Canonical
+### 15. Graduate Customer Success Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -138,20 +160,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 14. Dispute Analyst - P2P at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dispute-analyst-p2p-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -179,6 +191,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
