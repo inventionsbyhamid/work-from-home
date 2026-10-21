@@ -452,70 +452,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 43. Senior Backend Engineer (Ruby), AI Engineering: AI Coding at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-ai-engineering-ai-coding-gitlab)
 
 ---
 
-### 44. Junior Software Engineer（AI&LLM） at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-software-engineer-ai-llm-binance)
-
----
-
-### 45. Product Manager AI Agent & Harness at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ai-agent-harness-binance)
-
----
-
-### 46. Senior Large Language Model Algorithm Engineer/Expert at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-large-language-model-algorithm-engineer-expert-binance)
-
----
-
-### 47. Staff Software Engineer, Machine Learning Platform at Airbnb
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-machine-learning-platform-airbnb)
-
----
-
-### 48. Senior Product Manager - Experience Optimization Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-experience-optimization-asia-binance)
-
----
-
-
----
-
-**Total Jobs**: 48 positions available
+**Total Jobs**: 42 positions available
 
 ---
 
@@ -543,6 +483,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 20, 2026 at 00:00 UTC_
+_Last updated: October 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
