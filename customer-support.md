@@ -8,7 +8,61 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. IT Support Specialist at Applaudo
+### 1. Clinical Support Team Lead (CSL) at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-team-lead-dandy)
+
+---
+
+### 2. Paralegal at Atticus
+
+💰 **Salary**: $75,000-$90,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
+
+---
+
+### 3. Customer Service Representative ( Spanish / English) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-service-representative-binance)
+
+---
+
+### 4. Community Support Specialist for Raya at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-specialist-for-raya-raya)
+
+---
+
+### 5. Customer Experience Dental Lab Technician - Removables at Dandy
+
+💰 **Salary**: $27,200-$34,000 EUR
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technician-removables-dandy)
+
+---
+
+### 6. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +72,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Advanced Support Payments at Cloudbeds
+### 7. Advanced Support Payments at Cloudbeds
 
 💰 **Salary**: $70,000-$89,000 USD
 
@@ -30,7 +84,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Director, Customer Experience, Trading API at Alpaca
+### 8. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +94,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 9. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +104,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Operations Specialist at Binance
+### 10. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +114,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Launch Trainer at Dandy
+### 11. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +124,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Player Support Representative (Chinese/English) at Yodo1
+### 12. Player Support Representative (Chinese/English) at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +134,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Senior Support Engineer at Clutch
+### 13. Senior Support Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +144,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Care Navigator, US Health Insurance at SafetyWing
+### 14. Care Navigator, US Health Insurance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +154,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Japanese Speaking Database Support Engineer at Supabase
+### 15. Japanese Speaking Database Support Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +164,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Enterprise Customer Success Manager (French speaker) at Canonical
+### 16. Enterprise Customer Success Manager (French speaker) at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +174,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Trading Operations Associate - West Coast Remote at Alpaca
+### 17. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +184,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Intermediate Support Engineer at GitLab
+### 18. Intermediate Support Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -140,30 +194,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 14. Tamil Translator at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/tamil-translator-chess)
 
 ---
 
-### 15. Graduate Customer Success Manager at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-customer-success-manager-canonical)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -191,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
