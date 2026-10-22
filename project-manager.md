@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Strategic Project Manager, Operations at Lido
+### 1. Technical Account Manager, Newspack at Automattic
+
+💰 **Salary**: $73,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-newspack-automattic)
+
+---
+
+### 2. Strategic Project Manager, Operations at Lido
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Service Delivery Lead at Applaudo
+### 3. Service Delivery Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Binance Accelerator Program - Creative Operations Intern at Binance
+### 4. Binance Accelerator Program - Creative Operations Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Technical Project Manager, People Operations at Dandy
+### 5. Technical Project Manager, People Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Senior Manager, Technical Program Management at GitLab
+### 6. Senior Manager, Technical Program Management at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Director of Professional Services, WordPress VIP at Automattic
+### 7. Director of Professional Services, WordPress VIP at Automattic
 
 💰 **Salary**: $130,000-$190,000 USD
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Customer Success Program Manager at OpenZeppelin
+### 8. Customer Success Program Manager at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 8. Director, Presales - North America at Camunda
+### 9. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 9. Compliance Geofencing Team Lead at Binance
+### 10. Compliance Geofencing Team Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 10. Principal Technical Program Manager at GitLab
+### 11. Principal Technical Program Manager at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 11. Senior Technical Productivity Manager at Camunda
+### 12. Senior Technical Productivity Manager at Camunda
 
 💰 **Salary**: $138,300-$223,000 USD
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 12. Incident Operations Commander Remote - Global at Alpaca
+### 13. Incident Operations Commander Remote - Global at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -134,23 +146,13 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 13. Intermediate Technical Program Manager at GitLab
+### 14. Intermediate Technical Program Manager at GitLab
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Project Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-technical-program-manager-gitlab)
-
----
-
-### 14. Head of Operations at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-operations-coalition-technologies)
 
 ---
 
@@ -185,6 +187,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
