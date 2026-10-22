@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Storytelling at Dandy
+### 1. Technical Account Manager, Newspack at Automattic
+
+💰 **Salary**: $73,000-$130,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-newspack-automattic)
+
+---
+
+### 2. Customer Success Architect at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-architect-gitlab)
+
+---
+
+### 3. Head of Storytelling at Dandy
 
 💰 **Salary**: $156,000-$195,000 USD
 
@@ -17,26 +39,6 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 📍 **Category**: Technical Writer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-storytelling-dandy)
-
----
-
-### 2. Tamil Translator at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/tamil-translator-chess)
-
----
-
-### 3. Technical Writer at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-writer-safetywing)
 
 ---
 
@@ -71,6 +73,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:01 UTC_
+_Last updated: October 22, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
