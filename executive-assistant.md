@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Investments Director at Empower
+### 1. Head of Talent at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-talent-vrchat)
+
+---
+
+### 2. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 2. Executive Assistant and Corporate Administrator at Canonical
+### 3. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 3. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
+### 4. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -43,7 +53,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -71,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
