@@ -422,40 +422,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 40. iOS Engineer (TradFi), AI Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ios-engineer-ai-asia-binance)
 
 ---
 
-### 41. Lead Product Designer at Circle
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-full-time-circle)
-
----
-
-### 42. Binance Accelerator Program - AI Supportability Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-ai-supportability-engineer-binance)
-
----
-
-
----
-
-**Total Jobs**: 42 positions available
+**Total Jobs**: 39 positions available
 
 ---
 
@@ -483,6 +453,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
