@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
+### 1. Paralegal at Atticus
+
+💰 **Salary**: $75,000-$90,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
+
+---
+
+### 2. Global Financial Crime/Sanctions Legal Counsel at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-financial-crime-sanctions-legal-counsel-binance)
+
+---
+
+### 3. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Claims Manager at Counterpart at Counterpart
+### 4. Claims Manager at Counterpart at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Product Lead Counsel at Binance
+### 5. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Senior Legal Counsel, Data & Privacy at Kit
+### 6. Senior Legal Counsel, Data & Privacy at Kit
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Due Diligence Analyst at Alpaca
+### 7. Due Diligence Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Sanctions Advisory Specialist at Binance
+### 8. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +92,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Compliance Geofencing Team Lead at Binance
+### 9. Compliance Geofencing Team Lead at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +102,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 8. Compliance Specialist - Regulatory Exam & Audit Issue Management at Binance
+### 10. Compliance Specialist - Regulatory Exam & Audit Issue Management at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +112,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 9. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 11. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +122,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 10. Product Lead Counsel at Binance
+### 12. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +132,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 11. Compliance EDD/High Risk Client Analyst at Binance
+### 13. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +142,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 12. Product Lead Counsel at Binance
+### 14. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +152,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 13. Head of Risk, NTL at Binance
+### 15. Head of Risk, NTL at Binance
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +162,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 14. Compliance Officer at Binance
+### 16. Compliance Officer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -153,7 +175,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -181,6 +203,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
