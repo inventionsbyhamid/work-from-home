@@ -8,7 +8,49 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Brokerage Operations Quality Specialist at Empower
+### 1. Paralegal at Atticus
+
+💰 **Salary**: $75,000-$90,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
+
+---
+
+### 2. Customer Service Representative ( Spanish / English) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-service-representative-binance)
+
+---
+
+### 3. Community Support Specialist for Raya at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-specialist-for-raya-raya)
+
+---
+
+### 4. Head of Talent at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-talent-vrchat)
+
+---
+
+### 5. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -20,7 +62,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. IT Support Specialist at Applaudo
+### 6. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +72,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. Communications and Partnerships Assistant at Winona
+### 7. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +82,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Executive Assistant and Corporate Administrator at Canonical
+### 8. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +92,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. Operations Specialist at Binance
+### 9. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +102,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. Trading Operations Associate - West Coast Remote at Alpaca
+### 10. Trading Operations Associate - West Coast Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +112,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. People Benefits & Compliance Associate at Applaudo
+### 11. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +122,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. People Operations Manager at SafetyWing
+### 12. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -93,7 +135,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -121,6 +163,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
