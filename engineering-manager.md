@@ -8,7 +8,65 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. GFCO Program Manager at Coinbase
+### 1. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+
+💰 **Salary**: $96,100-$135,700 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-workplace-planning-and-advice-strategic-outreach-empower)
+
+---
+
+### 2. Senior Manager, Finance Systems at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-finance-systems-dandy)
+
+---
+
+### 3. Senior Infrastructure Engineer II at Kit
+
+💰 **Salary**: $197,000+ USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-engineer-ii-kit)
+
+---
+
+### 4. Customer Experience Dental Lab Technician - Removables at Dandy
+
+💰 **Salary**: $27,200-$34,000 EUR
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technician-removables-dandy)
+
+---
+
+### 5. Staff Software Engineer (SRE) at Phantom
+
+💰 **Salary**: $200,000-$250,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-remote-phantom)
+
+---
+
+### 6. GFCO Program Manager at Coinbase
 
 💰 **Salary**: $166,345-$225,055 USD
 
@@ -20,7 +78,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Product Manager II, Workspace and Multi-User Remote at Coinbase
+### 7. Product Manager II, Workspace and Multi-User Remote at Coinbase
 
 💰 **Salary**: $180,370-$212,200 USD
 
@@ -32,7 +90,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Director of Data Science at DuckDuckGo
+### 8. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -44,7 +102,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Senior Application Security Manager at Fingerprint
+### 9. Senior Application Security Manager at Fingerprint
 
 💰 **Salary**: $177,000-$240,000 USD
 
@@ -56,7 +114,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Director, Customer Experience, Trading API at Alpaca
+### 10. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +124,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Manager, Engineering - Identity at Camunda
+### 11. Manager, Engineering - Identity at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -78,7 +136,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Head of AI Operations at Supabase
+### 12. Head of AI Operations at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +146,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Senior Manager, Technical Program Management at GitLab
+### 13. Senior Manager, Technical Program Management at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +156,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Director of Professional Services, WordPress VIP at Automattic
+### 14. Director of Professional Services, WordPress VIP at Automattic
 
 💰 **Salary**: $130,000-$190,000 USD
 
@@ -110,7 +168,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. Engineering Manager - Distributed Systems, Python / Go at Canonical
+### 15. Engineering Manager - Distributed Systems, Python / Go at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +178,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Security Engineer Manager at Binance
+### 16. Security Engineer Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +188,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Product Owner at CloudLinux
+### 17. Product Owner at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +198,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Engineering Manager, QA at Binance
+### 18. Engineering Manager, QA at Binance
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +208,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Development Lead Asia / Backend at Binance
+### 19. Development Lead Asia / Backend at Binance
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +218,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Rust Engineering Lead - Linux and Open Source at Canonical
+### 20. Rust Engineering Lead - Linux and Open Source at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +228,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Head of IT and Information Security at OpenZeppelin
+### 21. Head of IT and Information Security at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +238,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Product Owner, Email Security at CloudLinux
+### 22. Product Owner, Email Security at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +248,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Director, Presales - North America at Camunda
+### 23. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -202,7 +260,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 19. OpenStack Engineering Manager at Canonical
+### 24. OpenStack Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -212,7 +270,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 20. Server Engineering Manager, Member Experience at Raya
+### 25. Server Engineering Manager, Member Experience at Raya
 
 🌍 **Location**: Worldwide
 
@@ -222,7 +280,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 21. Engineering Manager, App Stores at Canonical
+### 26. Engineering Manager, App Stores at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -232,7 +290,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 22. Director, Solutions and Product Marketing at Camunda
+### 27. Director, Solutions and Product Marketing at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -242,7 +300,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 23. Engineering Manager - Security Standards and Hardening at Canonical
+### 28. Engineering Manager - Security Standards and Hardening at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -252,7 +310,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 24. Senior Engineering Manager, Client at Raya
+### 29. Senior Engineering Manager, Client at Raya
 
 🌍 **Location**: Worldwide
 
@@ -262,7 +320,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 25. Engineering Manager, Language Security Research at CloudLinux
+### 30. Engineering Manager, Language Security Research at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -272,7 +330,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 26. Ubuntu Engineering Manager at Canonical
+### 31. Ubuntu Engineering Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -282,40 +340,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 27. Principal Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-architect-applaudo)
 
 ---
 
-### 28. Engineering Manager for IAM (Identity and Access Management) at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-for-iam-canonical)
-
----
-
-### 29. Head of Operations at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-operations-coalition-technologies)
-
----
-
-
----
-
-**Total Jobs**: 29 positions available
+**Total Jobs**: 31 positions available
 
 ---
 
@@ -343,6 +371,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
