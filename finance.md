@@ -8,7 +8,51 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Brokerage Operations Quality Specialist at Empower
+### 1. Stock Plan Administration Manager - Full Service at Empower
+
+💰 **Salary**: $87,400-$123,400 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/stock-plan-administration-manager-full-service-empower)
+
+---
+
+### 2. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+
+💰 **Salary**: $96,100-$135,700 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-workplace-planning-and-advice-strategic-outreach-empower)
+
+---
+
+### 3. Senior Manager, Finance Systems at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-finance-systems-dandy)
+
+---
+
+### 4. Business Development - Equity Capital Markets at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-equity-capital-markets-binance)
+
+---
+
+### 5. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -20,7 +64,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Investments Director at Empower
+### 6. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -32,7 +76,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Revenue Accounting Manager at LiveKit
+### 7. Revenue Accounting Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +86,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Financial Controller at Xapo Bank
+### 8. Financial Controller at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +96,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Junior Crypto Analyst and Trader at Empire Assets
+### 9. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +106,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Internal Audit - Investigations Specialist at Binance
+### 10. Internal Audit - Investigations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +116,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Project Research & Due Diligence Asia at Binance
+### 11. Project Research & Due Diligence Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +126,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Financial Risk Manager at Alpaca
+### 12. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +136,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Operations Specialist at Binance
+### 13. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +146,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Solution Architect at Applaudo
+### 14. Solution Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +156,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Director of Corporate Development at CloudLinux
+### 15. Director of Corporate Development at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +166,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Sr Analyst Technical Internal Control at Empower
+### 16. Sr Analyst Technical Internal Control at Empower
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +176,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 17. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +186,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Senior Accountant, Financial Operations at Solana
+### 18. Senior Accountant, Financial Operations at Solana
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +196,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Finance Manager (Controllership Focus) at Binance
+### 19. Finance Manager (Controllership Focus) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +206,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Compliance Case Analyst - Ukrainian Speaking at Binance
+### 20. Compliance Case Analyst - Ukrainian Speaking at Binance
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +216,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. Compliance EDD/High Risk Client Analyst at Binance
+### 21. Compliance EDD/High Risk Client Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +226,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 18. Head of Risk, NTL at Binance
+### 22. Head of Risk, NTL at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +236,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 19. Compliance Officer at Binance
+### 23. Compliance Officer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -205,7 +249,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 19 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -233,6 +277,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
