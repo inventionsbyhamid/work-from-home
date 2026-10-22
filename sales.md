@@ -8,7 +8,71 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Investments Director at Empower
+### 1. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+
+💰 **Salary**: $96,100-$135,700 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-workplace-planning-and-advice-strategic-outreach-empower)
+
+---
+
+### 2. Account Executive, Public Sector at Automattic
+
+💰 **Salary**: $95,000-$160,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-public-sector-automattic)
+
+---
+
+### 3. Territory Sales Manager Remote, Japan at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/territory-sales-manager-remote-japan-gitlab)
+
+---
+
+### 4. Partnerships Manager, Ecosystem at Supabase at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partnerships-manager-ecosystem-at-supabase-supabase)
+
+---
+
+### 5. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-representative-italian-speaking-remote-ireland-remote-france-remote-spain-remote-united-kingdom-gitlab)
+
+---
+
+### 6. Sales Director North America at Cloudbeds
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-director-north-america-cloudbeds)
+
+---
+
+### 7. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -20,7 +84,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Platform Business Partner at SafetyWing at SafetyWing
+### 8. Platform Business Partner at SafetyWing at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +94,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Revenue Operations Administrator at Kinsta
+### 9. Revenue Operations Administrator at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +104,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Sales Development Representative at Chili Piper
+### 10. Sales Development Representative at Chili Piper
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +114,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Account Manager at Dandy
+### 11. Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +124,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Enterprise Account Executive II - DACH at Camunda
+### 12. Enterprise Account Executive II - DACH at Camunda
 
 💰 **Salary**: $158,000-$261,400 EUR
 
@@ -72,7 +136,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Corporate Account Executive III - NA at Camunda
+### 13. Corporate Account Executive III - NA at Camunda
 
 💰 **Salary**: $212,700-$343,000 USD
 
@@ -84,7 +148,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Director of Strategic Partnerships at Circle
+### 14. Director of Strategic Partnerships at Circle
 
 💰 **Salary**: $186,000 USD
 
@@ -96,7 +160,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Director of Revenue Operations at Uscreen
+### 15. Director of Revenue Operations at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +170,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Enterprise Account Executive III - NA at Camunda
+### 16. Enterprise Account Executive III - NA at Camunda
 
 💰 **Salary**: $281,300-$453,500 USD
 
@@ -118,7 +182,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Head of Direct Sales at CloudLinux
+### 17. Head of Direct Sales at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +192,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Enterprise Account Executive at CloudLinux
+### 18. Enterprise Account Executive at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +202,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Senior Technical Sales Lead, Ecosystems at OpenZeppelin
+### 19. Senior Technical Sales Lead, Ecosystems at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +212,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Telecom Account Executive at Canonical
+### 20. Telecom Account Executive at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +222,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
+### 21. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +232,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Director, Presales - North America at Camunda
+### 22. Director, Presales - North America at Camunda
 
 💰 **Salary**: $279,300-$450,300 USD
 
@@ -180,7 +244,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Institutional Sales Manager - Ukrainian Speakers at Binance
+### 23. Institutional Sales Manager - Ukrainian Speakers at Binance
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +254,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Revenue Operations Manager at Dandy
+### 24. Revenue Operations Manager at Dandy
 
 💰 **Salary**: $125,800-$148,000 USD
 
@@ -202,7 +266,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Senior Account Executive at Circle
+### 25. Senior Account Executive at Circle
 
 💰 **Salary**: $150,000-$190,000 USD
 
@@ -214,7 +278,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Alliances & Channels Leader at Canonical
+### 26. Alliances & Channels Leader at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -224,7 +288,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Account Development Representative - Future Openings Talent Pool at Camunda
+### 27. Account Development Representative - Future Openings Talent Pool at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -234,42 +298,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 22. Binance Accelerator Program - VIP Sales at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-vip-sales-binance)
 
 ---
 
-### 23. Account Executive at Dandy
-
-💰 **Salary**: $95,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-executive-remote-dandy)
-
----
-
-### 24. Individual Sales Representative (Mandarin Speaking) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/individual-sales-representative-binance)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 27 positions available
 
 ---
 
@@ -297,6 +329,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:01 UTC_
+_Last updated: October 22, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
