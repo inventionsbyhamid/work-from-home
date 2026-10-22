@@ -114,60 +114,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 11. Lead Product Designer at Circle
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-full-time-circle)
 
 ---
 
-### 12. Senior Product Designer at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-remote-safetywing)
-
----
-
-### 13. UX Designer - Design systems at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-designer-design-systems-canonical)
-
----
-
-### 14. Product Designer Lead - UI/UX at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-lead-ui-ux-binance)
-
----
-
-### 15. Product Designer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-remote-binance)
-
----
-
-
----
-
-**Total Jobs**: 15 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -195,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
