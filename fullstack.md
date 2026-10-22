@@ -188,42 +188,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 18. Fullstack Engineer at Atticus
-
-💰 **Salary**: $157,250-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fullstack-engineer-atticus)
 
 ---
 
-### 19. Full Stack Engineer - KYC Tech (fully remote!) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-kyc-tech-binance)
-
----
-
-### 20. Senior Full-Stack Software Engineer, Discover at Circle
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-discover-worldwide-circle)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -251,6 +219,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
