@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Technical Project Manager, People Operations at Dandy
+### 1. Clinical Support Team Lead (CSL) at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-team-lead-dandy)
+
+---
+
+### 2. Head of Talent at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-talent-vrchat)
+
+---
+
+### 3. Head of People at VRChat
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-people-vrchat)
+
+---
+
+### 4. Technical Project Manager, People Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. HRIS Manager Asia at Binance
+### 5. HRIS Manager Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. People Benefits & Compliance Associate at Applaudo
+### 6. People Benefits & Compliance Associate at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. People Operations Manager at SafetyWing
+### 7. People Operations Manager at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +78,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. IT Talent Acquisition Specialist at Applaudo
+### 8. IT Talent Acquisition Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -58,20 +88,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. HR Business Partner Asia / HR at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hr-business-partner-asia-hr-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -99,6 +119,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 21, 2026 at 00:00 UTC_
+_Last updated: October 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
