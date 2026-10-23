@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
+### 1. Stock Plan Services Quality Specialist at Empower
+
+💰 **Salary**: $65,600-$92,675 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/stock-plan-services-quality-specialist-empower)
+
+---
+
+### 2. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. Senior Software Engineer, Quality at Camunda
+### 3. Senior Software Engineer, Quality at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Engineering Manager, QA at Binance
+### 4. Engineering Manager, QA at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Senior QA Engineer (Rust/Java), Margin at Binance
+### 5. Senior QA Engineer (Rust/Java), Margin at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 5. QA Engineer, Blockchain at Binance
+### 6. QA Engineer, Blockchain at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 6. Senior QA Engineer - .COM - Automation & Java coding at Binance
+### 7. Senior QA Engineer - .COM - Automation & Java coding at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 7. Sr Analyst Technical Internal Control at Empower
+### 8. Sr Analyst Technical Internal Control at Empower
 
 🌍 **Location**: Worldwide
 
@@ -80,23 +92,13 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 8. SDET at Phantom
+### 9. SDET at Phantom
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sdet-phantom)
-
----
-
-### 9. Mobile Automation Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/mobile-automation-engineer-applaudo)
 
 ---
 
@@ -131,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 22, 2026 at 00:00 UTC_
+_Last updated: October 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
