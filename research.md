@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 1. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-researcher-binance-accelerator-program-binance)
+
+---
+
+### 2. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Project Research & Due Diligence Asia at Binance
+### 3. Project Research & Due Diligence Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Data Scientist / Machine Learning Engineer at Applaudo
+### 4. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Financial Risk Manager at Alpaca
+### 5. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Binance Accelerator Program - Research Data Scientist at Binance
+### 6. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Sanctions Advisory Specialist at Binance
+### 7. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Pioneer Talent Program - Research Data Scientist at Binance
+### 8. Pioneer Talent Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Research BD Manager/Director Global / Business Development at Binance
+### 9. Research BD Manager/Director Global / Business Development at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,30 +98,10 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 9. Compliance Case Analyst - Ukrainian Speaking at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/compliance-case-analyst-ukrainian-speaking-binance)
 
 ---
 
-### 10. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-data-scientist-binance)
-
----
-
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -139,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 22, 2026 at 00:01 UTC_
+_Last updated: October 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
