@@ -112,30 +112,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 11. Customer Growth Specialist at Uscreen
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-growth-specialist-uscreen)
 
 ---
 
-### 12. Senior User Growth & Lifecycle Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-user-growth-lifecycle-specialist-binance)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -163,6 +143,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 22, 2026 at 00:00 UTC_
+_Last updated: October 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
