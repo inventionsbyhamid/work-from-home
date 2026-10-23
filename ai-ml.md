@@ -382,50 +382,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 36. AI Developer at Crossover
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-developer-crossover)
 
 ---
 
-### 37. Staff Backend Engineer, Recommender Systems at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-recommender-systems-raya)
-
----
-
-### 38. Staff Engineer - Recommendations at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-recommendations-vrchat)
-
----
-
-### 39. Binance Accelerator Program - Data Scientist (CV, Agentic AI) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-data-scientist-binance)
-
----
-
-
----
-
-**Total Jobs**: 39 positions available
+**Total Jobs**: 35 positions available
 
 ---
 
@@ -453,6 +413,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 22, 2026 at 00:00 UTC_
+_Last updated: October 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
