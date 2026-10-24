@@ -114,42 +114,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 11. Principal Technical Program Manager at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-technical-program-manager-gitlab)
 
 ---
 
-### 12. Senior Technical Productivity Manager at Camunda
-
-💰 **Salary**: $138,300-$223,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-productivity-manager-camunda)
-
----
-
-### 13. Incident Operations Commander Remote - Global at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/incident-operations-commander-remote-global-alpaca)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -177,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
