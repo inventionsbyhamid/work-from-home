@@ -310,30 +310,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 29. Alliances & Channels Leader at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/alliances-channels-leader-canonical)
 
 ---
 
-### 30. Account Development Representative - Future Openings Talent Pool at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-representative-future-openings-talent-pool-camunda)
-
----
-
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -361,6 +341,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:01 UTC_
+_Last updated: October 24, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
