@@ -356,70 +356,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 33. Server Engineering Manager, Member Experience at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/server-engineering-manager-member-experience-raya)
 
 ---
 
-### 34. Engineering Manager, App Stores at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-app-stores-canonical)
-
----
-
-### 35. Director, Solutions and Product Marketing at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-solutions-and-product-marketing-camunda)
-
----
-
-### 36. Engineering Manager - Security Standards and Hardening at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-security-standards-and-hardening-canonical)
-
----
-
-### 37. Senior Engineering Manager, Client at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineering-manager-client-raya)
-
----
-
-### 38. Engineering Manager, Language Security Research at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-language-security-research-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 38 positions available
+**Total Jobs**: 32 positions available
 
 ---
 
@@ -447,6 +387,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
