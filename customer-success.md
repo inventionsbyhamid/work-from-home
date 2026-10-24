@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Clinical Support Team Lead (CSL) at Dandy
+### 1. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-programme-campaigns-operations-binance-square-remote-hong-kong-binance)
+
+---
+
+### 2. Customer Solutions Architect at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-solutions-architect-supabase)
+
+---
+
+### 3. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Technical Account Manager, Newspack at Automattic
+### 4. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Customer Success Architect at GitLab
+### 5. Customer Success Architect at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Account Manager at Dandy
+### 6. Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Director, Customer Experience, Trading API at Alpaca
+### 7. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Director of Professional Services, WordPress VIP at Automattic
+### 8. Director of Professional Services, WordPress VIP at Automattic
 
 💰 **Salary**: $130,000-$190,000 USD
 
@@ -72,7 +92,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Launch Trainer at Dandy
+### 9. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +102,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 8. Customer Success Program Manager at OpenZeppelin
+### 10. Customer Success Program Manager at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +112,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 9. Care Navigator, US Health Insurance at SafetyWing
+### 11. Care Navigator, US Health Insurance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +122,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 10. Customer Success - Team Manager at Canonical
+### 12. Customer Success - Team Manager at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -115,7 +135,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -143,6 +163,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
