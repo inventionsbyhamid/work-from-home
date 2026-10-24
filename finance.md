@@ -220,20 +220,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 21. Senior Accountant, Financial Operations at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-accountant-financial-operations-solana)
 
 ---
 
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -261,6 +251,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
