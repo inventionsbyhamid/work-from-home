@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Software Engineer - Compliance CXAE at Coinbase
+### 1. Senior Full Stack Engineer at Coalition Technologies
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-coalition-technologies)
+
+---
+
+### 2. Software Engineer - Compliance CXAE at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Full Stack Engineer (Angular/Python) at CloudLinux
+### 3. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior CX Platform Engineer at GitLab
+### 4. Senior CX Platform Engineer at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Full Stack Engineer (Angular/Python) at CloudLinux
+### 5. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Senior Forward Deployed Engineer at Camunda
+### 6. Senior Forward Deployed Engineer at Camunda
 
 💰 **Salary**: $157,300-$253,600 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Senior Ruby on Rails Developer at Applaudo
+### 7. Senior Ruby on Rails Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Staff Software Engineer at B12
+### 8. Staff Software Engineer at B12
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior Web Compatibility Engineer at DuckDuckGo
+### 9. Senior Web Compatibility Engineer at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Product Builder at Camunda
+### 10. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Senior Design Engineer, AI Platforms at Chess
+### 11. Senior Design Engineer, AI Platforms at Chess
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +126,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
+### 12. Staff Engineer, Full Stack (Trust, Safety & Risk) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -128,40 +138,10 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Senior Full-Stack Software Engineer, CMS at Circle
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-cms-circle)
 
 ---
 
-### 13. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-full-stack-engineer-im-chat-platform-android-focus-binance)
-
----
-
-### 14. Senior Engineer - Trust and Safety at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineer-trust-and-safety-vrchat)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -189,6 +169,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
