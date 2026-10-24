@@ -264,62 +264,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 26. Alliances & Channels Leader at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/alliances-channels-leader-canonical)
 
 ---
 
-### 27. Senior Product Manager, Payments at Automattic
-
-💰 **Salary**: $170,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-payments-automattic)
-
----
-
-### 28. AWS Partner Marketing Manager at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/aws-partner-marketing-manager-supabase)
-
----
-
-### 29. Research BD Manager/Director Global / Business Development at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/research-bd-manager-director-global-business-development-binance)
-
----
-
-### 30. Account Development Representative - Future Openings Talent Pool at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/account-development-representative-future-openings-talent-pool-camunda)
-
----
-
-
----
-
-**Total Jobs**: 30 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -347,6 +295,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
