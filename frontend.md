@@ -98,50 +98,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 10. Senior iOS Engineer, Member Experience at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-member-experience-raya)
 
 ---
 
-### 11. Senior Frontend Engineer - Stablecoin Asia at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-frontend-engineer-stablecoin-asia-remote-binance)
-
----
-
-### 12. Senior Front End Engineer at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-front-end-engineer-binance)
-
----
-
-### 13. Flutter Engineer (iOS) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/flutter-engineer-binance)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -169,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
