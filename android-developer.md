@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Developer at Binance
+### 1. Android Engineer - Risk Control at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-engineer-risk-control-binance)
+
+---
+
+### 2. Android Developer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 2. Android Developer at Applaudo
+### 3. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 3. iOS Developer at Applaudo
+### 4. iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 4. Senior Android Developer - Cryptographic at Binance
+### 5. Senior Android Developer - Cryptographic at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 5. Senior Flutter Engineer (iOS, Android) at Binance
+### 6. Senior Flutter Engineer (iOS, Android) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,30 +68,10 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 6. Client Full-Stack Engineer, IM Chat Platform, Android Focus at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Android Developer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-full-stack-engineer-im-chat-platform-android-focus-binance)
 
 ---
 
-### 7. Senior Engineering Manager, Client at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Android Developer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineering-manager-client-raya)
-
----
-
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -109,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
