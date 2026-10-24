@@ -248,42 +248,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 24. Senior Product Manager, Payments at Automattic
-
-💰 **Salary**: $170,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-payments-automattic)
 
 ---
 
-### 25. Director of Product for Supply Chain Fintech at Bobtail
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-product-for-supply-chain-fintech-bobtail)
-
----
-
-### 26. Director, Solutions and Product Marketing at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-solutions-and-product-marketing-camunda)
-
----
-
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -311,6 +279,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 23, 2026 at 00:00 UTC_
+_Last updated: October 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
