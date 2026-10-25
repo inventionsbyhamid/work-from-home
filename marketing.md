@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 1. Senior Copywriter at Phantom
+
+💰 **Salary**: $140,000-$188,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-copywriter-phantom)
+
+---
+
+### 2. Communications and Social Media Manager at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-social-media-manager-duckduckgo)
+
+---
+
+### 3. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Growth & Partnerships Manager - Staking Products Taiwan at Binance
+### 4. Growth & Partnerships Manager - Staking Products Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Senior Product Marketing Manager, Trading at Coinbase
+### 5. Senior Product Marketing Manager, Trading at Coinbase
 
 💰 **Salary**: $170,765-$200,900 USD
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Creator and UGC Growth Marketer at Supabase
+### 6. Creator and UGC Growth Marketer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +72,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Head of Communications - New Media at Supabase at Supabase
+### 7. Head of Communications - New Media at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +82,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Entry-level communications specialist at Canonical
+### 8. Entry-level communications specialist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +92,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Social Media and Content Intern at Binance
+### 9. Social Media and Content Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +102,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
+### 10. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +112,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Global Affiliate Manager at Binance
+### 11. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +122,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Part-time 2D Designer for VRChat Platform at VRChat
+### 12. Part-time 2D Designer for VRChat Platform at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +132,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Communications and Partnerships Assistant at Winona
+### 13. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +142,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Binance Accelerator Program - Creative Operations Intern at Binance
+### 14. Binance Accelerator Program - Creative Operations Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +152,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Director of Strategic Partnerships at Circle
+### 15. Director of Strategic Partnerships at Circle
 
 💰 **Salary**: $186,000 USD
 
@@ -142,7 +164,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Senior Performance Marketing Manager at Chess
+### 16. Senior Performance Marketing Manager at Chess
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +174,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Senior Product Marketing Manager at Camunda
+### 17. Senior Product Marketing Manager at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +184,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 18. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +194,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Creator Manager at Winona
+### 19. Creator Manager at Winona
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +204,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Creator Partnerships Manager, Binance Square Global at Binance
+### 20. Creator Partnerships Manager, Binance Square Global at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +214,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Senior Growth Designer at Circle
+### 21. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -201,28 +223,6 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-growth-designer-circle)
-
----
-
-### 20. Organic Social Media Manager at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/organic-social-media-manager-winona)
-
----
-
-### 21. Head of Storytelling at Dandy
-
-💰 **Salary**: $156,000-$195,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-storytelling-dandy)
 
 ---
 
@@ -257,6 +257,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
