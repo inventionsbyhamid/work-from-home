@@ -40,20 +40,10 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 4. Head of Direct Sales, North America & EMEA - Remote at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Executive Assistant
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-direct-sales-north-america-emea-cloudlinux)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
