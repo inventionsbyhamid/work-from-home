@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Designer at Applaudo
+### 1. Dental CAD Designer at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-designer-dandy)
+
+---
+
+### 2. Senior Product Designer at DuckDuckGo
+
+💰 **Salary**: $178,500-$253,500 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-duckduckgo)
+
+---
+
+### 3. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Web Designer at Applaudo
+### 4. Web Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Senior Product Designer at CoinMarketCap
+### 5. Senior Product Designer at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Product Designer (Connect Team) at Chess.com
+### 6. Product Designer (Connect Team) at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Senior Product Designer at Chess.com
+### 7. Senior Product Designer at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Senior Design Engineer, AI Platforms at Chess
+### 8. Senior Design Engineer, AI Platforms at Chess
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +90,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Product Designer, Growth at beehiiv
+### 9. Senior Product Designer, Growth at beehiiv
 
 💰 **Salary**: $150,000-$170,000 USD
 
@@ -80,7 +102,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Senior Product Designer at Fueled
+### 10. Senior Product Designer at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +112,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 9. Senior Growth Designer at Circle
+### 11. Senior Growth Designer at Circle
 
 💰 **Salary**: $100,000-$120,000 USD
 
@@ -102,22 +124,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 10. Lead Product Designer, Marketplace at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
 
 ---
 
-
----
-
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -145,6 +155,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
