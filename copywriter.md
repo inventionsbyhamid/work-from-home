@@ -8,22 +8,32 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Storytelling at Dandy
-
-💰 **Salary**: $156,000-$195,000 USD
+### 1. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Copywriter
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-storytelling-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-social-media-manager-duckduckgo)
+
+---
+
+### 2. Translator, Portuguese (pt-PT) at Circle
+
+💰 **Salary**: $35 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Copywriter
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/translator-portuguese-circle)
 
 ---
 
 
 ---
 
-**Total Jobs**: 1 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -51,6 +61,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
