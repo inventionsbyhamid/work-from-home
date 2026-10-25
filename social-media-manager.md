@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Product Manager - Social Features (Content) at Binance
+### 1. Communications and Social Media Manager at DuckDuckGo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-social-media-manager-duckduckgo)
+
+---
+
+### 2. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Entry-level communications specialist at Canonical
+### 3. Entry-level communications specialist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Social Media and Content Intern at Binance
+### 4. Social Media and Content Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 5. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,23 +58,13 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. Creator Manager at Winona
+### 6. Creator Manager at Winona
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Social Media Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-manager-winona)
-
----
-
-### 6. Organic Social Media Manager at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/organic-social-media-manager-winona)
 
 ---
 
@@ -99,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:01 UTC_
+_Last updated: October 25, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
