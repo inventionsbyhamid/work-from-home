@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Engineer - Risk Control at Binance
+### 1. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-full-stack-engineer-im-chat-platform-android-focus-remote-binance)
+
+---
+
+### 2. Android Engineer - Risk Control at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 2. Android Developer at Binance
+### 3. Android Developer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 3. Android Developer at Applaudo
+### 4. Android Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 4. iOS Developer at Applaudo
+### 5. iOS Developer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,23 +58,13 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 5. Senior Android Developer - Cryptographic at Binance
+### 6. Senior Android Developer - Cryptographic at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Android Developer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-android-developer-cryptographic-binance)
-
----
-
-### 6. Senior Flutter Engineer (iOS, Android) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Android Developer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-flutter-engineer-binance)
 
 ---
 
@@ -99,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
