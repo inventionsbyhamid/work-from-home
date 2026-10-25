@@ -8,7 +8,47 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Android Engineer - Risk Control at Binance
+### 1. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-remote-binance)
+
+---
+
+### 2. Senior Machine Learning Engineer, Malware Detection at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-malware-detection-cloudlinux)
+
+---
+
+### 3. Senior Machine Learning Engineer, Email Security at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-email-security-cloudlinux)
+
+---
+
+### 4. Lead Security Engineer, Vulnerability Response at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-vulnerability-response-cloudlinux)
+
+---
+
+### 5. Android Engineer - Risk Control at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +58,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Director of Data Science at DuckDuckGo
+### 6. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -30,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Software Engineer, API Products at 0x
+### 7. Senior Software Engineer, API Products at 0x
 
 💰 **Salary**: $150,000-$230,000 USD
 
@@ -42,7 +82,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Business Intelligence / Data Analyst at Binance
+### 8. Business Intelligence / Data Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +92,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. Senior Data Scientist at DuckDuckGo
+### 9. Senior Data Scientist at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -64,7 +104,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Product Manager, Trading API at Alpaca
+### 10. Senior Product Manager, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +114,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Frontend Engineer - KYC at Binance
+### 11. Frontend Engineer - KYC at Binance
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +124,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Forward Deployed Engineer at Camunda
+### 12. Senior Forward Deployed Engineer at Camunda
 
 💰 **Salary**: $157,300-$253,600 USD
 
@@ -96,7 +136,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Data Scientist / Machine Learning Engineer at Applaudo
+### 13. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +146,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. AI Agent Platform Engineer (Openclaw) at Binance
+### 14. AI Agent Platform Engineer (Openclaw) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +156,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Senior Data Scientist at Fingerprint
+### 15. Senior Data Scientist at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -128,7 +168,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Senior AI Product Manager at Clutch
+### 16. Senior AI Product Manager at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +178,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Binance Accelerator Program - Research Data Scientist at Binance
+### 17. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +188,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Product Owner at CloudLinux
+### 18. Product Owner at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +198,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Product Manager for Dr. Wolf Chess Learning App at Chess.com
+### 19. Product Manager for Dr. Wolf Chess Learning App at Chess.com
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +208,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Senior Experience Engineer at Parity
+### 20. Senior Experience Engineer at Parity
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +218,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Senior Software Engineer, Quality at Camunda
+### 21. Senior Software Engineer, Quality at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -190,7 +230,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Cloud AI Engineer at Binance
+### 22. Cloud AI Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -200,7 +240,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. Senior Android Developer - Cryptographic at Binance
+### 23. Senior Android Developer - Cryptographic at Binance
 
 🌍 **Location**: Worldwide
 
@@ -210,7 +250,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 20. Product Builder at Camunda
+### 24. Product Builder at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -222,7 +262,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 21. Binance Accelerator Program - Backend Engineer (Web3) at Binance
+### 25. Binance Accelerator Program - Backend Engineer (Web3) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -232,7 +272,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 22. Data Scientist, Ad Network (global) at beehiiv
+### 26. Data Scientist, Ad Network (global) at beehiiv
 
 💰 **Salary**: $120,000-$220,000 USD
 
@@ -244,7 +284,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 23. AI Agent Engineer at Binance
+### 27. AI Agent Engineer at Binance
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +294,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 24. Lead Blockchain Security Developer, Canton at OpenZeppelin
+### 28. Lead Blockchain Security Developer, Canton at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +304,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 25. AI Agent Engineer at Sticker Mule
+### 29. AI Agent Engineer at Sticker Mule
 
 💰 **Salary**: $150,000-$250,000 USD
 
@@ -276,7 +316,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 26. Senior Architect at Empower
+### 30. Senior Architect at Empower
 
 💰 **Salary**: $138,000-$200,100 USD
 
@@ -285,48 +325,6 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 📍 **Category**: AI/ML
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-architect-empower)
-
----
-
-### 27. Senior Data Engineer at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-camunda)
-
----
-
-### 28. Binance Accelerator Program - Web3 AI Engineer (For blockchain student) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-web3-ai-engineer-binance)
-
----
-
-### 29. Lead Product Designer, Marketplace at Circle
-
-💰 **Salary**: $140,000-$170,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-product-designer-marketplace-circle)
-
----
-
-### 30. Business Intelligence/ Data Analytics at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-data-analytics-binance)
 
 ---
 
@@ -361,6 +359,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 24, 2026 at 00:00 UTC_
+_Last updated: October 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
