@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Technical Account Manager, Newspack at Automattic
+### 1. Translator, Italian (IT) at Circle
+
+💰 **Salary**: $35+ USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/translator-italian-circle)
+
+---
+
+### 2. Solutions Architect, Public Sector at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-public-sector-gitlab)
+
+---
+
+### 3. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -20,7 +42,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 2. Customer Success Architect at GitLab
+### 4. Customer Success Architect at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -33,7 +55,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -61,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 25, 2026 at 00:01 UTC_
+_Last updated: October 26, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
