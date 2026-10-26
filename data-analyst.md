@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
+### 1. Market Surveillance Investigator at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-surveillance-investigator-binance)
+
+---
+
+### 2. Data Scientist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-scientist-remote-applaudo)
+
+---
+
+### 3. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Lead, Data Governance Remote - Americas at Alpaca
+### 4. Lead, Data Governance Remote - Americas at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Senior Data Engineer at Phantom
+### 5. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Data Analyst - Binance Accelerator Program at Binance
+### 6. Data Analyst - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Director of Data Science at DuckDuckGo
+### 7. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. FinOps Data Engineer at Supabase
+### 8. FinOps Data Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +90,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Business Intelligence / Data Analyst at Binance
+### 9. Business Intelligence / Data Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +100,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Senior Data Scientist at DuckDuckGo
+### 10. Senior Data Scientist at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -92,7 +112,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. Junior Crypto Analyst and Trader at Empire Assets
+### 11. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +122,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 12. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +132,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 11. Data Engineer at Applaudo
+### 13. Data Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +142,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 12. Data Scientist / Machine Learning Engineer at Applaudo
+### 14. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +152,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. Financial Risk Manager at Alpaca
+### 15. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +162,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 14. Senior Data Scientist at Fingerprint
+### 16. Senior Data Scientist at Fingerprint
 
 💰 **Salary**: $152,000-$205,000 USD
 
@@ -154,7 +174,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 15. Binance Accelerator Program - Research Data Scientist at Binance
+### 17. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +184,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 16. Solution Architect at Applaudo
+### 18. Solution Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +194,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 17. Director of Revenue Operations at Uscreen
+### 19. Director of Revenue Operations at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +204,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 18. Trust and Safety Manager, Policy and Risk Insights at Kindred
+### 20. Trust and Safety Manager, Policy and Risk Insights at Kindred
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +214,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 19. Data Scientist, Ad Network (global) at beehiiv
+### 21. Data Scientist, Ad Network (global) at beehiiv
 
 💰 **Salary**: $120,000-$220,000 USD
 
@@ -206,7 +226,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 20. GTM Analyst at Uscreen
+### 22. GTM Analyst at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -216,22 +236,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 21. Senior Data Engineer at Dandy
-
-💰 **Salary**: $133,600-$167,000 CAD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-dandy)
 
 ---
 
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 22 positions available
 
 ---
 
@@ -259,6 +267,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 25, 2026 at 00:00 UTC_
+_Last updated: October 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
