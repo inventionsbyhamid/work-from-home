@@ -18,36 +18,36 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 30 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 33 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 10 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 6 remote jobs available
-- 🏠 **[Backend](backend.md)** - 57 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 24 remote jobs available
+- 🏠 **[Backend](backend.md)** - 59 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 27 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 12 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 11 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 15 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 21 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 35 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 32 remote jobs available
-- 🏠 **[Executive Assistant](executive-assistant.md)** - 3 remote jobs available
-- 🏠 **[Finance](finance.md)** - 22 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 22 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 39 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 37 remote jobs available
+- 🏠 **[Executive Assistant](executive-assistant.md)** - 5 remote jobs available
+- 🏠 **[Finance](finance.md)** - 27 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 9 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 13 remote jobs available
-- 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
-- 🏠 **[HR](hr.md)** - 7 remote jobs available
-- 🏠 **[Intern](intern.md)** - 8 remote jobs available
-- 🏠 **[Legal](legal.md)** - 9 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 21 remote jobs available
-- 🏠 **[Product Designer](product-designer.md)** - 11 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 22 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 8 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 7 remote jobs available
+- 🏠 **[Graphic Design](graphic-design.md)** - 4 remote jobs available
+- 🏠 **[HR](hr.md)** - 8 remote jobs available
+- 🏠 **[Intern](intern.md)** - 7 remote jobs available
+- 🏠 **[Legal](legal.md)** - 12 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
+- 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 23 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 9 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 5 remote jobs available
 - 🏠 **[Research](research.md)** - 9 remote jobs available
-- 🏠 **[Sales](sales.md)** - 25 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 31 remote jobs available
+- 🏠 **[Sales](sales.md)** - 29 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 33 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 6 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 53 remote jobs available
-- 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 65 remote jobs available
+- 🏠 **[Technical Writer](technical-writer.md)** - 4 remote jobs available
 
 
 ---
@@ -56,215 +56,217 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Fraud Prevention Analyst Brazil at Binance
+### 1. Principal Engineer, Monetization Engineering at GitLab
+
+💰 **Salary**: $223,000-$317,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-engineer-monetization-engineering-gitlab)
+
+---
+
+### 2. Case Analyst (Spanish and Portuguese speaker) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-remote-binance)
+
+---
+
+### 3. Manager, WFM Compliance Operations at Coinbase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-wfm-compliance-operations-coinbase)
+
+---
+
+### 4. Counsel / Senior Counsel at Automattic
+
+💰 **Salary**: $180,000-$300,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/counsel-senior-counsel-automattic)
+
+---
+
+### 5. Paid Ads & Search Specialist (Africa) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paid-ads-search-specialist-binance)
+
+---
+
+### 6. Market Surveillance Investigator at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Security Engineer
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fraud-prevention-analyst-brazil-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-surveillance-investigator-binance)
 
 ---
 
-### 2. Onboarding Coach at Cloudbeds
+### 7. Senior SRE - APAC Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Customer Support
+📍 **Category**: DevOps
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/onboarding-coach-cloudbeds)
-
----
-
-### 3. Lead SEC Analyst at GitLab
-
-💰 **Salary**: $139,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-sec-analyst-gitlab)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-sre-apac-remote-alpaca)
 
 ---
 
-### 4. Enterprise Account Manager at Dandy
-
-💰 **Salary**: $120,000+ USD
+### 8. Solutions Engineer, Institutional at MatterLabs
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-manager-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-engineer-institutional-matterlabs)
 
 ---
 
-### 5. Staff Backend Engineer, Developer Experience at GitLab
+### 9. Head of Communications at Atticus
 
-💰 **Salary**: $131,600-$282,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-developer-experience-gitlab)
-
----
-
-### 6. Senior Software Engineer - Digital Workplace at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-digital-workplace-canonical)
-
----
-
-### 7. Manager, Card Business Development & Operations at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-card-business-development-operations-binance)
-
----
-
-### 8. Senior Backend Engineer (Node.js) at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-full-time-coalition-technologies)
-
----
-
-### 9. Senior Copywriter at Phantom
-
-💰 **Salary**: $140,000-$188,000 USD
+💰 **Salary**: $250,000-$350,000 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-copywriter-phantom)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-communications-atticus)
 
 ---
 
-### 10. Senior Manager, People Operations at Atticus
-
-💰 **Salary**: $130,000-$185,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-people-operations-atticus)
-
----
-
-### 11. Senior Backend Engineer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-remote-coalition-technologies)
-
----
-
-### 12. Backend Engineer, Knowledge Graph (Rust) at GitLab
-
-💰 **Salary**: $115,200-$162,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/backend-engineer-knowledge-graph-gitlab)
-
----
-
-### 13. Software Engineer - Ubuntu Server Certification at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-ubuntu-server-certification-canonical)
-
----
-
-### 14. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/client-full-stack-engineer-im-chat-platform-android-focus-remote-binance)
-
----
-
-### 15. Dental CAD Designer at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/dental-cad-designer-dandy)
-
----
-
-### 16. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-remote-binance)
-
----
-
-### 17. Communications and Social Media Manager at DuckDuckGo
+### 10. Social Media Manager at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-social-media-manager-duckduckgo)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-manager-binance)
 
 ---
 
-### 18. Senior Machine Learning Engineer, Malware Detection at CloudLinux
+### 11. Senior Frontend Engineer - Web3 Wallet at Binance
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: AI/ML
+📍 **Category**: Frontend
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-malware-detection-cloudlinux)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-frontend-engineer-web3-wallet-binance)
 
 ---
 
-### 19. Senior Machine Learning Engineer, Email Security at CloudLinux
+### 12. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: AI/ML
+📍 **Category**: Customer Support
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-email-security-cloudlinux)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-manager-remote-raya)
 
 ---
 
-### 20. Lead Security Engineer, Vulnerability Response at CloudLinux
+### 13. New Media Manager, Social and Community Growth at Solana
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Security Engineer
+📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-vulnerability-response-cloudlinux)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/new-media-manager-social-and-community-growth-solana)
+
+---
+
+### 14. Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity at GitLab
+
+💰 **Salary**: $152,800-$259,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-architecture-engineering-nonlinear-productivity-gitlab)
+
+---
+
+### 15. Head of Marketing at Wikimedia
+
+💰 **Salary**: $143,478-$217,585 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-marketing-wikimedia)
+
+---
+
+### 16. Software Engineer, Blockchain Platform Nodes at Coinbase
+
+💰 **Salary**: $152,405-$179,300 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-blockchain-platform-nodes-coinbase)
+
+---
+
+### 17. Internal Auditor - Taiwan at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-auditor-taiwan-binance)
+
+---
+
+### 18. Senior Professional Services Engineer Remote, Netherlands; Remote, Spain; Remote, United Kingdom at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-professional-services-engineer-remote-netherlands-remote-spain-remote-united-kingdom-gitlab)
+
+---
+
+### 19. Senior Creator Ecosystem Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: General
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-creator-ecosystem-manager-binance)
+
+---
+
+### 20. Translator, Italian (IT) at Circle
+
+💰 **Salary**: $35+ USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/translator-italian-circle)
 
 ---
 
@@ -294,6 +296,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 25, 2026 at 00:00 UTC_
+_Last updated: October 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
