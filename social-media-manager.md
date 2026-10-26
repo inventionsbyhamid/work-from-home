@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Communications and Social Media Manager at DuckDuckGo
+### 1. Social Media Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-manager-binance)
+
+---
+
+### 2. New Media Manager, Social and Community Growth at Solana
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/new-media-manager-social-and-community-growth-solana)
+
+---
+
+### 3. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Product Manager - Social Features (Content) at Binance
+### 4. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Entry-level communications specialist at Canonical
+### 5. Entry-level communications specialist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -38,33 +58,13 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Social Media and Content Intern at Binance
+### 6. Social Media and Content Intern at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Social Media Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-and-content-intern-binance)
-
----
-
-### 5. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-programme-campaigns-operations-binance-square-binance)
-
----
-
-### 6. Creator Manager at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-manager-winona)
 
 ---
 
@@ -99,6 +99,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 25, 2026 at 00:01 UTC_
+_Last updated: October 26, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
