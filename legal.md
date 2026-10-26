@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 1. Case Analyst (Spanish and Portuguese speaker) at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-remote-binance)
+
+---
+
+### 2. Counsel / Senior Counsel at Automattic
+
+💰 **Salary**: $180,000-$300,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/counsel-senior-counsel-automattic)
+
+---
+
+### 3. Product Counsel, Equities & Tokenized Securities at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-counsel-equities-tokenized-securities-binance)
+
+---
+
+### 4. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Paralegal at Atticus
+### 5. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -30,7 +62,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Global Financial Crime/Sanctions Legal Counsel at Binance
+### 6. Global Financial Crime/Sanctions Legal Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +72,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
+### 7. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +82,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Claims Manager at Counterpart at Counterpart
+### 8. Claims Manager at Counterpart at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -62,7 +94,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Product Lead Counsel at Binance
+### 9. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +104,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Senior Legal Counsel, Data & Privacy at Kit
+### 10. Senior Legal Counsel, Data & Privacy at Kit
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +114,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 8. Due Diligence Analyst at Alpaca
+### 11. Due Diligence Analyst at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +124,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 9. Sanctions Advisory Specialist at Binance
+### 12. Sanctions Advisory Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -105,7 +137,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 12 positions available
 
 ---
 
@@ -133,6 +165,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 25, 2026 at 00:00 UTC_
+_Last updated: October 26, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
