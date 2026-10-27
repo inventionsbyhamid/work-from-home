@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Community Support Manager at Raya
+### 1. Director of Customer Support North America at Cloudbeds
+
+💰 **Salary**: $180,000-$190,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-customer-support-north-america-cloudbeds)
+
+---
+
+### 2. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Customer Support Coach - NORAM at Cloudbeds
+### 3. Customer Support Coach - NORAM at Cloudbeds
 
 💰 **Salary**: $55,000-$77,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Onboarding Coach at Cloudbeds
+### 4. Onboarding Coach at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Clinical Support Team Lead (CSL) at Dandy
+### 5. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Paralegal at Atticus
+### 6. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Customer Service Representative ( Spanish / English) at Binance
+### 7. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Community Support Specialist for Raya at Raya
+### 8. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Customer Experience Dental Lab Technician - Removables at Dandy
+### 9. Customer Experience Dental Lab Technician - Removables at Dandy
 
 💰 **Salary**: $27,200-$34,000 EUR
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. IT Support Specialist at Applaudo
+### 10. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +116,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Advanced Support Payments at Cloudbeds
+### 11. Advanced Support Payments at Cloudbeds
 
 💰 **Salary**: $70,000-$89,000 USD
 
@@ -116,7 +128,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Director, Customer Experience, Trading API at Alpaca
+### 12. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +138,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 13. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +148,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Operations Specialist at Binance
+### 14. Operations Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,23 +158,13 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 14. Launch Trainer at Dandy
+### 15. Launch Trainer at Dandy
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Support
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/launch-trainer-worldwide-dandy)
-
----
-
-### 15. Player Support Representative (Chinese/English) at Yodo1
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/player-support-representative-yodo1)
 
 ---
 
@@ -197,6 +199,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 26, 2026 at 00:00 UTC_
+_Last updated: October 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
