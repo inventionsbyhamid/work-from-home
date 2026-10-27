@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Stock Plan Services Quality Specialist at Empower
+### 1. QA (Content) Binance Accelerator Program at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Quality Assurance (QA)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qabinance-accelerator-program-binance)
+
+---
+
+### 2. Stock Plan Services Quality Specialist at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 2. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
+### 3. Binance Accelerator Program - QA Coding (Fully Remote) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 3. Senior Software Engineer, Quality at Camunda
+### 4. Senior Software Engineer, Quality at Camunda
 
 💰 **Salary**: $143,800-$231,900 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Engineering Manager, QA at Binance
+### 5. Engineering Manager, QA at Binance
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 5. Senior QA Engineer (Rust/Java), Margin at Binance
+### 6. Senior QA Engineer (Rust/Java), Margin at Binance
 
 🌍 **Location**: Worldwide
 
@@ -65,7 +75,7 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -93,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 26, 2026 at 00:01 UTC_
+_Last updated: October 27, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
