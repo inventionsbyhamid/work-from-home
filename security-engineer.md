@@ -294,60 +294,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 29. C Developer Intern at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/c-developer-intern-cloudlinux)
 
 ---
 
-### 30. Lead Blockchain Security Developer, Canton at OpenZeppelin
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-blockchain-security-developer-canton-openzeppelin)
-
----
-
-### 31. Principal Solana Security Engineer at OpenZeppelin
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-solana-security-engineer-openzeppelin)
-
----
-
-### 32. Head of IT and Information Security at OpenZeppelin
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-it-and-information-security-openzeppelin)
-
----
-
-### 33. Senior Governance Risk and Compliance Security Engineer at Clerk
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-governance-risk-and-compliance-security-engineer-clerk)
-
----
-
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -375,6 +325,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 26, 2026 at 00:01 UTC_
+_Last updated: October 27, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
