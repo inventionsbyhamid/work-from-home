@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Translator, Italian (IT) at Circle
+### 1. Technical Program Manager, CX Intelligence & AI at Coinbase
+
+💰 **Salary**: $212,330-$249,800 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-program-manager-cx-intelligence-ai-coinbase)
+
+---
+
+### 2. Translator, Italian (IT) at Circle
 
 💰 **Salary**: $35+ USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 2. Solutions Architect, Public Sector at GitLab
+### 3. Solutions Architect, Public Sector at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 3. Technical Account Manager, Newspack at Automattic
+### 4. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -42,7 +54,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 4. Customer Success Architect at GitLab
+### 5. Customer Success Architect at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -55,7 +67,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -83,6 +95,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 26, 2026 at 00:01 UTC_
+_Last updated: October 27, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
