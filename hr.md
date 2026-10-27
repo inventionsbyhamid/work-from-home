@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Manager Stock Plan Participant Services at Empower
+### 1. Candidate Experience Specialist at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/candidate-experience-specialist-gitlab)
+
+---
+
+### 2. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Senior Manager, People Operations at Atticus
+### 3. Senior Manager, People Operations at Atticus
 
 💰 **Salary**: $130,000-$185,000 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. HR Manager, Global Expansion at Dandy
+### 4. HR Manager, Global Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Clinical Support Team Lead (CSL) at Dandy
+### 5. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Head of Talent at VRChat
+### 6. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Head of People at VRChat
+### 7. Head of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Technical Project Manager, People Operations at Dandy
+### 8. Technical Project Manager, People Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. HRIS Manager Asia at Binance
+### 9. HRIS Manager Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +105,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -123,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 26, 2026 at 00:01 UTC_
+_Last updated: October 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
