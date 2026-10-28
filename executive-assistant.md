@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Director of Customer Support North America at Cloudbeds
+### 1. Chief Customer Officer at Xapo Bank
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-customer-officer-xapo-bank)
+
+---
+
+### 2. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 2. Counsel / Senior Counsel at Automattic
+### 3. Counsel / Senior Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -32,7 +42,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 3. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
+### 4. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -44,7 +54,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 4. Head of Talent at VRChat
+### 5. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 5. Investments Director at Empower
+### 6. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -66,7 +76,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 6. Executive Assistant and Corporate Administrator at Canonical
+### 7. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -79,7 +89,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -107,6 +117,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 27, 2026 at 00:00 UTC_
+_Last updated: October 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
