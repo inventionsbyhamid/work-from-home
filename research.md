@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 1. AI Support Operations Specialist at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-support-operations-specialist-safetywing)
+
+---
+
+### 2. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 3. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
+### 4. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 5. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Project Research & Due Diligence Asia at Binance
+### 6. Project Research & Due Diligence Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Data Scientist / Machine Learning Engineer at Applaudo
+### 7. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Financial Risk Manager at Alpaca
+### 8. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -78,23 +88,13 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Binance Accelerator Program - Research Data Scientist at Binance
+### 9. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Research
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-research-data-scientist-binance)
-
----
-
-### 9. Sanctions Advisory Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Research
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sanctions-advisory-specialist-remote-binance)
 
 ---
 
@@ -129,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 27, 2026 at 00:01 UTC_
+_Last updated: October 28, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
