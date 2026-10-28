@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Manager, WFM Compliance Operations at Coinbase
+### 1. Staff Program Manager, CCO Programs Remote at GitLab
+
+💰 **Salary**: $139,200-$235,200 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-program-manager-cco-programs-remote-gitlab)
+
+---
+
+### 2. Manager, WFM Compliance Operations at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Technical Account Manager, Newspack at Automattic
+### 3. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Strategic Project Manager, Operations at Lido
+### 4. Strategic Project Manager, Operations at Lido
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Service Delivery Lead at Applaudo
+### 5. Service Delivery Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Binance Accelerator Program - Creative Operations Intern at Binance
+### 6. Binance Accelerator Program - Creative Operations Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Technical Project Manager, People Operations at Dandy
+### 7. Technical Project Manager, People Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Senior Manager, Technical Program Management at GitLab
+### 8. Senior Manager, Technical Program Management at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 8. Director of Professional Services, WordPress VIP at Automattic
+### 9. Director of Professional Services, WordPress VIP at Automattic
 
 💰 **Salary**: $130,000-$190,000 USD
 
@@ -95,7 +107,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -123,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 27, 2026 at 00:01 UTC_
+_Last updated: October 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
