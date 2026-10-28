@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ## Available Positions (Last 30 Days)
 
-### 1. Communications and Social Media Manager at DuckDuckGo
+### 1. Japanese Translator at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Copywriter
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/japanese-translator-chess)
+
+---
+
+### 2. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 2. Translator, Portuguese (pt-PT) at Circle
+### 3. Translator, Portuguese (pt-PT) at Circle
 
 💰 **Salary**: $35 USD
 
@@ -33,7 +43,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -61,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 27, 2026 at 00:00 UTC_
+_Last updated: October 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
