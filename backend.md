@@ -562,20 +562,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 54. Engineering Manager, QA at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-qa-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 54 positions available
+**Total Jobs**: 53 positions available
 
 ---
 
@@ -603,6 +593,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 28, 2026 at 00:00 UTC_
+_Last updated: October 29, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
