@@ -18,35 +18,35 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 27 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 25 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 12 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 5 remote jobs available
-- 🏠 **[Backend](backend.md)** - 53 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 27 remote jobs available
+- 🏠 **[Backend](backend.md)** - 56 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 29 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 3 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 9 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 15 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 16 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 20 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 40 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 41 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 43 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 44 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 7 remote jobs available
-- 🏠 **[Finance](finance.md)** - 29 remote jobs available
-- 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 11 remote jobs available
+- 🏠 **[Finance](finance.md)** - 31 remote jobs available
+- 🏠 **[Frontend](frontend.md)** - 9 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
-- 🏠 **[HR](hr.md)** - 9 remote jobs available
+- 🏠 **[HR](hr.md)** - 10 remote jobs available
 - 🏠 **[Intern](intern.md)** - 5 remote jobs available
 - 🏠 **[Legal](legal.md)** - 12 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 28 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 31 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 9 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 29 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 32 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 9 remote jobs available
-- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 4 remote jobs available
-- 🏠 **[Research](research.md)** - 9 remote jobs available
-- 🏠 **[Sales](sales.md)** - 29 remote jobs available
+- 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
+- 🏠 **[Research](research.md)** - 10 remote jobs available
+- 🏠 **[Sales](sales.md)** - 31 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 28 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 7 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 73 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 79 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 5 remote jobs available
 
 
@@ -56,217 +56,213 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Backend Engineer at Coalition Technologies
+### 1. Senior Talent Brand Manager at GitLab
+
+💰 **Salary**: $115,200-$194,400 USD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Backend
+📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/mid-senior-backend-engineer-coalition-technologies)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-talent-brand-manager-gitlab)
 
 ---
 
-### 2. Manager, Strategic Finance (GTM & Revenue) at Dandy
+### 2. Software Engineer - Market Data Remote - EMEA at Alpaca
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Finance
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-strategic-finance-dandy)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-market-data-remote-emea-alpaca)
 
 ---
 
-### 3. Senior Backend Engineer at Coalition Technologies
+### 3. Lead Security Engineer - Vulnerability Response at CloudLinux
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Backend
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-worldwide-coalition-technologies)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-vulnerability-response-remote-cloudlinux)
 
 ---
 
-### 4. Senior Procurement Specialist at Wikimedia
-
-💰 **Salary**: $91,049-$138,263 USD
+### 4. SEO & Analytics Strategist at Fueled
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Admin
+📍 **Category**: Marketing
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-procurement-specialist-wikimedia)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/seo-analytics-strategist-fueled)
 
 ---
 
-### 5. Threat Intelligence Platform Engineer at Coinbase
-
-💰 **Salary**: $144,500-$170,000 USD
+### 5. Engineering Manager, Switchboard Remote at GitLab
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Security Engineer
+📍 **Category**: Engineering Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/threat-intelligence-platform-engineer-coinbase)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-switchboard-remote-gitlab)
 
 ---
 
-### 6. Staff Program Manager, CCO Programs Remote at GitLab
-
-💰 **Salary**: $139,200-$235,200 USD
+### 6. Staff Frontend Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Product Manager
+📍 **Category**: Frontend
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-program-manager-cco-programs-remote-gitlab)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-frontend-engineer-gitlab)
 
 ---
 
-### 7. Senior Deal Desk Lead at Halcyon
+### 7. Senior Software Engineer New Markets Remote at Alpaca
 
-💰 **Salary**: $175,000-$215,000 USD
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-new-markets-remote-alpaca)
+
+---
+
+### 8. Strategic Account Executive, Financial Services at GitLab
+
+💰 **Salary**: $114,800-$186,600 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-deal-desk-lead-halcyon)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/strategic-account-executive-financial-services-gitlab)
 
 ---
 
-### 8. Container Platform Engineer at Supabase
+### 9. Enterprise Account Executive at Halcyon
+
+💰 **Salary**: $120,000-$160,000 USD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: DevOps
+📍 **Category**: Sales
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/container-platform-engineer-supabase)
-
----
-
-### 9. Chief Customer Officer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Executive Assistant
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-customer-officer-xapo-bank)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-account-executive-full-time-halcyon)
 
 ---
 
-### 10. Senior Legal Counsel at OpenZeppelin
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-legal-counsel-openzeppelin)
-
----
-
-### 11. Japanese Translator at Chess
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Copywriter
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/japanese-translator-chess)
-
----
-
-### 12. AI Support Operations Specialist at SafetyWing
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-support-operations-specialist-safetywing)
-
----
-
-### 13. Staff Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-full-time-cloudlinux)
-
----
-
-### 14. Engineering Manager - Infrastructure at Camunda
-
-💰 **Salary**: $172,600-$278,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-infrastructure-camunda)
-
----
-
-### 15. Senior Software Engineer (Backend) at Coalition Technologies
+### 10. Senior ML Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-remote-coalition-technologies)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ml-engineer-cloudlinux)
 
 ---
 
-### 16. Corporate Development Director at GitLab
+### 11. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+
+💰 **Salary**: $65,600-$92,675 USD
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: General
+📍 **Category**: Finance
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/corporate-development-director-gitlab)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-associate-financial-wellness-planning-advisory-services-empower)
 
 ---
 
-### 17. Software Engineer - Crypto Remote at Alpaca
+### 12. Senior Compensation Operations Manager at Camunda
+
+💰 **Salary**: $100,600-$258,400 USD
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-crypto-remote-alpaca)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-compensation-operations-manager-camunda)
 
 ---
 
-### 18. Director of Customer Support North America at Cloudbeds
-
-💰 **Salary**: $180,000-$190,000 USD
+### 13. Senior Full-Stack Engineer - Internal Tools Remote - North America - South America at Alpaca
 
 🌍 **Location**: Worldwide
 
-📍 **Category**: Customer Support
+📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-customer-support-north-america-cloudbeds)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-internal-tools-remote-north-america-south-america-alpaca)
 
 ---
 
-### 19. Senior Product Strategy Manager at Binance
+### 14. Product Manager - Institution Business Hong Kong; Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-strategy-manager-binance)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-institution-business-hong-kong-taiwan-binance)
 
 ---
 
-### 20. Site Reliability Engineer, Infrastructure Platforms at GitLab
-
-💰 **Salary**: $126,400-$314,400 USD
+### 15. Senior Software Engineer - Trading at Alpaca
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineer-infrastructure-platforms-gitlab)
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-trading-alpaca)
+
+---
+
+### 16. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-assigned-support-engineer-gitlab)
+
+---
+
+### 17. Customer Growth Manager at Uscreen at Uscreen
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-growth-manager-at-uscreen-uscreen)
+
+---
+
+### 18. Graduate Software Engineer at CloudLinux at CloudLinux
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-engineer-at-cloudlinux-cloudlinux)
+
+---
+
+### 19. Senior iOS Engineer for Places Client Team at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-for-places-client-team-raya)
+
+---
+
+### 20. Senior Cashiering Associate at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-cashiering-associate-alpaca)
 
 ---
 
@@ -296,6 +292,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 29, 2026 at 00:00 UTC_
+_Last updated: October 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
