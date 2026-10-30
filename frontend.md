@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Frontend Engineer - Web3 Wallet at Binance
+### 1. Staff Frontend Engineer at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-frontend-engineer-gitlab)
+
+---
+
+### 2. Senior Full-Stack Engineer - Internal Tools Remote - North America - South America at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-internal-tools-remote-north-america-south-america-alpaca)
+
+---
+
+### 3. Senior Frontend Engineer - Web3 Wallet at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Website Designer Specialist at Cloudbeds
+### 4. Website Designer Specialist at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Full Stack Engineer (Angular/Python) at CloudLinux
+### 5. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Frontend Engineer - Earn at Binance
+### 6. Frontend Engineer - Earn at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Full Stack Engineer (Angular/Python) at CloudLinux
+### 7. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +78,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Frontend Engineer - KYC at Binance
+### 8. Frontend Engineer - KYC at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +88,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Senior Front End Engineer (React, TypeScript) at DuckDuckGo
+### 9. Senior Front End Engineer (React, TypeScript) at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -78,20 +98,10 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Senior Experience Engineer at Parity
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-experience-engineer-parity)
 
 ---
 
-
----
-
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -119,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 29, 2026 at 00:00 UTC_
+_Last updated: October 30, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
