@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer at Coalition Technologies
+### 1. Senior Product Designer, Developer Platform at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-developer-platform-livekit)
+
+---
+
+### 2. Senior Product Designer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Website Designer Specialist at Cloudbeds
+### 3. Website Designer Specialist at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Dental CAD Designer at Dandy
+### 4. Dental CAD Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Senior Product Designer at DuckDuckGo
+### 5. Senior Product Designer at DuckDuckGo
 
 💰 **Salary**: $178,500-$253,500 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Product Designer at Applaudo
+### 6. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Web Designer at Applaudo
+### 7. Web Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 7. Senior Product Designer at CoinMarketCap
+### 8. Senior Product Designer at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -80,30 +90,10 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 8. Product Designer (Connect Team) at Chess.com
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-chess-com)
 
 ---
 
-### 9. Senior Product Designer at Chess.com
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-chess-com)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -131,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 30, 2026 at 00:00 UTC_
+_Last updated: October 31, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
