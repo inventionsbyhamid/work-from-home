@@ -448,20 +448,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 43. Software Engineer, Infrastructure - Self Managed Experience (SMX) at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-infrastructure-self-managed-experience-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 43 positions available
+**Total Jobs**: 42 positions available
 
 ---
 
@@ -489,6 +479,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 30, 2026 at 00:00 UTC_
+_Last updated: October 31, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
