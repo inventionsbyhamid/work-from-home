@@ -250,30 +250,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 24. Product Owner at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-owner-cloudlinux)
 
 ---
 
-### 25. Product Manager for Dr. Wolf Chess Learning App at Chess.com
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-for-dr-wolf-chess-learning-app-chess-com)
-
----
-
-
----
-
-**Total Jobs**: 25 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -301,6 +281,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 30, 2026 at 00:00 UTC_
+_Last updated: October 31, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
