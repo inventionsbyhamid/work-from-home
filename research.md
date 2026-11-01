@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Staff User Researcher Remote at Coinbase
+### 1. Senior Data Scientist, Places at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-places-raya)
+
+---
+
+### 2. Staff User Researcher Remote at Coinbase
 
 💰 **Salary**: $216,790-$228,200 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. AI Support Operations Specialist at SafetyWing
+### 3. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 4. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 5. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
+### 6. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 7. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Project Research & Due Diligence Asia at Binance
+### 8. Project Research & Due Diligence Asia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Data Scientist / Machine Learning Engineer at Applaudo
+### 9. Data Scientist / Machine Learning Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 9. Financial Risk Manager at Alpaca
+### 10. Financial Risk Manager at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 10. Binance Accelerator Program - Research Data Scientist at Binance
+### 11. Binance Accelerator Program - Research Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -113,7 +123,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -141,6 +151,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 31, 2026 at 00:01 UTC_
+_Last updated: November 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
