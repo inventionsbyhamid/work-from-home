@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Chief Customer Officer at Xapo Bank
+### 1. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-ai-behavioral-science-paradox)
+
+---
+
+### 2. Chief Customer Officer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 2. Director of Customer Support North America at Cloudbeds
+### 3. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 3. Counsel / Senior Counsel at Automattic
+### 4. Counsel / Senior Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -42,7 +52,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 4. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
+### 5. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -54,7 +64,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 5. Head of Talent at VRChat
+### 6. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 6. Investments Director at Empower
+### 7. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -76,7 +86,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 7. Executive Assistant and Corporate Administrator at Canonical
+### 8. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -89,7 +99,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -117,6 +127,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 31, 2026 at 00:00 UTC_
+_Last updated: November 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
