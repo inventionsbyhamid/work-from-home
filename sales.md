@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Partner Solutions Architect, AI Builder Platforms at Supabase
+### 1. Sales Engineer at Coalesce at Coalesce
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-engineer-at-coalesce-coalesce)
+
+---
+
+### 2. Partner Solutions Architect, AI Builder Platforms at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Senior Manager, Customer Expansion at Dandy
+### 3. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
+### 4. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Strategic Account Executive, Financial Services at GitLab
+### 5. Strategic Account Executive, Financial Services at GitLab
 
 💰 **Salary**: $114,800-$186,600 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Enterprise Account Executive at Halcyon
+### 6. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 7. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Senior Deal Desk Lead at Halcyon
+### 8. Senior Deal Desk Lead at Halcyon
 
 💰 **Salary**: $175,000-$215,000 USD
 
@@ -86,7 +96,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Sales Manager at Cloudbeds
+### 9. Sales Manager at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +106,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Paid Ads & Search Specialist (Africa) at Binance
+### 10. Paid Ads & Search Specialist (Africa) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Solutions Engineer, Institutional at MatterLabs
+### 11. Solutions Engineer, Institutional at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +126,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Strategic Account Executive at GitLab
+### 12. Strategic Account Executive at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Revenue Operations Manager at Dandy
+### 13. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
+### 14. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -148,7 +158,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Onboarding Coach at Cloudbeds
+### 15. Onboarding Coach at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +168,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Enterprise Account Manager at Dandy
+### 16. Enterprise Account Manager at Dandy
 
 💰 **Salary**: $120,000+ USD
 
@@ -170,7 +180,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. VIP & Institutional Sales at Binance
+### 17. VIP & Institutional Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +190,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Post Sales Engineer - North America at Camunda
+### 18. Post Sales Engineer - North America at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +200,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Sr. Manager, Solutions Architect SME Remote at GitLab
+### 19. Sr. Manager, Solutions Architect SME Remote at GitLab
 
 💰 **Salary**: $166,200-$249,300 USD
 
@@ -202,7 +212,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+### 20. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -214,7 +224,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Account Executive, Public Sector at Automattic
+### 21. Account Executive, Public Sector at Automattic
 
 💰 **Salary**: $95,000-$160,000 USD
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Territory Sales Manager Remote, Japan at GitLab
+### 22. Territory Sales Manager Remote, Japan at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +246,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 22. Partnerships Manager, Ecosystem at Supabase at Supabase
+### 23. Partnerships Manager, Ecosystem at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -246,7 +256,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 23. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
+### 24. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -256,7 +266,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 24. Sales Director North America at Cloudbeds
+### 25. Sales Director North America at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -266,7 +276,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 25. Investments Director at Empower
+### 26. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -278,7 +288,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 26. Platform Business Partner at SafetyWing at SafetyWing
+### 27. Platform Business Partner at SafetyWing at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -288,7 +298,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 27. Revenue Operations Administrator at Kinsta
+### 28. Revenue Operations Administrator at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -298,7 +308,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 28. Sales Development Representative at Chili Piper
+### 29. Sales Development Representative at Chili Piper
 
 🌍 **Location**: Worldwide
 
@@ -308,7 +318,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 29. Account Manager at Dandy
+### 30. Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -318,7 +328,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 30. Enterprise Account Executive II - DACH at Camunda
+### 31. Enterprise Account Executive II - DACH at Camunda
 
 💰 **Salary**: $158,000-$261,400 EUR
 
@@ -330,7 +340,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 31. Corporate Account Executive III - NA at Camunda
+### 32. Corporate Account Executive III - NA at Camunda
 
 💰 **Salary**: $212,700-$343,000 USD
 
@@ -342,7 +352,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 32. Director of Strategic Partnerships at Circle
+### 33. Director of Strategic Partnerships at Circle
 
 💰 **Salary**: $186,000 USD
 
@@ -354,7 +364,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 33. Director of Revenue Operations at Uscreen
+### 34. Director of Revenue Operations at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -367,7 +377,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 33 positions available
+**Total Jobs**: 34 positions available
 
 ---
 
@@ -395,6 +405,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 31, 2026 at 00:01 UTC_
+_Last updated: November 01, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
