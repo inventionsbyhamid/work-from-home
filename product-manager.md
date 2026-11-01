@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Compensation Operations Manager at Camunda
+### 1. Product Manager, AI and EdTech at Paradox
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ai-and-edtech-paradox)
+
+---
+
+### 2. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-ai-behavioral-science-paradox)
+
+---
+
+### 3. Senior Compensation Operations Manager at Camunda
 
 💰 **Salary**: $100,600-$258,400 USD
 
@@ -20,7 +40,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 2. Product Manager - Institution Business Hong Kong; Taiwan at Binance
+### 4. Product Manager - Institution Business Hong Kong; Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 3. Staff User Researcher Remote at Coinbase
+### 5. Staff User Researcher Remote at Coinbase
 
 💰 **Salary**: $216,790-$228,200 USD
 
@@ -42,7 +62,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 4. Staff Program Manager, CCO Programs Remote at GitLab
+### 6. Staff Program Manager, CCO Programs Remote at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -54,7 +74,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 5. Chief Customer Officer at Xapo Bank
+### 7. Chief Customer Officer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -64,7 +84,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 6. Senior Product Strategy Manager at Binance
+### 8. Senior Product Strategy Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +94,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 7. Senior Product Designer at Coalition Technologies
+### 9. Senior Product Designer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +104,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 8. Product Manager at Applaudo
+### 10. Product Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +114,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 9. Business Insight Lead (User Growth) at Binance
+### 11. Business Insight Lead (User Growth) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +124,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 10. Technical Program Manager, CX Intelligence & AI at Coinbase
+### 12. Technical Program Manager, CX Intelligence & AI at Coinbase
 
 💰 **Salary**: $212,330-$249,800 USD
 
@@ -116,7 +136,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 11. Product Manager, Trading Systems at Binance
+### 13. Product Manager, Trading Systems at Binance
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +146,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 12. Manager, WFM Compliance Operations at Coinbase
+### 14. Manager, WFM Compliance Operations at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +156,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 13. Lead Pricing Strategist at GitLab
+### 15. Lead Pricing Strategist at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -148,7 +168,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 14. Senior Product Manager - Web3 (User Journey) at Binance
+### 16. Senior Product Manager - Web3 (User Journey) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +178,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 15. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
+### 17. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +188,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 16. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
+### 18. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +198,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 17. Product Manager - Social Features (Content) at Binance
+### 19. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +208,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 18. Growth & Partnerships Manager - Staking Products Taiwan at Binance
+### 20. Growth & Partnerships Manager - Staking Products Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +218,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 19. Senior Product Marketing Manager, Trading at Coinbase
+### 21. Senior Product Marketing Manager, Trading at Coinbase
 
 💰 **Salary**: $170,765-$200,900 USD
 
@@ -210,7 +230,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 20. GFCO Program Manager at Coinbase
+### 22. GFCO Program Manager at Coinbase
 
 💰 **Salary**: $166,345-$225,055 USD
 
@@ -222,7 +242,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 21. Product Manager II, Workspace and Multi-User Remote at Coinbase
+### 23. Product Manager II, Workspace and Multi-User Remote at Coinbase
 
 💰 **Salary**: $180,370-$212,200 USD
 
@@ -234,7 +254,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 22. Senior Product Manager, Gameplay at Chess
+### 24. Senior Product Manager, Gameplay at Chess
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +264,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 23. Senior Product Manager - Experience Optimization at Binance
+### 25. Senior Product Manager - Experience Optimization at Binance
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +274,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 24. Product Operations Manager at LiveKit
+### 26. Product Operations Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +284,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 25. Senior Product Manager, Trading API at Alpaca
+### 27. Senior Product Manager, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -274,7 +294,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 26. Product Manager, Auth at Supabase
+### 28. Product Manager, Auth at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -284,7 +304,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 27. Head of AI Operations at Supabase
+### 29. Head of AI Operations at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -294,7 +314,7 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 28. Senior AI Product Manager at Clutch
+### 30. Senior AI Product Manager at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -304,20 +324,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 29. Senior Product Marketing Manager at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketing-manager-camunda)
 
 ---
 
-
----
-
-**Total Jobs**: 29 positions available
+**Total Jobs**: 30 positions available
 
 ---
 
@@ -345,6 +355,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: October 31, 2026 at 00:00 UTC_
+_Last updated: November 01, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
