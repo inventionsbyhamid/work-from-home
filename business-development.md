@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Partner Solutions Architect, AI Builder Platforms at Supabase
+### 1. Business Development Manager at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-manager-not-specified-dandy)
+
+---
+
+### 2. Sales Analyst Remote at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-analyst-remote-alpaca)
+
+---
+
+### 3. Partner Solutions Architect, AI Builder Platforms at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 2. Senior Manager, Customer Expansion at Dandy
+### 4. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 3. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
+### 5. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 4. Strategic Account Executive, Financial Services at GitLab
+### 6. Strategic Account Executive, Financial Services at GitLab
 
 💰 **Salary**: $114,800-$186,600 USD
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 5. Customer Growth Manager at Uscreen at Uscreen
+### 7. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 6. Manager, Strategic Finance (GTM & Revenue) at Dandy
+### 8. Manager, Strategic Finance (GTM & Revenue) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +90,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 7. Business Insight Lead (User Growth) at Binance
+### 9. Business Insight Lead (User Growth) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +100,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 8. Sales Manager at Cloudbeds
+### 10. Sales Manager at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +110,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 9. Solutions Engineer, Institutional at MatterLabs
+### 11. Solutions Engineer, Institutional at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +120,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 10. Customer Support Coach - NORAM at Cloudbeds
+### 12. Customer Support Coach - NORAM at Cloudbeds
 
 💰 **Salary**: $55,000-$77,000 USD
 
@@ -112,7 +132,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 11. Strategic Account Executive at GitLab
+### 13. Strategic Account Executive at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +142,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 12. Revenue Operations Manager at Dandy
+### 14. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +152,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 13. Earn Operation BD (Onchain Direction) at Binance
+### 15. Earn Operation BD (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +162,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 14. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
+### 16. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +172,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 15. Enterprise Account Manager at Dandy
+### 17. Enterprise Account Manager at Dandy
 
 💰 **Salary**: $120,000+ USD
 
@@ -164,7 +184,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 16. Manager, Card Business Development & Operations at Binance
+### 18. Manager, Card Business Development & Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +194,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 17. VIP & Institutional Sales at Binance
+### 19. VIP & Institutional Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -184,7 +204,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 18. Growth & Partnerships Manager - Staking Products Taiwan at Binance
+### 20. Growth & Partnerships Manager - Staking Products Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +214,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 19. Data Analyst - Binance Accelerator Program at Binance
+### 21. Data Analyst - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +224,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 20. Account Executive, Public Sector at Automattic
+### 22. Account Executive, Public Sector at Automattic
 
 💰 **Salary**: $95,000-$160,000 USD
 
@@ -216,7 +236,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 21. Business Development - Equity Capital Markets at Binance
+### 23. Business Development - Equity Capital Markets at Binance
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +246,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 22. Territory Sales Manager Remote, Japan at GitLab
+### 24. Territory Sales Manager Remote, Japan at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +256,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 23. Partnerships Manager, Ecosystem at Supabase at Supabase
+### 25. Partnerships Manager, Ecosystem at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -246,7 +266,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 24. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
+### 26. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -256,7 +276,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 25. Sales Director North America at Cloudbeds
+### 27. Sales Director North America at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -266,7 +286,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 26. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
+### 28. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -276,7 +296,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 27. Global Affiliate Manager at Binance
+### 29. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -286,7 +306,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 28. Platform Business Partner at SafetyWing at SafetyWing
+### 30. Platform Business Partner at SafetyWing at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -296,7 +316,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 29. Revenue Operations Administrator at Kinsta
+### 31. Revenue Operations Administrator at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +326,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 30. Sales Development Representative at Chili Piper
+### 32. Sales Development Representative at Chili Piper
 
 🌍 **Location**: Worldwide
 
@@ -316,7 +336,7 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 31. Director of Strategic Partnerships at Circle
+### 33. Director of Strategic Partnerships at Circle
 
 💰 **Salary**: $186,000 USD
 
@@ -328,20 +348,10 @@ Latest **100% remote** job opportunities in **Business Development** from the pa
 
 ---
 
-### 32. Director of Revenue Operations at Uscreen
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-revenue-operations-uscreen)
 
 ---
 
-
----
-
-**Total Jobs**: 32 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -369,6 +379,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 01, 2026 at 00:00 UTC_
+_Last updated: November 02, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
