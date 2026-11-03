@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Procurement Specialist at Wikimedia
+### 1. Office Administrator/ Manager at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/office-administrator-manager-binance)
+
+---
+
+### 2. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Candidate Experience Specialist at GitLab
+### 3. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. GRC Analyst at Supabase at Supabase
+### 4. GRC Analyst at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Paralegal at Atticus
+### 5. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. Customer Service Representative ( Spanish / English) at Binance
+### 6. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. Community Support Specialist for Raya at Raya
+### 7. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. Head of Talent at VRChat
+### 8. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. Brokerage Operations Quality Specialist at Empower
+### 9. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 9. IT Support Specialist at Applaudo
+### 10. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 10. Communications and Partnerships Assistant at Winona
+### 11. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
@@ -114,23 +124,13 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 11. Executive Assistant and Corporate Administrator at Canonical
+### 12. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Admin
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/executive-assistant-and-corporate-administrator-canonical)
-
----
-
-### 12. Operations Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-specialist-binance)
 
 ---
 
@@ -165,6 +165,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:00 UTC_
+_Last updated: November 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
