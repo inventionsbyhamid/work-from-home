@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
+### 1. Senior Director Compliance Monitoring & Surveillance at Empower
+
+💰 **Salary**: $144,900-$210,075 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-compliance-monitoring-surveillance-empower)
+
+---
+
+### 2. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 2. Chief Customer Officer at Xapo Bank
+### 3. Chief Customer Officer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 3. Director of Customer Support North America at Cloudbeds
+### 4. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 4. Counsel / Senior Counsel at Automattic
+### 5. Counsel / Senior Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 5. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
+### 6. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -64,7 +76,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 6. Head of Talent at VRChat
+### 7. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +86,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 7. Investments Director at Empower
+### 8. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -86,7 +98,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 8. Executive Assistant and Corporate Administrator at Canonical
+### 9. Executive Assistant and Corporate Administrator at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -99,7 +111,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -127,6 +139,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:00 UTC_
+_Last updated: November 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
