@@ -192,42 +192,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 19. Senior Data Scientist at Fingerprint
-
-💰 **Salary**: $152,000-$205,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-fingerprint)
 
 ---
 
-### 20. Binance Accelerator Program - Research Data Scientist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-research-data-scientist-binance)
-
----
-
-### 21. Solution Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solution-architect-applaudo)
-
----
-
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -255,6 +223,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:00 UTC_
+_Last updated: November 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
