@@ -460,40 +460,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 44. AI Agent Platform Engineer (Openclaw) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-agent-platform-engineer-binance)
 
 ---
 
-### 45. Security Engineer Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-manager-binance)
-
----
-
-### 46. Staff Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-remote-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 46 positions available
+**Total Jobs**: 43 positions available
 
 ---
 
@@ -521,6 +491,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:00 UTC_
+_Last updated: November 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
