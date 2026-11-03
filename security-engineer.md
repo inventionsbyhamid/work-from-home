@@ -270,40 +270,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 26. Security Engineer Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-manager-binance)
 
 ---
 
-### 27. Senior Privacy Engineer at DuckDuckGo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-privacy-engineer-duckduckgo)
-
----
-
-### 28. Staff Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-engineer-remote-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -331,6 +301,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:01 UTC_
+_Last updated: November 03, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
