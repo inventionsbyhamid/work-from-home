@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Corporate Counsel at Automattic
+### 1. Senior Counsel, Commercial at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-counsel-commercial-dandy)
+
+---
+
+### 2. Senior Director Compliance Monitoring & Surveillance at Empower
+
+💰 **Salary**: $144,900-$210,075 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-compliance-monitoring-surveillance-empower)
+
+---
+
+### 3. Senior Corporate Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -20,7 +42,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Senior Legal Counsel at OpenZeppelin
+### 4. Senior Legal Counsel at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +52,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 5. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +62,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Counsel / Senior Counsel at Automattic
+### 6. Counsel / Senior Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -52,7 +74,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Product Counsel, Equities & Tokenized Securities at Binance
+### 7. Product Counsel, Equities & Tokenized Securities at Binance
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +84,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 8. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +94,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Paralegal at Atticus
+### 9. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -84,7 +106,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 8. Global Financial Crime/Sanctions Legal Counsel at Binance
+### 10. Global Financial Crime/Sanctions Legal Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +116,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 9. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
+### 11. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +126,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 10. Claims Manager at Counterpart at Counterpart
+### 12. Claims Manager at Counterpart at Counterpart
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -116,7 +138,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 11. Product Lead Counsel at Binance
+### 13. Product Lead Counsel at Binance
 
 🌍 **Location**: Worldwide
 
@@ -126,20 +148,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 12. Senior Legal Counsel, Data & Privacy at Kit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-legal-counsel-data-privacy-kit)
 
 ---
 
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -167,6 +179,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 02, 2026 at 00:00 UTC_
+_Last updated: November 03, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
