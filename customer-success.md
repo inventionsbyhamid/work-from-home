@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Technical Account Manager- Nordics at Camunda
+### 1. Retention Specialist (English and Punjabi) at Bobtail
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/retention-specialist-bobtail)
+
+---
+
+### 2. Technical Account Manager- Nordics at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Technical Account Manager- DACH at Camunda
+### 3. Technical Account Manager- DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Senior Manager, Customer Expansion at Dandy
+### 4. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Customer Growth Manager at Uscreen at Uscreen
+### 5. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Community Support Manager at Raya
+### 6. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 7. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Customer Solutions Architect at Supabase
+### 8. Customer Solutions Architect at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 8. Clinical Support Team Lead (CSL) at Dandy
+### 9. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 9. Technical Account Manager, Newspack at Automattic
+### 10. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 10. Customer Success Architect at GitLab
+### 11. Customer Success Architect at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 11. Account Manager at Dandy
+### 12. Account Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -120,25 +130,13 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 12. Director, Customer Experience, Trading API at Alpaca
+### 13. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Customer Success
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-customer-experience-trading-api-alpaca)
-
----
-
-### 13. Director of Professional Services, WordPress VIP at Automattic
-
-💰 **Salary**: $130,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-professional-services-wordpress-vip-automattic)
 
 ---
 
@@ -173,6 +171,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 03, 2026 at 00:00 UTC_
+_Last updated: November 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
