@@ -450,20 +450,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 43. Engineering Manager - Distributed Systems, Python / Go at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-distributed-systems-python-go-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 43 positions available
+**Total Jobs**: 42 positions available
 
 ---
 
@@ -491,6 +481,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 03, 2026 at 00:00 UTC_
+_Last updated: November 04, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
