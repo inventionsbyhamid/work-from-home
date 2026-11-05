@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer, Developer Platform at LiveKit
+### 1. Senior Product Designer at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-camunda)
+
+---
+
+### 2. Senior Product Designer, Developer Platform at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Senior Product Designer at Coalition Technologies
+### 3. Senior Product Designer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Website Designer Specialist at Cloudbeds
+### 4. Website Designer Specialist at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Dental CAD Designer at Dandy
+### 5. Dental CAD Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Senior Product Designer at DuckDuckGo
+### 6. Senior Product Designer at DuckDuckGo
 
 💰 **Salary**: $178,500-$253,500 USD
 
@@ -60,23 +70,13 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Product Designer at Applaudo
+### 7. Product Designer at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Designer
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-designer-remote-applaudo)
-
----
-
-### 7. Web Designer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Designer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/web-designer-applaudo)
 
 ---
 
@@ -111,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 04, 2026 at 00:00 UTC_
+_Last updated: November 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
