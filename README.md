@@ -18,35 +18,35 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 25 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 24 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 13 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 5 remote jobs available
-- 🏠 **[Backend](backend.md)** - 54 remote jobs available
+- 🏠 **[Backend](backend.md)** - 55 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 34 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 3 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 13 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 18 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 19 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 18 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 42 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 48 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 9 remote jobs available
-- 🏠 **[Finance](finance.md)** - 27 remote jobs available
+- 🏠 **[Finance](finance.md)** - 28 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 10 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 10 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
 - 🏠 **[HR](hr.md)** - 12 remote jobs available
 - 🏠 **[Intern](intern.md)** - 5 remote jobs available
-- 🏠 **[Legal](legal.md)** - 13 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 33 remote jobs available
+- 🏠 **[Legal](legal.md)** - 12 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 34 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 7 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 34 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 9 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 8 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
-- 🏠 **[Research](research.md)** - 9 remote jobs available
-- 🏠 **[Sales](sales.md)** - 36 remote jobs available
+- 🏠 **[Research](research.md)** - 8 remote jobs available
+- 🏠 **[Sales](sales.md)** - 37 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 25 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 7 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 92 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 93 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 6 remote jobs available
 
 
@@ -56,7 +56,53 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. VP of Program Management Office at Crossover
+### 1. Senior Product Designer at Camunda
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-camunda)
+
+---
+
+### 2. Financial Coach at Empower
+
+💰 **Salary**: $58,500-$72,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-coach-empower)
+
+---
+
+### 3. Senior Performance Marketing Manager at Fingerprint
+
+💰 **Salary**: $148,000-$200,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-performance-marketing-manager-fingerprint)
+
+---
+
+### 4. Staff Software Engineer, Guest & Host at Airbnb
+
+💰 **Salary**: $212,000-$265,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Software Development Engineer (SDE)
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-guest-host-airbnb)
+
+---
+
+### 5. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +112,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Lead Engineer, Frontier Traders at Solana
+### 6. Lead Engineer, Frontier Traders at Solana
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +122,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Financial Data Engineer, AI/LLM at Binance
+### 7. Financial Data Engineer, AI/LLM at Binance
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +132,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Customer Service Representative (French & English) at Binance
+### 8. Customer Service Representative (French & English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +142,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Applied Data Scientist at Binance
+### 9. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +152,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Lead Analyst Digital Accelerator at Empower
+### 10. Lead Analyst Digital Accelerator at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -118,7 +164,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Manager of Visual Design at Dandy
+### 11. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Product Owner, Innovation Team at CloudLinux
+### 12. Product Owner, Innovation Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +184,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Retention Specialist (English and Punjabi) at Bobtail
+### 13. Retention Specialist (English and Punjabi) at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +194,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Billing Support Specialist at Supabase
+### 14. Billing Support Specialist at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +204,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Senior Architect, Enterprise Agentic Automation at Camunda
+### 15. Senior Architect, Enterprise Agentic Automation at Camunda
 
 💰 **Salary**: $171,100-$275,800 USD
 
@@ -170,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Backend Engineer, Source Code: Repository Services (Ruby) Remote at GitLab
+### 16. Backend Engineer, Source Code: Repository Services (Ruby) Remote at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -182,7 +228,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Data Scientist, Enterprise Analytics Remote, United States at GitLab
+### 17. Data Scientist, Enterprise Analytics Remote, United States at GitLab
 
 💰 **Salary**: $86,400-$176,400 USD
 
@@ -194,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. HR Business Partner at Binance
+### 18. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +250,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Office Administrator/ Manager at Binance
+### 19. Office Administrator/ Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -214,55 +260,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Engineering Manager, Architecture Engineering: Async Remote at GitLab
+### 20. Engineering Manager, Architecture Engineering: Async Remote at GitLab
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Engineering Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-architecture-engineering-async-remote-gitlab)
-
----
-
-### 17. Senior Counsel, Commercial at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-counsel-commercial-dandy)
-
----
-
-### 18. Senior Frontend Engineer - Acquisition Remote at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-frontend-engineer-acquisition-remote-alpaca)
-
----
-
-### 19. Senior Director Compliance Monitoring & Surveillance at Empower
-
-💰 **Salary**: $144,900-$210,075 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-director-compliance-monitoring-surveillance-empower)
-
----
-
-### 20. Technical Account Manager- Nordics at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-nordics-camunda)
 
 ---
 
@@ -292,6 +296,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 04, 2026 at 00:00 UTC_
+_Last updated: November 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
