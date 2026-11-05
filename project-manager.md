@@ -92,20 +92,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 9. Senior Manager, Technical Program Management at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-technical-program-management-gitlab)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -133,6 +123,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 04, 2026 at 00:00 UTC_
+_Last updated: November 05, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
