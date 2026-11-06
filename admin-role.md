@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. HR Business Partner at Binance
+### 1. Senior Accountant North America - Remote at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-accountant-north-america-alpaca)
+
+---
+
+### 2. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Office Administrator/ Manager at Binance
+### 3. Office Administrator/ Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. Senior Procurement Specialist at Wikimedia
+### 4. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Candidate Experience Specialist at GitLab
+### 5. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. GRC Analyst at Supabase at Supabase
+### 6. GRC Analyst at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. Paralegal at Atticus
+### 7. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. Customer Service Representative ( Spanish / English) at Binance
+### 8. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. Community Support Specialist for Raya at Raya
+### 9. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 9. Head of Talent at VRChat
+### 10. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 10. Brokerage Operations Quality Specialist at Empower
+### 11. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 11. IT Support Specialist at Applaudo
+### 12. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -124,23 +134,13 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 12. Communications and Partnerships Assistant at Winona
+### 13. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Admin
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-partnerships-assistant-winona)
-
----
-
-### 13. Executive Assistant and Corporate Administrator at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/executive-assistant-and-corporate-administrator-canonical)
 
 ---
 
@@ -175,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 05, 2026 at 00:00 UTC_
+_Last updated: November 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
