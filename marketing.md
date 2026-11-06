@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Performance Marketing Manager at Fingerprint
+### 1. Partner Program Lead (U.S.) Marketing at beehiiv
+
+💰 **Salary**: $130,000-$215,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/partner-program-leadmarketing-beehiiv)
+
+---
+
+### 2. Senior Developer Relations Leader for Supabase at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-developer-relations-leader-for-supabase-supabase)
+
+---
+
+### 3. Growth Copywriter at Winona
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-copywriter-winona)
+
+---
+
+### 4. Senior Performance Marketing Manager at Fingerprint
 
 💰 **Salary**: $148,000-$200,000 USD
 
@@ -20,7 +52,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Senior Manager of Visual Design at Dandy
+### 5. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +62,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Senior Product Manager, Growth at beehiiv
+### 6. Senior Product Manager, Growth at beehiiv
 
 💰 **Salary**: $145,000-$160,000 USD
 
@@ -42,7 +74,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Growth Lead, Marketplace at Circle
+### 7. Growth Lead, Marketplace at Circle
 
 💰 **Salary**: $147,000-$160,000 USD
 
@@ -54,7 +86,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
+### 8. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
 
 💰 **Salary**: $80,000-$100,000 AUD
 
@@ -66,7 +98,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Senior Growth Marketing Manager at DuckDuckGo
+### 9. Senior Growth Marketing Manager at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -78,7 +110,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Senior Talent Brand Manager at GitLab
+### 10. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -90,7 +122,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. SEO & Analytics Strategist at Fueled
+### 11. SEO & Analytics Strategist at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +132,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Customer Growth Manager at Uscreen at Uscreen
+### 12. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +142,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Chief Customer Officer at Xapo Bank
+### 13. Chief Customer Officer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +152,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Social Media Specialist at Binance
+### 14. Social Media Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +162,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Business Insight Lead (User Growth) at Binance
+### 15. Business Insight Lead (User Growth) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +172,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Paid Ads & Search Specialist (Africa) at Binance
+### 16. Paid Ads & Search Specialist (Africa) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +182,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Head of Communications at Atticus
+### 17. Head of Communications at Atticus
 
 💰 **Salary**: $250,000-$350,000 USD
 
@@ -162,7 +194,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Social Media Manager at Binance
+### 18. Social Media Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +204,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. New Media Manager, Social and Community Growth at Solana
+### 19. New Media Manager, Social and Community Growth at Solana
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +214,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Head of Marketing at Wikimedia
+### 20. Head of Marketing at Wikimedia
 
 💰 **Salary**: $143,478-$217,585 USD
 
@@ -194,7 +226,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Translator, Italian (IT) at Circle
+### 21. Translator, Italian (IT) at Circle
 
 💰 **Salary**: $35+ USD
 
@@ -206,7 +238,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Lead Pricing Strategist at GitLab
+### 22. Lead Pricing Strategist at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -218,7 +250,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
+### 23. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +260,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Senior Copywriter at Phantom
+### 24. Senior Copywriter at Phantom
 
 💰 **Salary**: $140,000-$188,000 USD
 
@@ -240,7 +272,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Communications and Social Media Manager at DuckDuckGo
+### 25. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -250,7 +282,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 23. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 26. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +292,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 24. Growth & Partnerships Manager - Staking Products Taiwan at Binance
+### 27. Growth & Partnerships Manager - Staking Products Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -270,7 +302,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 25. Senior Product Marketing Manager, Trading at Coinbase
+### 28. Senior Product Marketing Manager, Trading at Coinbase
 
 💰 **Salary**: $170,765-$200,900 USD
 
@@ -282,7 +314,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 26. Creator and UGC Growth Marketer at Supabase
+### 29. Creator and UGC Growth Marketer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -292,7 +324,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 27. Head of Communications - New Media at Supabase at Supabase
+### 30. Head of Communications - New Media at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -302,7 +334,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 28. Entry-level communications specialist at Canonical
+### 31. Entry-level communications specialist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -312,7 +344,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 29. Social Media and Content Intern at Binance
+### 32. Social Media and Content Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -322,7 +354,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 30. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
+### 33. Affiliate BD - Greater China Hong Kong; Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -332,7 +364,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 31. Global Affiliate Manager at Binance
+### 34. Global Affiliate Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -342,7 +374,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 32. Part-time 2D Designer for VRChat Platform at VRChat
+### 35. Part-time 2D Designer for VRChat Platform at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -352,7 +384,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 33. Communications and Partnerships Assistant at Winona
+### 36. Communications and Partnerships Assistant at Winona
 
 🌍 **Location**: Worldwide
 
@@ -362,7 +394,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 34. Binance Accelerator Program - Creative Operations Intern at Binance
+### 37. Binance Accelerator Program - Creative Operations Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -375,7 +407,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 34 positions available
+**Total Jobs**: 37 positions available
 
 ---
 
@@ -403,6 +435,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 05, 2026 at 00:00 UTC_
+_Last updated: November 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
