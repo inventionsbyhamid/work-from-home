@@ -98,20 +98,10 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 9. Executive Assistant and Corporate Administrator at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Executive Assistant
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/executive-assistant-and-corporate-administrator-canonical)
 
 ---
 
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -139,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 05, 2026 at 00:00 UTC_
+_Last updated: November 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
