@@ -562,32 +562,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 54. Data Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-engineer-remote-applaudo)
 
 ---
 
-### 55. Senior Forward Deployed Engineer at Camunda
-
-💰 **Salary**: $157,300-$253,600 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-forward-deployed-engineer-camunda)
-
----
-
-
----
-
-**Total Jobs**: 55 positions available
+**Total Jobs**: 53 positions available
 
 ---
 
@@ -615,6 +593,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 05, 2026 at 00:00 UTC_
+_Last updated: November 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
