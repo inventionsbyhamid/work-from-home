@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. HR Business Partner at Binance
+### 1. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/recruiter-salesremote-australia-remote-singapore-gitlab)
+
+---
+
+### 2. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
+### 3. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Senior Manager, Total Rewards Operations at GitLab
+### 4. Senior Manager, Total Rewards Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Senior Talent Brand Manager at GitLab
+### 5. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Candidate Experience Specialist at GitLab
+### 6. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Senior Manager Stock Plan Participant Services at Empower
+### 7. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Senior Manager, People Operations at Atticus
+### 8. Senior Manager, People Operations at Atticus
 
 💰 **Salary**: $130,000-$185,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. HR Manager, Global Expansion at Dandy
+### 9. HR Manager, Global Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Clinical Support Team Lead (CSL) at Dandy
+### 10. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Head of Talent at VRChat
+### 11. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Head of People at VRChat
+### 12. Head of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Technical Project Manager, People Operations at Dandy
+### 13. Technical Project Manager, People Operations at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -137,7 +147,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 12 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -165,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 05, 2026 at 00:00 UTC_
+_Last updated: November 06, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
