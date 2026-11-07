@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Sanctions Operations Analyst (1 year contract) at Binance
+### 1. Senior Business Operations Manager at Clutch
+
+💰 **Salary**: $136,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-business-operations-manager-clutch)
+
+---
+
+### 2. Sanctions Operations Analyst (1 year contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Senior Accountant North America - Remote at Alpaca
+### 3. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Financial Coach at Empower
+### 4. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 5. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Senior Cashiering Associate at Alpaca
+### 6. Senior Cashiering Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Manager, Strategic Finance (GTM & Revenue) at Dandy
+### 7. Manager, Strategic Finance (GTM & Revenue) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Senior Procurement Specialist at Wikimedia
+### 8. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -84,7 +96,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Internal Auditor - Taiwan at Binance
+### 9. Internal Auditor - Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +106,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Lead Pricing Strategist at GitLab
+### 10. Lead Pricing Strategist at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -106,7 +118,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Senior Manager Stock Plan Participant Services at Empower
+### 11. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -118,7 +130,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Revenue Operations Manager at Dandy
+### 12. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +140,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Earn Operation BD (Onchain Direction) at Binance
+### 13. Earn Operation BD (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +150,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Lead SEC Analyst at GitLab
+### 14. Lead SEC Analyst at GitLab
 
 💰 **Salary**: $139,000-$235,000 USD
 
@@ -150,7 +162,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Manager, Card Business Development & Operations at Binance
+### 15. Manager, Card Business Development & Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +172,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Senior Payroll Specialist at LiveKit
+### 16. Senior Payroll Specialist at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +182,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 17. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +192,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. VIP & Institutional Sales at Binance
+### 18. VIP & Institutional Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -190,7 +202,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 18. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
+### 19. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
 
 💰 **Salary**: $110,000-$181,000 USD
 
@@ -202,7 +214,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 19. Stock Plan Services Quality Specialist at Empower
+### 20. Stock Plan Services Quality Specialist at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -214,7 +226,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 20. Stock Plan Administration Manager - Full Service at Empower
+### 21. Stock Plan Administration Manager - Full Service at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -226,7 +238,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 21. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+### 22. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -238,7 +250,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 22. Senior Manager, Finance Systems at Dandy
+### 23. Senior Manager, Finance Systems at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -248,7 +260,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 23. Business Development - Equity Capital Markets at Binance
+### 24. Business Development - Equity Capital Markets at Binance
 
 🌍 **Location**: Worldwide
 
@@ -258,7 +270,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 24. Brokerage Operations Quality Specialist at Empower
+### 25. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -270,7 +282,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 25. Investments Director at Empower
+### 26. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -282,7 +294,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 26. Revenue Accounting Manager at LiveKit
+### 27. Revenue Accounting Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -292,7 +304,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 27. Financial Controller at Xapo Bank
+### 28. Financial Controller at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -302,23 +314,13 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 28. Junior Crypto Analyst and Trader at Empire Assets
+### 29. Junior Crypto Analyst and Trader at Empire Assets
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-crypto-analyst-and-trader-empire-assets)
-
----
-
-### 29. Internal Audit - Investigations Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-audit-investigations-specialist-binance)
 
 ---
 
@@ -353,6 +355,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 06, 2026 at 00:00 UTC_
+_Last updated: November 07, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
