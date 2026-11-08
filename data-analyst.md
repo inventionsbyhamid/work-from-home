@@ -164,30 +164,10 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 16. Junior Crypto Analyst and Trader at Empire Assets
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-crypto-analyst-and-trader-empire-assets)
 
 ---
 
-### 17. Case Analyst (Spanish and Portuguese speaker) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-binance)
-
----
-
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -215,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
