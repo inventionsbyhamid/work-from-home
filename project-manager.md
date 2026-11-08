@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. VP of Program Management Office at Crossover
+### 1. Marketing Operations Manager (Fixed Term) at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/marketing-operations-manager-safetywing)
+
+---
+
+### 2. Project Manager Remote - EMEA at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/project-manager-remote-emea-alpaca)
+
+---
+
+### 3. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. VP of Program Management Office at Crossover
+### 4. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. Staff Program Manager, CCO Programs Remote at GitLab
+### 5. Staff Program Manager, CCO Programs Remote at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. Manager, WFM Compliance Operations at Coinbase
+### 6. Manager, WFM Compliance Operations at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Technical Account Manager, Newspack at Automattic
+### 7. Technical Account Manager, Newspack at Automattic
 
 💰 **Salary**: $73,000-$130,000 USD
 
@@ -62,7 +82,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Strategic Project Manager, Operations at Lido
+### 8. Strategic Project Manager, Operations at Lido
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +92,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Service Delivery Lead at Applaudo
+### 9. Service Delivery Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -85,7 +105,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -113,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
