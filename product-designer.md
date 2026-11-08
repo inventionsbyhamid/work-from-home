@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Product Designer at Camunda
+### 1. Senior Product Designer for Clerk Dashboard at Clerk
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Designer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-designer-for-clerk-dashboard-clerk)
+
+---
+
+### 2. Senior Product Designer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 2. Senior Product Designer, Developer Platform at LiveKit
+### 3. Senior Product Designer, Developer Platform at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 3. Senior Product Designer at Coalition Technologies
+### 4. Senior Product Designer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 4. Website Designer Specialist at Cloudbeds
+### 5. Website Designer Specialist at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 5. Dental CAD Designer at Dandy
+### 6. Dental CAD Designer at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-### 6. Senior Product Designer at DuckDuckGo
+### 7. Senior Product Designer at DuckDuckGo
 
 💰 **Salary**: $178,500-$253,500 USD
 
@@ -73,7 +83,7 @@ Latest **100% remote** job opportunities in **Product Designer** from the past 3
 
 ---
 
-**Total Jobs**: 6 positions available
+**Total Jobs**: 7 positions available
 
 ---
 
@@ -101,6 +111,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
