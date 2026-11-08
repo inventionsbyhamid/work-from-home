@@ -8,7 +8,37 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Service Representative (French & English) at Binance
+### 1. Technical Account Manager for Supabase at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-for-supabase-supabase)
+
+---
+
+### 2. Technical Support at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-support-binance)
+
+---
+
+### 3. Social Support Specialist I Remote at Coinbase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-support-specialist-i-remote-coinbase)
+
+---
+
+### 4. Customer Service Representative (French & English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +48,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. Billing Support Specialist at Supabase
+### 5. Billing Support Specialist at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +58,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Senior Assigned Support Engineer (AMER) at GitLab
+### 6. Senior Assigned Support Engineer (AMER) at GitLab
 
 💰 **Salary**: $126,400-$213,600 USD
 
@@ -40,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
+### 7. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. AI Support Operations Specialist at SafetyWing
+### 8. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Director of Customer Support North America at Cloudbeds
+### 9. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -72,7 +102,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Community Support Manager at Raya
+### 10. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +112,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Customer Support Coach - NORAM at Cloudbeds
+### 11. Customer Support Coach - NORAM at Cloudbeds
 
 💰 **Salary**: $55,000-$77,000 USD
 
@@ -94,7 +124,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Onboarding Coach at Cloudbeds
+### 12. Onboarding Coach at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +134,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Clinical Support Team Lead (CSL) at Dandy
+### 13. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +144,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. Paralegal at Atticus
+### 14. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -126,7 +156,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Customer Service Representative ( Spanish / English) at Binance
+### 15. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +166,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Community Support Specialist for Raya at Raya
+### 16. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +176,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 14. Customer Experience Dental Lab Technician - Removables at Dandy
+### 17. Customer Experience Dental Lab Technician - Removables at Dandy
 
 💰 **Salary**: $27,200-$34,000 EUR
 
@@ -158,7 +188,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 15. IT Support Specialist at Applaudo
+### 18. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +198,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 16. Advanced Support Payments at Cloudbeds
+### 19. Advanced Support Payments at Cloudbeds
 
 💰 **Salary**: $70,000-$89,000 USD
 
@@ -180,7 +210,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 17. Director, Customer Experience, Trading API at Alpaca
+### 20. Director, Customer Experience, Trading API at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -190,20 +220,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 18. Case Analyst (Spanish and Portuguese speaker) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-binance)
 
 ---
 
-
----
-
-**Total Jobs**: 18 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -231,6 +251,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
