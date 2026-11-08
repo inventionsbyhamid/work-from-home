@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Games Recruiter, China Market at Yodo1
+### 1. Executive Recruiter at Crossover
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/executive-recruiter-crossover)
+
+---
+
+### 2. Games Recruiter, China Market at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
+### 3. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. HR Business Partner at Binance
+### 4. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
+### 5. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Senior Manager, Total Rewards Operations at GitLab
+### 6. Senior Manager, Total Rewards Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Senior Talent Brand Manager at GitLab
+### 7. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Candidate Experience Specialist at GitLab
+### 8. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Senior Manager Stock Plan Participant Services at Empower
+### 9. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Senior Manager, People Operations at Atticus
+### 10. Senior Manager, People Operations at Atticus
 
 💰 **Salary**: $130,000-$185,000 USD
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. HR Manager, Global Expansion at Dandy
+### 11. HR Manager, Global Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Clinical Support Team Lead (CSL) at Dandy
+### 12. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Head of Talent at VRChat
+### 13. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 13. Head of People at VRChat
+### 14. Head of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +157,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -175,6 +185,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
