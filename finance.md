@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Business Operations Manager at Clutch
+### 1. Project Manager Remote - EMEA at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/project-manager-remote-emea-alpaca)
+
+---
+
+### 2. Senior Business Operations Manager at Clutch
 
 💰 **Salary**: $136,000-$180,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Sanctions Operations Analyst (1 year contract) at Binance
+### 3. Sanctions Operations Analyst (1 year contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Senior Accountant North America - Remote at Alpaca
+### 4. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Financial Coach at Empower
+### 5. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 6. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -64,7 +74,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Senior Cashiering Associate at Alpaca
+### 7. Senior Cashiering Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -74,7 +84,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Manager, Strategic Finance (GTM & Revenue) at Dandy
+### 8. Manager, Strategic Finance (GTM & Revenue) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Senior Procurement Specialist at Wikimedia
+### 9. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -96,7 +106,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Internal Auditor - Taiwan at Binance
+### 10. Internal Auditor - Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Lead Pricing Strategist at GitLab
+### 11. Lead Pricing Strategist at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -118,7 +128,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Senior Manager Stock Plan Participant Services at Empower
+### 12. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Revenue Operations Manager at Dandy
+### 13. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Earn Operation BD (Onchain Direction) at Binance
+### 14. Earn Operation BD (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +160,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Lead SEC Analyst at GitLab
+### 15. Lead SEC Analyst at GitLab
 
 💰 **Salary**: $139,000-$235,000 USD
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Manager, Card Business Development & Operations at Binance
+### 16. Manager, Card Business Development & Operations at Binance
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +182,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Senior Payroll Specialist at LiveKit
+### 17. Senior Payroll Specialist at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +192,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 18. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +202,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 18. VIP & Institutional Sales at Binance
+### 19. VIP & Institutional Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +212,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 19. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
+### 20. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
 
 💰 **Salary**: $110,000-$181,000 USD
 
@@ -214,7 +224,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 20. Stock Plan Services Quality Specialist at Empower
+### 21. Stock Plan Services Quality Specialist at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 21. Stock Plan Administration Manager - Full Service at Empower
+### 22. Stock Plan Administration Manager - Full Service at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -238,7 +248,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 22. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+### 23. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -250,7 +260,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 23. Senior Manager, Finance Systems at Dandy
+### 24. Senior Manager, Finance Systems at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -260,7 +270,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 24. Business Development - Equity Capital Markets at Binance
+### 25. Business Development - Equity Capital Markets at Binance
 
 🌍 **Location**: Worldwide
 
@@ -270,7 +280,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 25. Brokerage Operations Quality Specialist at Empower
+### 26. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -282,7 +292,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 26. Investments Director at Empower
+### 27. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -294,7 +304,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 27. Revenue Accounting Manager at LiveKit
+### 28. Revenue Accounting Manager at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -304,23 +314,13 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 28. Financial Controller at Xapo Bank
+### 29. Financial Controller at Xapo Bank
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Finance
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-controller-xapo-bank)
-
----
-
-### 29. Junior Crypto Analyst and Trader at Empire Assets
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-crypto-analyst-and-trader-empire-assets)
 
 ---
 
@@ -355,6 +355,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
