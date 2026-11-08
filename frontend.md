@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Engineer, Frontier Traders at Solana
+### 1. Frontend Software Engineer at Airbnb
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Frontend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-software-engineer-airbnb)
+
+---
+
+### 2. Lead Engineer, Frontier Traders at Solana
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 2. Senior Frontend Engineer - Acquisition Remote at Alpaca
+### 3. Senior Frontend Engineer - Acquisition Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 3. Staff Frontend Engineer at GitLab
+### 4. Staff Frontend Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 4. Senior Full-Stack Engineer - Internal Tools Remote - North America - South America at Alpaca
+### 5. Senior Full-Stack Engineer - Internal Tools Remote - North America - South America at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 5. Senior Frontend Engineer - Web3 Wallet at Binance
+### 6. Senior Frontend Engineer - Web3 Wallet at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 6. Website Designer Specialist at Cloudbeds
+### 7. Website Designer Specialist at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 7. Full Stack Engineer (Angular/Python) at CloudLinux
+### 8. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -78,23 +88,13 @@ Latest **100% remote** job opportunities in **Frontend** from the past 30 days. 
 
 ---
 
-### 8. Frontend Engineer - Earn at Binance
+### 9. Frontend Engineer - Earn at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Frontend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/frontend-engineer-earn-binance)
-
----
-
-### 9. Full Stack Engineer (Angular/Python) at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Frontend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-engineer-cloudlinux)
 
 ---
 
@@ -129,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 07, 2026 at 00:00 UTC_
+_Last updated: November 08, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
