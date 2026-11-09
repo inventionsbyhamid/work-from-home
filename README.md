@@ -18,17 +18,17 @@ We aggregate and curate remote job listings from top companies across the globe.
 
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
-- 🏠 **[AI/ML](ai-ml.md)** - 21 remote jobs available
+- 🏠 **[AI/ML](ai-ml.md)** - 20 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 13 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
-- 🏠 **[Backend](backend.md)** - 52 remote jobs available
+- 🏠 **[Backend](backend.md)** - 50 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 38 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 4 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 13 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 20 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 15 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 43 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 53 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 52 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 8 remote jobs available
 - 🏠 **[Finance](finance.md)** - 29 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 9 remote jobs available
@@ -40,13 +40,13 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Marketing](marketing.md)** - 37 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 7 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 33 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 9 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 8 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 6 remote jobs available
 - 🏠 **[Sales](sales.md)** - 39 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 27 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 98 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 96 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 6 remote jobs available
 
 
@@ -56,7 +56,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Senior Engineering Manager, Recommender Systems at Raya
+### 1. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-backend-engineer-cloud-cost-capacity-gitlab)
+
+---
+
+### 2. Senior Engineering Manager, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +76,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Group Product Manager, Customer Engagement & Experience at Coinbase
+### 3. Group Product Manager, Customer Engagement & Experience at Coinbase
 
 💰 **Salary**: $243,865-$286,900 USD
 
@@ -78,7 +88,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Product Designer for Clerk Dashboard at Clerk
+### 4. Senior Product Designer for Clerk Dashboard at Clerk
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Infrastructure Operations Engineer (Linux) at CloudLinux
+### 5. Infrastructure Operations Engineer (Linux) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Technical Account Manager for Supabase at Supabase
+### 6. Technical Account Manager for Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +118,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Go To Market Strategic Planning Lead at Supabase
+### 7. Go To Market Strategic Planning Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Technical Enablement Engineer at LiveKit
+### 8. Technical Enablement Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +138,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Marketing Operations Manager (Fixed Term) at SafetyWing
+### 9. Marketing Operations Manager (Fixed Term) at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -138,7 +148,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Technical Support at Binance
+### 10. Technical Support at Binance
 
 🌍 **Location**: Worldwide
 
@@ -148,7 +158,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Social Support Specialist I Remote at Coinbase
+### 11. Social Support Specialist I Remote at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -158,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Frontend Software Engineer at Airbnb
+### 12. Frontend Software Engineer at Airbnb
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Project Manager Remote - EMEA at Alpaca
+### 13. Project Manager Remote - EMEA at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -178,7 +188,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Executive Recruiter at Crossover
+### 14. Executive Recruiter at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +198,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Games Recruiter, China Market at Yodo1
+### 15. Games Recruiter, China Market at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +208,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Staff GTM Systems Engineer at LiveKit
+### 16. Staff GTM Systems Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +218,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Senior Business Operations Manager at Clutch
+### 17. Senior Business Operations Manager at Clutch
 
 💰 **Salary**: $136,000-$180,000 USD
 
@@ -220,7 +230,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Engineering Manager, Recommender Systems at Raya at Raya
+### 18. Engineering Manager, Recommender Systems at Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Global Partner for B2B Insurance Sales at SafetyWing at SafetyWing
+### 19. Global Partner for B2B Insurance Sales at SafetyWing at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -240,25 +250,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Global Talent Network Application at Binance
+### 20. Global Talent Network Application at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Software Development Engineer (SDE)
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-talent-network-application-binance)
-
----
-
-### 20. Senior Product Manager, Risk at Coinbase
-
-💰 **Salary**: $207,485-$244,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-risk-coinbase)
 
 ---
 
@@ -288,6 +286,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 08, 2026 at 00:00 UTC_
+_Last updated: November 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
