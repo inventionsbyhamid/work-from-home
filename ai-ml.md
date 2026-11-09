@@ -216,22 +216,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 21. Senior Data Scientist at DuckDuckGo
-
-💰 **Salary**: $178,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-scientist-duckduckgo)
 
 ---
 
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -259,6 +247,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 08, 2026 at 00:00 UTC_
+_Last updated: November 09, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
