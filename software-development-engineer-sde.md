@@ -1018,32 +1018,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 97. Senior Backend Engineer (Java / Go) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/remote-senior-backend-engineer-binance)
 
 ---
 
-### 98. Manager, Engineering - Identity at Camunda
-
-💰 **Salary**: $172,600-$278,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-engineering-identity-camunda)
-
----
-
-
----
-
-**Total Jobs**: 98 positions available
+**Total Jobs**: 96 positions available
 
 ---
 
@@ -1071,6 +1049,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 08, 2026 at 00:01 UTC_
+_Last updated: November 09, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
