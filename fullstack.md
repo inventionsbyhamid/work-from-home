@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
+### 1. Lead Engineer, Member Growth at Circle
+
+💰 **Salary**: $162,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-engineer-member-growth-circle)
+
+---
+
+### 2. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior Software Engineer New Markets Remote at Alpaca
+### 3. Senior Software Engineer New Markets Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
+### 4. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Senior Fullstack Engineer at Coalition Technologies
+### 5. Senior Fullstack Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Senior Full Stack Engineer at Coalition Technologies
+### 6. Senior Full Stack Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Software Engineer - Compliance CXAE at Coinbase
+### 7. Software Engineer - Compliance CXAE at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Full Stack Engineer (Angular/Python) at CloudLinux
+### 8. Full Stack Engineer (Angular/Python) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior CX Platform Engineer at GitLab
+### 9. Senior CX Platform Engineer at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -95,7 +107,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -123,6 +135,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 09, 2026 at 00:00 UTC_
+_Last updated: November 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
