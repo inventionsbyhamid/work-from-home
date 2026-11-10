@@ -342,30 +342,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 32. Senior Product Manager - Experience Optimization at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-experience-optimization-binance)
 
 ---
 
-### 33. Product Operations Manager at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-operations-manager-livekit)
-
----
-
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 31 positions available
 
 ---
 
@@ -393,6 +373,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 09, 2026 at 00:00 UTC_
+_Last updated: November 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
