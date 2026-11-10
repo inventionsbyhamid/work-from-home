@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
+### 1. Data Engineer (Global) at beehiiv
+
+💰 **Salary**: $160,000-$220,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/data-engineer-beehiiv)
+
+---
+
+### 2. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Applied Data Scientist at Binance
+### 3. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Data Scientist, Enterprise Analytics Remote, United States at GitLab
+### 4. Data Scientist, Enterprise Analytics Remote, United States at GitLab
 
 💰 **Salary**: $86,400-$176,400 USD
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Senior Data Scientist at Raya
+### 5. Senior Data Scientist at Raya
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +62,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Staff Analytics Engineer at Alpaca
+### 6. Staff Analytics Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +72,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Senior Data Scientist, Places at Raya
+### 7. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +82,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Market Surveillance Investigator at Binance
+### 8. Market Surveillance Investigator at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Data Scientist at Applaudo
+### 9. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
+### 10. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +112,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. Lead, Data Governance Remote - Americas at Alpaca
+### 11. Lead, Data Governance Remote - Americas at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +122,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 11. Senior Data Engineer at Phantom
+### 12. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +132,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 12. Data Analyst - Binance Accelerator Program at Binance
+### 13. Data Analyst - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +142,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. Director of Data Science at DuckDuckGo
+### 14. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 14. FinOps Data Engineer at Supabase
+### 15. FinOps Data Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +164,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 15. Business Intelligence / Data Analyst at Binance
+### 16. Business Intelligence / Data Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -165,7 +177,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 15 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -193,6 +205,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 09, 2026 at 00:00 UTC_
+_Last updated: November 10, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
