@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Data Engineer (Global) at beehiiv
+### 1. Senior Analytics Engineer at Kit
+
+💰 **Salary**: $172,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-analytics-engineer-kit)
+
+---
+
+### 2. Data Engineer (Global) at beehiiv
 
 💰 **Salary**: $160,000-$220,000 USD
 
@@ -20,7 +32,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
+### 3. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +42,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Applied Data Scientist at Binance
+### 4. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +52,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Data Scientist, Enterprise Analytics Remote, United States at GitLab
+### 5. Data Scientist, Enterprise Analytics Remote, United States at GitLab
 
 💰 **Salary**: $86,400-$176,400 USD
 
@@ -52,7 +64,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Senior Data Scientist at Raya
+### 6. Senior Data Scientist at Raya
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +74,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Staff Analytics Engineer at Alpaca
+### 7. Staff Analytics Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +84,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Senior Data Scientist, Places at Raya
+### 8. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +94,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Market Surveillance Investigator at Binance
+### 9. Market Surveillance Investigator at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +104,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. Data Scientist at Applaudo
+### 10. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
+### 11. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 11. Lead, Data Governance Remote - Americas at Alpaca
+### 12. Lead, Data Governance Remote - Americas at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +134,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 12. Senior Data Engineer at Phantom
+### 13. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. Data Analyst - Binance Accelerator Program at Binance
+### 14. Data Analyst - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 14. Director of Data Science at DuckDuckGo
+### 15. Director of Data Science at DuckDuckGo
 
 💰 **Salary**: $263,300-$346,250 USD
 
@@ -154,23 +166,13 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 15. FinOps Data Engineer at Supabase
+### 16. FinOps Data Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Data Analyst
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/finops-data-engineer-supabase)
-
----
-
-### 16. Business Intelligence / Data Analyst at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-intelligence-data-analyst-binance)
 
 ---
 
@@ -205,6 +207,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 10, 2026 at 00:00 UTC_
+_Last updated: November 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
