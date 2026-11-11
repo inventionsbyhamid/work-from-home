@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Executive Recruiter at Crossover
+### 1. Senior Manager, Total Rewards at Camunda
+
+💰 **Salary**: $183,000-$295,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-total-rewards-camunda)
+
+---
+
+### 2. Executive Recruiter at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. Games Recruiter, China Market at Yodo1
+### 3. Games Recruiter, China Market at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
+### 4. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. HR Business Partner at Binance
+### 5. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
+### 6. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Senior Manager, Total Rewards Operations at GitLab
+### 7. Senior Manager, Total Rewards Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. Senior Talent Brand Manager at GitLab
+### 8. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Candidate Experience Specialist at GitLab
+### 9. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Senior Manager Stock Plan Participant Services at Empower
+### 10. Senior Manager Stock Plan Participant Services at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Senior Manager, People Operations at Atticus
+### 11. Senior Manager, People Operations at Atticus
 
 💰 **Salary**: $130,000-$185,000 USD
 
@@ -114,7 +126,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. HR Manager, Global Expansion at Dandy
+### 12. HR Manager, Global Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Clinical Support Team Lead (CSL) at Dandy
+### 13. Clinical Support Team Lead (CSL) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 13. Head of Talent at VRChat
+### 14. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +156,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 14. Head of People at VRChat
+### 15. Head of People at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -157,7 +169,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 14 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -185,6 +197,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 10, 2026 at 00:00 UTC_
+_Last updated: November 11, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
