@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ## Available Positions (Last 30 Days)
 
-### 1. Lead Security Engineer at Buffer
+### 1. Engineering Manager, Realtime at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-realtime-supabase)
+
+---
+
+### 2. Lead Security Engineer at Buffer
 
 💰 **Salary**: $171,100-$222,880 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 2. Cloud Engineer at Chess
+### 3. Cloud Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 3. Senior Automation Engineer at CloudLinux
+### 4. Senior Automation Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 4. Data Engineer (Global) at beehiiv
+### 5. Data Engineer (Global) at beehiiv
 
 💰 **Salary**: $160,000-$220,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 5. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
+### 6. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 6. Infrastructure Operations Engineer (Linux) at CloudLinux
+### 7. Infrastructure Operations Engineer (Linux) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 7. Technical Support at Binance
+### 8. Technical Support at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 8. Staff GTM Systems Engineer at LiveKit
+### 9. Staff GTM Systems Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 9. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
+### 10. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 10. Software Engineer, AI Tooling Infrastructure at Supabase
+### 11. Software Engineer, AI Tooling Infrastructure at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 11. Engineering Manager - Git & Gitaly Operations at GitLab
+### 12. Engineering Manager - Git & Gitaly Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 12. Senior Assigned Support Engineer (AMER) at GitLab
+### 13. Senior Assigned Support Engineer (AMER) at GitLab
 
 💰 **Salary**: $126,400-$213,600 USD
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 13. Engineering Manager, Switchboard Remote at GitLab
+### 14. Engineering Manager, Switchboard Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 14. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
+### 15. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 15. Graduate Software Engineer at CloudLinux at CloudLinux
+### 16. Graduate Software Engineer at CloudLinux at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 16. Threat Intelligence Platform Engineer at Coinbase
+### 17. Threat Intelligence Platform Engineer at Coinbase
 
 💰 **Salary**: $144,500-$170,000 USD
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 17. Container Platform Engineer at Supabase
+### 18. Container Platform Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 18. Engineering Manager - Infrastructure at Camunda
+### 19. Engineering Manager - Infrastructure at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -198,7 +208,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 19. Site Reliability Engineer, Infrastructure Platforms at GitLab
+### 20. Site Reliability Engineer, Infrastructure Platforms at GitLab
 
 💰 **Salary**: $126,400-$314,400 USD
 
@@ -210,7 +220,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 20. Senior SRE - APAC Remote at Alpaca
+### 21. Senior SRE - APAC Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -220,7 +230,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 21. Senior Professional Services Engineer Remote, Netherlands; Remote, Spain; Remote, United Kingdom at GitLab
+### 22. Senior Professional Services Engineer Remote, Netherlands; Remote, Spain; Remote, United Kingdom at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -230,7 +240,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 22. Senior Staff, Compliance Technology Remote - USA at Coinbase
+### 23. Senior Staff, Compliance Technology Remote - USA at Coinbase
 
 💰 **Salary**: $230,265-$270,900 USD
 
@@ -242,7 +252,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 23. Senior Azure DevOps & Platform Engineer at Applaudo
+### 24. Senior Azure DevOps & Platform Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -252,7 +262,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 24. Storage Engineer at Supabase at Supabase
+### 25. Storage Engineer at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -262,7 +272,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 25. Professional Services - Technical Architect Remote at GitLab
+### 26. Professional Services - Technical Architect Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -272,7 +282,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 26. Solutions Architect, Public Sector at GitLab
+### 27. Solutions Architect, Public Sector at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -282,7 +292,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 27. Staff Backend Engineer, Developer Experience at GitLab
+### 28. Staff Backend Engineer, Developer Experience at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -294,7 +304,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 28. Senior Software Engineer - Digital Workplace at Canonical
+### 29. Senior Software Engineer - Digital Workplace at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -304,7 +314,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 29. Backend Engineer, Knowledge Graph (Rust) at GitLab
+### 30. Backend Engineer, Knowledge Graph (Rust) at GitLab
 
 💰 **Salary**: $115,200-$162,000 USD
 
@@ -316,7 +326,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 30. Software Engineer - Ubuntu Server Certification at Canonical
+### 31. Software Engineer - Ubuntu Server Certification at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -326,7 +336,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 31. Lead Security Engineer, Vulnerability Response at CloudLinux
+### 32. Lead Security Engineer, Vulnerability Response at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -336,7 +346,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 32. Infrastructure Security Engineer at LiveKit
+### 33. Infrastructure Security Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -346,7 +356,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 33. Telco Field Engineering Director at Canonical
+### 34. Telco Field Engineering Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -356,7 +366,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 34. Senior Software Engineer - Clearing Remote - Europe at Alpaca
+### 35. Senior Software Engineer - Clearing Remote - Europe at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -366,7 +376,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 35. Staff Security Engineer at CloudLinux
+### 36. Staff Security Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -376,7 +386,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 36. Senior Infrastructure Engineer II at Kit
+### 37. Senior Infrastructure Engineer II at Kit
 
 💰 **Salary**: $197,000+ USD
 
@@ -388,7 +398,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 37. Staff Software Engineer (SRE) at Phantom
+### 38. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -400,7 +410,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 38. Senior Software Engineer, Core Reliability at Coinbase
+### 39. Senior Software Engineer, Core Reliability at Coinbase
 
 💰 **Salary**: $186,065-$197,010 USD
 
@@ -412,7 +422,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 39. Staff Security Engineer for Imunify360 at CloudLinux at CloudLinux
+### 40. Staff Security Engineer for Imunify360 at CloudLinux at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -422,7 +432,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 40. Staff Engineer, Imunify360 Security Suite at CloudLinux
+### 41. Staff Engineer, Imunify360 Security Suite at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -432,7 +442,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 41. Distributed Systems Evaluation Engineer at Institute of Free Technology
+### 42. Distributed Systems Evaluation Engineer at Institute of Free Technology
 
 🌍 **Location**: Worldwide
 
@@ -442,7 +452,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 42. Site Reliability Engineer at Supabase
+### 43. Site Reliability Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -452,7 +462,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 43. FinOps Data Engineer at Supabase
+### 44. FinOps Data Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -462,7 +472,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 44. Platform Engineer, Compute at Supabase
+### 45. Platform Engineer, Compute at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -475,7 +485,7 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-**Total Jobs**: 44 positions available
+**Total Jobs**: 45 positions available
 
 ---
 
@@ -503,6 +513,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 12, 2026 at 00:00 UTC_
+_Last updated: November 13, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
