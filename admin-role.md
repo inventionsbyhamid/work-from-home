@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Social Support Specialist I Remote at Coinbase
+### 1. Maintenance Technician at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/maintenance-technician-dandy)
+
+---
+
+### 2. Operations Analyst, Market Data at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-analyst-market-data-alpaca)
+
+---
+
+### 3. Social Support Specialist I Remote at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Senior Accountant North America - Remote at Alpaca
+### 4. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. HR Business Partner at Binance
+### 5. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +58,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Office Administrator/ Manager at Binance
+### 6. Office Administrator/ Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +68,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. Senior Procurement Specialist at Wikimedia
+### 7. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. Candidate Experience Specialist at GitLab
+### 8. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +90,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. GRC Analyst at Supabase at Supabase
+### 9. GRC Analyst at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +100,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. Paralegal at Atticus
+### 10. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -92,7 +112,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 9. Customer Service Representative ( Spanish / English) at Binance
+### 11. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +122,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 10. Community Support Specialist for Raya at Raya
+### 12. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +132,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 11. Head of Talent at VRChat
+### 13. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +142,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 12. Brokerage Operations Quality Specialist at Empower
+### 14. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -134,7 +154,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 13. IT Support Specialist at Applaudo
+### 15. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +167,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -175,6 +195,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 13, 2026 at 00:00 UTC_
+_Last updated: November 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
