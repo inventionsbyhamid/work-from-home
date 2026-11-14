@@ -19,18 +19,18 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 23 remote jobs available
-- 🏠 **[Admin](admin-role.md)** - 13 remote jobs available
+- 🏠 **[Admin](admin-role.md)** - 15 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 3 remote jobs available
-- 🏠 **[Backend](backend.md)** - 56 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 41 remote jobs available
+- 🏠 **[Backend](backend.md)** - 55 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 42 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 4 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 11 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 19 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 17 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 45 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 20 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 18 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 44 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 55 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 8 remote jobs available
-- 🏠 **[Finance](finance.md)** - 32 remote jobs available
+- 🏠 **[Finance](finance.md)** - 34 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 8 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
@@ -46,7 +46,7 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Sales](sales.md)** - 37 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 29 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 101 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 100 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 6 remote jobs available
 
 
@@ -56,7 +56,57 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Growth Engineer (Global) at beehiiv
+### 1. Support Engineer at Kinsta
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/support-engineer-kinsta)
+
+---
+
+### 2. Senior Game Scout at Yodo1
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-game-scout-yodo1)
+
+---
+
+### 3. Procurement Lead at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-lead-supabase)
+
+---
+
+### 4. Maintenance Technician at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/maintenance-technician-dandy)
+
+---
+
+### 5. Operations Analyst, Market Data at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/operations-analyst-market-data-alpaca)
+
+---
+
+### 6. Growth Engineer (Global) at beehiiv
 
 💰 **Salary**: $145,000-$165,000 USD
 
@@ -68,7 +118,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. AI Engineer at Awesome Motive
+### 7. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Information Security Engineer, Application Security at Camunda
+### 8. Information Security Engineer, Application Security at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -90,7 +140,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Product Marketing Manager, Scaling Creators at Kit
+### 9. Senior Product Marketing Manager, Scaling Creators at Kit
 
 💰 **Salary**: $166,000 USD
 
@@ -102,7 +152,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Engineering Manager, Realtime at Supabase
+### 10. Engineering Manager, Realtime at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +162,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Engineering Manager, Growth at Buffer
+### 11. Engineering Manager, Growth at Buffer
 
 💰 **Salary**: $179,100-$235,361 USD
 
@@ -124,7 +174,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Lead Security Engineer at Buffer
+### 12. Lead Security Engineer at Buffer
 
 💰 **Salary**: $171,100-$222,880 USD
 
@@ -136,7 +186,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Earn Operations Specialist (Onchain Direction) at Binance
+### 13. Earn Operations Specialist (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +196,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 14. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -156,7 +206,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Developer Community and Events Lead at Supabase
+### 15. Developer Community and Events Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +216,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Product Builder, IDP and RPA at Camunda
+### 16. Product Builder, IDP and RPA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +226,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Head of Ecosystem at Supabase
+### 17. Head of Ecosystem at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Software Engineer, AI Tooling at Supabase
+### 18. Software Engineer, AI Tooling at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +246,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Cloud Engineer at Chess
+### 19. Cloud Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -206,69 +256,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Senior Contracts Manager at Supabase
+### 20. Senior Contracts Manager at Supabase
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Legal
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-contracts-manager-supabase)
-
----
-
-### 16. IT and Security Support Analyst at OpenZeppelin
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-and-security-support-analyst-openzeppelin)
-
----
-
-### 17. Senior Full Stack Engineer, iOS and Backend at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-ios-and-backend-raya)
-
----
-
-### 18. Senior Analytics Engineer at Kit
-
-💰 **Salary**: $172,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-analytics-engineer-kit)
-
----
-
-### 19. Senior Accountant at Counterpart
-
-💰 **Salary**: $110,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-accountant-counterpart)
-
----
-
-### 20. Senior Manager, Total Rewards at Camunda
-
-💰 **Salary**: $183,000-$295,100 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-total-rewards-camunda)
 
 ---
 
@@ -298,6 +292,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 13, 2026 at 00:00 UTC_
+_Last updated: November 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
