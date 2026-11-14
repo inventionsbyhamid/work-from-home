@@ -1060,20 +1060,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 101. Platform Engineer, Compute at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-compute-supabase)
 
 ---
 
-
----
-
-**Total Jobs**: 101 positions available
+**Total Jobs**: 100 positions available
 
 ---
 
@@ -1101,6 +1091,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 13, 2026 at 00:01 UTC_
+_Last updated: November 14, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
