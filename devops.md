@@ -472,20 +472,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 45. Platform Engineer, Compute at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/platform-engineer-compute-supabase)
 
 ---
 
-
----
-
-**Total Jobs**: 45 positions available
+**Total Jobs**: 44 positions available
 
 ---
 
@@ -513,6 +503,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 13, 2026 at 00:00 UTC_
+_Last updated: November 14, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
