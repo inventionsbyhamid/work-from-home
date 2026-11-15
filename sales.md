@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Go To Market Strategic Planning Lead at Supabase
+### 1. Enterprise Sales Development Representative at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-sales-development-representative-livekit)
+
+---
+
+### 2. Go To Market Strategic Planning Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Technical Enablement Engineer at LiveKit
+### 3. Technical Enablement Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Staff GTM Systems Engineer at LiveKit
+### 4. Staff GTM Systems Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Financial Coach at Empower
+### 5. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. Retention Specialist (English and Punjabi) at Bobtail
+### 6. Retention Specialist (English and Punjabi) at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Technical Account Manager- DACH at Camunda
+### 7. Technical Account Manager- DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Business Development Manager at Dandy
+### 8. Business Development Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Sales Analyst Remote at Alpaca
+### 9. Sales Analyst Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Sales Engineer at Coalesce at Coalesce
+### 10. Sales Engineer at Coalesce at Coalesce
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Partner Solutions Architect, AI Builder Platforms at Supabase
+### 11. Partner Solutions Architect, AI Builder Platforms at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Senior Manager, Customer Expansion at Dandy
+### 12. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
+### 13. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Strategic Account Executive, Financial Services at GitLab
+### 14. Strategic Account Executive, Financial Services at GitLab
 
 💰 **Salary**: $114,800-$186,600 USD
 
@@ -142,7 +152,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Enterprise Account Executive at Halcyon
+### 15. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 16. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Senior Deal Desk Lead at Halcyon
+### 17. Senior Deal Desk Lead at Halcyon
 
 💰 **Salary**: $175,000-$215,000 USD
 
@@ -178,7 +188,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Sales Manager at Cloudbeds
+### 18. Sales Manager at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -188,7 +198,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Paid Ads & Search Specialist (Africa) at Binance
+### 19. Paid Ads & Search Specialist (Africa) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -198,7 +208,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Solutions Engineer, Institutional at MatterLabs
+### 20. Solutions Engineer, Institutional at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -208,7 +218,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Strategic Account Executive at GitLab
+### 21. Strategic Account Executive at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -218,7 +228,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Revenue Operations Manager at Dandy
+### 22. Revenue Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -228,7 +238,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 22. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
+### 23. Senior Manager Advisory & Planning - Wealth Management / Premier Brokerage at Empower
 
 💰 **Salary**: $87,400-$123,400 USD
 
@@ -240,7 +250,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 23. Onboarding Coach at Cloudbeds
+### 24. Onboarding Coach at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -250,7 +260,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 24. Enterprise Account Manager at Dandy
+### 25. Enterprise Account Manager at Dandy
 
 💰 **Salary**: $120,000+ USD
 
@@ -262,7 +272,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 25. VIP & Institutional Sales at Binance
+### 26. VIP & Institutional Sales at Binance
 
 🌍 **Location**: Worldwide
 
@@ -272,7 +282,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 26. Post Sales Engineer - North America at Camunda
+### 27. Post Sales Engineer - North America at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -282,7 +292,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 27. Sr. Manager, Solutions Architect SME Remote at GitLab
+### 28. Sr. Manager, Solutions Architect SME Remote at GitLab
 
 💰 **Salary**: $166,200-$249,300 USD
 
@@ -294,7 +304,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 28. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+### 29. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -306,7 +316,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 29. Account Executive, Public Sector at Automattic
+### 30. Account Executive, Public Sector at Automattic
 
 💰 **Salary**: $95,000-$160,000 USD
 
@@ -318,7 +328,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 30. Territory Sales Manager Remote, Japan at GitLab
+### 31. Territory Sales Manager Remote, Japan at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -328,7 +338,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 31. Partnerships Manager, Ecosystem at Supabase at Supabase
+### 32. Partnerships Manager, Ecosystem at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -338,7 +348,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 32. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
+### 33. Business Development Representative, Italian Speaking Remote Ireland; Remote, France; Remote, Spain; Remote, United Kingdom at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -348,7 +358,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 33. Sales Director North America at Cloudbeds
+### 34. Sales Director North America at Cloudbeds
 
 🌍 **Location**: Worldwide
 
@@ -358,7 +368,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 34. Investments Director at Empower
+### 35. Investments Director at Empower
 
 💰 **Salary**: $125,400-$181,875 USD
 
@@ -370,7 +380,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 35. Platform Business Partner at SafetyWing at SafetyWing
+### 36. Platform Business Partner at SafetyWing at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -380,30 +390,10 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 36. Revenue Operations Administrator at Kinsta
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-administrator-kinsta)
 
 ---
 
-### 37. Sales Development Representative at Chili Piper
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-development-representative-chili-piper)
-
----
-
-
----
-
-**Total Jobs**: 37 positions available
+**Total Jobs**: 36 positions available
 
 ---
 
@@ -431,6 +421,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 14, 2026 at 00:01 UTC_
+_Last updated: November 15, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
