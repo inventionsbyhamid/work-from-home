@@ -304,22 +304,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 29. Security Engineer, Product and Source Code Research at Metabase
-
-💰 **Salary**: $160,000-$225,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-product-and-source-code-research-metabase)
 
 ---
 
-
----
-
-**Total Jobs**: 29 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -347,6 +335,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 14, 2026 at 00:01 UTC_
+_Last updated: November 15, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
