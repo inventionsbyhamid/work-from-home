@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior iOS Engineer, Places at Raya
+### 1. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Android Developer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-full-stack-raya)
+
+---
+
+### 2. Senior iOS Engineer, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 2. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
+### 3. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-### 3. Android Engineer - Risk Control at Binance
+### 4. Android Engineer - Risk Control at Binance
 
 🌍 **Location**: Worldwide
 
@@ -41,7 +51,7 @@ Latest **100% remote** job opportunities in **Android Developer** from the past 
 
 ---
 
-**Total Jobs**: 3 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -69,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 14, 2026 at 00:00 UTC_
+_Last updated: November 15, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
