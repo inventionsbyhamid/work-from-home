@@ -21,16 +21,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[AI/ML](ai-ml.md)** - 23 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 15 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
-- 🏠 **[Backend](backend.md)** - 54 remote jobs available
+- 🏠 **[Backend](backend.md)** - 53 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 41 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 4 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 11 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 20 remote jobs available
-- 🏠 **[Data Analyst](data-analyst.md)** - 17 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 43 remote jobs available
+- 🏠 **[Data Analyst](data-analyst.md)** - 18 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 42 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 55 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 8 remote jobs available
-- 🏠 **[Finance](finance.md)** - 33 remote jobs available
+- 🏠 **[Finance](finance.md)** - 32 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 12 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
@@ -39,10 +39,10 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Legal](legal.md)** - 13 remote jobs available
 - 🏠 **[Marketing](marketing.md)** - 39 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 7 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 37 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 36 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 7 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 2 remote jobs available
-- 🏠 **[Research](research.md)** - 8 remote jobs available
+- 🏠 **[Research](research.md)** - 9 remote jobs available
 - 🏠 **[Sales](sales.md)** - 36 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 28 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
@@ -56,7 +56,17 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Head of Product, AdTech at Yodo1
+### 1. Risk Control Analyst, ATO & Risk Strategy at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/risk-control-analyst-ato-risk-strategy-binance)
+
+---
+
+### 2. Head of Product, AdTech at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -66,7 +76,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Physician Spokesperson at Winona
+### 3. Physician Spokesperson at Winona
 
 🌍 **Location**: Worldwide
 
@@ -76,7 +86,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Enterprise Sales Development Representative at LiveKit
+### 4. Enterprise Sales Development Representative at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -86,7 +96,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
+### 5. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
 
 🌍 **Location**: Worldwide
 
@@ -96,7 +106,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Support Engineer at Kinsta
+### 6. Support Engineer at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -106,7 +116,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior Game Scout at Yodo1
+### 7. Senior Game Scout at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +126,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Procurement Lead at Supabase
+### 8. Procurement Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +136,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Maintenance Technician at Dandy
+### 9. Maintenance Technician at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -136,7 +146,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Operations Analyst, Market Data at Alpaca
+### 10. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -146,7 +156,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Growth Engineer (Global) at beehiiv
+### 11. Growth Engineer (Global) at beehiiv
 
 💰 **Salary**: $145,000-$165,000 USD
 
@@ -158,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. AI Engineer at Awesome Motive
+### 12. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -168,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Information Security Engineer, Application Security at Camunda
+### 13. Information Security Engineer, Application Security at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -180,7 +190,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Senior Product Marketing Manager, Scaling Creators at Kit
+### 14. Senior Product Marketing Manager, Scaling Creators at Kit
 
 💰 **Salary**: $166,000 USD
 
@@ -192,7 +202,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Engineering Manager, Realtime at Supabase
+### 15. Engineering Manager, Realtime at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -202,7 +212,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Engineering Manager, Growth at Buffer
+### 16. Engineering Manager, Growth at Buffer
 
 💰 **Salary**: $179,100-$235,361 USD
 
@@ -214,7 +224,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Lead Security Engineer at Buffer
+### 17. Lead Security Engineer at Buffer
 
 💰 **Salary**: $171,100-$222,880 USD
 
@@ -226,7 +236,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Earn Operations Specialist (Onchain Direction) at Binance
+### 18. Earn Operations Specialist (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +246,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 19. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -246,23 +256,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 19. Developer Community and Events Lead at Supabase
+### 20. Developer Community and Events Lead at Supabase
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Marketing
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/developer-community-and-events-lead-supabase)
-
----
-
-### 20. Product Builder, IDP and RPA at Camunda
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-builder-idp-and-rpa-camunda)
 
 ---
 
@@ -292,6 +292,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 15, 2026 at 00:00 UTC_
+_Last updated: November 16, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
