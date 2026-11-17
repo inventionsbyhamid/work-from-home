@@ -224,34 +224,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 22. Director of Data Science at DuckDuckGo
-
-💰 **Salary**: $263,300-$346,250 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-data-science-duckduckgo)
 
 ---
 
-### 23. Senior Software Engineer, API Products at 0x
-
-💰 **Salary**: $150,000-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-api-products-0x)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -279,6 +255,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 16, 2026 at 00:00 UTC_
+_Last updated: November 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
