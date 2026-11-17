@@ -586,34 +586,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 54. Director of Data Science at DuckDuckGo
-
-💰 **Salary**: $263,300-$346,250 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-data-science-duckduckgo)
 
 ---
 
-### 55. Senior Application Security Manager at Fingerprint
-
-💰 **Salary**: $177,000-$240,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-application-security-manager-fingerprint)
-
----
-
-
----
-
-**Total Jobs**: 55 positions available
+**Total Jobs**: 53 positions available
 
 ---
 
@@ -641,6 +617,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 16, 2026 at 00:00 UTC_
+_Last updated: November 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
