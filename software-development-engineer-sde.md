@@ -1038,20 +1038,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 99. Python SDK Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-sdk-engineer-supabase)
 
 ---
 
-
----
-
-**Total Jobs**: 99 positions available
+**Total Jobs**: 98 positions available
 
 ---
 
@@ -1079,6 +1069,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 16, 2026 at 00:01 UTC_
+_Last updated: November 17, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
