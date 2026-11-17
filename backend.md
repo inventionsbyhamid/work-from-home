@@ -542,32 +542,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 52. Senior Software Engineer, API Products at 0x
-
-💰 **Salary**: $150,000-$230,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-api-products-0x)
 
 ---
 
-### 53. Python SDK Engineer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/python-sdk-engineer-supabase)
-
----
-
-
----
-
-**Total Jobs**: 53 positions available
+**Total Jobs**: 51 positions available
 
 ---
 
@@ -595,6 +573,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 16, 2026 at 00:00 UTC_
+_Last updated: November 17, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
