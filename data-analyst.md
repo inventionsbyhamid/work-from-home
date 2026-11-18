@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ## Available Positions (Last 30 Days)
 
-### 1. Risk Control Analyst, ATO & Risk Strategy at Binance
+### 1. Head of Research, Crypto Data at CoinMarketCap
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Data Analyst
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-research-crypto-data-coinmarketcap)
+
+---
+
+### 2. Risk Control Analyst, ATO & Risk Strategy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 2. Operations Analyst, Market Data at Alpaca
+### 3. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 3. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 4. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 4. Senior Analytics Engineer at Kit
+### 5. Senior Analytics Engineer at Kit
 
 💰 **Salary**: $172,000 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 5. Data Engineer (Global) at beehiiv
+### 6. Data Engineer (Global) at beehiiv
 
 💰 **Salary**: $160,000-$220,000 USD
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 6. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
+### 7. Senior Backend Engineer, Cloud Cost & Capacity at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 7. Applied Data Scientist at Binance
+### 8. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 8. Data Scientist, Enterprise Analytics Remote, United States at GitLab
+### 9. Data Scientist, Enterprise Analytics Remote, United States at GitLab
 
 💰 **Salary**: $86,400-$176,400 USD
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 9. Senior Data Scientist at Raya
+### 10. Senior Data Scientist at Raya
 
 🌍 **Location**: Worldwide
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 10. Staff Analytics Engineer at Alpaca
+### 11. Staff Analytics Engineer at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 11. Senior Data Scientist, Places at Raya
+### 12. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 12. Market Surveillance Investigator at Binance
+### 13. Market Surveillance Investigator at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 13. Data Scientist at Applaudo
+### 14. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 14. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
+### 15. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 15. Lead, Data Governance Remote - Americas at Alpaca
+### 16. Lead, Data Governance Remote - Americas at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 16. Senior Data Engineer at Phantom
+### 17. Senior Data Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -174,7 +184,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-### 17. Data Analyst - Binance Accelerator Program at Binance
+### 18. Data Analyst - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -187,7 +197,7 @@ Latest **100% remote** job opportunities in **Data Analyst** from the past 30 da
 
 ---
 
-**Total Jobs**: 17 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -215,6 +225,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 17, 2026 at 00:00 UTC_
+_Last updated: November 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
