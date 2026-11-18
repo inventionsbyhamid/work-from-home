@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ## Available Positions (Last 30 Days)
 
-### 1. Growth Copywriter at Winona
+### 1. AI-Native Creative Director, Brand and Content at Paradox
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Copywriter
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-native-creative-director-brand-and-content-paradox)
+
+---
+
+### 2. Growth Copywriter at Winona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 2. Japanese Translator at Chess
+### 3. Japanese Translator at Chess
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 3. Communications and Social Media Manager at DuckDuckGo
+### 4. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-### 4. Translator, Portuguese (pt-PT) at Circle
+### 5. Translator, Portuguese (pt-PT) at Circle
 
 💰 **Salary**: $35 USD
 
@@ -53,7 +63,7 @@ Latest **100% remote** job opportunities in **Copywriter** from the past 30 days
 
 ---
 
-**Total Jobs**: 4 positions available
+**Total Jobs**: 5 positions available
 
 ---
 
@@ -81,6 +91,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 17, 2026 at 00:00 UTC_
+_Last updated: November 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
