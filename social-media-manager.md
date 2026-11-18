@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. Growth Copywriter at Winona
+### 1. AI-Native Creative Director, Brand and Content at Paradox
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-native-creative-director-brand-and-content-paradox)
+
+---
+
+### 2. Growth Copywriter at Winona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Social Media Specialist at Binance
+### 3. Social Media Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Social Media Manager at Binance
+### 4. Social Media Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. New Media Manager, Social and Community Growth at Solana
+### 5. New Media Manager, Social and Community Growth at Solana
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. Communications and Social Media Manager at DuckDuckGo
+### 6. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 6. Product Manager - Social Features (Content) at Binance
+### 7. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 7. Entry-level communications specialist at Canonical
+### 8. Entry-level communications specialist at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 8. Social Media and Content Intern at Binance
+### 9. Social Media and Content Intern at Binance
 
 🌍 **Location**: Worldwide
 
@@ -91,7 +101,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-**Total Jobs**: 8 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -119,6 +129,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 17, 2026 at 00:01 UTC_
+_Last updated: November 18, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
