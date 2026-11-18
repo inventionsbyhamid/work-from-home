@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Risk Control Analyst, ATO & Risk Strategy at Binance
+### 1. Head of Research, Crypto Data at CoinMarketCap
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-research-crypto-data-coinmarketcap)
+
+---
+
+### 2. Risk Control Analyst, ATO & Risk Strategy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Earn Operations Specialist (Onchain Direction) at Binance
+### 3. Earn Operations Specialist (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 4. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Senior Data Scientist, Places at Raya
+### 5. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Staff User Researcher Remote at Coinbase
+### 6. Staff User Researcher Remote at Coinbase
 
 💰 **Salary**: $216,790-$228,200 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. AI Support Operations Specialist at SafetyWing
+### 7. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 8. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 8. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 9. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 9. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
+### 10. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
 
 🌍 **Location**: Worldwide
 
@@ -103,7 +113,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 9 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -131,6 +141,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 17, 2026 at 00:01 UTC_
+_Last updated: November 18, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
