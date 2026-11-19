@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Maintenance Technician at Dandy
+### 1. IT Coordinator at Circle
+
+💰 **Salary**: $85,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-coordinator-circle)
+
+---
+
+### 2. Maintenance Technician at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Operations Analyst, Market Data at Alpaca
+### 3. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. Social Support Specialist I Remote at Coinbase
+### 4. Social Support Specialist I Remote at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Senior Accountant North America - Remote at Alpaca
+### 5. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. HR Business Partner at Binance
+### 6. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. Office Administrator/ Manager at Binance
+### 7. Office Administrator/ Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. Senior Procurement Specialist at Wikimedia
+### 8. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. Candidate Experience Specialist at GitLab
+### 9. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 9. GRC Analyst at Supabase at Supabase
+### 10. GRC Analyst at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +112,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 10. Paralegal at Atticus
+### 11. Paralegal at Atticus
 
 💰 **Salary**: $75,000-$90,000 USD
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 11. Customer Service Representative ( Spanish / English) at Binance
+### 12. Customer Service Representative ( Spanish / English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +134,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 12. Community Support Specialist for Raya at Raya
+### 13. Community Support Specialist for Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +144,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 13. Head of Talent at VRChat
+### 14. Head of Talent at VRChat
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +154,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 14. Brokerage Operations Quality Specialist at Empower
+### 15. Brokerage Operations Quality Specialist at Empower
 
 💰 **Salary**: $59,700-$84,300 USD
 
@@ -154,7 +166,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 15. IT Support Specialist at Applaudo
+### 16. IT Support Specialist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -167,7 +179,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 15 positions available
+**Total Jobs**: 16 positions available
 
 ---
 
@@ -195,6 +207,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 18, 2026 at 00:00 UTC_
+_Last updated: November 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
