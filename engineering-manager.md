@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. Engineering Manager, Realtime at Supabase
+### 1. Senior iOS Engineer, Platform Foundations at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-platform-foundations-raya)
+
+---
+
+### 2. Engineering Manager, Realtime at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 2. Engineering Manager, Growth at Buffer
+### 3. Engineering Manager, Growth at Buffer
 
 💰 **Salary**: $179,100-$235,361 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 3. Head of Ecosystem at Supabase
+### 4. Head of Ecosystem at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 4. Lead Engineer, Member Growth at Circle
+### 5. Lead Engineer, Member Growth at Circle
 
 💰 **Salary**: $162,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 5. Senior Engineering Manager, Recommender Systems at Raya
+### 6. Senior Engineering Manager, Recommender Systems at Raya
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 6. Technical Account Manager for Supabase at Supabase
+### 7. Technical Account Manager for Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 7. Engineering Manager, Recommender Systems at Raya at Raya
+### 8. Engineering Manager, Recommender Systems at Raya at Raya
 
 🌍 **Location**: Worldwide
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 8. Global Talent Network Application at Binance
+### 9. Global Talent Network Application at Binance
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 9. Senior Product Manager, Risk at Coinbase
+### 10. Senior Product Manager, Risk at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 10. VP of Program Management Office at Crossover
+### 11. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 11. Senior Product Designer at Camunda
+### 12. Senior Product Designer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 12. Senior Manager of Visual Design at Dandy
+### 13. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +144,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 13. Product Owner, Innovation Team at CloudLinux
+### 14. Product Owner, Innovation Team at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 14. Senior Architect, Enterprise Agentic Automation at Camunda
+### 15. Senior Architect, Enterprise Agentic Automation at Camunda
 
 💰 **Salary**: $171,100-$275,800 USD
 
@@ -156,7 +166,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 15. Engineering Manager, Architecture Engineering: Async Remote at GitLab
+### 16. Engineering Manager, Architecture Engineering: Async Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 16. Senior Frontend Engineer - Acquisition Remote at Alpaca
+### 17. Senior Frontend Engineer - Acquisition Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 17. Graduate Software Engineer at CloudLinux
+### 18. Graduate Software Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 18. Engineering Manager - Git & Gitaly Operations at GitLab
+### 19. Engineering Manager - Git & Gitaly Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -196,7 +206,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 19. Sales Engineer at Coalesce at Coalesce
+### 20. Sales Engineer at Coalesce at Coalesce
 
 🌍 **Location**: Worldwide
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 20. Engineering Manager, Switchboard Remote at GitLab
+### 21. Engineering Manager, Switchboard Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -216,7 +226,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 21. Staff Frontend Engineer at GitLab
+### 22. Staff Frontend Engineer at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -226,7 +236,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 22. Senior Software Engineer - Trading at Alpaca
+### 23. Senior Software Engineer - Trading at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -236,7 +246,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 23. Engineering Manager - Infrastructure at Camunda
+### 24. Engineering Manager - Infrastructure at Camunda
 
 💰 **Salary**: $172,600-$278,300 USD
 
@@ -248,7 +258,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 24. Director of Customer Support North America at Cloudbeds
+### 25. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -260,7 +270,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 25. Site Reliability Engineer, Infrastructure Platforms at GitLab
+### 26. Site Reliability Engineer, Infrastructure Platforms at GitLab
 
 💰 **Salary**: $126,400-$314,400 USD
 
@@ -272,7 +282,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 26. Forward Deployed Engineer, Finance [Office of the CTO] at Coinbase
+### 27. Forward Deployed Engineer, Finance [Office of the CTO] at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -284,7 +294,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 27. Senior Engineering Manager at Atticus
+### 28. Senior Engineering Manager at Atticus
 
 💰 **Salary**: $195,000-$264,500 USD
 
@@ -296,7 +306,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 28. Full Stack Software Engineer, New Grad at Quora
+### 29. Full Stack Software Engineer, New Grad at Quora
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +316,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 29. Staff Software Engineer, Core AI Infrastructure at Coinbase
+### 30. Staff Software Engineer, Core AI Infrastructure at Coinbase
 
 💰 **Salary**: $218,025-$256,500 USD
 
@@ -318,7 +328,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 30. Technical Program Manager, CX Intelligence & AI at Coinbase
+### 31. Technical Program Manager, CX Intelligence & AI at Coinbase
 
 💰 **Salary**: $212,330-$249,800 USD
 
@@ -330,7 +340,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 31. Principal Engineer, Monetization Engineering at GitLab
+### 32. Principal Engineer, Monetization Engineering at GitLab
 
 💰 **Salary**: $223,000-$317,000 USD
 
@@ -342,7 +352,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 32. Solutions Engineer, Institutional at MatterLabs
+### 33. Solutions Engineer, Institutional at MatterLabs
 
 🌍 **Location**: Worldwide
 
@@ -352,7 +362,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 33. Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity at GitLab
+### 34. Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity at GitLab
 
 💰 **Salary**: $152,800-$259,200 USD
 
@@ -364,7 +374,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 34. Senior Staff, Compliance Technology Remote - USA at Coinbase
+### 35. Senior Staff, Compliance Technology Remote - USA at Coinbase
 
 💰 **Salary**: $230,265-$270,900 USD
 
@@ -376,7 +386,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 35. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
+### 36. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -386,7 +396,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 36. Professional Services - Technical Architect Remote at GitLab
+### 37. Professional Services - Technical Architect Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -396,7 +406,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 37. Staff Backend Engineer, Developer Experience at GitLab
+### 38. Staff Backend Engineer, Developer Experience at GitLab
 
 💰 **Salary**: $131,600-$282,000 USD
 
@@ -408,7 +418,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 38. Senior Software Engineer - Digital Workplace at Canonical
+### 39. Senior Software Engineer - Digital Workplace at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -418,7 +428,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 39. Telco Field Engineering Director at Canonical
+### 40. Telco Field Engineering Director at Canonical
 
 🌍 **Location**: Worldwide
 
@@ -428,7 +438,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 40. Software Engineering Internship Program (2027) at Wikimedia
+### 41. Software Engineering Internship Program (2027) at Wikimedia
 
 💰 **Salary**: $34-$42 USD
 
@@ -440,7 +450,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 41. Engineering Manager for Supabase Spark Platform at Supabase
+### 42. Engineering Manager for Supabase Spark Platform at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -450,7 +460,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 42. Business Architect at Applaudo
+### 43. Business Architect at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -460,7 +470,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 43. Post Sales Engineer - North America at Camunda
+### 44. Post Sales Engineer - North America at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -470,7 +480,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 44. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
+### 45. Lead Financial Analyst, Strategic Business Partner - Product & Technology at Wikimedia
 
 💰 **Salary**: $110,000-$181,000 USD
 
@@ -482,7 +492,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 45. Product Manager - Social Features (Content) at Binance
+### 46. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -492,7 +502,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 46. Sr. Manager, Solutions Architect SME Remote at GitLab
+### 47. Sr. Manager, Solutions Architect SME Remote at GitLab
 
 💰 **Salary**: $166,200-$249,300 USD
 
@@ -504,7 +514,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 47. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
+### 48. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
 
 💰 **Salary**: $96,100-$135,700 USD
 
@@ -516,7 +526,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 48. Senior Manager, Finance Systems at Dandy
+### 49. Senior Manager, Finance Systems at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -526,7 +536,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 49. Senior Infrastructure Engineer II at Kit
+### 50. Senior Infrastructure Engineer II at Kit
 
 💰 **Salary**: $197,000+ USD
 
@@ -538,7 +548,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 50. Customer Experience Dental Lab Technician - Removables at Dandy
+### 51. Customer Experience Dental Lab Technician - Removables at Dandy
 
 💰 **Salary**: $27,200-$34,000 EUR
 
@@ -550,7 +560,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 51. Staff Software Engineer (SRE) at Phantom
+### 52. Staff Software Engineer (SRE) at Phantom
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -562,7 +572,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 52. GFCO Program Manager at Coinbase
+### 53. GFCO Program Manager at Coinbase
 
 💰 **Salary**: $166,345-$225,055 USD
 
@@ -574,7 +584,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 53. Product Manager II, Workspace and Multi-User Remote at Coinbase
+### 54. Product Manager II, Workspace and Multi-User Remote at Coinbase
 
 💰 **Salary**: $180,370-$212,200 USD
 
@@ -589,7 +599,7 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-**Total Jobs**: 53 positions available
+**Total Jobs**: 54 positions available
 
 ---
 
@@ -617,6 +627,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 18, 2026 at 00:00 UTC_
+_Last updated: November 19, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
