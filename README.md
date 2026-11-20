@@ -19,34 +19,34 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 24 remote jobs available
-- 🏠 **[Admin](admin-role.md)** - 16 remote jobs available
+- 🏠 **[Admin](admin-role.md)** - 14 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 6 remote jobs available
 - 🏠 **[Backend](backend.md)** - 53 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 42 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 39 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 5 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 11 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 21 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 12 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 19 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 18 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 42 remote jobs available
-- 🏠 **[Engineering Manager](engineering-manager.md)** - 54 remote jobs available
-- 🏠 **[Executive Assistant](executive-assistant.md)** - 8 remote jobs available
-- 🏠 **[Finance](finance.md)** - 33 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 40 remote jobs available
+- 🏠 **[Engineering Manager](engineering-manager.md)** - 52 remote jobs available
+- 🏠 **[Executive Assistant](executive-assistant.md)** - 7 remote jobs available
+- 🏠 **[Finance](finance.md)** - 31 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 7 remote jobs available
-- 🏠 **[Fullstack](fullstack.md)** - 13 remote jobs available
-- 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
+- 🏠 **[Fullstack](fullstack.md)** - 15 remote jobs available
+- 🏠 **[Graphic Design](graphic-design.md)** - 2 remote jobs available
 - 🏠 **[HR](hr.md)** - 15 remote jobs available
-- 🏠 **[Intern](intern.md)** - 2 remote jobs available
-- 🏠 **[Legal](legal.md)** - 13 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 43 remote jobs available
+- 🏠 **[Intern](intern.md)** - 1 remote job available
+- 🏠 **[Legal](legal.md)** - 11 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 41 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 36 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 7 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
 - 🏠 **[Research](research.md)** - 10 remote jobs available
-- 🏠 **[Sales](sales.md)** - 37 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 26 remote jobs available
-- 🏠 **[Social Media Manager](social-media-manager.md)** - 9 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 99 remote jobs available
+- 🏠 **[Sales](sales.md)** - 35 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 25 remote jobs available
+- 🏠 **[Social Media Manager](social-media-manager.md)** - 8 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 97 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 6 remote jobs available
 
 
@@ -56,7 +56,67 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. IT Coordinator at Circle
+### 1. Demand Generation Lead at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/demand-generation-lead-applaudo)
+
+---
+
+### 2. Customer Onboarding Operations Manager at Dandy
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Product Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-onboarding-operations-manager-dandy)
+
+---
+
+### 3. Senior Product Marketing Manager at Uscreen
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketing-manager-uscreen)
+
+---
+
+### 4. Senior Implementation Engineer at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-implementation-engineer-clutch)
+
+---
+
+### 5. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-e308be5b-8605-4294-8ddf-72d3f21442b8)
+
+---
+
+### 6. Senior iOS Engineer, Foundations at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-foundations-raya)
+
+---
+
+### 7. IT Coordinator at Circle
 
 💰 **Salary**: $85,000 USD
 
@@ -68,7 +128,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. AI Forward Deployed Engineer at Camunda
+### 8. AI Forward Deployed Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +138,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Lifecycle QA Specialist (Email and SMS) at Winona
+### 9. Lifecycle QA Specialist (Email and SMS) at Winona
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +148,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Senior Server Engineer, Foundations at Raya
+### 10. Senior Server Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +158,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior iOS Engineer, Platform Foundations at Raya
+### 11. Senior iOS Engineer, Platform Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +168,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Senior iOS Engineer at Raya
+### 12. Senior iOS Engineer at Raya
 
 🌍 **Location**: Worldwide
 
@@ -118,7 +178,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Senior Product Designer - Product Growth at Kit
+### 13. Senior Product Designer - Product Growth at Kit
 
 💰 **Salary**: $172,000 USD
 
@@ -130,7 +190,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Head of Research, Crypto Data at CoinMarketCap
+### 14. Head of Research, Crypto Data at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +200,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. AI Native Head of Growth at Paradox
+### 15. AI Native Head of Growth at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -150,7 +210,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Performance Marketing Strategist at Superside
+### 16. Senior Performance Marketing Strategist at Superside
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +220,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. AI-Native Creative Director, Brand and Content at Paradox
+### 17. AI-Native Creative Director, Brand and Content at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +230,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. VIP & Institutional Sales Australia at Binance
+### 18. VIP & Institutional Sales Australia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -180,7 +240,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Risk Control Analyst, ATO & Risk Strategy at Binance
+### 19. Risk Control Analyst, ATO & Risk Strategy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -190,73 +250,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Head of Product, AdTech at Yodo1
+### 20. Head of Product, AdTech at Yodo1
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Product Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-adtech-yodo1)
-
----
-
-### 15. Physician Spokesperson at Winona
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: General
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/physician-spokesperson-winona)
-
----
-
-### 16. Enterprise Sales Development Representative at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-sales-development-representative-livekit)
-
----
-
-### 17. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-full-stack-raya)
-
----
-
-### 18. Support Engineer at Kinsta
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/support-engineer-kinsta)
-
----
-
-### 19. Senior Game Scout at Yodo1
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-game-scout-yodo1)
-
----
-
-### 20. Procurement Lead at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/procurement-lead-supabase)
 
 ---
 
@@ -286,6 +286,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 19, 2026 at 00:00 UTC_
+_Last updated: November 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
