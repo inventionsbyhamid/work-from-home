@@ -210,32 +210,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 20. IT Support Specialist at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/it-support-specialist-applaudo)
 
 ---
 
-### 21. Advanced Support Payments at Cloudbeds
-
-💰 **Salary**: $70,000-$89,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/advanced-support-payments-cloudbeds)
-
----
-
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 19 positions available
 
 ---
 
@@ -263,6 +241,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 19, 2026 at 00:00 UTC_
+_Last updated: November 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
