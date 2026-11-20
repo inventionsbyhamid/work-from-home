@@ -126,32 +126,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 12. Regulatory Legal Counsel - US Monitorships Singapore; United Arab Emirates; United Kingdom; United States at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/regulatory-legal-counsel-us-monitorships-singapore-united-arab-emirates-united-kingdom-united-states-binance)
 
 ---
 
-### 13. Claims Manager at Counterpart at Counterpart
-
-💰 **Salary**: $120,000-$160,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/claims-manager-at-counterpart-counterpart)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -179,6 +157,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 19, 2026 at 00:00 UTC_
+_Last updated: November 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
