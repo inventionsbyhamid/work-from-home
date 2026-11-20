@@ -344,34 +344,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 32. Brokerage Operations Quality Specialist at Empower
-
-💰 **Salary**: $59,700-$84,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/brokerage-operations-quality-specialist-empower)
 
 ---
 
-### 33. Investments Director at Empower
-
-💰 **Salary**: $125,400-$181,875 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/investments-director-empower)
-
----
-
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 31 positions available
 
 ---
 
@@ -399,6 +375,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 19, 2026 at 00:00 UTC_
+_Last updated: November 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
