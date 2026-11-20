@@ -572,34 +572,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 53. GFCO Program Manager at Coinbase
-
-💰 **Salary**: $166,345-$225,055 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/gfco-program-manager-coinbase)
 
 ---
 
-### 54. Product Manager II, Workspace and Multi-User Remote at Coinbase
-
-💰 **Salary**: $180,370-$212,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-ii-workspace-and-multi-user-remote-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 54 positions available
+**Total Jobs**: 52 positions available
 
 ---
 
@@ -627,6 +603,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 19, 2026 at 00:00 UTC_
+_Last updated: November 20, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
