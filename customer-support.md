@@ -156,64 +156,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 15. Clinical Support Team Lead (CSL) at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-team-lead-dandy)
 
 ---
 
-### 16. Paralegal at Atticus
-
-💰 **Salary**: $75,000-$90,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
-
----
-
-### 17. Customer Service Representative ( Spanish / English) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-service-representative-binance)
-
----
-
-### 18. Community Support Specialist for Raya at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-specialist-for-raya-raya)
-
----
-
-### 19. Customer Experience Dental Lab Technician - Removables at Dandy
-
-💰 **Salary**: $27,200-$34,000 EUR
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technician-removables-dandy)
-
----
-
-
----
-
-**Total Jobs**: 19 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -241,6 +187,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
