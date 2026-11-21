@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Customer Onboarding Operations Manager at Dandy
+### 1. Senior Customer Intelligence Manager at Camunda
+
+💰 **Salary**: $126,000-$203,100 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Success
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-customer-intelligence-manager-camunda)
+
+---
+
+### 2. Customer Onboarding Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 2. Retention Specialist (English and Punjabi) at Bobtail
+### 3. Retention Specialist (English and Punjabi) at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 3. Technical Account Manager- Nordics at Camunda
+### 4. Technical Account Manager- Nordics at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 4. Technical Account Manager- DACH at Camunda
+### 5. Technical Account Manager- DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 5. Senior Manager, Customer Expansion at Dandy
+### 6. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 6. Customer Growth Manager at Uscreen at Uscreen
+### 7. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 7. Community Support Manager at Raya
+### 8. Community Support Manager at Raya
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 8. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 9. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +100,7 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 9. Customer Solutions Architect at Supabase
+### 10. Customer Solutions Architect at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -98,42 +110,10 @@ Latest **100% remote** job opportunities in **Customer Success** from the past 3
 
 ---
 
-### 10. Clinical Support Team Lead (CSL) at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/clinical-support-team-lead-dandy)
 
 ---
 
-### 11. Technical Account Manager, Newspack at Automattic
-
-💰 **Salary**: $73,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-newspack-automattic)
-
----
-
-### 12. Customer Success Architect at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Success
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-architect-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 12 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -161,6 +141,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
