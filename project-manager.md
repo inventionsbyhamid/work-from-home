@@ -8,7 +8,39 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ## Available Positions (Last 30 Days)
 
-### 1. Marketing Operations Manager (Fixed Term) at SafetyWing
+### 1. Service Delivery Manager at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/service-delivery-manager-applaudo)
+
+---
+
+### 2. Merchandise Operations Manager at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/merchandise-operations-manager-chess)
+
+---
+
+### 3. Financial Data Manager at Counterpart
+
+💰 **Salary**: $150,000-$180,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Project Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/financial-data-manager-counterpart)
+
+---
+
+### 4. Marketing Operations Manager (Fixed Term) at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +50,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 2. Project Manager Remote - EMEA at Alpaca
+### 5. Project Manager Remote - EMEA at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +60,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 3. VP of Program Management Office at Crossover
+### 6. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +70,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 4. VP of Program Management Office at Crossover
+### 7. VP of Program Management Office at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +80,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 5. Staff Program Manager, CCO Programs Remote at GitLab
+### 8. Staff Program Manager, CCO Programs Remote at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -60,7 +92,7 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 6. Manager, WFM Compliance Operations at Coinbase
+### 9. Manager, WFM Compliance Operations at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -70,22 +102,10 @@ Latest **100% remote** job opportunities in **Project Manager** from the past 30
 
 ---
 
-### 7. Technical Account Manager, Newspack at Automattic
-
-💰 **Salary**: $73,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Project Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-newspack-automattic)
 
 ---
 
-
----
-
-**Total Jobs**: 7 positions available
+**Total Jobs**: 9 positions available
 
 ---
 
@@ -113,6 +133,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
