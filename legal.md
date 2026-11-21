@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Contracts Manager at Supabase
+### 1. People Benefits & Compliance Analyst at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/people-benefits-compliance-analyst-applaudo)
+
+---
+
+### 2. Senior Contracts Manager at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Senior Counsel, Commercial at Dandy
+### 3. Senior Counsel, Commercial at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Senior Director Compliance Monitoring & Surveillance at Empower
+### 4. Senior Director Compliance Monitoring & Surveillance at Empower
 
 💰 **Salary**: $144,900-$210,075 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Senior Corporate Counsel at Automattic
+### 5. Senior Corporate Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -52,7 +62,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Senior Legal Counsel at OpenZeppelin
+### 6. Senior Legal Counsel at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +72,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 6. Case Analyst (Spanish and Portuguese speaker) at Binance
+### 7. Case Analyst (Spanish and Portuguese speaker) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +82,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Counsel / Senior Counsel at Automattic
+### 8. Counsel / Senior Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -84,7 +94,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 8. Product Counsel, Equities & Tokenized Securities at Binance
+### 9. Product Counsel, Equities & Tokenized Securities at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +104,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 9. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
+### 10. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -104,32 +114,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 10. Paralegal at Atticus
-
-💰 **Salary**: $75,000-$90,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
 
 ---
 
-### 11. Global Financial Crime/Sanctions Legal Counsel at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-financial-crime-sanctions-legal-counsel-binance)
-
----
-
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -157,6 +145,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
