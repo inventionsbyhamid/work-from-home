@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. IT Coordinator at Circle
+### 1. People Benefits & Compliance Analyst at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Admin
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/people-benefits-compliance-analyst-applaudo)
+
+---
+
+### 2. IT Coordinator at Circle
 
 💰 **Salary**: $85,000 USD
 
@@ -20,7 +30,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 2. Maintenance Technician at Dandy
+### 3. Maintenance Technician at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 3. Operations Analyst, Market Data at Alpaca
+### 4. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 4. Social Support Specialist I Remote at Coinbase
+### 5. Social Support Specialist I Remote at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 5. Senior Accountant North America - Remote at Alpaca
+### 6. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 6. HR Business Partner at Binance
+### 7. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 7. Office Administrator/ Manager at Binance
+### 8. Office Administrator/ Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 8. Senior Procurement Specialist at Wikimedia
+### 9. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 9. Candidate Experience Specialist at GitLab
+### 10. Candidate Experience Specialist at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 10. GRC Analyst at Supabase at Supabase
+### 11. GRC Analyst at Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -112,52 +122,10 @@ Latest **100% remote** job opportunities in **Admin** from the past 30 days. All
 
 ---
 
-### 11. Paralegal at Atticus
-
-💰 **Salary**: $75,000-$90,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/paralegal-atticus)
 
 ---
 
-### 12. Customer Service Representative ( Spanish / English) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-service-representative-binance)
-
----
-
-### 13. Community Support Specialist for Raya at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-specialist-for-raya-raya)
-
----
-
-### 14. Head of Talent at VRChat
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Admin
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-talent-vrchat)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -185,6 +153,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
