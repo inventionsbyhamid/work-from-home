@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI-Native Creative Director, Brand and Content at Paradox
+### 1. Influencer and Media Manager at Yodo1
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Social Media Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/influencer-and-media-manager-yodo1)
+
+---
+
+### 2. AI-Native Creative Director, Brand and Content at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 2. Growth Copywriter at Winona
+### 3. Growth Copywriter at Winona
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 3. Social Media Specialist at Binance
+### 4. Social Media Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 4. Social Media Manager at Binance
+### 5. Social Media Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. New Media Manager, Social and Community Growth at Solana
+### 6. New Media Manager, Social and Community Growth at Solana
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 6. Communications and Social Media Manager at DuckDuckGo
+### 7. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -68,23 +78,13 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 7. Product Manager - Social Features (Content) at Binance
+### 8. Product Manager - Social Features (Content) at Binance
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Social Media Manager
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-social-features-binance)
-
----
-
-### 8. Entry-level communications specialist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/entry-level-communications-specialist-canonical)
 
 ---
 
@@ -119,6 +119,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:01 UTC_
+_Last updated: November 21, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
