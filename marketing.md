@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Demand Generation Lead at Applaudo
+### 1. Influencer and Media Manager at Yodo1
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/influencer-and-media-manager-yodo1)
+
+---
+
+### 2. Demand Generation Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Senior Product Marketing Manager at Uscreen
+### 3. Senior Product Marketing Manager at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Lifecycle QA Specialist (Email and SMS) at Winona
+### 4. Lifecycle QA Specialist (Email and SMS) at Winona
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. AI Native Head of Growth at Paradox
+### 5. AI Native Head of Growth at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Senior Performance Marketing Strategist at Superside
+### 6. Senior Performance Marketing Strategist at Superside
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. AI-Native Creative Director, Brand and Content at Paradox
+### 7. AI-Native Creative Director, Brand and Content at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. Senior Product Marketing Manager, Scaling Creators at Kit
+### 8. Senior Product Marketing Manager, Scaling Creators at Kit
 
 💰 **Salary**: $166,000 USD
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Developer Community and Events Lead at Supabase
+### 9. Developer Community and Events Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. Go To Market Strategic Planning Lead at Supabase
+### 10. Go To Market Strategic Planning Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Marketing Operations Manager (Fixed Term) at SafetyWing
+### 11. Marketing Operations Manager (Fixed Term) at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Partner Program Lead (U.S.) Marketing at beehiiv
+### 12. Partner Program Lead (U.S.) Marketing at beehiiv
 
 💰 **Salary**: $130,000-$215,000 USD
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Senior Developer Relations Leader for Supabase at Supabase
+### 13. Senior Developer Relations Leader for Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Growth Copywriter at Winona
+### 14. Growth Copywriter at Winona
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +152,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Senior Performance Marketing Manager at Fingerprint
+### 15. Senior Performance Marketing Manager at Fingerprint
 
 💰 **Salary**: $148,000-$200,000 USD
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Senior Manager of Visual Design at Dandy
+### 16. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -164,7 +174,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Senior Product Manager, Growth at beehiiv
+### 17. Senior Product Manager, Growth at beehiiv
 
 💰 **Salary**: $145,000-$160,000 USD
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Growth Lead, Marketplace at Circle
+### 18. Growth Lead, Marketplace at Circle
 
 💰 **Salary**: $147,000-$160,000 USD
 
@@ -188,7 +198,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
+### 19. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
 
 💰 **Salary**: $80,000-$100,000 AUD
 
@@ -200,7 +210,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Senior Growth Marketing Manager at DuckDuckGo
+### 20. Senior Growth Marketing Manager at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -212,7 +222,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Senior Talent Brand Manager at GitLab
+### 21. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -224,7 +234,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. SEO & Analytics Strategist at Fueled
+### 22. SEO & Analytics Strategist at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -234,7 +244,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Customer Growth Manager at Uscreen at Uscreen
+### 23. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -244,7 +254,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 23. Chief Customer Officer at Xapo Bank
+### 24. Chief Customer Officer at Xapo Bank
 
 🌍 **Location**: Worldwide
 
@@ -254,7 +264,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 24. Social Media Specialist at Binance
+### 25. Social Media Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +274,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 25. Business Insight Lead (User Growth) at Binance
+### 26. Business Insight Lead (User Growth) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -274,7 +284,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 26. Paid Ads & Search Specialist (Africa) at Binance
+### 27. Paid Ads & Search Specialist (Africa) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -284,7 +294,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 27. Head of Communications at Atticus
+### 28. Head of Communications at Atticus
 
 💰 **Salary**: $250,000-$350,000 USD
 
@@ -296,7 +306,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 28. Social Media Manager at Binance
+### 29. Social Media Manager at Binance
 
 🌍 **Location**: Worldwide
 
@@ -306,7 +316,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 29. New Media Manager, Social and Community Growth at Solana
+### 30. New Media Manager, Social and Community Growth at Solana
 
 🌍 **Location**: Worldwide
 
@@ -316,7 +326,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 30. Head of Marketing at Wikimedia
+### 31. Head of Marketing at Wikimedia
 
 💰 **Salary**: $143,478-$217,585 USD
 
@@ -328,7 +338,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 31. Translator, Italian (IT) at Circle
+### 32. Translator, Italian (IT) at Circle
 
 💰 **Salary**: $35+ USD
 
@@ -340,7 +350,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 32. Lead Pricing Strategist at GitLab
+### 33. Lead Pricing Strategist at GitLab
 
 💰 **Salary**: $139,200-$235,200 USD
 
@@ -352,7 +362,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 33. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
+### 34. Binance Accelerator Program - Affiliate BD Singapore; United Arab Emirates at Binance
 
 🌍 **Location**: Worldwide
 
@@ -362,7 +372,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 34. Senior Copywriter at Phantom
+### 35. Senior Copywriter at Phantom
 
 💰 **Salary**: $140,000-$188,000 USD
 
@@ -374,7 +384,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 35. Communications and Social Media Manager at DuckDuckGo
+### 36. Communications and Social Media Manager at DuckDuckGo
 
 🌍 **Location**: Worldwide
 
@@ -384,7 +394,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 36. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
+### 37. Binance Accelerator Programme - Campaigns Operations, Binance Square at Binance
 
 🌍 **Location**: Worldwide
 
@@ -394,7 +404,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 37. Growth & Partnerships Manager - Staking Products Taiwan at Binance
+### 38. Growth & Partnerships Manager - Staking Products Taiwan at Binance
 
 🌍 **Location**: Worldwide
 
@@ -404,52 +414,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 38. Senior Product Marketing Manager, Trading at Coinbase
-
-💰 **Salary**: $170,765-$200,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-marketing-manager-trading-coinbase)
 
 ---
 
-### 39. Creator and UGC Growth Marketer at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/creator-and-ugc-growth-marketer-supabase)
-
----
-
-### 40. Head of Communications - New Media at Supabase at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-communications-new-media-at-supabase-supabase)
-
----
-
-### 41. Entry-level communications specialist at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/entry-level-communications-specialist-canonical)
-
----
-
-
----
-
-**Total Jobs**: 41 positions available
+**Total Jobs**: 38 positions available
 
 ---
 
@@ -477,6 +445,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
