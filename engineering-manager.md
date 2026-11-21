@@ -514,68 +514,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 48. Senior Manager, Workplace Planning and Advice - Strategic Outreach at Empower
-
-💰 **Salary**: $96,100-$135,700 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-workplace-planning-and-advice-strategic-outreach-empower)
 
 ---
 
-### 49. Senior Manager, Finance Systems at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-finance-systems-dandy)
-
----
-
-### 50. Senior Infrastructure Engineer II at Kit
-
-💰 **Salary**: $197,000+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-infrastructure-engineer-ii-kit)
-
----
-
-### 51. Customer Experience Dental Lab Technician - Removables at Dandy
-
-💰 **Salary**: $27,200-$34,000 EUR
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-experience-dental-lab-technician-removables-dandy)
-
----
-
-### 52. Staff Software Engineer (SRE) at Phantom
-
-💰 **Salary**: $200,000-$250,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-remote-phantom)
-
----
-
-
----
-
-**Total Jobs**: 52 positions available
+**Total Jobs**: 47 positions available
 
 ---
 
@@ -603,6 +545,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:00 UTC_
+_Last updated: November 21, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
