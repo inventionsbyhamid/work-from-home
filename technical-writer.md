@@ -52,32 +52,10 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 5. Technical Account Manager, Newspack at Automattic
-
-💰 **Salary**: $73,000-$130,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-account-manager-newspack-automattic)
 
 ---
 
-### 6. Customer Success Architect at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-success-architect-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -105,6 +83,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 20, 2026 at 00:01 UTC_
+_Last updated: November 21, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
