@@ -38,22 +38,10 @@ Latest **100% remote** job opportunities in **Quality Assurance (QA)** from the 
 
 ---
 
-### 4. Stock Plan Services Quality Specialist at Empower
-
-💰 **Salary**: $65,600-$92,675 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Quality Assurance (QA)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/stock-plan-services-quality-specialist-empower)
 
 ---
 
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -81,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 21, 2026 at 00:00 UTC_
+_Last updated: November 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
