@@ -904,116 +904,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 87. Telco Field Engineering Director at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/telco-field-engineering-director-canonical)
 
 ---
 
-### 88. Software Engineering Internship Program (2027) at Wikimedia
-
-💰 **Salary**: $34-$42 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineering-internship-program-wikimedia)
-
----
-
-### 89. Senior Security Operations Engineer at Clutch at Clutch
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-security-operations-engineer-at-clutch-clutch)
-
----
-
-### 90. Engineering Manager for Supabase Spark Platform at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-for-supabase-spark-platform-supabase)
-
----
-
-### 91. Software Engineer, Turso Core Database Team at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-turso-core-database-team-supabase)
-
----
-
-### 92. Senior Data Engineer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-remote-phantom)
-
----
-
-### 93. Business Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-architect-applaudo)
-
----
-
-### 94. Senior Software Engineer - Clearing Remote - Europe at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-clearing-remote-europe-alpaca)
-
----
-
-### 95. Software Engineer - Compliance CXAE at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-compliance-cxae-coinbase)
-
----
-
-### 96. Sr. Manager, Solutions Architect SME Remote at GitLab
-
-💰 **Salary**: $166,200-$249,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sr-manager-solutions-architect-sme-remote-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 96 positions available
+**Total Jobs**: 86 positions available
 
 ---
 
@@ -1041,6 +935,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 21, 2026 at 00:01 UTC_
+_Last updated: November 22, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
