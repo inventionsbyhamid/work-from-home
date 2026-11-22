@@ -362,40 +362,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 34. UX Researcher (Non-technical) - Binance Accelerator Program at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ux-researcher-binance-accelerator-program-binance)
 
 ---
 
-### 35. Product Manager - Social Features (Content) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-social-features-binance)
-
----
-
-### 36. Growth & Partnerships Manager - Staking Products Taiwan at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/growth-partnerships-manager-staking-products-taiwan-binance)
-
----
-
-
----
-
-**Total Jobs**: 36 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -423,6 +393,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 21, 2026 at 00:00 UTC_
+_Last updated: November 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
