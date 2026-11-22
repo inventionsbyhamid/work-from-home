@@ -546,52 +546,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 53. Software Engineer, Turso Core Database Team at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-turso-core-database-team-supabase)
 
 ---
 
-### 54. Senior Data Engineer at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-data-engineer-remote-phantom)
-
----
-
-### 55. Senior Software Engineer - Clearing Remote - Europe at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-clearing-remote-europe-alpaca)
-
----
-
-### 56. Software Engineer - Compliance CXAE at Coinbase
-
-💰 **Salary**: $152,405-$179,300 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/software-engineer-compliance-cxae-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 56 positions available
+**Total Jobs**: 52 positions available
 
 ---
 
@@ -619,6 +577,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 21, 2026 at 00:00 UTC_
+_Last updated: November 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
