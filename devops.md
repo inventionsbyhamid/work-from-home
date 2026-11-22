@@ -396,40 +396,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 38. Telco Field Engineering Director at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/telco-field-engineering-director-canonical)
 
 ---
 
-### 39. Senior Software Engineer - Clearing Remote - Europe at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-clearing-remote-europe-alpaca)
-
----
-
-### 40. Staff Security Engineer at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-security-engineer-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 40 positions available
+**Total Jobs**: 37 positions available
 
 ---
 
@@ -457,6 +427,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 21, 2026 at 00:00 UTC_
+_Last updated: November 22, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
