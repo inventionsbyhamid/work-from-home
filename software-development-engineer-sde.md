@@ -874,40 +874,10 @@ Latest **100% remote** job opportunities in **Software Development Engineer (SDE
 
 ---
 
-### 84. Android Engineer - Risk Control at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/android-engineer-risk-control-binance)
 
 ---
 
-### 85. Senior Full Stack Engineer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-coalition-technologies)
-
----
-
-### 86. Customer Solutions Architect at Supabase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Software Development Engineer (SDE)
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-solutions-architect-supabase)
-
----
-
-
----
-
-**Total Jobs**: 86 positions available
+**Total Jobs**: 83 positions available
 
 ---
 
@@ -935,6 +905,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 22, 2026 at 00:01 UTC_
+_Last updated: November 23, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
