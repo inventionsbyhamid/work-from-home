@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Implementation Engineer at Clutch
+### 1. Senior iOS Engineer, Core Discovery at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-core-discovery-raya)
+
+---
+
+### 2. Senior Implementation Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior iOS Engineer, Foundations at Raya
+### 3. Senior iOS Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. AI Forward Deployed Engineer at Camunda
+### 4. AI Forward Deployed Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
+### 5. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. Growth Engineer (Global) at beehiiv
+### 6. Growth Engineer (Global) at beehiiv
 
 💰 **Salary**: $145,000-$165,000 USD
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. AI Engineer at Awesome Motive
+### 7. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Engineering Manager, Growth at Buffer
+### 8. Engineering Manager, Growth at Buffer
 
 💰 **Salary**: $179,100-$235,361 USD
 
@@ -82,7 +92,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. Senior Full Stack Engineer, iOS and Backend at Raya
+### 9. Senior Full Stack Engineer, iOS and Backend at Raya
 
 🌍 **Location**: Worldwide
 
@@ -92,7 +102,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Lead Engineer, Member Growth at Circle
+### 10. Lead Engineer, Member Growth at Circle
 
 💰 **Salary**: $162,000 USD
 
@@ -104,7 +114,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
+### 11. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -114,7 +124,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Senior Software Engineer New Markets Remote at Alpaca
+### 12. Senior Software Engineer New Markets Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -124,7 +134,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
+### 13. Client Full-Stack Engineer - IM Chat Platform, Android Focus at Binance
 
 🌍 **Location**: Worldwide
 
@@ -134,23 +144,13 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Senior Fullstack Engineer at Coalition Technologies
+### 14. Senior Fullstack Engineer at Coalition Technologies
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Fullstack
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-fullstack-engineer-coalition-technologies)
-
----
-
-### 14. Senior Full Stack Engineer at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Fullstack
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-engineer-coalition-technologies)
 
 ---
 
@@ -185,6 +185,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 22, 2026 at 00:00 UTC_
+_Last updated: November 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
