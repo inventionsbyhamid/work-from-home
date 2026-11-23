@@ -220,30 +220,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 21. Infrastructure Security Engineer at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/infrastructure-security-engineer-livekit)
 
 ---
 
-### 22. Security Engineer, Vulnerability Management at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-vulnerability-management-livekit)
-
----
-
-
----
-
-**Total Jobs**: 22 positions available
+**Total Jobs**: 20 positions available
 
 ---
 
@@ -271,6 +251,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 22, 2026 at 00:01 UTC_
+_Last updated: November 23, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
