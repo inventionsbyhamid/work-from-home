@@ -20,11 +20,11 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 - 🏠 **[AI/ML](ai-ml.md)** - 24 remote jobs available
 - 🏠 **[Admin](admin-role.md)** - 10 remote jobs available
-- 🏠 **[Android Developer](android-developer.md)** - 6 remote jobs available
+- 🏠 **[Android Developer](android-developer.md)** - 5 remote jobs available
 - 🏠 **[Backend](backend.md)** - 52 remote jobs available
 - 🏠 **[Business Development](business-development.md)** - 31 remote jobs available
 - 🏠 **[Copywriter](copywriter.md)** - 5 remote jobs available
-- 🏠 **[Customer Success](customer-success.md)** - 10 remote jobs available
+- 🏠 **[Customer Success](customer-success.md)** - 8 remote jobs available
 - 🏠 **[Customer Support](customer-support.md)** - 15 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 17 remote jobs available
 - 🏠 **[DevOps](devops.md)** - 37 remote jobs available
@@ -36,16 +36,16 @@ Click on any category below to see all available remote positions. **All jobs ar
 - 🏠 **[Graphic Design](graphic-design.md)** - 3 remote jobs available
 - 🏠 **[HR](hr.md)** - 13 remote jobs available
 - 🏠 **[Legal](legal.md)** - 10 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 38 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 37 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 8 remote jobs available
 - 🏠 **[Product Manager](product-manager.md)** - 33 remote jobs available
 - 🏠 **[Project Manager](project-manager.md)** - 9 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
-- 🏠 **[Research](research.md)** - 9 remote jobs available
+- 🏠 **[Research](research.md)** - 8 remote jobs available
 - 🏠 **[Sales](sales.md)** - 27 remote jobs available
-- 🏠 **[Security Engineer](security-engineer.md)** - 22 remote jobs available
+- 🏠 **[Security Engineer](security-engineer.md)** - 20 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 7 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 86 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 83 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 4 remote jobs available
 
 
@@ -55,7 +55,27 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Red Team Lead at Supabase
+### 1. Senior Server Engineer, Foundations at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Backend
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-server-engineer-foundations-remote-raya)
+
+---
+
+### 2. Senior iOS Engineer, Core Discovery at Raya
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-core-discovery-raya)
+
+---
+
+### 3. Red Team Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -65,7 +85,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Email Designer at Winona
+### 4. Email Designer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -75,7 +95,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Remote Patient Care Representative at Winona
+### 5. Remote Patient Care Representative at Winona
 
 🌍 **Location**: Worldwide
 
@@ -85,7 +105,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. QA Functional Engineer at Applaudo
+### 6. QA Functional Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -95,7 +115,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Senior Sales Engineer - Benelux at Camunda
+### 7. Senior Sales Engineer - Benelux at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -105,7 +125,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. Service Delivery Manager at Applaudo
+### 8. Service Delivery Manager at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -115,7 +135,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. People Benefits & Compliance Analyst at Applaudo
+### 9. People Benefits & Compliance Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -125,7 +145,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Senior Customer Intelligence Manager at Camunda
+### 10. Senior Customer Intelligence Manager at Camunda
 
 💰 **Salary**: $126,000-$203,100 USD
 
@@ -137,7 +157,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Influencer and Media Manager at Yodo1
+### 11. Influencer and Media Manager at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +167,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Senior Storage Platform Engineer at Supabase
+### 12. Senior Storage Platform Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -157,7 +177,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. Software Engineer, Postgres Tooling at Supabase
+### 13. Software Engineer, Postgres Tooling at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -167,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 12. Merchandise Operations Manager at Chess
+### 14. Merchandise Operations Manager at Chess
 
 🌍 **Location**: Worldwide
 
@@ -177,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 13. Multigres Deployment Engineer at Supabase
+### 15. Multigres Deployment Engineer at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -187,7 +207,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 14. Financial Data Manager at Counterpart
+### 16. Financial Data Manager at Counterpart
 
 💰 **Salary**: $150,000-$180,000 USD
 
@@ -199,7 +219,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 15. Demand Generation Lead at Applaudo
+### 17. Demand Generation Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -209,7 +229,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 16. Customer Onboarding Operations Manager at Dandy
+### 18. Customer Onboarding Operations Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -219,7 +239,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 17. Senior Product Marketing Manager at Uscreen
+### 19. Senior Product Marketing Manager at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -229,33 +249,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 18. Senior Implementation Engineer at Clutch
+### 20. Senior Implementation Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Backend
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-implementation-engineer-clutch)
-
----
-
-### 19. Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu at Canonical
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-e308be5b-8605-4294-8ddf-72d3f21442b8)
-
----
-
-### 20. Senior iOS Engineer, Foundations at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-ios-engineer-foundations-raya)
 
 ---
 
@@ -285,6 +285,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 22, 2026 at 00:00 UTC_
+_Last updated: November 23, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
