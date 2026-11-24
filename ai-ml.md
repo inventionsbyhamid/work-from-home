@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior Server Engineer, Foundations at Raya
+### 1. AI Engineer at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-engineer-applaudo)
+
+---
+
+### 2. Senior Server Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. AI Forward Deployed Engineer at Camunda
+### 3. AI Forward Deployed Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. Senior Server Engineer, Foundations at Raya
+### 4. Senior Server Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Head of Research, Crypto Data at CoinMarketCap
+### 5. Head of Research, Crypto Data at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. AI Engineer at Awesome Motive
+### 6. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Product Builder, IDP and RPA at Camunda
+### 7. Product Builder, IDP and RPA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Software Engineer, AI Tooling at Supabase
+### 8. Software Engineer, AI Tooling at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. Senior Analytics Engineer at Kit
+### 9. Senior Analytics Engineer at Kit
 
 💰 **Salary**: $172,000 USD
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Applied Data Scientist at Binance
+### 10. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Senior Architect, Enterprise Agentic Automation at Camunda
+### 11. Senior Architect, Enterprise Agentic Automation at Camunda
 
 💰 **Salary**: $171,100-$275,800 USD
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. AI Engineer at Phantom
+### 12. AI Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Senior Data Scientist at Raya
+### 13. Senior Data Scientist at Raya
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Product Manager, AI and EdTech at Paradox
+### 14. Product Manager, AI and EdTech at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +152,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. Senior Data Scientist, Places at Raya
+### 15. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +162,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Senior ML Engineer at CloudLinux
+### 16. Senior ML Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. AI Support Operations Specialist at SafetyWing
+### 17. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +182,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Senior Frontend Engineer - Web3 Wallet at Binance
+### 18. Senior Frontend Engineer - Web3 Wallet at Binance
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +192,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Senior AI Engineer at GitLab
+### 19. Senior AI Engineer at GitLab
 
 💰 **Salary**: $108,400-$129,600 USD
 
@@ -194,7 +204,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. Data Scientist at Applaudo
+### 20. Data Scientist at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -204,7 +214,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 20. Backend Engineer (Ruby), Plan: Spec-Driven Development at GitLab
+### 21. Backend Engineer (Ruby), Plan: Spec-Driven Development at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -214,50 +224,10 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 21. LLM Data Scientist/Algorithm Engineer (Top Talent Program) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/llm-data-scientist-algorithm-engineer-remote-binance)
 
 ---
 
-### 22. Senior Machine Learning Engineer, Malware Detection at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-malware-detection-cloudlinux)
-
----
-
-### 23. Senior Machine Learning Engineer, Email Security at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-email-security-cloudlinux)
-
----
-
-### 24. Lead Security Engineer, Vulnerability Response at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-vulnerability-response-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 24 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -285,6 +255,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 23, 2026 at 00:00 UTC_
+_Last updated: November 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
