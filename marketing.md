@@ -382,32 +382,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 36. Senior Copywriter at Phantom
-
-💰 **Salary**: $140,000-$188,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-copywriter-phantom)
 
 ---
 
-### 37. Communications and Social Media Manager at DuckDuckGo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/communications-and-social-media-manager-duckduckgo)
-
----
-
-
----
-
-**Total Jobs**: 37 positions available
+**Total Jobs**: 35 positions available
 
 ---
 
@@ -435,6 +413,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 23, 2026 at 00:00 UTC_
+_Last updated: November 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
