@@ -236,52 +236,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 22. Lead SEC Analyst at GitLab
-
-💰 **Salary**: $139,000-$235,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-sec-analyst-gitlab)
 
 ---
 
-### 23. Manager, Card Business Development & Operations at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-card-business-development-operations-binance)
-
----
-
-### 24. Senior Payroll Specialist at LiveKit
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-payroll-specialist-livekit)
-
----
-
-### 25. Enterprise Wide Risk Assessment (EWRA) Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/enterprise-wide-risk-assessmentspecialist-remote-binance)
-
----
-
-
----
-
-**Total Jobs**: 25 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -309,6 +267,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 23, 2026 at 00:00 UTC_
+_Last updated: November 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
