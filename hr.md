@@ -124,32 +124,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 12. Senior Manager, People Operations at Atticus
-
-💰 **Salary**: $130,000-$185,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-people-operations-atticus)
 
 ---
 
-### 13. HR Manager, Global Expansion at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/hr-manager-global-expansion-dandy)
-
----
-
-
----
-
-**Total Jobs**: 13 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -177,6 +155,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 23, 2026 at 00:00 UTC_
+_Last updated: November 24, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
