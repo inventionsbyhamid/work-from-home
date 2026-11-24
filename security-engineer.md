@@ -190,40 +190,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 18. Fraud Prevention Analyst Brazil at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/fraud-prevention-analyst-brazil-binance)
 
 ---
 
-### 19. Senior Machine Learning Engineer, Malware Detection at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-machine-learning-engineer-malware-detection-cloudlinux)
-
----
-
-### 20. Lead Security Engineer, Vulnerability Response at CloudLinux
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-security-engineer-vulnerability-response-cloudlinux)
-
----
-
-
----
-
-**Total Jobs**: 20 positions available
+**Total Jobs**: 17 positions available
 
 ---
 
@@ -251,6 +221,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 23, 2026 at 00:01 UTC_
+_Last updated: November 24, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
