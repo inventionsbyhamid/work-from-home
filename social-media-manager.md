@@ -48,30 +48,10 @@ Latest **100% remote** job opportunities in **Social Media Manager** from the pa
 
 ---
 
-### 5. Social Media Manager at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-manager-binance)
 
 ---
 
-### 6. New Media Manager, Social and Community Growth at Solana
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Social Media Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/new-media-manager-social-and-community-growth-solana)
-
----
-
-
----
-
-**Total Jobs**: 6 positions available
+**Total Jobs**: 4 positions available
 
 ---
 
@@ -99,6 +79,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:01 UTC_
+_Last updated: November 25, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
