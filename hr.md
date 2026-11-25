@@ -112,22 +112,10 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 11. Senior Manager Stock Plan Participant Services at Empower
-
-💰 **Salary**: $96,100-$135,700 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: HR
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-stock-plan-participant-services-empower)
 
 ---
 
-
----
-
-**Total Jobs**: 11 positions available
+**Total Jobs**: 10 positions available
 
 ---
 
@@ -155,6 +143,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
