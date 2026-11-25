@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Partner Solutions Architect, AI Builder Platforms at Supabase
+### 1. Content Engineer, Developer Documentation at LiveKit
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Technical Writer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/content-engineer-developer-documentation-livekit)
+
+---
+
+### 2. Partner Solutions Architect, AI Builder Platforms at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 2. Technical Program Manager, CX Intelligence & AI at Coinbase
+### 3. Technical Program Manager, CX Intelligence & AI at Coinbase
 
 💰 **Salary**: $212,330-$249,800 USD
 
@@ -30,32 +40,10 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 3. Translator, Italian (IT) at Circle
-
-💰 **Salary**: $35+ USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/translator-italian-circle)
 
 ---
 
-### 4. Solutions Architect, Public Sector at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-architect-public-sector-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 4 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -83,6 +71,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:01 UTC_
+_Last updated: November 25, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
