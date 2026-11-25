@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Head of Research, Crypto Data at CoinMarketCap
+### 1. Junior Market Analyst at MEYA HOLDINGS LTD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-market-analyst-meya-holdings-ltd)
+
+---
+
+### 2. Head of Research, Crypto Data at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 2. Risk Control Analyst, ATO & Risk Strategy at Binance
+### 3. Risk Control Analyst, ATO & Risk Strategy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 3. Earn Operations Specialist (Onchain Direction) at Binance
+### 4. Earn Operations Specialist (Onchain Direction) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 4. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 5. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 5. Senior Data Scientist, Places at Raya
+### 6. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 6. Staff User Researcher Remote at Coinbase
+### 7. Staff User Researcher Remote at Coinbase
 
 💰 **Salary**: $216,790-$228,200 USD
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-### 7. AI Support Operations Specialist at SafetyWing
+### 8. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -83,7 +93,7 @@ Latest **100% remote** job opportunities in **Research** from the past 30 days. 
 
 ---
 
-**Total Jobs**: 7 positions available
+**Total Jobs**: 8 positions available
 
 ---
 
@@ -111,6 +121,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
