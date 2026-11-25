@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Red Team Lead at Supabase
+### 1. Security Engineer at Chess
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/security-engineer-worldwide-chess)
+
+---
+
+### 2. GitHub Migration Specialist at Applaudo
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/github-migration-specialist-applaudo)
+
+---
+
+### 3. Red Team Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 2. Risk Control Analyst, ATO & Risk Strategy at Binance
+### 4. Risk Control Analyst, ATO & Risk Strategy at Binance
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +48,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 3. Information Security Engineer, Application Security at Camunda
+### 5. Information Security Engineer, Application Security at Camunda
 
 💰 **Salary**: $119,900-$193,200 USD
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 4. Lead Security Engineer at Buffer
+### 6. Lead Security Engineer at Buffer
 
 💰 **Salary**: $171,100-$222,880 USD
 
@@ -52,7 +72,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 5. IT and Security Support Analyst at OpenZeppelin
+### 7. IT and Security Support Analyst at OpenZeppelin
 
 🌍 **Location**: Worldwide
 
@@ -62,7 +82,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 6. Infrastructure Operations Engineer (Linux) at CloudLinux
+### 8. Infrastructure Operations Engineer (Linux) at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -72,7 +92,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 7. Senior Product Manager, Risk at Coinbase
+### 9. Senior Product Manager, Risk at Coinbase
 
 💰 **Salary**: $207,485-$244,100 USD
 
@@ -84,7 +104,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 8. Sanctions Operations Analyst (1 year contract) at Binance
+### 10. Sanctions Operations Analyst (1 year contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +114,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 9. Security Engineer, Corporate Security Remote at Coinbase
+### 11. Security Engineer, Corporate Security Remote at Coinbase
 
 💰 **Salary**: $152,405-$179,300 USD
 
@@ -106,7 +126,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 10. Field Chief Information Security Officer (Field CISO) at Halcyon
+### 12. Field Chief Information Security Officer (Field CISO) at Halcyon
 
 💰 **Salary**: $200,000-$250,000 USD
 
@@ -118,7 +138,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 11. Lead Security Engineer - Vulnerability Response at CloudLinux
+### 13. Lead Security Engineer - Vulnerability Response at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -128,7 +148,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 12. Threat Intelligence Platform Engineer at Coinbase
+### 14. Threat Intelligence Platform Engineer at Coinbase
 
 💰 **Salary**: $144,500-$170,000 USD
 
@@ -140,7 +160,7 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 13. Staff Engineer at CloudLinux
+### 15. Staff Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -150,50 +170,10 @@ Latest **100% remote** job opportunities in **Security Engineer** from the past 
 
 ---
 
-### 14. Market Surveillance Investigator at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/market-surveillance-investigator-binance)
 
 ---
 
-### 15. Internal Auditor - Taiwan at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-auditor-taiwan-binance)
-
----
-
-### 16. Product Counsel, Equities & Tokenized Securities at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-counsel-equities-tokenized-securities-binance)
-
----
-
-### 17. Intermediate Software Engineer, Security Factory: Vulnerability Management at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Security Engineer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/intermediate-software-engineer-security-factory-vulnerability-management-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 17 positions available
+**Total Jobs**: 15 positions available
 
 ---
 
@@ -221,6 +201,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:01 UTC_
+_Last updated: November 25, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
