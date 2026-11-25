@@ -72,42 +72,10 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 7. Case Analyst (Spanish and Portuguese speaker) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/case-analyst-remote-binance)
 
 ---
 
-### 8. Counsel / Senior Counsel at Automattic
-
-💰 **Salary**: $180,000-$300,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/counsel-senior-counsel-automattic)
-
----
-
-### 9. Product Counsel, Equities & Tokenized Securities at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Legal
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-counsel-equities-tokenized-securities-binance)
-
----
-
-
----
-
-**Total Jobs**: 9 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -135,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
