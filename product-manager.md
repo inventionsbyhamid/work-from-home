@@ -310,62 +310,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 29. Product Manager, Trading Systems at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-manager-trading-systems-binance)
 
 ---
 
-### 30. Manager, WFM Compliance Operations at Coinbase
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/manager-wfm-compliance-operations-coinbase)
-
----
-
-### 31. Lead Pricing Strategist at GitLab
-
-💰 **Salary**: $139,200-$235,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-pricing-strategist-gitlab)
-
----
-
-### 32. Senior Product Manager - Web3 (User Journey) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-product-manager-web3-binance)
-
----
-
-### 33. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-product-manager-infrastructure-and-platforms-alpaca)
-
----
-
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 28 positions available
 
 ---
 
@@ -393,6 +341,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
