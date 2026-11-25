@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Financial Data Manager at Counterpart
+### 1. Junior Market Analyst at MEYA HOLDINGS LTD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/junior-market-analyst-meya-holdings-ltd)
+
+---
+
+### 2. Global Settlements Associate 1 at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-settlements-associate-1-alpaca)
+
+---
+
+### 3. Financial Data Manager at Counterpart
 
 💰 **Salary**: $150,000-$180,000 USD
 
@@ -20,7 +40,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. VIP & Institutional Sales Australia at Binance
+### 4. VIP & Institutional Sales Australia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Procurement Lead at Supabase
+### 5. Procurement Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Operations Analyst, Market Data at Alpaca
+### 6. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 7. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Senior Accountant at Counterpart
+### 8. Senior Accountant at Counterpart
 
 💰 **Salary**: $110,000-$130,000 USD
 
@@ -72,7 +92,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Senior Manager, Total Rewards at Camunda
+### 9. Senior Manager, Total Rewards at Camunda
 
 💰 **Salary**: $183,000-$295,100 USD
 
@@ -84,7 +104,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. Project Manager Remote - EMEA at Alpaca
+### 10. Project Manager Remote - EMEA at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -94,7 +114,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Senior Business Operations Manager at Clutch
+### 11. Senior Business Operations Manager at Clutch
 
 💰 **Salary**: $136,000-$180,000 USD
 
@@ -106,7 +126,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Sanctions Operations Analyst (1 year contract) at Binance
+### 12. Sanctions Operations Analyst (1 year contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -116,7 +136,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Senior Accountant North America - Remote at Alpaca
+### 13. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -126,7 +146,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Financial Coach at Empower
+### 14. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -138,7 +158,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 15. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -150,7 +170,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Senior Cashiering Associate at Alpaca
+### 16. Senior Cashiering Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -160,7 +180,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Manager, Strategic Finance (GTM & Revenue) at Dandy
+### 17. Manager, Strategic Finance (GTM & Revenue) at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -170,7 +190,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Senior Procurement Specialist at Wikimedia
+### 18. Senior Procurement Specialist at Wikimedia
 
 💰 **Salary**: $91,049-$138,263 USD
 
@@ -182,64 +202,10 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. Internal Auditor - Taiwan at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-auditor-taiwan-binance)
 
 ---
 
-### 18. Lead Pricing Strategist at GitLab
-
-💰 **Salary**: $139,200-$235,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/lead-pricing-strategist-gitlab)
-
----
-
-### 19. Senior Manager Stock Plan Participant Services at Empower
-
-💰 **Salary**: $96,100-$135,700 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-manager-stock-plan-participant-services-empower)
-
----
-
-### 20. Revenue Operations Manager at Dandy
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-worldwide-dandy)
-
----
-
-### 21. Earn Operation BD (Onchain Direction) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Finance
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/earn-operation-bd-binance)
-
----
-
-
----
-
-**Total Jobs**: 21 positions available
+**Total Jobs**: 18 positions available
 
 ---
 
@@ -267,6 +233,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
