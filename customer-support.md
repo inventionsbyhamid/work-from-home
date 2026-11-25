@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ## Available Positions (Last 30 Days)
 
-### 1. Remote Patient Care Representative at Winona
+### 1. Global Settlements Associate 1 at Alpaca
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Customer Support
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-settlements-associate-1-alpaca)
+
+---
+
+### 2. Remote Patient Care Representative at Winona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 2. IT Coordinator at Circle
+### 3. IT Coordinator at Circle
 
 💰 **Salary**: $85,000 USD
 
@@ -30,7 +40,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 3. Support Engineer at Kinsta
+### 4. Support Engineer at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 4. Technical Account Manager for Supabase at Supabase
+### 5. Technical Account Manager for Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 5. Technical Support at Binance
+### 6. Technical Support at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 6. Social Support Specialist I Remote at Coinbase
+### 7. Social Support Specialist I Remote at Coinbase
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 7. Customer Service Representative (French & English) at Binance
+### 8. Customer Service Representative (French & English) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 8. Billing Support Specialist at Supabase
+### 9. Billing Support Specialist at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 9. Senior Assigned Support Engineer (AMER) at GitLab
+### 10. Senior Assigned Support Engineer (AMER) at GitLab
 
 💰 **Salary**: $126,400-$213,600 USD
 
@@ -102,7 +112,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 10. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
+### 11. Senior Assigned Support Engineer-(Designated / Premier Support) at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +122,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 11. AI Support Operations Specialist at SafetyWing
+### 12. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +132,7 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 12. Director of Customer Support North America at Cloudbeds
+### 13. Director of Customer Support North America at Cloudbeds
 
 💰 **Salary**: $180,000-$190,000 USD
 
@@ -134,32 +144,10 @@ Latest **100% remote** job opportunities in **Customer Support** from the past 3
 
 ---
 
-### 13. Community Support Manager at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/community-support-manager-remote-raya)
 
 ---
 
-### 14. Customer Support Coach - NORAM at Cloudbeds
-
-💰 **Salary**: $55,000-$77,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Customer Support
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/customer-support-coach-noram-cloudbeds)
-
----
-
-
----
-
-**Total Jobs**: 14 positions available
+**Total Jobs**: 13 positions available
 
 ---
 
@@ -187,6 +175,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
