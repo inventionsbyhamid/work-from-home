@@ -360,76 +360,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 34. Principal Engineer, Monetization Engineering at GitLab
-
-💰 **Salary**: $223,000-$317,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/principal-engineer-monetization-engineering-gitlab)
 
 ---
 
-### 35. Solutions Engineer, Institutional at MatterLabs
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/solutions-engineer-institutional-matterlabs)
-
----
-
-### 36. Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity at GitLab
-
-💰 **Salary**: $152,800-$259,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-backend-engineer-architecture-engineering-nonlinear-productivity-gitlab)
-
----
-
-### 37. Senior Staff, Compliance Technology Remote - USA at Coinbase
-
-💰 **Salary**: $230,265-$270,900 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-staff-compliance-technology-remote-usa-coinbase)
-
----
-
-### 38. Senior Technical Product Manager: Infrastructure and Platforms at Alpaca
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-technical-product-manager-infrastructure-and-platforms-alpaca)
-
----
-
-### 39. Professional Services - Technical Architect Remote at GitLab
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/professional-services-technical-architect-remote-gitlab)
-
----
-
-
----
-
-**Total Jobs**: 39 positions available
+**Total Jobs**: 33 positions available
 
 ---
 
@@ -457,6 +391,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 24, 2026 at 00:00 UTC_
+_Last updated: November 25, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
