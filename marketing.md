@@ -284,30 +284,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 27. Social Media Specialist at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/social-media-specialist-binance)
 
 ---
 
-### 28. Business Insight Lead (User Growth) at Binance
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-insight-lead-binance)
-
----
-
-
----
-
-**Total Jobs**: 28 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -335,6 +315,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
