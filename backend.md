@@ -458,32 +458,10 @@ Latest **100% remote** job opportunities in **Backend** from the past 30 days. A
 
 ---
 
-### 45. Senior Software Engineer (Backend) at Coalition Technologies
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-remote-coalition-technologies)
 
 ---
 
-### 46. Senior Engineering Manager at Atticus
-
-💰 **Salary**: $195,000-$264,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineering-manager-atticus)
-
----
-
-
----
-
-**Total Jobs**: 46 positions available
+**Total Jobs**: 44 positions available
 
 ---
 
@@ -511,6 +489,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
