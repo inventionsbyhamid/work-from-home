@@ -8,7 +8,19 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Content Engineer, Developer Documentation at LiveKit
+### 1. Senior Full Stack Software Engineer II, Agentic Apps at Kit
+
+💰 **Salary**: $186,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Fullstack
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-ii-agentic-apps-kit)
+
+---
+
+### 2. Content Engineer, Developer Documentation at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +30,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 2. Senior iOS Engineer, Core Discovery at Raya
+### 3. Senior iOS Engineer, Core Discovery at Raya
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +40,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 3. Senior Implementation Engineer at Clutch
+### 4. Senior Implementation Engineer at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +50,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 4. Senior iOS Engineer, Foundations at Raya
+### 5. Senior iOS Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +60,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 5. AI Forward Deployed Engineer at Camunda
+### 6. AI Forward Deployed Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +70,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 6. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
+### 7. Senior Software Engineer, Full Stack (iOS & Backend) at Raya
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +80,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 7. Growth Engineer (Global) at beehiiv
+### 8. Growth Engineer (Global) at beehiiv
 
 💰 **Salary**: $145,000-$165,000 USD
 
@@ -80,7 +92,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 8. AI Engineer at Awesome Motive
+### 9. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +102,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 9. Engineering Manager, Growth at Buffer
+### 10. Engineering Manager, Growth at Buffer
 
 💰 **Salary**: $179,100-$235,361 USD
 
@@ -102,7 +114,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 10. Senior Full Stack Engineer, iOS and Backend at Raya
+### 11. Senior Full Stack Engineer, iOS and Backend at Raya
 
 🌍 **Location**: Worldwide
 
@@ -112,7 +124,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 11. Lead Engineer, Member Growth at Circle
+### 12. Lead Engineer, Member Growth at Circle
 
 💰 **Salary**: $162,000 USD
 
@@ -124,7 +136,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 12. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
+### 13. Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK Remote at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -134,7 +146,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-### 13. Senior Software Engineer New Markets Remote at Alpaca
+### 14. Senior Software Engineer New Markets Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +159,7 @@ Latest **100% remote** job opportunities in **Fullstack** from the past 30 days.
 
 ---
 
-**Total Jobs**: 13 positions available
+**Total Jobs**: 14 positions available
 
 ---
 
@@ -175,6 +187,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
