@@ -8,7 +8,29 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Native Chief of Staff to CEO at Paradox
+### 1. Internal IT Manager at Clutch
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/internal-it-manager-clutch)
+
+---
+
+### 2. Senior Full Stack Software Engineer II, Agentic Apps at Kit
+
+💰 **Salary**: $186,000 USD
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: AI/ML
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-full-stack-software-engineer-ii-agentic-apps-kit)
+
+---
+
+### 3. AI Native Chief of Staff to CEO at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +40,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 2. Senior Software Engineer at Applaudo
+### 4. Senior Software Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +50,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 3. AI Engineer at Applaudo
+### 5. AI Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +60,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 4. Senior Server Engineer, Foundations at Raya
+### 6. Senior Server Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +70,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 5. AI Forward Deployed Engineer at Camunda
+### 7. AI Forward Deployed Engineer at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +80,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 6. Senior Server Engineer, Foundations at Raya
+### 8. Senior Server Engineer, Foundations at Raya
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +90,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 7. Head of Research, Crypto Data at CoinMarketCap
+### 9. Head of Research, Crypto Data at CoinMarketCap
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +100,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 8. AI Engineer at Awesome Motive
+### 10. AI Engineer at Awesome Motive
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +110,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 9. Product Builder, IDP and RPA at Camunda
+### 11. Product Builder, IDP and RPA at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +120,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 10. Software Engineer, AI Tooling at Supabase
+### 12. Software Engineer, AI Tooling at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -108,7 +130,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 11. Senior Analytics Engineer at Kit
+### 13. Senior Analytics Engineer at Kit
 
 💰 **Salary**: $172,000 USD
 
@@ -120,7 +142,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 12. Applied Data Scientist at Binance
+### 14. Applied Data Scientist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +152,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 13. Senior Architect, Enterprise Agentic Automation at Camunda
+### 15. Senior Architect, Enterprise Agentic Automation at Camunda
 
 💰 **Salary**: $171,100-$275,800 USD
 
@@ -142,7 +164,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 14. AI Engineer at Phantom
+### 16. AI Engineer at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +174,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 15. Senior Data Scientist at Raya
+### 17. Senior Data Scientist at Raya
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +184,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 16. Product Manager, AI and EdTech at Paradox
+### 18. Product Manager, AI and EdTech at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +194,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 17. Senior Data Scientist, Places at Raya
+### 19. Senior Data Scientist, Places at Raya
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +204,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 18. Senior ML Engineer at CloudLinux
+### 20. Senior ML Engineer at CloudLinux
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +214,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-### 19. AI Support Operations Specialist at SafetyWing
+### 21. AI Support Operations Specialist at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -205,7 +227,7 @@ Latest **100% remote** job opportunities in **AI/ML** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 19 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -233,6 +255,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
