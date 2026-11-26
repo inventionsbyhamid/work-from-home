@@ -278,92 +278,10 @@ Latest **100% remote** job opportunities in **Engineering Manager** from the pas
 
 ---
 
-### 27. Director of Customer Support North America at Cloudbeds
-
-💰 **Salary**: $180,000-$190,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/director-of-customer-support-north-america-cloudbeds)
 
 ---
 
-### 28. Site Reliability Engineer, Infrastructure Platforms at GitLab
-
-💰 **Salary**: $126,400-$314,400 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineer-infrastructure-platforms-gitlab)
-
----
-
-### 29. Forward Deployed Engineer, Finance [Office of the CTO] at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/forward-deployed-engineer-finance-office-of-the-cto-coinbase)
-
----
-
-### 30. Senior Engineering Manager at Atticus
-
-💰 **Salary**: $195,000-$264,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-engineering-manager-atticus)
-
----
-
-### 31. Full Stack Software Engineer, New Grad at Quora
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/full-stack-software-engineer-new-grad-quora)
-
----
-
-### 32. Staff Software Engineer, Core AI Infrastructure at Coinbase
-
-💰 **Salary**: $218,025-$256,500 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-software-engineer-core-ai-infrastructure-coinbase)
-
----
-
-### 33. Technical Program Manager, CX Intelligence & AI at Coinbase
-
-💰 **Salary**: $212,330-$249,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-program-manager-cx-intelligence-ai-coinbase)
-
----
-
-
----
-
-**Total Jobs**: 33 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -391,6 +309,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
