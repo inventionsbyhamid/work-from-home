@@ -268,22 +268,10 @@ Latest **100% remote** job opportunities in **DevOps** from the past 30 days. Al
 
 ---
 
-### 26. Site Reliability Engineer, Infrastructure Platforms at GitLab
-
-💰 **Salary**: $126,400-$314,400 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/site-reliability-engineer-infrastructure-platforms-gitlab)
 
 ---
 
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -311,6 +299,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:00 UTC_
+_Last updated: November 26, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
