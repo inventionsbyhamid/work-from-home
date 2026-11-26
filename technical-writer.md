@@ -28,22 +28,10 @@ Latest **100% remote** job opportunities in **Technical Writer** from the past 3
 
 ---
 
-### 3. Technical Program Manager, CX Intelligence & AI at Coinbase
-
-💰 **Salary**: $212,330-$249,800 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Technical Writer
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/technical-program-manager-cx-intelligence-ai-coinbase)
 
 ---
 
-
----
-
-**Total Jobs**: 3 positions available
+**Total Jobs**: 2 positions available
 
 ---
 
@@ -71,6 +59,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 25, 2026 at 00:01 UTC_
+_Last updated: November 26, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
