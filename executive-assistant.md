@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ## Available Positions (Last 30 Days)
 
-### 1. AI Native Chief of Staff to CEO at Paradox
+### 1. Head of Mergers and Acquisitions at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Executive Assistant
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-mergers-and-acquisitions-supabase)
+
+---
+
+### 2. AI Native Chief of Staff to CEO at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 2. Senior Director Compliance Monitoring & Surveillance at Empower
+### 3. Senior Director Compliance Monitoring & Surveillance at Empower
 
 💰 **Salary**: $144,900-$210,075 USD
 
@@ -30,23 +40,13 @@ Latest **100% remote** job opportunities in **Executive Assistant** from the pas
 
 ---
 
-### 3. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
+### 4. Head of Product - AI & Behavioral Science (Dubai, Paris, Lisbon, or Remote) at Paradox
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Executive Assistant
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-product-ai-behavioral-science-paradox)
-
----
-
-### 4. Chief Customer Officer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Executive Assistant
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-customer-officer-xapo-bank)
 
 ---
 
@@ -81,6 +81,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 26, 2026 at 00:00 UTC_
+_Last updated: November 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
