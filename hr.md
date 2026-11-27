@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ## Available Positions (Last 30 Days)
 
-### 1. Senior People Business Partner, GTM at LiveKit
+### 1. Recruiter, R&D (APJ) at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/recruiter-r-d-gitlab)
+
+---
+
+### 2. Senior People Business Partner, GTM at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 2. People Benefits & Compliance Analyst at Applaudo
+### 3. People Benefits & Compliance Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 3. Senior Manager, Total Rewards at Camunda
+### 4. Senior Manager, Total Rewards at Camunda
 
 💰 **Salary**: $183,000-$295,100 USD
 
@@ -40,7 +50,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 4. Executive Recruiter at Crossover
+### 5. Executive Recruiter at Crossover
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 5. Games Recruiter, China Market at Yodo1
+### 6. Games Recruiter, China Market at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +70,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 6. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
+### 7. Recruiter, Sales (APJ) Remote, Australia; Remote, Singapore at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +80,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 7. HR Business Partner at Binance
+### 8. HR Business Partner at Binance
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 8. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
+### 9. Senior Talent Acquisition Specialist (Executive Hiring) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 9. Senior Manager, Total Rewards Operations at GitLab
+### 10. Senior Manager, Total Rewards Operations at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-### 10. Senior Talent Brand Manager at GitLab
+### 11. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -115,7 +125,7 @@ Latest **100% remote** job opportunities in **HR** from the past 30 days. All po
 
 ---
 
-**Total Jobs**: 10 positions available
+**Total Jobs**: 11 positions available
 
 ---
 
@@ -143,6 +153,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 26, 2026 at 00:00 UTC_
+_Last updated: November 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
