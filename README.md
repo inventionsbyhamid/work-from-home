@@ -19,33 +19,33 @@ We aggregate and curate remote job listings from top companies across the globe.
 Click on any category below to see all available remote positions. **All jobs are 100% remote - work from anywhere!**
 
 - 🏠 **[AI/ML](ai-ml.md)** - 21 remote jobs available
-- 🏠 **[Admin](admin-role.md)** - 10 remote jobs available
+- 🏠 **[Admin](admin-role.md)** - 9 remote jobs available
 - 🏠 **[Android Developer](android-developer.md)** - 4 remote jobs available
-- 🏠 **[Backend](backend.md)** - 44 remote jobs available
-- 🏠 **[Business Development](business-development.md)** - 23 remote jobs available
-- 🏠 **[Copywriter](copywriter.md)** - 3 remote jobs available
+- 🏠 **[Backend](backend.md)** - 42 remote jobs available
+- 🏠 **[Business Development](business-development.md)** - 24 remote jobs available
+- 🏠 **[Copywriter](copywriter.md)** - 2 remote jobs available
 - 🏠 **[Customer Success](customer-success.md)** - 7 remote jobs available
-- 🏠 **[Customer Support](customer-support.md)** - 12 remote jobs available
+- 🏠 **[Customer Support](customer-support.md)** - 11 remote jobs available
 - 🏠 **[Data Analyst](data-analyst.md)** - 16 remote jobs available
-- 🏠 **[DevOps](devops.md)** - 25 remote jobs available
+- 🏠 **[DevOps](devops.md)** - 23 remote jobs available
 - 🏠 **[Engineering Manager](engineering-manager.md)** - 26 remote jobs available
 - 🏠 **[Executive Assistant](executive-assistant.md)** - 4 remote jobs available
-- 🏠 **[Finance](finance.md)** - 18 remote jobs available
+- 🏠 **[Finance](finance.md)** - 20 remote jobs available
 - 🏠 **[Frontend](frontend.md)** - 5 remote jobs available
 - 🏠 **[Fullstack](fullstack.md)** - 14 remote jobs available
 - 🏠 **[Graphic Design](graphic-design.md)** - 2 remote jobs available
-- 🏠 **[HR](hr.md)** - 10 remote jobs available
-- 🏠 **[Legal](legal.md)** - 6 remote jobs available
-- 🏠 **[Marketing](marketing.md)** - 26 remote jobs available
+- 🏠 **[HR](hr.md)** - 11 remote jobs available
+- 🏠 **[Legal](legal.md)** - 5 remote jobs available
+- 🏠 **[Marketing](marketing.md)** - 25 remote jobs available
 - 🏠 **[Product Designer](product-designer.md)** - 4 remote jobs available
-- 🏠 **[Product Manager](product-manager.md)** - 23 remote jobs available
-- 🏠 **[Project Manager](project-manager.md)** - 8 remote jobs available
+- 🏠 **[Product Manager](product-manager.md)** - 21 remote jobs available
+- 🏠 **[Project Manager](project-manager.md)** - 7 remote jobs available
 - 🏠 **[Quality Assurance (QA)](quality-assurance-qa.md)** - 3 remote jobs available
-- 🏠 **[Research](research.md)** - 8 remote jobs available
+- 🏠 **[Research](research.md)** - 9 remote jobs available
 - 🏠 **[Sales](sales.md)** - 21 remote jobs available
 - 🏠 **[Security Engineer](security-engineer.md)** - 15 remote jobs available
 - 🏠 **[Social Media Manager](social-media-manager.md)** - 3 remote jobs available
-- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 55 remote jobs available
+- 🏠 **[Software Development Engineer (SDE)](software-development-engineer-sde.md)** - 53 remote jobs available
 - 🏠 **[Technical Writer](technical-writer.md)** - 2 remote jobs available
 
 
@@ -55,7 +55,97 @@ Click on any category below to see all available remote positions. **All jobs ar
 
 Here are the **20 most recent 100% remote job opportunities** from top companies worldwide.
 
-### 1. Internal IT Manager at Clutch
+### 1. Recruiter, R&D (APJ) at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: HR
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/recruiter-r-d-gitlab)
+
+---
+
+### 2. Senior Threat Research Engineer, Security Factory: Threat Research at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-threat-research-engineer-security-factory-threat-research-gitlab)
+
+---
+
+### 3. Engineering Manager Expression of Interest at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Engineering Manager
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-manager-expression-of-interest-gitlab)
+
+---
+
+### 4. Global Crypto-as-a-Service Partnership - Senior Specialist at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Business Development
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/global-crypto-as-a-service-partnership-senior-specialist-binance)
+
+---
+
+### 5. Head of Mergers and Acquisitions at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-mergers-and-acquisitions-supabase)
+
+---
+
+### 6. Product Security Engineer at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Security Engineer
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/product-security-engineer-supabase)
+
+---
+
+### 7. Engineering Productivity Engineer at Supabase
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: DevOps
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/engineering-productivity-engineer-supabase)
+
+---
+
+### 8. Head of Strategic Finance at SafetyWing
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/head-of-strategic-finance-safetywing)
+
+---
+
+### 9. Macro Research Analyst at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Research
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/macro-research-analyst-binance)
+
+---
+
+### 10. Internal IT Manager at Clutch
 
 🌍 **Location**: Worldwide
 
@@ -65,7 +155,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 2. Senior People Business Partner, GTM at LiveKit
+### 11. Senior People Business Partner, GTM at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -75,7 +165,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 3. Senior Full Stack Software Engineer II, Agentic Apps at Kit
+### 12. Senior Full Stack Software Engineer II, Agentic Apps at Kit
 
 💰 **Salary**: $186,000 USD
 
@@ -87,7 +177,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 4. Junior Market Analyst at MEYA HOLDINGS LTD
+### 13. Junior Market Analyst at MEYA HOLDINGS LTD
 
 🌍 **Location**: Worldwide
 
@@ -97,7 +187,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 5. Global Settlements Associate 1 at Alpaca
+### 14. Global Settlements Associate 1 at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -107,7 +197,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 6. AI Native Chief of Staff to CEO at Paradox
+### 15. AI Native Chief of Staff to CEO at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -117,7 +207,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 7. Backend Software Engineer, Interfaces at Supabase
+### 16. Backend Software Engineer, Interfaces at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -127,7 +217,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 8. Security Engineer at Chess
+### 17. Security Engineer at Chess
 
 🌍 **Location**: Worldwide
 
@@ -137,7 +227,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 9. Paid Media Specialist at Kinsta
+### 18. Paid Media Specialist at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -147,7 +237,7 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 10. Content Engineer, Developer Documentation at LiveKit
+### 19. Content Engineer, Developer Documentation at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -157,105 +247,13 @@ Here are the **20 most recent 100% remote job opportunities** from top companies
 
 ---
 
-### 11. QA Automation Engineer at Applaudo
+### 20. QA Automation Engineer at Applaudo
 
 🌍 **Location**: Worldwide
 
 📍 **Category**: Quality Assurance (QA)
 
 🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/qa-automation-engineer-full-time-applaudo)
-
----
-
-### 12. Senior Software Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-software-engineer-remote-applaudo)
-
----
-
-### 13. Java Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/java-engineer-applaudo)
-
----
-
-### 14. Azure Data Engineer (Data Platform & Analytics) at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Data Analyst
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/azure-data-engineer-remote-applaudo)
-
----
-
-### 15. GitHub Migration Specialist at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: DevOps
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/github-migration-specialist-applaudo)
-
----
-
-### 16. Integration Architect at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Engineering Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/integration-architect-applaudo)
-
----
-
-### 17. AI Engineer at Applaudo
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: AI/ML
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/ai-engineer-applaudo)
-
----
-
-### 18. Sales Engineer at Dandy
-
-💰 **Salary**: $84,000-$105,000 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Sales
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-engineer-dandy)
-
----
-
-### 19. Business Development, VIP Acquisition Lead at Phantom
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Business Development
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/business-development-vip-acquisition-lead-phantom)
-
----
-
-### 20. Senior Server Engineer, Foundations at Raya
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Backend
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/senior-server-engineer-foundations-remote-raya)
 
 ---
 
@@ -285,6 +283,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 26, 2026 at 00:00 UTC_
+_Last updated: November 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
