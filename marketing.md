@@ -274,20 +274,10 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 26. Chief Customer Officer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Marketing
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-customer-officer-xapo-bank)
 
 ---
 
-
----
-
-**Total Jobs**: 26 positions available
+**Total Jobs**: 25 positions available
 
 ---
 
@@ -315,6 +305,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 26, 2026 at 00:00 UTC_
+_Last updated: November 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
