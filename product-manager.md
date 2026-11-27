@@ -236,32 +236,10 @@ Latest **100% remote** job opportunities in **Product Manager** from the past 30
 
 ---
 
-### 22. Staff Program Manager, CCO Programs Remote at GitLab
-
-💰 **Salary**: $139,200-$235,200 USD
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/staff-program-manager-cco-programs-remote-gitlab)
 
 ---
 
-### 23. Chief Customer Officer at Xapo Bank
-
-🌍 **Location**: Worldwide
-
-📍 **Category**: Product Manager
-
-🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/chief-customer-officer-xapo-bank)
-
----
-
-
----
-
-**Total Jobs**: 23 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -289,6 +267,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 26, 2026 at 00:00 UTC_
+_Last updated: November 27, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
