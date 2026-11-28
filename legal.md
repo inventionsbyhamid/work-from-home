@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. People Benefits & Compliance Analyst at Applaudo
+### 1. Binance Accelerator Program - Monitorship at Binance
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Legal
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/binance-accelerator-program-monitorship-binance)
+
+---
+
+### 2. People Benefits & Compliance Analyst at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 2. Senior Contracts Manager at Supabase
+### 3. Senior Contracts Manager at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 3. Senior Counsel, Commercial at Dandy
+### 4. Senior Counsel, Commercial at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 4. Senior Director Compliance Monitoring & Surveillance at Empower
+### 5. Senior Director Compliance Monitoring & Surveillance at Empower
 
 💰 **Salary**: $144,900-$210,075 USD
 
@@ -50,7 +60,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-### 5. Senior Corporate Counsel at Automattic
+### 6. Senior Corporate Counsel at Automattic
 
 💰 **Salary**: $180,000-$300,000 USD
 
@@ -65,7 +75,7 @@ Latest **100% remote** job opportunities in **Legal** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 5 positions available
+**Total Jobs**: 6 positions available
 
 ---
 
@@ -93,6 +103,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 27, 2026 at 00:00 UTC_
+_Last updated: November 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
