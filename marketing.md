@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ## Available Positions (Last 30 Days)
 
-### 1. Paid Media Specialist at Kinsta
+### 1. Art Manager, Creative Services at Yodo1
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Marketing
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/art-manager-creative-services-yodo1)
+
+---
+
+### 2. Paid Media Specialist at Kinsta
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 2. Email Designer at Winona
+### 3. Email Designer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 3. Influencer and Media Manager at Yodo1
+### 4. Influencer and Media Manager at Yodo1
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 4. Demand Generation Lead at Applaudo
+### 5. Demand Generation Lead at Applaudo
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 5. Senior Product Marketing Manager at Uscreen
+### 6. Senior Product Marketing Manager at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 6. Lifecycle QA Specialist (Email and SMS) at Winona
+### 7. Lifecycle QA Specialist (Email and SMS) at Winona
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 7. AI Native Head of Growth at Paradox
+### 8. AI Native Head of Growth at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -78,7 +88,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 8. Senior Performance Marketing Strategist at Superside
+### 9. Senior Performance Marketing Strategist at Superside
 
 🌍 **Location**: Worldwide
 
@@ -88,7 +98,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 9. AI-Native Creative Director, Brand and Content at Paradox
+### 10. AI-Native Creative Director, Brand and Content at Paradox
 
 🌍 **Location**: Worldwide
 
@@ -98,7 +108,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 10. Senior Product Marketing Manager, Scaling Creators at Kit
+### 11. Senior Product Marketing Manager, Scaling Creators at Kit
 
 💰 **Salary**: $166,000 USD
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 11. Developer Community and Events Lead at Supabase
+### 12. Developer Community and Events Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 12. Go To Market Strategic Planning Lead at Supabase
+### 13. Go To Market Strategic Planning Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -130,7 +140,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 13. Marketing Operations Manager (Fixed Term) at SafetyWing
+### 14. Marketing Operations Manager (Fixed Term) at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -140,7 +150,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 14. Partner Program Lead (U.S.) Marketing at beehiiv
+### 15. Partner Program Lead (U.S.) Marketing at beehiiv
 
 💰 **Salary**: $130,000-$215,000 USD
 
@@ -152,7 +162,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 15. Senior Developer Relations Leader for Supabase at Supabase
+### 16. Senior Developer Relations Leader for Supabase at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +172,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 16. Growth Copywriter at Winona
+### 17. Growth Copywriter at Winona
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +182,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 17. Senior Performance Marketing Manager at Fingerprint
+### 18. Senior Performance Marketing Manager at Fingerprint
 
 💰 **Salary**: $148,000-$200,000 USD
 
@@ -184,7 +194,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 18. Senior Manager of Visual Design at Dandy
+### 19. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -194,7 +204,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 19. Senior Product Manager, Growth at beehiiv
+### 20. Senior Product Manager, Growth at beehiiv
 
 💰 **Salary**: $145,000-$160,000 USD
 
@@ -206,7 +216,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 20. Growth Lead, Marketplace at Circle
+### 21. Growth Lead, Marketplace at Circle
 
 💰 **Salary**: $147,000-$160,000 USD
 
@@ -218,7 +228,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 21. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
+### 22. Regional Marketing Manager, ANZ Asia & Pacific at Cloudbeds
 
 💰 **Salary**: $80,000-$100,000 AUD
 
@@ -230,7 +240,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 22. Senior Growth Marketing Manager at DuckDuckGo
+### 23. Senior Growth Marketing Manager at DuckDuckGo
 
 💰 **Salary**: $178,500 USD
 
@@ -242,7 +252,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 23. Senior Talent Brand Manager at GitLab
+### 24. Senior Talent Brand Manager at GitLab
 
 💰 **Salary**: $115,200-$194,400 USD
 
@@ -254,7 +264,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 24. SEO & Analytics Strategist at Fueled
+### 25. SEO & Analytics Strategist at Fueled
 
 🌍 **Location**: Worldwide
 
@@ -264,7 +274,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-### 25. Customer Growth Manager at Uscreen at Uscreen
+### 26. Customer Growth Manager at Uscreen at Uscreen
 
 🌍 **Location**: Worldwide
 
@@ -277,7 +287,7 @@ Latest **100% remote** job opportunities in **Marketing** from the past 30 days.
 
 ---
 
-**Total Jobs**: 25 positions available
+**Total Jobs**: 26 positions available
 
 ---
 
@@ -305,6 +315,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 27, 2026 at 00:00 UTC_
+_Last updated: November 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
