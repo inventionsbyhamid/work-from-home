@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Crypto-as-a-Service Partnership - Senior Specialist at Binance
+### 1. Revenue Operations Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Finance
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-canonical)
+
+---
+
+### 2. Global Crypto-as-a-Service Partnership - Senior Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 2. Head of Mergers and Acquisitions at Supabase
+### 3. Head of Mergers and Acquisitions at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -28,7 +38,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 3. Head of Strategic Finance at SafetyWing
+### 4. Head of Strategic Finance at SafetyWing
 
 🌍 **Location**: Worldwide
 
@@ -38,7 +48,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 4. Macro Research Analyst at Binance
+### 5. Macro Research Analyst at Binance
 
 🌍 **Location**: Worldwide
 
@@ -48,7 +58,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 5. Junior Market Analyst at MEYA HOLDINGS LTD
+### 6. Junior Market Analyst at MEYA HOLDINGS LTD
 
 🌍 **Location**: Worldwide
 
@@ -58,7 +68,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 6. Global Settlements Associate 1 at Alpaca
+### 7. Global Settlements Associate 1 at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -68,7 +78,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 7. Financial Data Manager at Counterpart
+### 8. Financial Data Manager at Counterpart
 
 💰 **Salary**: $150,000-$180,000 USD
 
@@ -80,7 +90,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 8. VIP & Institutional Sales Australia at Binance
+### 9. VIP & Institutional Sales Australia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +100,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 9. Procurement Lead at Supabase
+### 10. Procurement Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +110,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 10. Operations Analyst, Market Data at Alpaca
+### 11. Operations Analyst, Market Data at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -110,7 +120,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 11. Junior Crypto Market Analyst at Hillside Piers Ltd
+### 12. Junior Crypto Market Analyst at Hillside Piers Ltd
 
 🌍 **Location**: Worldwide
 
@@ -120,7 +130,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 12. Senior Accountant at Counterpart
+### 13. Senior Accountant at Counterpart
 
 💰 **Salary**: $110,000-$130,000 USD
 
@@ -132,7 +142,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 13. Senior Manager, Total Rewards at Camunda
+### 14. Senior Manager, Total Rewards at Camunda
 
 💰 **Salary**: $183,000-$295,100 USD
 
@@ -144,7 +154,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 14. Project Manager Remote - EMEA at Alpaca
+### 15. Project Manager Remote - EMEA at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -154,7 +164,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 15. Senior Business Operations Manager at Clutch
+### 16. Senior Business Operations Manager at Clutch
 
 💰 **Salary**: $136,000-$180,000 USD
 
@@ -166,7 +176,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 16. Sanctions Operations Analyst (1 year contract) at Binance
+### 17. Sanctions Operations Analyst (1 year contract) at Binance
 
 🌍 **Location**: Worldwide
 
@@ -176,7 +186,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 17. Senior Accountant North America - Remote at Alpaca
+### 18. Senior Accountant North America - Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -186,7 +196,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 18. Financial Coach at Empower
+### 19. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -198,7 +208,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 19. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 20. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -210,7 +220,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-### 20. Senior Cashiering Associate at Alpaca
+### 21. Senior Cashiering Associate at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -223,7 +233,7 @@ Latest **100% remote** job opportunities in **Finance** from the past 30 days. A
 
 ---
 
-**Total Jobs**: 20 positions available
+**Total Jobs**: 21 positions available
 
 ---
 
@@ -251,6 +261,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 27, 2026 at 00:00 UTC_
+_Last updated: November 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
