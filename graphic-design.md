@@ -8,7 +8,17 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ## Available Positions (Last 30 Days)
 
-### 1. Email Designer at Winona
+### 1. Art Manager, Creative Services at Yodo1
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Graphic Design
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/art-manager-creative-services-yodo1)
+
+---
+
+### 2. Email Designer at Winona
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +28,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-### 2. Senior Manager of Visual Design at Dandy
+### 3. Senior Manager of Visual Design at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -31,7 +41,7 @@ Latest **100% remote** job opportunities in **Graphic Design** from the past 30 
 
 ---
 
-**Total Jobs**: 2 positions available
+**Total Jobs**: 3 positions available
 
 ---
 
@@ -59,6 +69,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 27, 2026 at 00:00 UTC_
+_Last updated: November 28, 2026 at 00:00 UTC_
 
 **Made with ❤️ by the True Work From Home team**
