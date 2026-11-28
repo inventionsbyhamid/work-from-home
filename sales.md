@@ -8,7 +8,27 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ## Available Positions (Last 30 Days)
 
-### 1. Global Crypto-as-a-Service Partnership - Senior Specialist at Binance
+### 1. Sales Expression of Interest at GitLab
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/sales-expression-of-interest-gitlab)
+
+---
+
+### 2. Revenue Operations Manager at Canonical
+
+🌍 **Location**: Worldwide
+
+📍 **Category**: Sales
+
+🔗 **Apply**: [View Job Details & Apply](https://trueworkfromhome.com/revenue-operations-manager-canonical)
+
+---
+
+### 3. Global Crypto-as-a-Service Partnership - Senior Specialist at Binance
 
 🌍 **Location**: Worldwide
 
@@ -18,7 +38,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 2. Sales Engineer at Dandy
+### 4. Sales Engineer at Dandy
 
 💰 **Salary**: $84,000-$105,000 USD
 
@@ -30,7 +50,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 3. Business Development, VIP Acquisition Lead at Phantom
+### 5. Business Development, VIP Acquisition Lead at Phantom
 
 🌍 **Location**: Worldwide
 
@@ -40,7 +60,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 4. Senior Sales Engineer - Benelux at Camunda
+### 6. Senior Sales Engineer - Benelux at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -50,7 +70,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 5. VIP & Institutional Sales Australia at Binance
+### 7. VIP & Institutional Sales Australia at Binance
 
 🌍 **Location**: Worldwide
 
@@ -60,7 +80,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 6. Enterprise Sales Development Representative at LiveKit
+### 8. Enterprise Sales Development Representative at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -70,7 +90,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 7. Go To Market Strategic Planning Lead at Supabase
+### 9. Go To Market Strategic Planning Lead at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -80,7 +100,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 8. Technical Enablement Engineer at LiveKit
+### 10. Technical Enablement Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -90,7 +110,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 9. Staff GTM Systems Engineer at LiveKit
+### 11. Staff GTM Systems Engineer at LiveKit
 
 🌍 **Location**: Worldwide
 
@@ -100,7 +120,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 10. Financial Coach at Empower
+### 12. Financial Coach at Empower
 
 💰 **Salary**: $58,500-$72,000 USD
 
@@ -112,7 +132,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 11. Retention Specialist (English and Punjabi) at Bobtail
+### 13. Retention Specialist (English and Punjabi) at Bobtail
 
 🌍 **Location**: Worldwide
 
@@ -122,7 +142,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 12. Technical Account Manager- DACH at Camunda
+### 14. Technical Account Manager- DACH at Camunda
 
 🌍 **Location**: Worldwide
 
@@ -132,7 +152,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 13. Business Development Manager at Dandy
+### 15. Business Development Manager at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -142,7 +162,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 14. Sales Analyst Remote at Alpaca
+### 16. Sales Analyst Remote at Alpaca
 
 🌍 **Location**: Worldwide
 
@@ -152,7 +172,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 15. Sales Engineer at Coalesce at Coalesce
+### 17. Sales Engineer at Coalesce at Coalesce
 
 🌍 **Location**: Worldwide
 
@@ -162,7 +182,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 16. Partner Solutions Architect, AI Builder Platforms at Supabase
+### 18. Partner Solutions Architect, AI Builder Platforms at Supabase
 
 🌍 **Location**: Worldwide
 
@@ -172,7 +192,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 17. Senior Manager, Customer Expansion at Dandy
+### 19. Senior Manager, Customer Expansion at Dandy
 
 🌍 **Location**: Worldwide
 
@@ -182,7 +202,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 18. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
+### 20. Strategic Account Executive - MENA Remote, KSA; Remote, UAE at GitLab
 
 🌍 **Location**: Worldwide
 
@@ -192,7 +212,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 19. Strategic Account Executive, Financial Services at GitLab
+### 21. Strategic Account Executive, Financial Services at GitLab
 
 💰 **Salary**: $114,800-$186,600 USD
 
@@ -204,7 +224,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 20. Enterprise Account Executive at Halcyon
+### 22. Enterprise Account Executive at Halcyon
 
 💰 **Salary**: $120,000-$160,000 USD
 
@@ -216,7 +236,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-### 21. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
+### 23. Lead Associate - Financial Wellness Planning & Advisory Services at Empower
 
 💰 **Salary**: $65,600-$92,675 USD
 
@@ -231,7 +251,7 @@ Latest **100% remote** job opportunities in **Sales** from the past 30 days. All
 
 ---
 
-**Total Jobs**: 21 positions available
+**Total Jobs**: 23 positions available
 
 ---
 
@@ -259,6 +279,6 @@ True Work From Home is a curated platform for **100% remote job opportunities** 
 
 ---
 
-_Last updated: November 27, 2026 at 00:00 UTC_
+_Last updated: November 28, 2026 at 00:01 UTC_
 
 **Made with ❤️ by the True Work From Home team**
